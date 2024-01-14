@@ -1,0 +1,60 @@
+---
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="A loosely organised collection of Dominic Cummings's writings, podcasts and videos."
+    />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/weaselOg.ico" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
+<style is:global>
+  html {
+    font-family: system-ui, sans-serif;
+    /* background: #13151a; */
+  }
+
+  @media (prefers-color-scheme: dark) {
+    html {
+      background-color: #111111;
+      color: #fff;
+    }
+
+    a {
+      color: lightskyblue;
+    }
+    
+    a:hover {
+        color: lightseagreen;
+    }
+  }
+
+  body {
+    margin: auto;
+    padding: 1rem;
+    max-width: 600px;
+  }
+
+  code {
+    font-family:
+      Menlo,
+      Monaco,
+      Lucida Console,
+      Liberation Mono,
+      DejaVu Sans Mono,
+      Bitstream Vera Sans Mono,
+      Courier New,
+      monospace;
+  }
+</style>

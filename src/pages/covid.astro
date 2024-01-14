@@ -1,0 +1,48 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Dominic Cummings Finder ~ Covid">
+  <main>
+    <h2>Covid</h2>
+    <div>
+      <a style="font-size: 0.9rem;" href="/">&lt;-- Back to main page</a>
+    </div>
+    <p>
+      <em>Dom's writings and evidence on Covid</em>
+    </p>
+    <p>
+      <a
+        href="https://covid19.public-inquiry.uk/wp-content/uploads/2023/10/31180752/INQ000273872.pdf"
+        >Statement of evidence to covid inquiry</a
+      > ~ (October 2023)
+    </p>
+    <p>
+      <a href="https://www.youtube.com/watch?v=DLX37aNgUzk"
+        >Official Covid Inquiry testimony</a
+      > ~ skip to 1:59:00 (October 2023)
+    </p>
+    <p>
+      <a href="https://dominiccummings.substack.com/p/covid-inquiry-snippets"
+        >Inquiry snippets</a
+      > ~ Substack (November 2023)
+    </p>
+  </main>
+</Layout>
+<style>
+  .home-links {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .home-links > a {
+    padding: 4px 2px;
+  }
+
+  @media screen and (min-width: 640px) {
+    .top-links {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+</style>

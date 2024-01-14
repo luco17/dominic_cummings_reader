@@ -1,0 +1,39 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Dominic Cummings Finder ~ Home">
+  <main class="container">
+    <h2>Dom Reader</h2>
+    <h4>
+      A loosely organised collection of Dominic Cummings's writings and videos
+    </h4>
+    <nav class="home-links">
+      <a href="https://twitter.com/Dominic2306">Dom's Twitter</a>
+      <a href="https://dominiccummings.com/">Original wordpress blog</a>
+      <a href="https://dominiccummings.substack.com/">Current Substack blog</a>
+      <a href="">Long essays</a>
+      <a href="">Brexit series</a>
+      <a href="/covid">Covid series</a>
+      <a href="/podcasts">Podcast appearances</a>
+      <a href="/videos">Videos</a>
+    </nav>
+  </main>
+</Layout>
+<style>
+  .home-links {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .home-links > a {
+    padding: 4px 2px;
+  }
+
+  @media screen and (min-width: 640px) {
+    .top-links {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+</style>
