@@ -1,79 +1,68 @@
 ---
 import Layout from "../layouts/Layout.astro";
+
+const vids = [
+  {
+    link: "https://www.youtube.com/watch?v=GNaWPV5l4j4",
+    title: "The Hollow Men",
+    context: "IPPR",
+    date: "January 2014",
+  },
+  {
+    link: "https://parliamentlive.tv/Event/Index/fe18cb0b-fae5-4778-b00f-b05fde360ed6",
+    title: "Treasury committee session on Brexit",
+    context: "during EU referendum",
+    date: "April 2016",
+  },
+  {
+    link: "https://www.youtube.com/watch?v=CDbRxH9Kiy4&pp=ygUQZG9taW5pYyBjdW1taW5ncw%3D%3D",
+    title: "Why Vote Leave won the referendum",
+    context: "Nudgestock",
+    date: "June 2017",
+  },
+  {
+    link: "https://parliamentlive.tv/Event/Index/d919fbc9-72ca-42de-9b44-c0bf53a7360b",
+    title: "Covid testimony",
+    context: "Joint session of science + health select commitees",
+    date: "May 2021",
+  },
+  {
+    link: "https://www.youtube.com/watch?v=Oos_mGp7qr8",
+    title: "Bismarck and Political Power",
+    context: "Orwell Foundation",
+    date: "June 2022",
+  },
+  {
+    link: "https://www.youtube.com/watch?v=ddHN2qmvCG0",
+    title: "Kuennsberg Interview",
+    context: "BBC",
+    date: "June 2022",
+  },
+  {
+    link: "https://www.youtube.com/watch?v=DLX37aNgUzk",
+    title: "Official Covid Inquiry testimony",
+    context: "Skip to 1:59:00",
+    date: "October 2023",
+  },
+];
 ---
 
 <Layout title="Dominic Cummings Finder ~ Videos">
-  <main>
+  <div class="content">
     <h2>Videos</h2>
-    <div>
-      <a style="font-size: 0.9rem;" href="/">&lt;-- Back to main page</a>
-    </div>
-    <p>
-      <em>As far as possible these are full clips. Unedited</em>
-    </p>
-    <p>
-      <a href="https://www.youtube.com/watch?v=GNaWPV5l4j4&t=13s">
-        The Hollow Men</a
-      > ~ IPPR (January 2014)
-    </p>
-    <p>
-      <a
-        href="https://parliamentlive.tv/Event/Index/fe18cb0b-fae5-4778-b00f-b05fde360ed6"
-      >
-        Treasury committee session on Brexit</a
-      >
-      ~ during Leave campaign (20 April 2016)
-    </p>
-    <p>
-      <a
-        href="https://www.youtube.com/watch?v=CDbRxH9Kiy4&pp=ygUQZG9taW5pYyBjdW1taW5ncw%3D%3D"
-        >Why Vote Leave won the referendum</a
-      > ~ Nudgestock (2017)
-    </p>
-    <p>
-      <a
-        href="https://parliamentlive.tv/Event/Index/d919fbc9-72ca-42de-9b44-c0bf53a7360b"
-        >Covid testimony (select committees)</a
-      >
-      ~ joint inquiry (26 May 2021)
-    </p>
-    <p>
-      <a href="https://www.youtube.com/watch?v=ddHN2qmvCG0&t=690s"
-        >Kuenssberg Interview</a
-      > ~ BBC. This one is edited (July 2021)
-    </p>
-    <p>
-      <a href="https://www.youtube.com/watch?v=Oos_mGp7qr8"
-        >Bismarck & Political Power</a
-      > ~ Orwell foundation (June 2022)
-    </p>
-    <p>
-      <a href="https://www.youtube.com/watch?v=DLX37aNgUzk"
-        >Official Covid Inquiry testimony</a
-      > ~ skip to 1:59:00 (October 2023)
-    </p>
-    <p>
-      <a href="https://www.youtube.com/watch?v=3i7ym_Qh7BA&t=1s"
-        >Dwarkesh Podcast</a
-      > ~ (December 2023)
-    </p>
-    <p>
-      <a href="https://www.youtube.com/watch?v=4N59ZAyLKwE&t=1s"
-        >Moment of Zen</a
-      > ~ (December 2023)
-    </p>
-  </main>
+    {
+      vids.map((vid) => (
+        <p>
+          <a style="text-decoration: none;" href={vid.link}>
+            {vid.title}
+          </a>{" "}
+          ~ {vid.context} ({vid.date})
+        </p>
+      ))
+    }
+  </div>
 </Layout>
 <style>
-  .home-links {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .home-links > a {
-    padding: 4px 2px;
-  }
-
   @media screen and (min-width: 640px) {
     .top-links {
       flex-direction: row;

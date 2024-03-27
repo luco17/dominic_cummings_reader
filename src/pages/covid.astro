@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import pigs from "../data/pig.json";
 ---
 
 <Layout title="Dominic Cummings Finder ~ Covid">
@@ -11,22 +12,18 @@ import Layout from "../layouts/Layout.astro";
     <p>
       <em>Dom's writings and evidence on Covid</em>
     </p>
-    <p>
-      <a
-        href="https://covid19.public-inquiry.uk/wp-content/uploads/2023/10/31180752/INQ000273872.pdf"
-        >Statement of evidence to covid inquiry</a
-      > ~ (October 2023)
-    </p>
-    <p>
-      <a href="https://www.youtube.com/watch?v=DLX37aNgUzk"
-        >Official Covid Inquiry testimony</a
-      > ~ skip to 1:59:00 (October 2023)
-    </p>
-    <p>
-      <a href="https://dominiccummings.substack.com/p/covid-inquiry-snippets"
-        >Inquiry snippets</a
-      > ~ Substack (November 2023)
-    </p>
+    <ul>
+      {
+        pigs.map((pig) => (
+          <li>
+            <p>{pig.name}</p>
+            <p>
+              <a href="">{pig.email}</a>
+            </p>
+          </li>
+        ))
+      }
+    </ul>
   </main>
 </Layout>
 <style>

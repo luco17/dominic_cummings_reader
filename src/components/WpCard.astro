@@ -1,0 +1,101 @@
+---
+interface Props {
+  title: string;
+  url: string;
+  date: string;
+  links?: { url: string; response_code: number }[];
+  tags?: string[];
+}
+
+const { title, date, url, links, tags } = Astro.props;
+---
+
+<div class="wp-article">
+  <p class="date">{date}</p>
+  <h4><a href={url}>{title}</a></h4>
+  {tags.map((tag) => <span class="tag">{tag}</span>)}
+  {links.length > 0 ? <p class="link-head">Links from the article:</p> : ""}
+  {
+    links.map((link) => (
+      <div class="links">
+        <p class="link">
+          <a href={link.url}>{link.url} </a>
+        </p>
+        <span style="font-size:small"> - {link.response_code}</span>
+      </div>
+    ))
+  }
+</div>
+<style>
+  .wp-article {
+    /* background-color: aliceblue; */
+    margin-bottom: 2rem;
+  }
+
+  .wp-article > h4 {
+    margin: 2px 0 4px 0px;
+  }
+
+  .date {
+    margin: 0 0;
+  }
+
+  .wp-article > h4 {
+    /* white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; */
+  }
+
+  .wp-article > h4 > a {
+    text-decoration: none;
+  }
+
+  .link-head {
+    font-size: small;
+    margin-top: 8px;
+    margin-bottom: 4px;
+  }
+
+  .links {
+    display: flex;
+  }
+
+  .links > * {
+    margin: 0;
+  }
+
+  .link {
+    max-width: 90%;
+    font-size: small;
+    white-space: nowrap; /* Keep the text on a single line */
+    overflow: hidden; /* Hide overflow content */
+    text-overflow: ellipsis;
+  }
+
+  .tag {
+    padding: 2px 4px;
+    border-radius: 2px;
+    background-color: #fafafa;
+    font-size: x-small;
+    margin-right: 0.5rem;
+  }
+
+  .tag-head {
+    font-size: x-small;
+  }
+
+  .date {
+    color: gray;
+    font-size: small;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .wp-article {
+      /* background-color: #22223b; */
+    }
+
+    .tag {
+      background-color: #2f3e46;
+    }
+  }
+</style>

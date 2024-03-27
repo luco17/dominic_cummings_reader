@@ -1,0 +1,31 @@
+<nav>
+  <a href="/">About</a>
+  <a href="/wp-blog">OG blog articles</a>
+  <a href="/substack-blog">Substack articles</a>
+  <a href="">Long essays</a>
+  <a href="/podcasts">Podcasts</a>
+  <a href="/videos">Videos</a>
+  <a href="https://twitter.com/Dominic2306">Dom's Twitter</a>
+</nav>
+
+<style>
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 200px;
+  }
+
+  nav > a {
+    padding: 4px 8px;
+  }
+
+  /* Media queries */
+  @media screen and (min-width: 768px) {
+    nav {
+      flex-direction: column;
+      margin-right: 24px;
+      position: sticky;
+      top: 24px;
+    }
+  }
+</style>
