@@ -1,51 +1,46 @@
 ---
 import Layout from "../layouts/Layout.astro";
+
+const pods = [
+  {
+    link: "https://andrewsullivan.substack.com/p/dominic-cummings-on-boris-brexit#details",
+    title: "Dishcast: Andrew Sullivan",
+    date: "Nov 2011",
+  },
+  {
+    link: "https://www.youtube.com/watch?v=p54JT4kJHSk",
+    title: "Manifold Podcast: Steve HSU",
+    date: "Jan 2023",
+  },
+  {
+    link: "https://www.youtube.com/watch?v=3i7ym_Qh7BA",
+    title: "Dwarkesh Podcast: Dwarkesh Patel",
+    date: "Dec 2023",
+  },
+  {
+    link: "https://www.youtube.com/watch?v=4N59ZAyLKwE",
+    title: "Moment of Zen: Erik Torenberg + Antonio Martinez",
+    date: "Dec 2023",
+  },
+];
 ---
 
 <Layout title="Dominic Cummings Finder ~ Podcasts">
-  <main>
+  <div class="content">
     <h2>Podcast appearances</h2>
-    <div>
-      <a style="font-size: 0.9rem;" href="/">&lt;-- Back to main page</a>
-    </div>
     <p>
       <em> These only include podcasts where Dom is a guest.</em>
     </p>
-    <p>
-      Dishcast: Andrew Sullivan (Nov 2021)
-      <a
-        href="https://andrewsullivan.substack.com/p/dominic-cummings-on-boris-brexit#details"
-        >Link</a
-      >
-    </p>
-    <p>
-      Manifold Podcast: Steve HSU (Jan 2023)
-      <a href="https://www.youtube.com/watch?v=p54JT4kJHSk">Link</a>
-    </p>
-    <p>
-      Dwarkesh Podcast: Dwarkesh Patel (December 2023)
-      <a href="https://www.youtube.com/watch?v=3i7ym_Qh7BA">Link</a>
-    </p>
-    <p>
-      Moment of Zen: Erik Torenberg + Antonio Martinez (December 2023)
-      <a href="https://www.youtube.com/watch?v=4N59ZAyLKwE">Link</a>
-    </p>
-  </main>
-</Layout>
-<style>
-  .home-links {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .home-links > a {
-    padding: 4px 2px;
-  }
-
-  @media screen and (min-width: 640px) {
-    .top-links {
-      flex-direction: row;
-      justify-content: space-between;
+    {
+      pods.map((pod) => (
+        <p>
+          <a href={pod.link} style="text-decoration: none;">
+            {pod.title}
+          </a>{" "}
+          ~ ({pod.date})
+        </p>
+      ))
     }
-  }
-</style>
+  </div>
+</Layout>
+<style></style>

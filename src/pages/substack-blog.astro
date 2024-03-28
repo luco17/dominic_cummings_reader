@@ -1,0 +1,79 @@
+---
+import Layout from "../layouts/Layout.astro";
+import subs from "../data/substack_articles.json";
+---
+
+<Layout title="Dominic Cummings Finder ~ Substack Blog">
+  <div class="content">
+    <h2>Substack blog</h2>
+    <h4>
+      A list of the Substack articles. Active from June 2021 to the present.
+      Link <a href="https://dominiccummings.substack.com/">here</a>
+    </h4>
+    {
+      subs.map((sub) => (
+        <div class="sub-article">
+          <p class="date">{sub.date.substring(0, 10)}</p>
+          <h4>
+            <a href={sub.canonical_url}>{sub.title}</a>
+          </h4>
+          <span class="paid-status">
+            {sub.audience == "only_paid" ? "Paid" : "Free"}
+          </span>
+          <p class="description">{sub.description}</p>
+        </div>
+      ))
+    }
+  </div>
+</Layout>
+<style>
+  .content {
+    overflow: hidden;
+  }
+
+  .sub-article {
+    margin-bottom: 2rem;
+  }
+
+  .sub-article > h4 {
+    margin: 2px 0 4px 0;
+  }
+
+  .sub-article > h4 > a {
+    text-decoration: none;
+  }
+
+  .date {
+    margin: 0 0;
+    color: gray;
+    font-size: small;
+  }
+
+  .description {
+    font-size: small;
+    color: gray;
+    font-weight: 500;
+  }
+
+  .paid-status {
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-size: small;
+    background-color: beige;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .description {
+      color: gainsboro;
+    }
+
+    .date {
+      color: gainsboro;
+    }
+
+    .paid-status {
+      background-color: #2f3e46;
+    }
+
+
+</style>

@@ -28,7 +28,6 @@ const { title, date, url, links, tags } = Astro.props;
 </div>
 <style>
   .wp-article {
-    /* background-color: aliceblue; */
     margin-bottom: 2rem;
   }
 
@@ -38,12 +37,8 @@ const { title, date, url, links, tags } = Astro.props;
 
   .date {
     margin: 0 0;
-  }
-
-  .wp-article > h4 {
-    /* white-space: nowrap; 
-    overflow: hidden; 
-    text-overflow: ellipsis; */
+    color: gray;
+    font-size: small;
   }
 
   .wp-article > h4 > a {
@@ -80,20 +75,7 @@ const { title, date, url, links, tags } = Astro.props;
     margin-right: 0.5rem;
   }
 
-  .tag-head {
-    font-size: x-small;
-  }
-
-  .date {
-    color: gray;
-    font-size: small;
-  }
-
   @media (prefers-color-scheme: dark) {
-    .wp-article {
-      /* background-color: #22223b; */
-    }
-
     .tag {
       background-color: #2f3e46;
     }

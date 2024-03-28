@@ -4,13 +4,20 @@ import articles from "../data/wp_articles2.json";
 import WpCard from "../components/WpCard.astro";
 ---
 
-<Layout title="Dominic Cummings Reader ~ Original Blog">
+<Layout title="Dominic Cummings Finder ~ Original  WordPress Blog">
   <div class="content">
     <h2>Original blog</h2>
     <h4>
-      A summary of articles from the original WP blog. Active from April 2014 to
-      June 2021. Link <a href="dominiccummings.com">here</a>
+      A list of articles from the original WordPress blog. Active from April
+      2014 to June 2021. Link <a href="dominiccummings.com">here</a>
     </h4>
+    <p>
+      Links Dom has put in the articles have been extracted and are displayed
+      beneath each article with their http response code. '200' codes will
+      resolve, '404' codes definitely won't. Other codes (300s, 500s) are a
+      mixed bag.
+    </p>
+    <hr />
     <div>
       {
         articles.map((article) => (
@@ -29,6 +36,5 @@ import WpCard from "../components/WpCard.astro";
 <style>
   .content {
     overflow: hidden;
-    /* max-width: 800px; */
   }
 </style>
