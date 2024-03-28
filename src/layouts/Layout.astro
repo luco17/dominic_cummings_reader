@@ -1,6 +1,7 @@
 ---
 import Nav from "../components/Nav.astro";
 const { title } = Astro.props;
+import domPx from "../assets/domPx.jpeg?url";
 ---
 
 <!doctype html>
@@ -11,9 +12,12 @@ const { title } = Astro.props;
       name="description"
       content="A loosely organised collection of Dominic Cummings's writings, podcasts and videos."
     />
-    <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/" />
+    <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
+    <meta content="website" property="og:type" />
+    <meta content={title} property="og:title" />
+    <meta property="og:image" content={domPx} />
     <title>{title}</title>
   </head>
   <body>
