@@ -1,5 +1,5 @@
-# Dominic Cummings Aggregator
+# Dominic Cummings Reader
 
-A loosely organised collection of Dominic Cummings's interviews, writings and videos
+A loosely organised collection of Dominic Cummings's interviews, writings and videos.
 
-Built using [Astro](https://astro.build/) and plain old css. Hosted on Netlify
+Built using [Astro](https://astro.build/) and plain old css. Hosted on Netlify.
