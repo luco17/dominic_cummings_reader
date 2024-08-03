@@ -555,9 +555,9 @@ _Source: Matis and Bochinger 1973: 117._
 
 ### Some notes from Pflanze, Volume 1 Chapter 1
 
-Prussian bureaucracy, idealism
+#### _Prussian bureaucracy, idealism_
 
-‘The great cultural synthesis of the Enlightenment was in dissolution. Under the influence of economic change and laissez-faire doctrine, corporatism lost ground to capitalistic individualism, status society to class society, rationalism to romanticism, subjective to objective idealism. New centres of political orientation appeared in liberalism, conservatism, nationalism and socialism.’ OP
+> ‘The great cultural synthesis of the Enlightenment was in dissolution. Under the influence of economic change and laissez-faire doctrine, corporatism lost ground to capitalistic individualism, status society to class society, rationalism to romanticism, subjective to objective idealism. New centres of political orientation appeared in liberalism, conservatism, nationalism and socialism.’ OP
 
 Before 1815 Prussia was poor in land, resources and population. Its frontiers were not easily defended. During the half-century that saw the triumph of absolutism in France (Louis XIV 1661-1715) and its defeat in England, Elector Frederick Wilhelm I (1640-88) suppressed the feudal estates. ‘Whatever possibility there might have been for their development into modern representative institutions vanished… During the century after 1640 the power and influence of the bureaucracy penetrated every aspect of Prussian society.’
 
@@ -567,35 +567,25 @@ The army’s officers were largely drawn from the Prussian aristocracy, footsold
 
 The Lutheran Church supported the monarchy and bureaucracy. Luther regarded the prince as ordained by God to defend the Christian few and maintain order. He denied the right of popular resistance and ‘made the church a vital prop of princely authority’. Before the 19th century the influence of commerce and business was low.
 
-## Frederick the Great (1740-86) spoke of himself as ‘the first servant of the state’. He refused to intervene in private law and strengthened the independence of the judiciary. He strengthened the
-
-#
-
-# History Document
-
-Principle that Prussian government was absolute but not arbitrary. Officials were subject to the laws and natural justice. ‘This was the beginning of the German concept of the Rechtsstaat, the state governed by the rule of law.’
+Frederick the Great (1740-86) spoke of himself as ‘the first servant of the state’. He refused to intervene in private law and strengthened the independence of the judiciary. He strengthened the principle that Prussian government was absolute but not arbitrary. Officials were subject to the laws and natural justice. ‘This was the beginning of the German concept of the _Rechtsstaat_, the state governed by the rule of law.’
 
 The Junkers were allowed great local power, could enserf the presents on their estates, were largely exempt from taxation, and commoners were forbidden to purchase Juncker Estates. They controlled the army and bureaucracy. Frederick the Great wrote in his Political Testament (1752) how the Junkers had sacrificed its ‘lives and goods for the service of the state’ and the monarchy must repay them with protection. (The von Kleist family lost 30 in one of his wars.) While some of them were rich, generally they were not nearly as grand and rich as the British or Austrian aristocracy and many Junkers would actually deal with their farms themselves, going with their animals to market (AJPT).
 
 Frederick the Great’s surprise attack on Austria to conquer Silesia in 1740 forced him to fight three wars to retain his gains, the last of which was nearly a disaster. While he concluded that a cautious foreign policy was best, the striking success captured popular imagination and ‘gave to his one great Machiavellian deed an enduring aura of respectability’ (OP).
 
-German idealism developed during an era of exceptional intellectual and cultural creativity 1770-1830 — the era of Kant, Hegel, Goethe, Schiller, Mozart, Beethoven. German idealists, dissatisfied with rationalism, ‘sought a deeper understanding of man, society and history. Characteristic of the movement was an intense humanism, a vital absorption in problems of individual growth and self development.’ They were mostly non-political valuing freedom of the human spirit, not political freedom. The Romantic movement, epitomised by Goethe’s extremely influential The Sorrows of Young Werther, also emphasised emotions and the medieval against rationalism and the classical world. (In Britain, Wordsworth, Coleridge, Keats, Shelley, Byron.)
+German idealism developed during an era of exceptional intellectual and cultural creativity 1770-1830 — the era of Kant, Hegel, Goethe, Schiller, Mozart, Beethoven. German idealists, dissatisfied with rationalism, ‘sought a deeper understanding of man, society and history. Characteristic of the movement was an intense humanism, a vital absorption in problems of individual growth and self development.’ They were mostly non-political valuing freedom of the human spirit, not political freedom. The Romantic movement, epitomised by Goethe’s extremely influential _The Sorrows of Young Werther_, also emphasised emotions and the medieval against rationalism and the classical world. (In Britain, Wordsworth, Coleridge, Keats, Shelley, Byron.)
 
 The word Libertat in German was originally used in the sense of the corporate rights of princes against the Emperor, not in the sense of the natural rights of man. The princes struggled for autonomy within the Holy Roman Empire and absolutism internally. The German idea of freedom ‘became associated with political authority, an association that long endured’ (OP). Kant is seen as the father of German liberalism, with his insistence on the progress of reason, the rule of law, man as an end (not a means), and the ideal of popular sovereignty. But he also reinforced respect for the state, the ethics of duty and acceptance of the absolute state as a practical, though temporary, necessity. Kant’s transcendental idealism was challenged by Hegel’s absolute idealism which ‘ultimately had the greater impact on German thought’ (OP).
 
-Herder prepared the ground for Hegel. Herder rejected Enlightenment rationalism. He stressed the organic individuality of national cultures. Each nation has a unique Volksgeist (folk spirit). The state is an organism endowed with individuality and moral worth. Hegel said the state is ‘the vessel of the Weltgeist' (world spirit), ‘the divine idea as it exists on earth’, and ‘the actually existing, realised moral life’. For Hegel, history proceeded according to God’s ‘idea’ so there could be no distinction between the state as it was and as it ought to be. He accepted no conflict between the pursuit of power and the demands of universal law and morality. War was a logical necessity, not an evil. For German idealists, ‘the state replaced the church as the repository of moral values’ (OP).
+Herder prepared the ground for Hegel. Herder rejected Enlightenment rationalism. He stressed the organic individuality of national cultures. Each nation has a unique _Volksgeist (folk spirit)_. The state is an organism endowed with individuality and moral worth. Hegel said the state is ‘the vessel of the _Weltgeist_' (world spirit), ‘the divine idea as it exists on earth’, and ‘the actually existing, realised moral life’. For Hegel, history proceeded according to God’s ‘idea’ so there could be no distinction between the state as it was and as it ought to be. He accepted no conflict between the pursuit of power and the demands of universal law and morality. War was a logical necessity, not an evil. For German idealists, ‘the state replaced the church as the repository of moral values’ (OP).
 
-## Whereas in the rest of Western Europe morality continued to rest on Christianity and natural law, for German idealism it was identified with the state and the ruling power. What the Hohenzollern rulers had created in their own interests ‘was apotheosised by German philosophers’ (OP) who influenced 19th Century students.
+_Whereas in the rest of Western Europe morality continued to rest on Christianity and natural law, for German idealism it was identified with the state and the ruling power. What the Hohenzollern rulers had created in their own interests ‘was apotheosised by German philosophers’ (OP) who influenced 19th Century students._
 
-#
+Napoleon’s invasion, the post-1806 reforms, and the Congress of Vienna swept away the Holy Roman Empire and hundreds of states became 39 formed into a new German Confederation. Metternich updated Richelieu’s systematic attempt to keep ‘Germany’ politically disintegrated and therefore weak.
 
-# History Document
+As the forces summarised above changed society, Germans sought new ideas to reverse (romantic conservatism), contain (realistic conservatism and moderate liberalism), or promote (radical liberalism and socialism) social change.
 
-# Napoleon’s invasion, the post-1806 reforms, and the Congress of Vienna
-
-Swept away the Holy Roman Empire and hundreds of states became formed into a new German Confederation. Metternich updated Richelieu’s systematic attempt to keep ‘Germany’ politically disintegrated and therefore weak.
-
-# Liberalism
+#### _Liberalism_
 
 Prussia’s defeat by Napoleon sparked internal changes that echoed long after his exile. Stein and Hardenberg introduced some reforms in 1807 in order to inculcate what they saw as a necessary feeling of national citizenship. They tried to convert subjects into citizens by more social and economic freedom. Serfdom was abolished, local government was opened up, the legal prohibition on the sale of noble estates was lifted (1807) and there was an increasingly market system for agriculture. They were not seeking a transformation of society or government. Government remained absolute in theory and practice. The power of the gentry in rural government continued.
 
