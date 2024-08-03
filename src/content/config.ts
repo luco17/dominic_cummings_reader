@@ -5,6 +5,7 @@ const longformCollection = defineCollection({
   schema: z.object({
     title: z.string(),
     pubDate: z.date(),
+    originalURL: z.string(),
   }),
 });
 

@@ -1,6 +1,7 @@
 ---
 title: "Bismarck: A chronology and case study of the 'unrecognised simplicities of high performance'"
 pubDate: 2023-12-14
+originalURL: "https://dominiccummings.substack.com/p/1-on-bismarck-the-ultimate-practical"
 ---
 
 # BISMARCK: A CHRONOLOGY AND CASE STUDY OF THE ‘UNRECOGNISED SIMPLICITIES OF HIGH PERFORMANCE (Version 1, 2023)
