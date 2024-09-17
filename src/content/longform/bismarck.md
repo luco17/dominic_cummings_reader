@@ -595,15 +595,11 @@ Liberals saw the bureaucratic state evolving. In the southwest, proximity to Fra
 
 The French Revolution created a German radical liberal movement but it was small and impotent. There was a flurry of revolutionary activity in some German states around the French revolution of 1830. Some key figures were, like Marx, in exile.
 
-# Conservatism
+#### _Conservatism_
 
 Romantic conservatives regarded traditional social relations as imbued with moral and religious value that must be defended. As Burke had described it, civilisation rested on ‘the great primeval contract of eternal society’, an indissoluble social contract across generations that came from God, not rationalism. They romanticised the feudal system. Rationalists, starting with Machiavelli, had divorced religion and political theory. Ultraconservatives wanted to bring them back together. The state came from God to improve morality.
 
-## But they had a problem — how to reconcile ‘the feudal system they admired with the absolute state that was its natural foe’. They idealised the monarchy as the apex of the social pyramid but did not idealise the absolutist bureaucracy that the monarchy had nurtured and which had diminished aristocratic power.
-
-#
-
-# History Document
+But they had a problem — how to reconcile ‘the feudal system they admired with the absolute state that was its natural foe’. They idealised the monarchy as the apex of the social pyramid but did not idealise the absolutist bureaucracy that the monarchy had nurtured and which had diminished aristocratic power.
 
 Von Haller developed a theory: the natural condition of man is inequality and dependence with only the prince independent, subject only to God, and the state is the highest in the pyramid of contractual relationships and lies outside public law. His ideas were taken up by the Gerlach brothers who were influential with Friedrich Wilhelm IV after 1840. Leopold Gerlach became his personal adjutant and Ludwig the president of the superior court of appeals, though their influence was ironically limited given that FWIV’s belief in divine right extended to the idea that he possessed insights inaccessible to other mortals, including aristocratic intimates. For them, the nobility followed God’s will, not natural law, and they found in Haller a defence of aristocracy against absolutism and bureaucratic liberalism. It was in accord with the Gerlachs’ romantic ideas that FWIV called the United Diet in 1847.
 
