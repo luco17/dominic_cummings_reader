@@ -677,240 +677,141 @@ He spent little time in lectures and studying though he read widely. According t
 
 Gall (p9) says that the only university course and lectures that really got Bismarck’s interest was that of Professor Heeren, a non-idealist professor of trade and international relations, influenced by Adam Smith and Montesquieu, who focused on the specific details of trade and their connection to politics and foreign policy. Goethe said his Thoughts on Politics, Communications, and Trade among the Principal Peoples of the Ancient World was one of the most important books of the age. His lectures stressed the economic and commercial foundations of foreign policy.
 
-He crammed for his law exams and left university in 1835. His parents wanted him to pursue a military career. He did not. Aged twenty in June1835, he wrote that, ‘My life, looked at closely, is really rather pitiful. By day I pursue studies that do not interest me. My evenings I spend in the company of courtiers and civil servants, affecting a delight I am not Schulenburg enough to feel or to seek. I find it hard to believe that the most complete achievement of my chosen goal, the longest title and the largest medal in Germany, or the most stupendous distinction will indemnify me for the physically and spiritually shrunken beat that will be the product of this life. I am still frequently visited by the desire to swap the pen for the plough and the briefcase for the game bag. But that is something I can always still do.’
+He crammed for his law exams and left university in 1835. His parents wanted him to pursue a military career. He did not. Aged twenty in June 1835, he wrote that, ‘My life, looked at closely, is really rather pitiful. By day I pursue studies that do not interest me. My evenings I spend in the company of courtiers and civil servants, affecting a delight I am not Schulenburg enough to feel or to seek. I find it hard to believe that the most complete achievement of my chosen goal, the longest title and the largest medal in Germany, or the most stupendous distinction will indemnify me for the physically and spiritually shrunken beat that will be the product of this life. I am still frequently visited by the desire to swap the pen for the plough and the briefcase for the game bag. But that is something I can always still do.’
 
 In his three decades of command, he avoided the country estates of his own class and the city life of the intellectual classes he mostly despised. He worked with extreme intensity interspersed with long periods of solitary reflection deep in the countryside with his family and few guests. Great shifts in policy came after solitary brooding, often in the countryside. Almost the only people he seems to have genuinely cared for were his own family yet he ruined his elder son’s happiness by forbidding his marriage into a family of political enemies.
 
-## He was a monarchist but not an absolutist. While he often spoke in feudal terms about his attitude to Wilhelm, he also spoke in the most cynical terms about the ‘unhistorical, Godless unjust sovereignty swindle’ of German princes claiming ‘legitimacy’. He saw himself as a man of the king and state who stood above parties seeking without fear or favour the best interests of Prussia.
-
-#
-
-# History Excerpt
+He was a monarchist but not an absolutist. While he often spoke in feudal terms about his attitude to Wilhelm, he also spoke in the most cynical terms about the ‘unhistorical, Godless unjust sovereignty swindle’ of German princes claiming ‘legitimacy’. He saw himself as a man of the king and state who stood above parties seeking without fear or favour the best interests of Prussia.
 
 1874 he told the Prussian Parliament, ‘I am a disciplined statesman who subordinates himself to the total needs and requirements of the state in the interest of peace and the welfare of my country.’
 
 He also hated the bureaucracy. He thought some sort of parliament should counterbalance the monarchy and the bureaucracy. Initially he thought it should be chosen by estates — a representative body based on occupational and interest groups, with landowners dominant — and able only to talk, not pass laws. Though he sometimes praised the British Parliamentary system, the thing he probably liked most about it was its organic, rather than rationalist, nature. He always opposed what was the heart of the British system – ultimate Parliamentary control of finance and taxes.
 
-## I will write some blogs on his general character and ‘lessons’ that can be abstracted from the intricate story below. See the Introduction on my blog for a few thoughts on this.
+I will write some blogs on his general character and ‘lessons’ that can be abstracted from the intricate story below. See the Introduction on my blog for a few thoughts on this.
 
-#
+## CHRONOLOGY
 
-# Chronology
+**1806:** Dissolution of the Holy Roman Empire.
 
-# CHRONOLOGY
+**1807:** Abolition of legal prohibition against the sale of noble estates. 1817-30 (OP) Agrarian depression forced many gentry to sell estates. ‘[I]n 1806 75.6% of noble estates in the rural hinterland of Königsberg were still in noble hands. By 1829 this figure had fallen to 48.3%’ (Iron Kingdom, p408). By 1856, only 60% of the 12,339 noble estates were still in the hands of aristocratic families including recently ennobled: average size 1,200 acres.
 
-1806 Dissolution of the Holy Roman Empire.
+**1808:** Goethe’s Faust Part I (Part II in 1832).
 
-1807 Abolition of legal prohibition against the sale of noble estates. 1817-30 (OP) Agrarian depression forced many gentry to sell estates. ‘[I]n 1806 75.6% of noble estates in the rural hinterland of Königsberg were still in noble hands. By 1829 this figure had fallen to 48.3%’ (Iron Kingdom, p408). By 1856, only 60% of the 12,339 noble estates were still in the hands of aristocratic families including recently ennobled: average size 1,200 acres.
+**1810:** University of Berlin founded under the inspiration of von Humboldt. He believed universities should focus on research and teach subjects for their intrinsic value, not preparing students for careers.
 
-1808 Goethe’s Faust Part I (Part II in 1832).
+**1811-16:** Hardenberg’s land settlements.
 
-1810 University of Berlin founded under the inspiration of von Humboldt. He believed universities should focus on research and teach subjects for their intrinsic value, not preparing students for careers.
+**1814-15**: Congress of Vienna.
 
-1811-16 Hardenberg’s land settlements.
+**March 1815:** Napoleon escaped Elba, returned to Paris.
 
-1814-15 Congress of Vienna.
+**April 1815:** The Tambora volcano (Indonesia) erupted: massive, changed climate: harvests worst for a century (Evans) hit Europe which was recovering from huge destruction of the wars, putting pressure on food prices, which in turn increased food riots over the next few years.
 
-March 1815 Napoleon escaped Elba, returned to Paris.
+**1 April 1815:** Otto von Bismarck was born on his father’s estate at Shönhausen, a few miles east of the Elbe, as Europe’s statesmen grappled with Napoleon’s Hundred Days. His father’s estate had been occupied by Napoleon’s troops.
 
-April The Tambora volcano (Indonesia) erupted: massive, changed climate: harvests worst for a century (Evans) hit Europe which was recovering from huge destruction of the wars, putting pressure on food prices, which in turn increased food riots over the next few years.
-
-1 April 1815 Otto von Bismarck was born on his father’s estate at Shönhausen, a few miles east of the Elbe, as Europe’s statesmen grappled with Napoleon’s Hundred Days. His father’s estate had been occupied by Napoleon’s troops.
-
-18 June 1815 Battle of Waterloo then the Congress of Vienna was finalised.
+**18 June 1815:** Battle of Waterloo then the Congress of Vienna was finalised.
 
 - A legend of Napoleon influenced France thereafter: the military coup (18 Brumaire), the Napoleonic code, patriotism, universal suffrage and referendums, new bureaucracies strengthening the central state, meritocracy, and military glory.
+
 - Dealing with Napoleon generated reform projects across Europe, e.g Prussian army and bureaucracy reform, Speransky in Russia.
+
 - Britain dominated the sea and pushed free trade, grabbed crucial points like Malta, Ceylon, Cape of Good Hope.
+
 - The hereditary principle was challenged by America then France then across the globe: monarchy, aristocracy, slavery and serfdom all under pressure.
+
 - Slave trade formally outlawed but in general it excluded consideration of extra-European affairs.
+
 - The Holy Alliance, signed in Paris 26/9/15, between Russia, Austria, Prussia: agreed to mutual assistance against threats to peace and order. It was described by Castlereagh as ‘a piece of sublime mysticism and nonsense’ but Britain still cooperated with other Powers in suppressing revolutionary activity. Metternich referred to it as a ‘loud-sounding nothing’, a ‘moral demonstration’, the ‘overflow of the pietistic feeling of Emperor Alexander’. (Alexander had been persuaded by the prophetess Juliane von Krüdener that he was the instrument of the downfall of the Anticchrist, Napoleon. He once had dinner with Metternich with an extra place laid for Christ. She influenced the idea of the Holy Alliance.)
+
 - A major redrawing of frontiers — ‘I spent the day carving up Europe like a piece of cheese’ wrote Metternich to his mistress.
-- The German Confederation (Bund) replaced the Holy Roman Empire (with similar borders) which Metternich did not seek to restore. 39 states instead of the thousand of the 18th Century (34 by 1866). Only part of the Habsburg monarchy belonged to the Confederation. The Federal Act of June 1815 declared the territory it covered to be ‘Germany’. It referred to the old Holy Roman Empire by defining parts of Austria and Prussia that belonged to the Confederation as ‘their possessions formerly belonging to the German empire’. Three foreign heads of state were members with full rights: the king of England (because he was also king of Hanover); the king of Denmark (Holstein and Lauenburg); the king of the Netherlands (Luxembourg). It had no head of state but was a legal subject under international law. Many
 
----
+- The German Confederation (Bund) replaced the Holy Roman Empire (with similar borders) which Metternich did not seek to restore. 39 states instead of the thousand of the 18th Century (34 by 1866). Only part of the Habsburg monarchy belonged to the Confederation. The Federal Act of June 1815 declared the territory it covered to be ‘Germany’. It referred to the old Holy Roman Empire by defining parts of Austria and Prussia that belonged to the Confederation as ‘their possessions formerly belonging to the German empire’. Three foreign heads of state were members with full rights: the king of England (because he was also king of Hanover); the king of Denmark (Holstein and Lauenburg); the king of the Netherlands (Luxembourg). It had no head of state but was a legal subject under international law. Many non-Germans lived there (Poles, Czechs, Slovenians etc). Siemann: Metternich and the other leaders refused to accept the unity of nation, language, and territory.
 
-#
+- The Powers committed to periodic meetings to settle differences, maintain the balance of power, and cooperate against a return of chaos — ‘the concert of Europe’. When trouble flared in Spain and Italy over the next few years, the Powers coordinated to suppress liberals and revolutionaries.
 
-# History Document
+- The mercenary armies of the 18th Century selling themselves to the highest bidder were finished for good.
 
-non-Germans lived there (Poles, Czechs, Slovenians etc). Siemann: Metternich and the other
-leaders refused to accept the unity of nation, language, and territory.
+- International treaties had been thought to die with a monarch and require re-signing, after 1815 they were seen as between states rather than between sovereigns.
 
-The Powers committed to periodic meetings to settle differences, maintain the balance of
-power, and cooperate against a return of chaos — ‘the concert of Europe’. When trouble flared
-in Spain and Italy over the next few years, the Powers coordinated to suppress liberals and
-revolutionaries.
+- There were a lot of young officers who had fought in the wars and absorbed a mix of the Napoleonic legend (18 Brumaire) and liberal ideas.
 
-The mercenary armies of the 18th Century selling themselves to the highest bidder were
-finished for good.
+- The death rate from battle between 1815-1914 was seven times less than the 18th Century.
 
-International treaties had been thought to die with a monarch and require re-signing, after
-1815 they were seen as between states rather than between sovereigns.
+**15 November and 2 December 1816:** The ‘Spa Fields riots’ (Islington). Thomas Spence, a radical, had planned an attack on the Tower of London and Bank of England. He and Arthur Thistlewood were arrested for high treason. Situation escalated on 28/1/17 when the Prince Regent’s carriage was attacked on his way to Parliament. Secret Parliamentary committees of both Houses discussed repression of revolutionary elements. 24/2/17 Canning gave a speech to the Commons based on a special report of the ‘secret committee’. There were ‘secret cabals’ and ‘midnight plotting’. The laws were not fit to cope. He invoked the French Revolution: ‘Can it be forgotten how frequently, in the course of the French Revolution, the world has seen sanguinary minorities riding in blood over the necks of their prostrate countrymen?’ He reminded MPs they had all recently seen ‘crimes followed by crimes, in a long train of horrors’ ending in despotism. ‘If then, the government demands extraordinary powers, I ask, on the other hand, are these or are they not, extraordinary times? Have we, has England, ever seen the like before?’ These measures will defend the constitution, ‘that system of law and liberty, under which England has so long flourished in happiness and glory’. He won the vote 190-14. Metternich requested the speech and annotated the text approvingly (Siemann p562ff). Metternich agreed with Canning that the problems in England were part of a wider European problem with revolutionary conspiracies. Habeus Corpus was suspended. The Seditious Meetings Act.
 
-There were a lot of young officers who had fought in the wars and absorbed a mix of the
-Napoleonic legend (18 Brumaire) and liberal ideas.
+**1817 The Wartburg festival:** Celebration of Martin Luther’s Reformation, gathering of German students. They burned papers labelled with the names of books. Karl Sand threw in Kotzebue's History of the German Empires, two years later he killed him. Heinrich Heine wrote about it in 1821, a character says, ‘This was only the prologue. Where books are burned / humans will in the end be burned as well.'
 
-The death rate from battle between 1815-1914 was seven times less than the 18th Century.
+**1817 Castlereagh:** Britain should ‘keep up a navy equal to the navies of any two Powers that can be brought against us’ but this was never formalised. 1848 PM Russell said that instead of a two-power aim ‘laid down in the Committee of 1817’ it would be sufficient to be ‘stronger at sea than any other foreign Power’. 1815-1880s UK unofficially kept to about a third stronger than France without much public debate about the logic or reasoning. 1889 First Lord of the Admiralty George Hamilton made recommendations: serious new naval building, Naval Defense Act, and a formal two- power standard. The essential metric was seen as modern battleships but it was also assumed that Britain would have to have more cruisers than the next two Powers. Later developments such as torpedo boats and submarines were not included in the official balance. (The Weary Titan, Friedburg)
 
-15 November and 2 December 1816 The ‘Spa Fields riots’ (Islington). Thomas Spence, a radical, had
-planned an attack on the Tower of London and Bank of England. He and Arthur Thistlewood were
-arrested for high treason. Situation escalated on 28/1/17 when the Prince Regent’s carriage was
-attacked on his way to Parliament. Secret Parliamentary committees of both Houses discussed
-repression of revolutionary elements. 24/2/17 Canning gave a speech to the Commons based on a
-special report of the ‘secret committee’. There were ‘secret cabals’ and ‘midnight plotting’. The laws
-were not fit to cope. He invoked the French Revolution: ‘Can it be forgotten how frequently, in the
-course of the French Revolution, the world has seen sanguinary minorities riding in blood over the
-necks of their prostrate countrymen?’ He reminded MPs they had all recently seen ‘crimes
-followed by crimes, in a long train of horrors’ ending in despotism. ‘If then, the government
-demands extraordinary powers, I ask, on the other hand, are these or are they not, extraordinary
-times? Have we, has England, ever seen the like before?’ These measures will defend the
-constitution, ‘that system of law and liberty, under which England has so long flourished in
-happiness and glory’. He won the vote 190-14. Metternich requested the speech and annotated the
-text approvingly (Siemann p562ff). Metternich agreed with Canning that the problems in England
-were part of a wider European problem with revolutionary conspiracies. Habeus Corpus was
-suspended. The Seditious Meetings Act.
+**1818:** Mary Shelley’s Frankenstein.
 
-1817 The Wartburg festival, celebration of Martin Luther’s Reformation, gathering of German
-students. They burned papers labelled with the names of books. Karl Sand threw in Kotzebue's
-History of the German Empires, two years later he killed him. Heinrich Heine wrote about it in 1821,
-a character says, ‘This was only the prologue. Where books are burned / humans will in the end be
-burned as well.'
+**1818:** Prussia abolished all internal duties and introduced a low uniform tariff.
 
-1817 Castlereagh: Britain should ‘keep up a navy equal to the navies of any two Powers that can be
-brought against us’ but this was never formalised. 1848 PM Russell said that instead of a two-power
-aim ‘laid down in the Committee of 1817’ it would be sufficient to be ‘stronger at sea than any
-other foreign Power’. 1815-1880s UK unofficially kept to about a third stronger than France
-without much public debate about the logic or reasoning. 1889 First Lord of the Admiralty George
-Hamilton made recommendations: serious new naval building, Naval Defense Act, and a formal two-
-power standard. The essential metric was seen as modern battleships but it was also assumed that
-Britain would have to have more cruisers than the next two Powers. Later developments such as
-torpedo boats and submarines were not included in the official balance. (The Weary Titan, Friedburg)
+**1818:** Hegel appointed to the Chair of Philosophy, Berlin.
 
-1818 Mary Shelley’s Frankenstein.
+**10-11 Feb 1818:** Attempted assassination of the Duke of Wellington as he returned to his hotel at 1am. Metternich learned of it when Paris newspapers arrived in Vienna on 22/2. (Napoleon left the would-be assassin money in his will.)
 
-1818 Prussia abolished all internal duties and introduced a low uniform tariff.
+**Sep 1818:** Congress of Aachen (Aix-la-Chapelle) opened. Concern among the Powers about revolutionary conspiracies, movements, nationalism in Germany.
 
-1818 Hegel appointed to the Chair of Philosophy, Berlin.
+**1819 (UK):** The Cotton Mills and Factories Act banned employment of children under 9 and restricted hours for those under 16 to 16 hours per day. 1833 the Factory Act tightened restrictions and required children have 2 hours of education per day.
 
-10-11 Feb 1818 Attempted assassination of the Duke of Wellington as he returned to his hotel at
-1am. Metternich learned of it when Paris newspapers arrived in Vienna on 22/2. (Napoleon left the
-would-be assassin money in his will.)
+**23 March 1819:** Carl Sand, a German university student and member of a Burschenschaft (liberal student association), assassinated August von Kotzbue who had written mocking the pretensions of German nationalists. (Kotzbue’s four year old witnessed the stabbing, started screaming, and Sand stabbed himself in the chaos but survived, handing a manifesto to a servant as he left.) Sand became a martyr to the cause of a united German national state. The crime was investigated and all sorts of details came out. On his journey to the deed he wrote in a book, ‘What are the old sleepyheads likely to achieve? Trust in yourself and build an altar for God and fatherland in your own heart.’ He wrote various on the themes of blood sacrifices for the fatherland. He also claimed to be acting in the name of the Greek struggle for national independence. He was not crazy or even wild. Everyone described him as calm. He was a terrorist. He said he wanted to spread terror (Schrecken) to motivate the ‘strong youth’ against their governments and to motivate governments to become more nationalist: ‘In order to save our common fatherland, Germany, this still-torn and ignoble confederation of states, from the great danger that is near, I want to bring terror to those who are evil and craven, and courage to those who are good. Shouting and talking have no effect - only acting can unite - I want at least to hurl a fire into the present slackness...’ (Sand’s executioner was sympathetic and secretly dismantled the bloodstained scaffold and rebuilt it as a summer house for the secret use of members of the Burschenschaft.)
 
-Sep 1818 Congress of Aachen (Aix-la-Chapelle) opened. Concern among the Powers about
-revolutionary conspiracies, movements, nationalism in Germany.
+Siemann (p574ff). Metternich heard the news in Rome on 9 April (NB. News of an assassination took ~17 days to get a few hundred miles to the most influential politician in the world). He immediately wrote, ‘I don't like madmen or mad deeds of any kind, and even less those who murder good people who are sitting quietly in their rooms... **The world is sick, my friend; there is nothing worse than an ill-advised thirst for freedom. It kills everything and in the end itself.’** The next day he wrote to his wife, ‘I assure you that the world was in perfect health in 1789 in comparison with what it is now.’ He always abhorred political violence such as Sand’s assassination and saw it as easily pushing Europe back to the horrors of the French terror. (On hearing, in England in 1848, the news of Count Latour being lynched in Vienna, he said, ‘Murder is a very bad weapon, bloodshed calls for bloodshed, and it is in its nature to soil what it touches, and not to purify it.’)
 
----
-
-#
-
-# History Document
-
-1819 (UK) The Cotton Mills and Factories Act banned employment of children under 9 and restricted hours for those under 16 to 16 hours per day. 1833 the Factory Act tightened restrictions and required children have 2 hours of education per day.
-
-23 March 1819 Carl Sand, a German university student and member of a Burschenschaft (liberal student association), assassinated August von Kotzbue who had written mocking the pretensions of German nationalists. (Kotzbue’s four year old witnessed the stabbing, started screaming, and Sand stabbed himself in the chaos but survived, handing a manifesto to a servant as he left.) Sand became a martyr to the cause of a united German national state. The crime was investigated and all sorts of details came out. On his journey to the deed he wrote in a book, ‘What are the old sleepyheads likely to achieve? Trust in yourself and build an altar for God and fatherland in your own heart.’ He wrote various on the themes of blood sacrifices for the fatherland. He also claimed to be acting in the name of the Greek struggle for national independence. He was not crazy or even wild. Everyone described him as calm. He was a terrorist. He said he wanted to spread terror (Schrecken) to motivate the ‘strong youth’ against their governments and to motivate governments to become more nationalist: ‘In order to save our common fatherland, Germany, this still-torn and ignoble confederation of states, from the great danger that is near, I want to bring terror to those who are evil and craven, and courage to those who are good. Shouting and talking have no effect — only acting can unite — I want at least to hurl a fire into the present slackness...’ (Sand’s executioner was sympathetic and secretly dismantled the bloodstained scaffold and rebuilt it as a summer house for the secret use of members of the Burschenschaft.)
-
-Siemann (p574ff). Metternich heard the news in Rome on 9 April (NB. News of an assassination took ~17 days to get a few hundred miles to the most influential politician in the world). He immediately wrote, ‘I don't like madmen or mad deeds of any kind, and even less those who murder good people who are sitting quietly in their rooms... The world is sick, my friend; there is nothing worse than an ill-advised thirst for freedom. It kills everything and in the end itself.’ The next day he wrote to his wife, ‘I assure you that the world was in perfect health in 1789 in comparison with what it is now.’ He always abhorred political violence such as Sand’s assassination and saw it as easily pushing Europe back to the horrors of the French terror. (On hearing, in England in 1848, the news of Count Latour being lynched in Vienna, he said, ‘Murder is a very bad weapon, bloodshed calls for bloodshed, and it is in its nature to soil what it touches, and not to purify it.’)
-
-He suspected it was part of a conspiracy, not an isolated act. He wrote (9/4), ‘I, for one, do not doubt that the murderer acted, not on his own impulses, but within the context of a secret society. In this case, true evil will also produce some good because poor Kotzbue serves as an argumentum ad hominem which not even the liberal Duke of Weimar is able to defend. My concern is to give the matter the best possible direction in which to develop, to gain the maximum advantage from it, and I shall not waver in my efforts to pursue this concern... [To wife, 10/4] I do not allow myself to be distracted, I go my own way, and if all the ministers did the same, things would not be as they are’.
+He suspected it was part of a conspiracy, not an isolated act. He wrote (9/4), ‘I, for one, do not doubt that the murderer acted, not on his own impulses, but within the context of a secret society. **In this case, true evil will also produce some good because poor Kotzbue serves as an argumentum ad hominem which not even the liberal Duke of Weimar is able to defend. My concern is to give the matter the best possible direction in which to develop, to gain the maximum advantage from it, and I shall not waver in my efforts to pursue this concern... [To wife, 10/4] I do not allow myself to be distracted, I go my own way, and if all the ministers did the same, things would not be as they are’.**
 
 He was soon writing sarcastically that he was inundated by requests to help ‘finish the nonsense that every German prince has provoked and fuelled in his country and now does not know how to appease’. He proposed meeting in Carlsbad to discuss the response — but very secretly to avoid press coverage and high emotions. The first issue was freedom of the press, much of which had glorified Sand’s actions. Different states had their own laws. The Bund had responsibility for uniform rules in Bund territory but so far had not formulated them and it was a complex legal and political problem. There were inevitable loopholes and a constant process of discussion and amendment until 1848.
 
-## Metternich arrived in Carlsbad 21 July. The Prussian minister of police, Wittgenstein, organised a secret meeting between Metternich and Friedrich Wilhelm III (FW3) in Teplitz (27 July - 2 August) to discuss the response to Sand. They agreed measures to push with the other German states at Carlsbad. Metternich was convinced there were revolutionary dangers across Europe, justifying
-
-#
-
-# History Document
-
-Themselves with the same arguments as Sand about nationalism, Greek independence, the desire for constitutions etc. More and more evidence came in of the role of universities and clubs in breeding violent revolutionaries. Civil servants and academics were all part of the problem. FW3 asked for Metternich’s help. Metternich gave it on condition: no representative assembly for Prussia. Discussions at Carlsbad 6-31 August. Metternich pushed the Bund to agree the ‘Carlsbad decrees’, agreement between German states to: 1) prohibit student associations and regulate universities, 2) control the press (pre-censorship for smaller texts), 3) create the Central Investigation Commission (located in Mainz) to investigate revolutionaries, 4) the Bund to have authority to enforce compliance on states. These were agreed at the end of August then passed by the Bund on 20 September.
+Metternich arrived in Carlsbad 21 July. The Prussian minister of police, Wittgenstein, organised a secret meeting between Metternich and Friedrich Wilhelm III (FW3) in Teplitz (27 July - 2 August) to discuss the response to Sand. They agreed measures to push with the other German states at Carlsbad. Metternich was convinced there were revolutionary dangers across Europe, justifying themselves with the same arguments as Sand about nationalism, Greek independence, the desire for constitutions etc. More and more evidence came in of the role of universities and clubs in breeding violent revolutionaries. Civil servants and academics were all part of the problem. FW3 asked for Metternich’s help. Metternich gave it on condition: no representative assembly for Prussia. Discussions at Carlsbad 6-31 August. Metternich pushed the Bund to agree the ‘Carlsbad decrees’, agreement between German states to: 1) prohibit student associations and regulate universities, 2) control the press (pre-censorship for smaller texts), 3) create the Central Investigation Commission (located in Mainz) to investigate revolutionaries, 4) the Bund to have authority to enforce compliance on states. These were agreed at the end of August then passed by the Bund on 20 September.
 
 Siemann: the conventional story is that reactionary Metternich used Sand to impose his view but in reality he was besieged on all sides to act. Castlereagh was content with Metternich’s actions and thought that interventions to squash revolution were acceptable. He thought the meeting of kings and ministers in Vienna after Carlsbad ‘a new discovery in the European Government’ that brought ‘the efficiency and almost the simplicity of a single state’.
 
-16 August 1819 ‘The Peterloo Massacre’. Further meetings and riots across England. The government responded with the Six Acts to control the press, subversive meetings, paramilitary organisations, tougher sentences for sedition etc.
+**16 August 1819:** ‘The Peterloo Massacre’. Further meetings and riots across England. The government responded with the Six Acts to control the press, subversive meetings, paramilitary organisations, tougher sentences for sedition etc.
 
-13 Feb 1820 The Duc de Berry, son of Charles X and potential successor to the French throne, was assassinated in Paris.
+**13 Feb 1820:** The Duc de Berry, son of Charles X and potential successor to the French throne, was assassinated in Paris.
 
-23 Feb ‘The Cato Street Conspiracy’, a plot to murder the British Cabinet was foiled by an informer. Some conspirators were arrested, some fled. Arthur Thistlewood was the ring leader, had spoken at Spa Fields. Some were hung and beheaded, others transported to Australia.
+**23 Feb 1820:** ‘The Cato Street Conspiracy’, a plot to murder the British Cabinet was foiled by an informer. Some conspirators were arrested, some fled. Arthur Thistlewood was the ring leader, had spoken at Spa Fields. Some were hung and beheaded, others transported to Australia.
 
-Oct-Dec 1820 Congress of Troppau (what was then Austrian Silesia): Emperor Franz, Tsar Alexander, FW3. Britain’s representative was her envoy to Vienna (Castlereagh’s brother). Main topic was trouble in Naples. Russia’s Foreign Minister was the Greek, Capo d’Istria who Metternich described as ‘not a bad man but, honestly speaking, he is a complete and thorough fool... He lives in a world to which our minds are sometimes transported by a bad nightmare.’ Metternich blamed him for foolish proclamations made at Troppau.
+**Oct-Dec 1820:** Congress of Troppau (what was then Austrian Silesia): Emperor Franz, Tsar Alexander, FW3. Britain’s representative was her envoy to Vienna (Castlereagh’s brother). Main topic was trouble in Naples. Russia’s Foreign Minister was the Greek, Capo d’Istria who Metternich described as ‘not a bad man but, honestly speaking, he is a complete and thorough fool... He lives in a world to which our minds are sometimes transported by a bad nightmare.’ Metternich blamed him for foolish proclamations made at Troppau.
 
-1821 Peter Beuth, head of the Prussia Department of Trade and Industry, set up a Technical Institute in Berlin. Visited Britain in 1823 and 1836 to gather information about new technologies.
+**1821:** Peter Beuth, head of the Prussia Department of Trade and Industry, set up a Technical Institute in Berlin. Visited Britain in 1823 and 1836 to gather information about new technologies.
 
-1822 The Bismarck family leased their estates and moved to Berlin.
+**1822:** The Bismarck family leased their estates and moved to Berlin.
 
-12 Aug 1822 Castlereagh committed suicide, succeeded by Canning. Siemann: Metternich and Castlereagh spoke of a European general interest, a ‘public law of Europe’, of international law. Canning emphasised ‘national interest’.
+**12 Aug 1822:** Castlereagh committed suicide, succeeded by Canning. Siemann: Metternich and Castlereagh spoke of a European general interest, a ‘public law of Europe’, of international law. Canning emphasised ‘national interest’.
 
-1822-7 Bismarck attended the Plamann Anstalt in Berlin.
+**1822-7:** Bismarck attended the Plamann Anstalt in Berlin.
 
-December 1823 President Monroe announced ‘the Monroe doctrine’: Europe must not intervene in the affairs of the Americas.
+**December 1823:** President Monroe announced ‘the Monroe doctrine’: Europe must not intervene in the affairs of the Americas.
 
-1823 (KL) FW3 created 8 provincial, corporately organised assemblies. Clark: These did move things in the direction of a representative assembly: deputies voted by head, and the ‘noble estate’ was defined by privileged property not privileged birth.
+**1823:** (KL) FW3 created 8 provincial, corporately organised assemblies. Clark: These did move things in the direction of a representative assembly: deputies voted by head, and the ‘noble estate’ was defined by privileged property not privileged birth.
 
-1823-4 Massacres of each other by Christian Greeks and Muslims. Byron died in 1824. Paintings and pamphlets.
+**1823-4:** Massacres of each other by Christian Greeks and Muslims. Byron died in 1824. Paintings and pamphlets.
 
-21 June 1824 Metternich-Gentz: ‘Si vis pacem para bellum [if you want peace, prepare for war] everyone understands... This saying, and nothing else, have I applied throughout the whole history of the Greek affair, but only in the way of negotiation. This men do not understand. I have filled my diplomatic arsenal, completed and trained my troops, not in order to come to war, but to prevent it.’
+**21 June 1824:** Metternich-Gentz: ‘Si vis pacem para bellum [if you want peace, prepare for war] everyone understands... This saying, and nothing else, have I applied throughout the whole history of the Greek affair, but only in the way of negotiation. This men do not understand. I have filled my diplomatic arsenal, completed and trained my troops, not in order to come to war, but to prevent it.’
 
-## 28 Nov 1824 Metternich: ‘War can only be the result of enormous mistakes, and Mr Canning [the British foreign minister], who does not want one either, may lead us there. War would mean the loss of the social body of Russia, of Austria, of the whole world. The war — the only one conceivably happening — would not be one in which the people simply see Russian and Turkish.
+**28 Nov 1824:** Metternich: ‘War can only be the result of enormous mistakes, and Mr Canning [the British foreign minister], who does not want one either, may lead us there. War would mean the loss of the social body of Russia, of Austria, of the whole world. The war — the only one conceivably happening — would not be one in which the people simply see Russian and Turkish rivalries, and expect that it will mutually produce wounded soldiers and foster or fight against prejudices... No, my friend, this war would be one of those great natural catastrophes [des grandes catastrophes de nature] that turn everything upside down. All elements would clash and upon meeting crush everything between them, that is, Europe as a whole. But it will not come about, unless Mr Canning would play the deus ex machina which sets this great work of destruction and death in motion. He is capable of it.’
 
-#
+**19 November 1825:** Tsar Alexander died without an heir. His brother renounced the throne. The youngest of the brothers, Nicholas, became Tsar. He was a reactionary with a bust of Peter the Great on his desk. This provoked the ‘Decembrists’ (liberal aristocrats and officers) into an attempted coup which was crushed. This strengthened the view of Metternich and others that Europe was plagued by secret societies, carbonari, masons etc. Nicholas strengthened censorship and was determined to use Russian power to suppress revolutionary conspiracies across Europe.
 
-# History Document
+**1826:** Canning: ‘I resolved that if France had Spain, it should not be Spain with the Indies. I called the New World into existence to redress the balance of the Old.’ The Spanish empire in the Americas had been wrecked by the Napoleonic Wars. Britain turned a blind eye to independence movements in South America pushed by Bolivar.
 
-rivalries, and expect that it will mutually produce wounded soldiers and foster or fight against
-prejudices... No, my friend, this war would be one of those great natural catastrophes [des grandes
-catastrophes de nature] that turn everything upside down. All elements would clash and upon
-meeting crush everything between them, that is, Europe as a whole. But it will not come about,
-unless Mr Canning would play the deus ex machina which sets this great work of destruction and
-death in motion. He is capable of it.’
+**1827:** British Navy sank Ottoman fleet at Navarino to force them into concessions re Greece. Wellington, Commander-in-Chief of British Army, publicly attacked the action as weakening the Ottomans thereby helping Russia expand. Kicked off another war between Russia and Ottomans, (the one-eyed fighting the blind, as Frederick the Great had called it). Metternich thought that the states should respect the Ottoman Empire, not prioritise Greece, but after the crisis kicked off he preferred to accept an independent Greece than continue with ructions between the five Powers. He saw 1824-25 as a ‘transitional period’ because of the self-serving policies of Canning and Navarino as a turning point for the European system. (He asked Britain, do you think that the next time Ireland kicks off then you’ll be OK with other Powers getting involved? And what about the Finnish rebels vis Russia? Didn’t work.)
 
-19 November 1825 Tsar Alexander died without an heir. His brother renounced the throne. The
-youngest of the brothers, Nicholas, became Tsar. He was a reactionary with a bust of Peter the
-Great on his desk. This provoked the ‘Decembrists’ (liberal aristocrats and officers) into an
-attempted coup which was crushed. This strengthened the view of Metternich and others that
-Europe was plagued by secret societies, carbonari, masons etc. Nicholas strengthened censorship
-and was determined to use Russian power to suppress revolutionary conspiracies across Europe.
+**1827:** Ressel patented his screw propeller invention. 1845 Isambard Brunel built a screw-propelled ship to cross the Atlantic, SS Great Britain
 
-1826 Canning: ‘I resolved that if France had Spain, it should not be Spain with the Indies. I called the
-New World into existence to redress the balance of the Old.’ The Spanish empire in the Americas
-had been wrecked by the Napoleonic Wars. Britain turned a blind eye to independence movements
-in South America pushed by Bolivar.
+**1827-30:** Bismarck attended Friedrich-Wilhelm Gymnasium.
 
-1827 British Navy sank Ottoman fleet at Navarino to force them into concessions re Greece.
-Wellington, Commander-in-Chief of British Army, publicly attacked the action as weakening the
-Ottomans thereby helping Russia expand. Kicked off another war between Russia and Ottomans,
-(the one-eyed fighting the blind, as Frederick the Great had called it). Metternich thought that the
-states should respect the Ottoman Empire, not prioritise Greece, but after the crisis kicked off he
-preferred to accept an independent Greece than continue with ructions between the five Powers.
-He saw 1824-25 as a ‘transitional period’ because of the self-serving policies of Canning and
-Navarino as a turning point for the European system. (He asked Britain, do you think that the next
-time Ireland kicks off then you’ll be OK with other Powers getting involved? And what about the
-Finnish rebels vis Russia? Didn’t work.)
+**1828:** Prussia and Hesse-Darmstadt customs agreement. This virtually completed the land bridge between two halves of Prussia and put pressure on others like Hesse-Cassel to join. Cf. Metternich 1831.
 
-1827 Ressel patented his screw propeller invention. 1845 Isambard Brunel built a screw-propelled
-ship to cross the Atlantic, SS Great Britain
+**1828:** Thomas Arnold took over Rugby School. His changes had wide affects on public schools.
 
-1827-30 Bismarck attended Friedrich-Wilhelm Gymnasium.
+**1828-29:** Restrictions on Catholics in public life removed by Acts of Parliament (partly to defuse tension in Ireland). In Britain also an Evangelical revival from early 19th Century. Wilberforce campaigned against immoral art and literature. Methodism, Baptists, Unitarians grew — stressed simplicity, reliance on Bible, shorn of ritual, open air sermons, stressed a sober and orderly lifestyle.
 
-1828 Prussia and Hesse-Darmstadt customs agreement. This virtually completed the land bridge
-between two halves of Prussia and put pressure on others like Hesse-Cassel to join. Cf. Metternich 1831.
+**1829:** Mendelssohn staged a performance of Bach’s St. Matthew Passion (1727) with the King of Prussia in the audience. It had not been performed since Bach’s death and was a triumph. ‘It is as if I heard the roaring of the sea from afar’ (Goethe, on hearing of its success). From 1851 the Bach Society began to publish all Bach’s work in their original form, without modern editing, completed in 1900.
 
-1828 Thomas Arnold took over Rugby School. His changes had wide affects on public schools.
-
-1828-29 Restrictions on Catholics in public life removed by Acts of Parliament (partly to defuse
-tension in Ireland). In Britain also an Evangelical revival from early 19th Century. Wilberforce
-campaigned against immoral art and literature. Methodism, Baptists, Unitarians grew — stressed
-simplicity, reliance on Bible, shorn of ritual, open air sermons, stressed a sober and orderly lifestyle.
-
-1829 Mendelssohn staged a performance of Bach’s St. Matthew Passion (1727) with the King of
-Prussia in the audience. It had not been performed since Bach’s death and was a triumph. ‘It is as if I
-heard the roaring of the sea from afar’ (Goethe, on hearing of its success). From 1851 the Bach
-Society began to publish all Bach’s work in their original form, without modern editing, completed
-in 1900.
-
-1829 Treaty of Adrianople. 1) Guaranteed the independence of Greece. 2) The entire estuary
-region of the Danube, parts of Armenia, and the duchies at the Danube Moldovia and Walachia (the
-later Romania) was to come under Russian influence. Russia became a power in the Balkans in
-competition with the Habsburgs.
+**1829:** Treaty of Adrianople. 1) Guaranteed the independence of Greece. 2) The entire estuary region of the Danube, parts of Armenia, and the duchies at the Danube Moldovia and Walachia (the later Romania) was to come under Russian influence. Russia became a power in the Balkans in competition with the Habsburgs.
 
 1829 Prussian Finance Minister von Motz: ‘[I]mport, export and transit duties are only the
 consequence of the political division between various states ... then the contrary is also true that
