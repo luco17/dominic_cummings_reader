@@ -1292,9 +1292,7 @@ Sperber (1848): The revolutions did not primarily fail because of British and Ru
 
 The most significant effect of 1848 was the abolition of serfdom and other seigneurial institutions. These changes were reversed nowhere, even the most reactionary governments felt obliged to accept them. Constitutional government spread. Prussia and Piedmont-Savoy retained their constitutions. Austria repealed theirs but this did not survive the setbacks of the 1860s. By the end of the 1860s constitutional regimes were everywhere except Russia. 1848 put nationalist demands on the table and set the agenda for decades.
 
-In 1848 pro-Prussian constitutional monarchists were a minority among German nationalists, outnumbered by the democrats with hostility for the Prussian monarchy, and by Catholics and south Germans also suspicious of or hostile to Prussia. While the Germany of 1871 looked a lot
-
-Like the German state proposed by the Frankfurt National Assembly in 1849, the king was stronger and it subordinated the little German constitutional monarchists to the Prussian monarchy.
+In 1848 pro-Prussian constitutional monarchists were a minority among German nationalists, outnumbered by the democrats with hostility for the Prussian monarchy, and by Catholics and south Germans also suspicious of or hostile to Prussia. While the Germany of 1871 looked a lot Like the German state proposed by the Frankfurt National Assembly in 1849, the king was stronger and it subordinated the little German constitutional monarchists to the Prussian monarchy.
 
 In the early phases of 1848, organised labour and the political left were frequently disconnected. In the later phases, the labour movement was incorporated into the left but just as one part of it and far from the most important. 'This picture was broadly true throughout Europe but in the decades after 1850 the relationship between the labour movement and the political left began to diverge. In central Europe, leftist politics came increasingly to be identified with the organised urban working class; other social groups and organised interests fell away from the left'. In Mediterranean countries, organised labour became steadily more important for the left but other social groups particularly small farmers and small property owners continued to play a role in radical politics.
 
@@ -1302,75 +1300,64 @@ The 1848 revolutions were clear successors to 1789 with the social and economic 
 
 In 1789 revolution led to war. This fear was powerful in 1848-9. 1848 showed that if the army stayed loyal then the revolution would fail. Revolutions could succeed after the army was beaten in war. In 1870 France, defeat led to revolution. In 1917-19 many European countries saw the same.
 
-11 January Bismarck dined with the king and Ludwig von Gerlach. Over the next few days, news came in of riots in Sicily and Italy.
+**11 January** Bismarck dined with the king and Ludwig von Gerlach. Over the next few days, news came in of riots in Sicily and Italy.
 
-12 Jan Riots in Palermo. Someone had put up notices in early January saying that on 12th there would be a revolution. Clark: probably there was no actual serious conspiracy but the notices did prompt people to march that day and it all kicked off! Similarly an observer in Paris a few weeks later wrote, 'The event seems to have been engendered by the curiosity that attended it.'
+**12 January** Riots in Palermo. Someone had put up notices in early January saying that on 12th there would be a revolution. Clark: probably there was no actual serious conspiracy but the notices did prompt people to march that day and it all kicked off! Similarly an observer in Paris a few weeks later wrote, 'The event seems to have been engendered by the curiosity that attended it.'
 
 Metternich was not perturbed by the news of insurgent success in Sicily. He had anticipated it and prepared counter moves with France and the other Powers (except Britain).
 
-24 Jan James Marshall struck gold in Coloma, California. When news spread thousands came to California. The effects rippled through the world economy in the 1850s.
+**24 January** James Marshall struck gold in Coloma, California. When news spread thousands came to California. The effects rippled through the world economy in the 1850s.
 
-27 Jan The famous author de Tocqueville had been elected to the Chamber of Deputies in 1846 as a moderate liberal. He had not taken part in the banquet campaign because of distrust of the radicals. On 27 Jan, he gave a speech to the Chamber of Deputies calling for the expansion of the franchise to avert potential revolution.'Do you [ministers] not feel, by some intuitive instinct which is not capable of analysis, but which is undeniable, that the earth is shaking once again in Europe? Do you not feel ... as if a gale of revolution were in the air? This gale, no one knows where it springs from, whence it blows, nor, believe me, whom it will carry with it... Can you say today that you are certain of tomorrow? Do you know what may happen in France a year from now or even a month or a day from now? You do not know but what you must know is that the tempest is looming on the horizon, that it is coming towards us. Will you allow it to take you by surprise?' He was ignored.
+**27 January** The famous author de Tocqueville had been elected to the Chamber of Deputies in 1846 as a moderate liberal. He had not taken part in the banquet campaign because of distrust of the radicals. On 27 Jan, he gave a speech to the Chamber of Deputies calling for the expansion of the franchise to avert potential revolution.**'Do you [ministers] not feel, by some intuitive instinct which is not capable of analysis, but which is undeniable, that the earth is shaking once again in Europe? Do you not feel ... as if a gale of revolution were in the air?** This gale, no one knows where it springs from, whence it blows, nor, believe me, whom it will carry with it... Can you say today that you are certain of tomorrow? Do you know what may happen in France a year from now or even a month or a day from now? You do not know but what you must know is that the tempest is looming on the horizon, that it is coming towards us. Will you allow it to take you by surprise?' He was ignored.
 
-6 February Metternich-Apponyi: 'Revolutions march fast! This saying invariably reminds me of that young, very popular poet Bürger in Germany: The dead ride fast [Die Toten reiten schnell].'
+**6 February** Metternich-Apponyi: 'Revolutions march fast! This saying invariably reminds me of that young, very popular poet Bürger in Germany: The dead ride fast [Die Toten reiten schnell].'
 
-## Late February The Communist Manifesto / Das Kommunistische Manifest published by Marx and Engels. Published, initially anonymously, by the Workers' Educational Association (Kommunistischer Arbeiterbildungsverein), based at 46 Liverpool Street, London. Around 20 March 1,000 copies reached Paris. In spring it was edited and that version was subsequently treated as the authoritative version. It was not influential in 1848 and only became famous in the 1870s.
+**Late February** The Communist Manifesto / Das Kommunistische Manifest published by Marx and Engels. Published, initially anonymously, by the Workers' Educational Association (Kommunistischer Arbeiterbildungsverein), based at 46 Liverpool Street, London. Around 20 March 1,000 copies reached Paris. In spring it was edited and that version was subsequently treated as the authoritative version. It was not influential in 1848 and only became famous in the 1870s. 'By the middle 1860s virtually nothing that Marx had written in the past was any longer in print' (Hobsbawm).
 
-middle 1860s virtually nothing that Marx had written in the past was any longer in print' (Hobsbawm).
-
-22 February The Guizot government tried to outlaw the banquets in Paris. (The banquet organisers had taken pains to avoid breaching public order laws and were hard to suppress. They did not incite violence or illegal acts.) The organisers called for a huge demonstration. Banquets turned to demonstrations, clashes with soldiers, barricades went up. The army split and much refused to fight, the National Guard joined insurgents. As chaos engulfed the streets the Chamber continued debating the regulation of the Bank of Bordeaux: the Guizot government was paralysed. The King dismissed Guizot on 23/2, latter advised him to suppress the revolution with the army with all necessary force. Louis Philippe slumped in a chair, 'The sea is rising, the sea is rising!' Then, 'I abdicate'. He fled, a Republic was proclaimed. When he heard the news from Paris, FWIV said, 'Satan is on the loose again.' He tried to organise concerted resistance in London,Vienna and St Petersburg. He sent Radowitz to Vienna to work with Metternich including a special congress of the Bund.
+**22 February** The Guizot government tried to outlaw the banquets in Paris. (The banquet organisers had taken pains to avoid breaching public order laws and were hard to suppress. They did not incite violence or illegal acts.) The organisers called for a huge demonstration. **Banquets turned to demonstrations, clashes with soldiers, barricades went up. The army split and much refused to fight, the National Guard joined insurgents. As chaos engulfed the streets the Chamber continued debating the regulation of the Bank of Bordeaux: the Guizot government was paralysed. The King dismissed Guizot on 23/2, latter advised him to suppress the revolution with the army with all necessary force. Louis Philippe slumped in a chair, 'The sea is rising, the sea is rising!' Then, 'I abdicate'. He fled, a Republic was proclaimed.** When he heard the news from Paris, FWIV said, 'Satan is on the loose again.' He tried to organise concerted resistance in London,Vienna and St Petersburg. He sent Radowitz to Vienna to work with Metternich including a special congress of the Bund.
 
 (Guizot's father was killed by the guillotine. He opposed extremism and the death penalty. He feared chaos and violence. His attempts at press laws to stop mockery of the king did not work. The press became more raucous and aggressive.)
 
-23 Feb Metternich: 'If I may compare the revolution with a book I would say that we are still at the preface, whereas France has already reached the final pages.'
+**23 February** Metternich: 'If I may compare the revolution with a book I would say that we are still at the preface, whereas France has already reached the final pages.'
 
-26 Feb A diplomat who visited Metternich described him as 'isolated and paralysed” in a word powerless'. The Habsburg inner circle of court and ministers was confused, divided, paralysed. Some wanted concessions, others to hold fast. Metternich was in the latter group. After the news came from Paris of the fall of the king, Metternich said, 'Everyone says we must do something. Well, of course, but what? ... We must make everything anew but such reconstructions cannot be improvised.' His enemy Kolowrat was scheming at court to remove him.
+**26 February** A diplomat who visited Metternich described him as 'isolated and paralysed” in a word powerless'. The Habsburg inner circle of court and ministers was confused, divided, paralysed. Some wanted concessions, others to hold fast. Metternich was in the latter group. After the news came from Paris of the fall of the king, Metternich said, 'Everyone says we must do something. Well, of course, but what? ... We must make everything anew but such reconstructions cannot be improvised.' His enemy Kolowrat was scheming at court to remove him.
 
-27 Feb Palmerston: 'I grieve at the prospect of a republic in France for I fear that it must lead to war in Europe and fresh agitation in England. Large republics seem to be essentially and inherently aggressive, and the aggressions of the French will be resisted by the rest of Europe, and that is war; while on the other hand, the example of universal suffrage in France will set our non-voting population agog, and will create a demand for an inconvenient extension of the suffrage ballot, and other mischievous things.'
+**27 February** Palmerston: 'I grieve at the prospect of a republic in France for I fear that it must lead to war in Europe and fresh agitation in England. Large republics seem to be essentially and inherently aggressive, and the aggressions of the French will be resisted by the rest of Europe, and that is war; while on the other hand, the example of universal suffrage in France will set our non-voting population agog, and will create a demand for an inconvenient extension of the suffrage ballot, and other mischievous things.'
 
-28 Feb News from Paris arrived in Berlin newspapers.
+**28 February** News from Paris arrived in Berlin newspapers.
 
-March Mass meetings / riots and fighting across Europe including Prague, Cracow, Budapest, Netherlands, Copenhagen. Liberal ministers appointed in most smaller German states. Nationalist uprising in Schleswig-Holstein against Danish rule. Pre-Parliament meets in Frankfurt, calls for elections to a German National Assembly.
+**March** Mass meetings / riots and fighting across Europe including Prague, Cracow, Budapest, Netherlands, Copenhagen. Liberal ministers appointed in most smaller German states. Nationalist uprising in Schleswig-Holstein against Danish rule. Pre-Parliament meets in Frankfurt, calls for elections to a German National Assembly.
 
-3 March Mass demonstration in Cologne dispersed by army.
+**3 March** Mass demonstration in Cologne dispersed by army.
 
-4 March Mass demonstration in Munich.
+**4 March** Mass demonstration in Munich.
 
-6 March In Vienna, Kolowrat attended a meeting of the bourgeois opposition and criticised Metternich. Siemann: There was criticism of Metternich among the royal family and courtiers and open talk of removing him.
+**6 March** In Vienna, Kolowrat attended a meeting of the bourgeois opposition and criticised Metternich. Siemann: There was criticism of Metternich among the royal family and courtiers and open talk of removing him.
 
-6 March King Augustus of Saxony was forced into constitutional reforms and to dismiss his conservative minister.
+**6 March** King Augustus of Saxony was forced into constitutional reforms and to dismiss his conservative minister.
 
-6-7 March Large public meetings near the Brandenburg Gate ended with an address to the King demanding big changes.
+**6-7 March** Large public meetings near the Brandenburg Gate ended with an address to the King demanding big changes.
 
-8 March Barclay: Bodelschwingh seems to have converted FWIV to the idea that a constitution could not be avoided. The Gerlachs opposed and wanted tough resistance.
+**8 March** Barclay: Bodelschwingh seems to have converted FWIV to the idea that a constitution could not be avoided. The Gerlachs opposed and wanted tough resistance.
 
-9 March Liberals in Vienna demanded reforms including a parliament with budgetary powers etc. On 12/3 thousands of students gathered in front of the university. As chaos grew in Vienna news arrived of Kossuth's address to the Hungarian Diet on 3 March.
+**9 March** Liberals in Vienna demanded reforms including a parliament with budgetary powers etc. On 12/3 thousands of students gathered in front of the university. As chaos grew in Vienna news arrived of Kossuth's address to the Hungarian Diet on 3 March.
 
-## 12 March In the evening a courtier said to Metternich's wife, 'Is it true you are leaving tomorrow?' and said to her that she and her husband would be 'sent away'. She realised a plot was afoot. (Some
+**12 March** In the evening a courtier said to Metternich's wife, 'Is it true you are leaving tomorrow?' and said to her that she and her husband would be 'sent away'. She realised a plot was afoot. (Some date this to evening of 13th but Siemann says 12th and he seems to have looked at the original sources.) 
 
-date this to evening of 13th but Siemann says 12th and he seems to have looked at the original
-sources.) 13 March Vienna kicked off. The Diet convened to present the Emperor with demands for a
-constitution, crowds gathered, troops arrived and fired, violence spread, machines were smashed,
-gas pipes were ripped up and administrative buildings trashed. Metternich was too deaf to make
-out what the crowds shouted, a secretary took notes for him. Metternich was pressured by the
-Archdukes, manipulated by Kolowrat, into resigning ~9pm. When he returned to his
-residence on the Ballhausplatz his wife asked, 'Are we completely dead?' 'Yes, my dear, we are dead.'
+**13 March** Vienna kicked off. The Diet convened to present the Emperor with demands for a constitution, crowds gathered, troops arrived and fired, violence spread, machines were smashed, gas pipes were ripped up and administrative buildings trashed. Metternich was too deaf to make out what the crowds shouted, a secretary took notes for him. **Metternich was pressured by the Archdukes, manipulated by Kolowrat, into resigning ~9pm**. When he returned to his residence on the Ballhausplatz his wife asked, 'Are we completely dead?' 'Yes, my dear, we are dead.'
+
 They fled in disguise for England, arriving after many adventures and dangers on 20/4. (His
-properties were confiscated, inquiries were launched into his expenses, he relied on a 100,000
-ruble loan from the Tsar to subsist. In England he rhapsodised about the English constitution —
-England is 'the freest country in the world because the most orderly'.) On 14/3 the Emperor
-announced the end of censorship, food taxes lowered, and convening of a constituent assembly. On
-17th the Emperor agreed to an autonomous Hungarian government and in April it became an
-autonomous constitutional monarchy (still a Habsburg king) with a widened franchise.
-13 March (Clarke) The President of Police ordered new troops into Berlin, that night there were
-clashes round the palace, people killed. Barclay: this escalated fast with demonstrations spreading
-over next days.
-14 March FWIV agreed the United Diet should meet on 27 April. Admitted he was 'completely
-demoralised'.
-15 March Wilhelm had a row with the liberal-minded commander of troops in Berlin. FWIV went
-to Potsdam and considered not returning to Berlin but did.
-15 March Mass demonstration in Budapest.
-16 March News of Metternich reached Berlin (Clark says 15/3).
+properties were confiscated, inquiries were launched into his expenses, he relied on a 100,000 ruble loan from the Tsar to subsist. In England he rhapsodised about the English constitution — England is 'the freest country in the world because the most orderly'.) On 14/3 the Emperor announced the end of censorship, food taxes lowered, and convening of a constituent assembly. On 17th the Emperor agreed to an autonomous Hungarian government and in April it became an autonomous constitutional monarchy (still a Habsburg king) with a widened franchise.
+
+**13 March** (Clarke) The President of Police ordered new troops into Berlin, that night there were clashes round the palace, people killed. Barclay: this escalated fast with demonstrations spreading over next days.
+
+**14 March** FWIV agreed the United Diet should meet on 27 April. Admitted he was 'completely demoralised'.
+
+**15 March** Wilhelm had a row with the liberal-minded commander of troops in Berlin. FWIV went to Potsdam and considered not returning to Berlin but did.
+
+**15 March** Mass demonstration in Budapest.
+
+**16 March** News of Metternich reached Berlin (Clark says 15/3).
 17 March News of Metternich arrived in Milan, revolt kicked off next day.
 17 March Mass demonstration in Cracow.
 17 March Ludwig Gerlach wrote to a friend in interesting terms given the collapse into chaos over
