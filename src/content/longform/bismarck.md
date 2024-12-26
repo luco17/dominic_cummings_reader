@@ -1342,7 +1342,7 @@ Metternich was not perturbed by the news of insurgent success in Sicily. He had 
 
 **9 March** Liberals in Vienna demanded reforms including a parliament with budgetary powers etc. On 12/3 thousands of students gathered in front of the university. As chaos grew in Vienna news arrived of Kossuth's address to the Hungarian Diet on 3 March.
 
-**12 March** In the evening a courtier said to Metternich's wife, 'Is it true you are leaving tomorrow?' and said to her that she and her husband would be 'sent away'. She realised a plot was afoot. (Some date this to evening of 13th but Siemann says 12th and he seems to have looked at the original sources.) 
+**12 March** In the evening a courtier said to Metternich's wife, 'Is it true you are leaving tomorrow?' and said to her that she and her husband would be 'sent away'. She realised a plot was afoot. (Some date this to evening of 13th but Siemann says 12th and he seems to have looked at the original sources.)
 
 **13 March** Vienna kicked off. The Diet convened to present the Emperor with demands for a constitution, crowds gathered, troops arrived and fired, violence spread, machines were smashed, gas pipes were ripped up and administrative buildings trashed. Metternich was too deaf to make out what the crowds shouted, a secretary took notes for him. **Metternich was pressured by the Archdukes, manipulated by Kolowrat, into resigning ~9pm**. When he returned to his residence on the Ballhausplatz his wife asked, 'Are we completely dead?' 'Yes, my dear, we are dead.'
 
@@ -1358,38 +1358,18 @@ properties were confiscated, inquiries were launched into his expenses, he relie
 **15 March** Mass demonstration in Budapest.
 
 **16 March** News of Metternich reached Berlin (Clark says 15/3).
-17 March News of Metternich arrived in Milan, revolt kicked off next day.
-17 March Mass demonstration in Cracow.
-17 March Ludwig Gerlach wrote to a friend in interesting terms given the collapse into chaos over
-the next week: 'Self-reliant men, who nevertheless stand with the King, are what he needs... The
-delicacy which Leopold recommends reminds me of a man who sees his neighbour falling into a
-fire and thinking that it is too indelicate to grasp him firmly.'
-17 March (JS) FW rejected advice of von Prittwitz (commander of the Guards Infantry in Berlin
-who wanted to use force) and agreed to lift censorship (after which there was a flood of critical
-material), introduce a constitution and call the United Diet for 2 April (instead of 27th). There were
-attacks on factories and machines thought to be undermining employment. Bodelschwingh and
-others prepared their resignations.
-18 March Demonstration in front of the palace in Berlin, peaceful, pleased at signs of FWIV making
-concessions. About 1:30pm he appeared on a balcony to wave. People in the crowd demanded the
-troops be withdrawn and FWIV suddenly ordered Prittwitz to use the cavalry to clear the
-demonstration. Troops moved in. (Clark: There were two accidental discharges of weapons and
-stories spread that the soldiers were firing on civilians.) Chaos spread, people enraged with the
-king, barricades went up. FWIV and his entourage sat down for dinner in the palace but the ground
-was moving under their feet. Before midnight von Prittwitz advised that if the city did not calm
-down over the next few days it should be evacuated and bombarded. FWIV thanked him, sat down
-at his desk, put his feet into a furry foot muff, and started drafting a document. He finished after
-midnight and gave it to Bodelschwingh who took it to the court printer at 3am. It's unclear exactly
-what he was thinking but it seems (Barclay p143) the combination of Prittwitz's military advice and
-Vincke arguing for concessions pushed him into it. Prittwitz got a big shock early on the morning of
-the 19th when he read FW's message.
-19 March FW's note 'To My Dear Berliners' was posted all over Berlin in the morning. He asked
-Berliners to clear the barricades in return for which he promised to remove the troops from the
-streets and only protect key buildings. As people read the proclamation confused meetings were
-happening with FW, officials and the military. News came in of barricades being cleared, plans were
 
----
+**17 March** News of Metternich arrived in Milan, revolt kicked off next day.
 
-Drawn up for immediate withdrawal of the troops. In the chaos Bodelschwingh brought an order to withdraw the troops at about 11am to a deputation of city officials. It was a big defeat for Prittwitz and Wilhelm. There was also crucial confusion. FW thought he'd made clear in his proclamation that the palace and arsenal would be protected but Prittwitz thought that if the troops began to withdraw they'd have to retreat to barracks or outside Berlin. At 12:30 he ordered the troops to withdraw to their quarters, soon the palace was guarded by only 7 companies of troops (who were also withdrawn over coming days). By the time FW and those around him realised that the troop withdrawal now left them at the mercy of the crowds, it was too late to change course or even leave the city. In the early afternoon, people in the crowd started shouting, 'the King must come'. White with panic and fear, the king, the queen and some generals appeared on the balcony before a huge and angry crowd. 'Hat off!' roared the crowd. FW obeyed the demand to remove his cap and pay homage to the corpses of those killed in previous days. Breaking the tension, some began singing Jesus meine Zuversicht (Jesus I Trust in Thee). Later FW agreed the formation of a Citizens Guard to protect the palace and the formation of a first constitutional government to be headed by Count Arnim Boitzenberg. Inside the palace, it felt as if the guillotine might be close. The palace was in chaos. Thile spent the day organizing the evacuation of the state treasury, crown treasury, state papers etc out of Berlin.
+**17 March** Mass demonstration in Cracow.
+
+**17 March** Ludwig Gerlach wrote to a friend in interesting terms given the collapse into chaos over the next week: 'Self-reliant men, who nevertheless stand with the King, are what he needs... The delicacy which Leopold recommends reminds me of a man who sees his neighbour falling into a fire and thinking that it is too indelicate to grasp him firmly.'
+
+**17 March** (JS) FW rejected advice of von Prittwitz (commander of the Guards Infantry in Berlin who wanted to use force) and agreed to lift censorship (after which there was a flood of critical material), introduce a constitution and call the United Diet for 2 April (instead of 27th). There were attacks on factories and machines thought to be undermining employment. Bodelschwingh and others prepared their resignations.
+
+**18 March** Demonstration in front of the palace in Berlin, peaceful, pleased at signs of FWIV making concessions. About 1:30pm he appeared on a balcony to wave. People in the crowd demanded the troops be withdrawn and **FWIV suddenly ordered Prittwitz to use the cavalry to clear the demonstration.** Troops moved in. (Clark: There were two accidental discharges of weapons and stories spread that the soldiers were firing on civilians.) Chaos spread, people enraged with the king, barricades went up. FWIV and his entourage sat down for dinner in the palace but the ground was moving under their feet. Before midnight von Prittwitz advised that if the city did not calm down over the next few days it should be evacuated and bombarded. FWIV thanked him, sat down at his desk, put his feet into a furry foot muff, and started drafting a document. He finished after midnight and gave it to Bodelschwingh who took it to the court printer at 3am. It's unclear exactly what he was thinking but it seems (Barclay p143) the combination of Prittwitz's military advice and Vincke arguing for concessions pushed him into it. Prittwitz got a big shock early on the morning of the 19th when he read FW's message.
+
+**19 March** FW's note 'To My Dear Berliners' was posted all over Berlin in the morning. He asked Berliners to clear the barricades in return for which he promised to remove the troops from the streets and only protect key buildings. As people read the proclamation confused meetings were happening with FW, officials and the military. News came in of barricades being cleared, plans were Drawn up for immediate withdrawal of the troops. In the chaos Bodelschwingh brought an order to withdraw the troops at about 11am to a deputation of city officials. It was a big defeat for Prittwitz and Wilhelm. There was also crucial confusion. FW thought he'd made clear in his proclamation that the palace and arsenal would be protected but Prittwitz thought that if the troops began to withdraw they'd have to retreat to barracks or outside Berlin. At 12:30 he ordered the troops to withdraw to their quarters, soon the palace was guarded by only 7 companies of troops (who were also withdrawn over coming days). By the time FW and those around him realised that the troop withdrawal now left them at the mercy of the crowds, it was too late to change course or even leave the city. In the early afternoon, people in the crowd started shouting, 'the King must come'. White with panic and fear, the king, the queen and some generals appeared on the balcony before a huge and angry crowd. 'Hat off!' roared the crowd. FW obeyed the demand to remove his cap and pay homage to the corpses of those killed in previous days. Breaking the tension, some began singing Jesus meine Zuversicht (Jesus I Trust in Thee). Later FW agreed the formation of a Citizens Guard to protect the palace and the formation of a first constitutional government to be headed by Count Arnim Boitzenberg. Inside the palace, it felt as if the guillotine might be close. The palace was in chaos. Thile spent the day organizing the evacuation of the state treasury, crown treasury, state papers etc out of Berlin.
 
 When Wilhelm, often referred to as 'the shrapnel prince' in Berlin at this time, heard of his brother's decision, he had a furious argument with Bodelschwingh in the late morning. He then had an even worse confrontation with his brother, saying furiously, 'I have always known that you were a babbler, but not that you're a coward! One can no longer serve you with honour.' Wilhelm flung his sword at his brother's feet. The King replied tearfully, 'This is just too bad! You can't stay here. You will have to go!' Wilhelm was smuggled out of Berlin in disguise and went via Spandau to London. Barclay: there, chastened, he soon decided there was no alternative to a constitution. Augusta sent word that his brother Carl was exploring options for taking over himself or his son. (The recent biography of Wilhelm by Fischer says that the 'cartridge prince' nickname was fake news, invented and repeated by the media, but in fact Wilhelm did not issue orders to the troops on or before 18/3 because he'd handed his Berlin command to Prittwitz. He was looking out himself on the scene and later said that two shots were fired by accident then someone else in the company fired thinking they were attacked. Fischer says that in the chaos of 18-19/3 a bullet narrowly missed Augusta. Augusta and the children stayed at Potsdam. In England Wilhelm talked with Metternich.)
 
@@ -1403,87 +1383,35 @@ By his own account Bismarck first heard the news of the 18-19 from noblewomen fl
 
 The neighbour dropped it.
 
-21 March (JS) Bismarck went to Potsdam and saw General von Prittwitz who had been ordered by the king not to fight. He told Bismarck to send food, not troops, but that he could not fight: 'What can we do after the king has commanded us to play the part of the vanquished? I cannot attack without orders.'
+**21 March** (JS) Bismarck went to Potsdam and saw General von Prittwitz who had been ordered by the king not to fight. He told Bismarck to send food, not troops, but that he could not fight: 'What can we do after the king has commanded us to play the part of the vanquished? I cannot attack without orders.'
 
-## 21 March Placards appeared throughout Berlin in the morning proclaiming that to 'save Germany' FW had 'placed himself at the head of the entire Fatherland' and he appeared on the balcony to tell the crowd he would ride through their midst. He rode through the streets, gave speeches, and made clear he would support German nationalism. After the ride there was a proclamation: 'Today I
+**21 March** Placards appeared throughout Berlin in the morning proclaiming that to 'save Germany' FW had 'placed himself at the head of the entire Fatherland' and he appeared on the balcony to tell the crowd he would ride through their midst. He rode through the streets, gave speeches, and made clear he would support German nationalism. After the ride there was a proclamation: 'Today I have assumed the old German colours and have placed Myself in My People under the honourable banner of the German Empire. Henceforth Prussia will merge into Germany.' (A senior Prussian soldier-courtier, Rauch, who was asked to ride with the king wrote of his despair and horror at the whole affair — 'I cannot describe the impression that this ride made on me. It seemed to me as if everything had gone mad... It was as if I had come from the madhouse.') There was talk of assemblies and a new army, with the army taking a new oath to the future constitution, 'genuine constitutional governments' etc. On 22/3 he promised electoral reform and ministerial responsibility. He even seemed to make concessions to a delegation of Poles asking for concessions.
 
-have assumed the old German colours and have placed Myself in My People under the honourable
-banner of the German Empire. Henceforth Prussia will merge into Germany.' (A senior Prussian
-soldier-courtier, Rauch, who was asked to ride with the king wrote of his despair and horror at the
-whole affair — 'I cannot describe the impression that this ride made on me. It seemed to me as if
-everything had gone mad... It was as if I had come from the madhouse.') There was talk of
-assemblies and a new army, with the army taking a new oath to the future constitution, 'genuine
-constitutional governments' etc. On 22/3 he promised electoral reform and ministerial
-responsibility. He even seemed to make concessions to a delegation of Poles asking for
-concessions.
+**21 March** FW responded to demands from protesters that he take up the cause of a German parliament, he rode into Berlin on his horse with little protection and gave impromptu speeches about his support for an all-German parliament.
 
-21 March FW responded to demands from protesters that he take up the cause of a German
-parliament, he rode into Berlin on his horse with little protection and gave impromptu speeches
-about his support for an all-German parliament.
+**21 March** (Clark) Denmark annexed Schleswig, the Germans in the south of the duchy formed a provisional government.
 
-21 March (Clark) Denmark annexed Schleswig, the Germans in the south of the duchy formed a
-provisional government.
+**21/23? March** (Memoirs say 21st, other books & JS have this on 23rd. Augusta dated it 23rd according to Gall.) Bismarck went to speak to Wilhelm but he was referred instead to Augusta. Bismarck claims in his Memoirs he was trying to get Wilhelm to support military action to free the king and take back Berlin but that Augusta was plotting to be Regent in the event that neither the King nor Wilhelm were viable. She later claimed (July 1862, Gall) that Bismarck tried to persuade her to grab the throne in the name of her husband and son, to disown measures implemented by the King, and to 'question the latter's authority and soundness of mind' (Augusta). The incident poisoned their relationship.
 
-?21/23? March (Memoirs say 21st, other books & JS have this on 23rd. Augusta dated it 23rd
-according to Gall.) Bismarck went to speak to Wilhelm but he was referred instead to Augusta.
-Bismarck claims in his Memoirs he was trying to get Wilhelm to support military action to free the
-king and take back Berlin but that Augusta was plotting to be Regent in the event that neither the
-King nor Wilhelm were viable. She later claimed (July 1862, Gall) that Bismarck tried to persuade
-her to grab the throne in the name of her husband and son, to disown measures implemented by
-the King, and to 'question the latter's authority and soundness of mind' (Augusta). The incident
-poisoned their relationship.
+(Barclay (p64): Augusta had impressed Goethe aged 12 as 'an utterly charming and creative creature who already has quite original ideas and whimsies'. She admired French literature and British institutions. Their marriage was not based on affection — in their early days Wilhelm complained of her irreligiosity and after becoming king he enjoyed their separations.)
 
-(Barclay (p64): Augusta had impressed Goethe aged 12 as 'an utterly charming and creative
-creature who already has quite original ideas and whimsies'. She admired French literature and
-British institutions. Their marriage was not based on affection — in their early days Wilhelm
-complained of her irreligiosity and after becoming king he enjoyed their separations.)
+Bismarck then got from the King's younger brother a letter saying the bearer has permission from me to speak to the King and inquire into his health and he hastened to Berlin. He went to the palace and there gave a letter for the King to read arguing the revolution was confined to the towns and he could regain control if he wanted. He returned to Potsdam and discussed action with Prittiwitz and others. When someone said 'what can we do?', Bismarck sitting at a piano started to play an infantry charge march. Bismarck told them 'the country will thank you and ultimately the King too.' Some of the generals asked him to speak to others to see if there would be general support for action despite the King's instructions. He talked to some of them then returned to Schönhausen. He takes a delegation of peasants to see the situation for themselves. He went to Potsdam on 25th. (The chronology about his movements seems very confused across the books but proof-reading this I think this section could be much improved.)
 
-Bismarck then got from the King's younger brother a letter saying the bearer has permission from
-me to speak to the King and inquire into his health and he hastened to Berlin. He went to the
-palace and there gave a letter for the King to read arguing the revolution was confined to the
-towns and he could regain control if he wanted. He returned to Potsdam and discussed action with
-Prittiwitz and others. When someone said 'what can we do?', Bismarck sitting at a piano started to
-play an infantry charge march. Bismarck told them 'the country will thank you and ultimately the
-King too.' Some of the generals asked him to speak to others to see if there would be general
-support for action despite the King's instructions. He talked to some of them then returned to
-Schönhausen. He takes a delegation of peasants to see the situation for themselves. He went to
-Potsdam on 25th. (The chronology about his movements seems very confused across the books
-but proof-reading this I think this section could be much improved.)
+**25 March** FW 'arrived unexpectedly' (OP) in Potsdam on 25th. FW told the troops at Potsdam that 'I have come to Potsdam in order to bring peace to my dear Potsdamers and to show them that I am in every respect a free King, and to show the Berliners that they need fear no reaction and that all the disquieting rumours to that effect are completely unfounded. I have never been freer and more secure than when under the protection of my citizens.'
 
-25 March FW 'arrived unexpectedly' (OP) in Potsdam on 25th. FW told the troops at Potsdam that
-'I have come to Potsdam in order to bring peace to my dear Potsdamers and to show them that I
-am in every respect a free King, and to show the Berliners that they need fear no reaction and that
-all the disquieting rumours to that effect are completely unfounded. I have never been freer and
-more secure than when under the protection of my citizens.'
-
-Bismarck was an eye-witness and recorded that these words prompted 'a murmuring and clattering
-of sabres in their sheaths such as no King of Prussia in the midst of his officers had ever heard
-before, and, I hope, will ever hear again. Deeply grieved, I returned to Schönhausen.' In his Memoirs,
-he wrote that he had written the passages above with the newspapers of the time open before him
-and they 'contradict each other and my own recollection.' He then writes that in May he thought
-that rumours and false news had spread across the country about the events around the 18-19
-March which were very damaging to the monarchy and should be rebutted quickly before they had
-permanent effect on the peasants who had initially strongly supported the King. He complained the
-military never gave a satisfactory account of what had happened until 1891! He argued to Prittwitz
-later that month that when Bodelschwingh ordered Prittwitz to withdraw troops from the palace.
-
----
-
-square, he should have had the minister arrested. He said he was told by officers in the King's immediate entourage that the King withdrew 'owing to a call of nature', the troops started marching away, when he returned he was asked by the officers if he had ordered this and denied it.
-
-(p34)
+Bismarck was an eye-witness and recorded that these words prompted 'a murmuring and clattering of sabres in their sheaths such as no King of Prussia in the midst of his officers had ever heard before, and, I hope, will ever hear again. Deeply grieved, I returned to Schönhausen.' In his Memoirs, he wrote that he had written the passages above with the newspapers of the time open before him and they 'contradict each other and my own recollection.' He then writes that in May he thought that rumours and false news had spread across the country about the events around the 18-19 March which were very damaging to the monarchy and should be rebutted quickly before they had permanent effect on the peasants who had initially strongly supported the King. He complained the military never gave a satisfactory account of what had happened until 1891! He argued to Prittwitz later that month that when Bodelschwingh ordered Prittwitz to withdraw troops from the palace square, he should have had the minister arrested. He said he was told by officers in the King's immediate entourage that the King withdrew 'owing to a call of nature', the troops started marching away, when he returned he was asked by the officers if he had ordered this and denied it. (p34)
 
 Barclay: there are at least five different versions of the King's Potsdam address.
 
-29 March Count Arnim resigned and the king made Camphausen (a distinguished businessman and liberal) the 'minister-president' (sort of PM but without control of Cabinet appointments) and called the Diet to meet on 2 April. Bismarck went back to Berlin.
+**29 March** Count Arnim resigned and the king made Camphausen (a distinguished businessman and liberal) the 'minister-president' (sort of PM but without control of Cabinet appointments) and called the Diet to meet on 2 April. Bismarck went back to Berlin.
 
-29 March Leopold Gerlach visited FW in Potsdam and was shocked: 'His discourses about the March events — a mixture of resignation, weakness, apathy, and desperation — made a frightful impression on me. Everything was confused, listless, and fantastic... I went home heavy with despair.'
+**29 March** Leopold Gerlach visited FW in Potsdam and was shocked: 'His discourses about the March events — a mixture of resignation, weakness, apathy, and desperation — made a frightful impression on me. Everything was confused, listless, and fantastic... I went home heavy with despair.'
 
-30 March Leopold Gerlach diary: 'First attempt to set up a ministère occulte.' Leopold tried to persuade FW that foreign policy and the army were the foundations of restoring royal power. The Gerlachs tried to organise a key group, which became known as the Camarilla, around FW. The key members up to November were the two Gerlachs, adjutant-general Rauch, Massow. Edwin Manteuffel was close to them and played an important role. Ludwig's judgements of the King were and remained harsh, to the dismay of Leopold. Ludwig thought FW may abdicate and told his brother they had to be ready to make the monarchy itself their priority, not FW. In coming months they had to be careful about their meetings with FW to minimise rumours. (Barclay, Chapter 7.)
+**30 March** Leopold Gerlach diary: 'First attempt to set up a ministère occulte.' Leopold tried to persuade FW that foreign policy and the army were the foundations of restoring royal power. The Gerlachs tried to organise a key group, which became known as the Camarilla, around FW. The key members up to November were the two Gerlachs, adjutant-general Rauch, Massow. Edwin Manteuffel was close to them and played an important role. Ludwig's judgements of the King were and remained harsh, to the dismay of Leopold. Ludwig thought FW may abdicate and told his brother they had to be ready to make the monarchy itself their priority, not FW. In coming months they had to be careful about their meetings with FW to minimise rumours. (Barclay, Chapter 7.)
 
-April Chartist demonstrations in Britain.
+**April** Chartist demonstrations in Britain.
 
-April War broke out between Prussia and Denmark over Schleswig-Holstein. The German population of Holstein, Lauenburg and southern Schleswig created a provisional government. Holstein and Lauenburg were in the Bund which supported them 12/4. Prussian troops deployed. Gall: Prussia was acting on behalf of the Bund in aiding the attempt by the inhabitants to leave the Danish Federation. Prussia had to abandon 26/8.
+**April** War broke out between Prussia and Denmark over Schleswig-Holstein. The German population of Holstein, Lauenburg and southern Schleswig created a provisional government. Holstein and Lauenburg were in the Bund which supported them 12/4. Prussian troops deployed. Gall: Prussia was acting on behalf of the Bund in aiding the attempt by the inhabitants to leave the Danish Federation. Prussia had to abandon 26/8.
 
 Barclay: At the start FW was supportive of using the army against what he saw as unwarranted aggression from Denmark. But he quarrelled a lot with Arnim and, with the Camarilla, was worried about upsetting Russia. He preferred to use the troops in Poland where operations began in April.
 
@@ -1491,74 +1419,48 @@ Sperber: The movement in Schleswig Holstein became a popular nationalist cause t
 
 Clark: The Prussians marched into Schleswig on 23/4. The war stirred the emotions of the liberals who met at the Frankfurt Assembly in May but they didn't appreciate the European dimensions. Cf. 26/8 (Malmo) and 17/9 (fighting in Frankfurt).
 
-2 April The United Diet reassembled. Bismarck said: 'The past is buried and it is a matter of more poignant grief to me than to many of you that no human power can raise it up again, since the Crown itself has cast earth on its own coffin.' He broke into tears and had to stop speaking. 'His moderation aroused bitter criticism from ultraconservative friends' (OP) and he apologised to the Gerlachs. Gall: we don't really know what he was thinking then but if he was casting around for alternatives, he soon decided to row behind the Gerlachs again.
+**2 April** The United Diet reassembled. Bismarck said: **'The past is buried and it is a matter of more poignant grief to me than to many of you that no human power can raise it up again, since the Crown itself has cast earth on its own coffin.'** He broke into tears and had to stop speaking. 'His moderation aroused bitter criticism from ultraconservative friends' (OP) and he apologised to the Gerlachs. Gall: we don't really know what he was thinking then but if he was casting around for alternatives, he soon decided to row behind the Gerlachs again.
 
 On 5th it passed an electoral law paving the way for elections to a Prussian National Assembly: elections were indirect (voters chose electors who chose deputies) but all votes were weighted equally, all adult males who had lived in the same place for 6 months and had not received poor relief (Barclay, p147).
 
-## 8 April Speech to the Diet on the last day it sat. The new Finance Minister, Hansemann, who soon after founded the largest private bank in Prussia in the 1850s and 1860s, asked for a levy of 40m taler, some for military and some for 'the maintenance of industry'. Bismarck opposed. The statesman should survey 'all interests in the country with equal impartiality. I fear, therefore, that the burden of this new imposition will be laid mainly upon the provinces and upon small towns and that the money raised will be used predominantly for the benefit of industry and money transactions in the larger towns.' The government is taking this cash 'from the assets of taxpayers in order to pour it into the bottomless well of the needs of a faltering industry'. It would also shift
+**8 April** Speech to the Diet on the last day it sat. The new Finance Minister, Hansemann, who soon after founded the largest private bank in Prussia in the 1850s and 1860s, asked for a levy of 40m taler, some for military and some for 'the maintenance of industry'. Bismarck opposed. The statesman should survey 'all interests in the country with equal impartiality. I fear, therefore, that the burden of this new imposition will be laid mainly upon the provinces and upon small towns and that the money raised will be used predominantly for the benefit of industry and money transactions in the larger towns.' The government is taking this cash 'from the assets of taxpayers in order to pour it into the bottomless well of the needs of a faltering industry'. It would also shift Political pressure to the countryside. Over coming months and in election campaigns he repeatedly sided with the small businessmen in towns and craft tradesmen against big business and finance. He attacked the hypocrisy whereby big business repeatedly called for protection from competition (and got it) while simultaneously pushing laissez-faire theories that brought destitution to many more people. Gall (p47-8): he was successful in persuading many aristocrats similar to himself to turn away from support for liberalism on the grounds it was a) bad for Prussia and b) bad for themselves. Cf. the pressure groups founded later in the year.
 
-Political pressure to the countryside. Overcoming months and in election campaigns he repeatedly sided with the small businessmen in towns and craft tradesmen against big business and finance. He attacked the hypocrisy whereby big business repeatedly called for protection from competition (and got it) while simultaneously pushing laissez-faire theories that brought destitution to many more people. Gall (p47-8): he was successful in persuading many aristocrats similar to himself to turn away from support for liberalism on the grounds it was a) bad for Prussia and b) bad for themselves. Cf. the pressure groups founded later in the year.
+**10 April** Chartists organised a big demonstration in London (Evans: estimated 150,000). They were met with a massive show of force: police (4k), army (12k), and an 85k militia of 'special constables' primarily of property owners (Evans: 100k) including Louis Napoleon. (Clark: nowhere else in Europe did a regime mobilise such a force.) Palmerston wrote the next day that it had been 'a glorious day, the Waterloo of peace and order', which would produce 'a good and calming effect', no need for the special constables to 'mash them [protesters] to jelly'. Some of his Cabinet colleagues feared that he interfered too much in other countries' domestic politics and lamented that Russell could not control him. Grey was alarmed that Palmerston sent diplomatic letters without clearing them with the PM and wrote in his diary (May) that had he 'played such a prank' in his father's government he would 'have been dismissed without ceremony'. In May his dabbling in Spanish politics threatened his position and Victoria was much annoyed. (Brown, p308ff) Evans: the government was anxious not to increase taxes at such a time so cut back on spending, stopped subsidising colonial planters and sugar growers and extended free trade to colonies, which in turn led to unrest there. Clark: after the June Days, the British government cracked down on Chartists and by September the movement was dead. Prussian police sent observers to talk to the British police and took back lessons.
 
-10 April Chartists organised a big demonstration in London (Evans: estimated 150,000). They were met with a massive show of force: police (4k), army (12k), and an 85k militia of 'special constables' primarily of property owners (Evans: 100k) including Louis Napoleon. (Clark: nowhere else in Europe did a regime mobilise such a force.) Palmerston wrote the next day that it had been 'a glorious day, the Waterloo of peace and order', which would produce 'a good and calming effect', no need for the special constables to 'mash them [protesters] to jelly'. Some of his Cabinet colleagues feared that he interfered too much in other countries' domestic politics and lamented that Russell could not control him. Grey was alarmed that Palmerston sent diplomatic letters without clearing them with the PM and wrote in his diary (May) that had he 'played such a prank' in his father's government he would 'have been dismissed without ceremony'. In May his dabbling in Spanish politics threatened his position and Victoria was much annoyed. (Brown, p308ff) Evans: the government was anxious not to increase taxes at such a time so cut back on spending, stopped subsidising colonial planters and sugar growers and extended free trade to colonies, which in turn led to unrest there. Clark: after the June Days, the British government cracked down on Chartists and by September the movement was dead. Prussian police sent observers to talk to the British police and took back lessons.
+**13 April** In a conversation with Leopold von Gerlach, 'the King excused himself for ... being weak and giving in; constitutionalism had to be recognised because of Germany, and in according it such recognition he acted upon the express counsel of his ministers among whom he particularly named Bodelschwingh and Canitz'. Gerlach was wary: 'Does the gentleman want to lie to himself or would he have it believed that he didn't sink as deeply as he really did?' Barclay thinks (p148ff) he was overwhelmed by chaos and the breakdown of process, meetings, advice etc over 18-20 March. He did believe in Germany unity if it could be done while maintaining monarchical authority. But he was also swept along in chaos for a few weeks. For months after March he was self-pitying, sullen, lethargic. On 14 June Leopold Gerlach wrote in his diary that according to a mutual acquaintance, 'The King stares into space for hours at a time — then outbursts of rage follow.' Cf. 28/8.
 
-13 April In a conversation with Leopold von Gerlach, 'the King excused himself for ... being weak and giving in; constitutionalism had to be recognised because of Germany, and in according it such recognition he acted upon the express counsel of his ministers among whom he particularly named Bodelschwingh and Canitz'. Gerlach was wary: 'Does the gentleman want to lie to himself or would he have it believed that he didn't sink as deeply as he really did?' Barclay thinks (p148ff) he was overwhelmed by chaos and the breakdown of process, meetings, advice etc over 18-20 March. He did believe in Germany unity if it could be done while maintaining monarchical authority. But he was also swept along in chaos for a few weeks. For months after March he was self-pitying, sullen, lethargic. On 14 June Leopold Gerlach wrote in his diary that according to a mutual acquaintance, 'The King stares into space for hours at a time — then outbursts of rage follow.' Cf. 28/8.
+**16 April** A march in Paris of unarmed workers, chanting pro-republic slogans. They'd been given permission to march. When they arrived at the Hotel Ville, they faced the National Guard with tied bayonets. They were ordered to disperse. Leading radical clubs had premises raided by the Guard. The provisional government defended themselves saying they had intelligence of plots. Radicals were furious. Louis Blanc said that the rumours were engineered: unknown persons were 'sowing lies whose effects had been perfidiously thought through'.
 
-16 April A march in Paris of unarmed workers, chanting pro-republic slogans. They'd been given permission to march. When they arrived at the Hotel Ville, they faced the National Guard with tied bayonets. They were ordered to disperse. Leading radical clubs had premises raided by the Guard. The provisional government defended themselves saying they had intelligence of plots. Radicals were furious. Louis Blanc said that the rumours were engineered: unknown persons were 'sowing lies whose effects had been perfidiously thought through'.
+**20 April** A manuscript sent to a newspaper from Schönhausen but not printed until 38 years later, in response to the release of Prussian citizens of Polish nationality who had been convicted of treason. The fact that they had soon formed 'bands that persecuted the German inhabitants of a Prussian province with plunder and murder, massacring and barbarically mutilating women and children' was the least damaging aspect of the affair. If this approach were continued it would mean 'German states deprived of the last of what German arms had procured for them in Poland and Italy over the centuries...This is what people are gaily prepared to throw away for the sake of the implementation of a visionary theory, a theory that must equally lead us to form a new Slav kingdom out of our south-eastern frontier districts ..., give the Italian Tyrol back to the Venetians, and with Moravia and Bohemia create an independent Czech kingdom right into the heart of Germany... [Re a Polish state] But how can a German, for the sake of whining compassion and impracticable theories, dream of creating on the doorstep of the fatherland a relentless enemy who will always be trying to deflect his feverish domestic unrest by means of wars and who every time we are engaged in the west will attack us in the rear: who will and must be far more avid for conquest at our expense than the Russian Emperor, who is happy if he can hold his present giant together and would have to be very foolish to want to increase, by conquering German lands, the already large proportion of his subjects prepared to take up arms against him. We do not, however, need Poland to protect us against Russia, we can protect ourselves.' Cf. 3/61 and Jan-Feb/63.
 
-## 20 April A manuscript sent to a newspaper from Schönhausen but not printed until 38 years later, in response to the release of Prussian citizens of Polish nationality who had been convicted of treason. The fact that they had soon formed 'bands that persecuted the German inhabitants of a Prussian province with plunder and murder, massacring and barbarically mutilating women and children' was the least damaging aspect of the affair. If this approach were continued it would mean 'German states deprived of the last of what German arms had procured for them in Poland and Italy over the centuries...This is what people are gaily prepared to throw away for the sake of the implementation of a visionary theory, a theory that must equally lead us to form a new Slav kingdom out of our south-eastern frontier districts ..., give the Italian Tyrol back to the Venetians, and with Moravia and Bohemia create an independent Czech kingdom right into the heart of Germany... [Re a Polish state] But how can a German, for the sake of whining compassion and impracticable theories, dream of creating on the doorstep of the fatherland a relentless enemy
+**Late April** Letter to a newspaper (in Collected Works but may not have been published): 'Like every sensible person, the landowner will acknowledge that it is pointless and impossible to halt the flow of time or dam it up.'
 
-who will always be trying to deflect his feverish domestic unrest by means of wars and who every
-time we are engaged in the west will attack us in the rear: who will and must be far more avid for
-conquest at our expense than the Russian Emperor, who is happy if he can hold his present giant
-together and would have to be very foolish to want to increase, by conquering German lands, the
-already large proportion of his subjects prepared to take up arms against him. We do not, however,
-need Poland to protect us against Russia, we can protect ourselves.' Cf. 3/61 and Jan-Feb/63.
-Late April Letter to a newspaper (in Collected Works but may not have been published): 'Like every
-sensible person, the landowner will acknowledge that it is pointless and impossible to halt the flow
-of time or dam it up.'
+**23 April** In France the largely rural electorate was worried by chaos in Paris and new land taxes. They voted for a Constituent Assembly dominated by moderates and liberals.
 
-23 April In France the largely rural electorate was worried by chaos in Paris and new land taxes.
-They voted for a Constituent Assembly dominated by moderates and liberals.
+**25 April** In Vienna the government issued the 'Pillersdorf Constitution', named for interior minister who drafted it.
 
-25 April In Vienna the government issued the 'Pillersdorf Constitution', named for interior minister
-who drafted it.
-
-May Elections to the Frankfurt National Assembly, met 18 May. Evans: most states organised
-elections with an indirect suffrage based on property but it was quite low and most could vote.
-Three-quarters of deputies had a university education. Sperber (p279): the results, unlike those in
-France May 1849, suggest a sharp discontinuity with the next 100 years. The political map of 1900
-and 1950 Germany was quite different. The main strongholds of the left in 1848 were in central
-and southwest Germany; by 1900 these strongholds were mainly in the north.
-
-The German National Assembly in St Pauls Church, Frankfurt (1848-9),
-colours and with an enormous portrayal of Germania by Phillipp Veit, this
-lithograph after & drawing by Leo von Elliot Festooned with the national
-chamber was designed to reverberate to the great patriotic issues of the day:
+**May** Elections to the Frankfurt National Assembly, met 18 May. Evans: most states organised elections with an indirect suffrage based on property but it was quite low and most could vote. Three-quarters of deputies had a university education. Sperber (p279): the results, unlike those in France May 1849, suggest a sharp discontinuity with the next 100 years. The political map of 1900 and 1950 Germany was quite different. The main strongholds of the left in 1848 were in central and southwest Germany; by 1900 these strongholds were mainly in the north.
 
 May Also elections to the new Prussian National Assembly. Overwhelming defeat for
-conservatives, landowners less than 7% of deputies. First met on 22 May. In his opening speech FW
+conservatives, landowners less than 7% of deputies. First met on 22 May. In his opening speech FW reminded deputies their job was 'to agree upon the constitution with me', but he also assured them that the 'unity of Germany is my fixed goal'. Barclay: while Arnim wanted to exploit the situation to Prussia's advantage, FW was absorbed in medieval fantasies and dreams of ceremonies in which the Habsburgs were again crowned as Holy Roman Emperors. Arnim rejected FW's schemes. FW was much shocked at the idea of him being crowned somehow the head of Germany, and declared that 'I will not accept the crown'.
 
----
+**May** (OP) Bismarck decided not to become a candidate for the Prussian National Assembly which replaced the United Diet as he thought he had no chance of election. The new parliament attacked the Junkers' privileges, titles, hunting rights, judicial powers, and it imposed new taxes. 'A real estate tax is not a tax but a confiscation of capital.' The revolution's leaders had succeeded by 'misrepresentation' and 'exciting the greed ... and envy' of the poorer against the richer.
 
-Reminded deputies their job was 'to agree upon the constitution with me', but he also assured them that the 'unity of Germany is my fixed goal'. Barclay: while Arnim wanted to exploit the situation to Prussia's advantage, FW was absorbed in medieval fantasies and dreams of ceremonies in which the Habsburgs were again crowned as Holy Roman Emperors. Arnim rejected FW's schemes. FW was much shocked at the idea of him being crowned somehow the head of Germany, and declared that 'I will not accept the crown'.
+**May** (EF) He tried to become a candidate for the Landtag but could not get selected as a candidate even in his home area.
 
-May (OP) Bismarck decided not to become a candidate for the Prussian National Assembly which replaced the United Diet as he thought he had no chance of election. The new parliament attacked the Junkers' privileges, titles, hunting rights, judicial powers, and it imposed new taxes. 'A real estate tax is not a tax but a confiscation of capital.' The revolution's leaders had succeeded by 'misrepresentation' and 'exciting the greed ... and envy' of the poorer against the richer.
+**13 May** The Austrian government ordered a botched clampdown in Vienna. It provoked marches, riots, storming of factories.
 
-May (EF) He tried to become a candidate for the Landtag but could not get selected as a candidate even in his home area.
+**14-15 May** A crowd marched on the Habsburg palace demanding revision of the constitution and democratic elections. Radical democrats were mobilising in Vienna. Ferdinand panicked and gave in, his cabinet resigned, two days later (17) the royal household fled Vienna for Innsbruck. 24/5 the university in Vienna was closed. National Guard went over to the students. (Clark gives slightly different dates, p489.)
 
-13 May The Austrian government ordered a botched clampdown in Vienna. It provoked marches, riots, storming of factories.
+**15 May** A crowd broke into the lightly guarded chamber of the National Assembly in Paris and read out a petition then marched to the Hotel de Ville to proclaim an 'insurrectionary government' to be headed by radicals. The government rallied the National Guard and dislodged the insurgents from the Hotel de Ville. Some were arrested.
 
-14-15 May A crowd marched on the Habsburg palace demanding revision of the constitution and democratic elections. Radical democrats were mobilising in Vienna. Ferdinand panicked and gave in, his cabinet resigned, two days later (17) the royal household fled Vienna for Innsbruck. 24/5 the university in Vienna was closed. National Guard went over to the students. (Clark gives slightly different dates, p489.)
+**4 June** FW told the Cabinet he refused to dilute his personal authority over the army and he would abdicate rather than concede. The Cabinet backed down.
 
-15 May A crowd broke into the lightly guarded chamber of the National Assembly in Paris and read out a petition then marched to the Hotel de Ville to proclaim an 'insurrectionary government' to be headed by radicals. The government rallied the National Guard and dislodged the insurgents from the Hotel de Ville. Some were arrested.
+**4 June** Leopold Gerlach gave FW a report he'd written in May and discussed with others in the camarilla. LG thought that FW had 1) never shown interest in real governing, preferring occasional dramatic announcements and 2) never selected and worked properly with ministers and advisers. He wrote that confidence in the King and his government had been shattered by March events and he had to liberate himself from the constitutional system.
 
-4 June FW told the Cabinet he refused to dilute his personal authority over the army and he would abdicate rather than concede. The Cabinet backed down.
+**5 June** (Evans) The Danish king was forced to declare the union of Schleswig and Holstein. (Evans implies the war kicked off after this, other books that it kicked off in spring.)
 
-4 June Leopold Gerlach gave FW a report he'd written in May and discussed with others in the camarilla. LG thought that FW had 1) never shown interest in real governing, preferring occasional dramatic announcements and 2) never selected and worked properly with ministers and advisers. He wrote that confidence in the King and his government had been shattered by March events and he had to liberate himself from the constitutional system.
-
-5 June (Evans) The Danish king was forced to declare the union of Schleswig and Holstein. (Evans implies the war kicked off after this, other books that it kicked off in spring.)
-
-7 June Wilhelm returned from England and thanked Bismarck for being 'active on my behalf' (Memoirs). While he was away, he was heavily criticised. At one point a crowd marched on his palace and it was only saved by the guards waiting 'Property of the People' on the facade. It was announced on 10 May he would return. A delegation of liberals met Camphausen, one of them, Boerner, recorded that Camphausen seemed like 'a beleaguered schoolteacher', exhausted, 'seemed predestined to be betrayed and abandoned by all sides'. Clark: by June, revolutionary energy had peaked and was receding. Fischer: Camphausen asked Wilhelm to appear publicly in civilian dress, not uniform, but he refused.
+**7 June** Wilhelm returned from England and thanked Bismarck for being 'active on my behalf' (Memoirs). While he was away, he was heavily criticised. At one point a crowd marched on his palace and it was only saved by the guards waiting 'Property of the People' on the facade. It was announced on 10 May he would return. A delegation of liberals met Camphausen, one of them, Boerner, recorded that Camphausen seemed like 'a beleaguered schoolteacher', exhausted, 'seemed predestined to be betrayed and abandoned by all sides'. Clark: by June, revolutionary energy had peaked and was receding. Fischer: Camphausen asked Wilhelm to appear publicly in civilian dress, not uniform, but he refused.
 
 9 June The mob attacked Count Arnim. Gerlach later chided FW for not being tougher in response.
 
