@@ -1526,101 +1526,57 @@ Barclay: Pfuel was appointed on 21/9. (Sometimes a) historians conflate the resi
 
 **17 September** (Sperber, p230) There were mass meetings across Germany protesting the Prussian decision on S-H. Frankfurt initially had rejected Malmo and voted to continue the war then u-turned. Radical deputies organised a mass meeting on 17/9. An enraged crowd tried to storm the assembly. Insurgents were defeated after two deputies were lynched. The Prussian Army fired artillery and attacked the crowd. Clark: this violence pushed many liberals towards the conservatives. Robert Blum was so fed up he headed for Vienna.
 
-23 Sep To Johanna: 'Either the government shows itself to be weak like its predecessors and gives
-way, something that I am working against, or it does its duty in which case I do not doubt for a
-minute that on Monday evening or Tuesday blood will flow. I had not thought the Democrats would
-be bold enough to accept battle but their whole attitude suggests that they will. Poles, Frankfurter,
-loafers, freebooters, all sorts of scum, have again appeared. They reckon that the troops will back
-out, probably through the speeches of a few unsatisfied chatterboxes who thus mislead the troops.
-I think they are wrong.' He stayed in Berlin.
+**23 September** To Johanna: 'Either the government shows itself to be weak like its predecessors and gives way, something that I am working against, or it does its duty in which case I do not doubt for a minute that on Monday evening or Tuesday blood will flow. I had not thought the Democrats would be bold enough to accept battle but their whole attitude suggests that they will. Poles, Frankfurter, loafers, freebooters, all sorts of scum, have again appeared. They reckon that the troops will back out, probably through the speeches of a few unsatisfied chatterboxes who thus mislead the troops. I think they are wrong.' He stayed in Berlin.
 
-29 Sep Ludwig told Leopold the time had come for a ministry including Brandenburg, Bismarck,
-Kleist-Retzow with Prince Wilhelm as 'generalissimo'.
+**29 September** Ludwig told Leopold the time had come for a ministry including Brandenburg, Bismarck, Kleist-Retzow with Prince Wilhelm as 'generalissimo'. By the end of September the revolutionary movement was defeated in Frankfurt.
 
-By the end of September the revolutionary movement was defeated in Frankfurt.
+**3 October** Ludwig Gerlach arrived at Potsdam and stayed for 17 days. Barclay: over the next few weeks the Camarilla managed to surround FW and influence him.
 
-3 Oct Ludwig Gerlach arrived at Potsdam and stayed for 17 days. Barclay: over the next few weeks
-the Camarilla managed to surround FW and influence him.
+**4 October** FW was speaking of the cabinet's 'treason'.
 
-4 Oct FW was speaking of the cabinet's 'treason'.
+**6 October** In Vienna the government ordered the Vienna garrison to march towards Hungary. A crowd gathered. Chaos. Minister of war lynched. Mutinies. Imperial arsenal looted. Emperor fled Vienna again for Olmütz.
 
-6 Oct In Vienna the government ordered the Vienna garrison to march towards Hungary. A crowd
-gathered. Chaos. Minister of war lynched. Mutinies. Imperial arsenal looted. Emperor fled Vienna
-again for Olmütz.
+**6 October** Meeting at Sanssouci with Gerlachs and FW. FW agreed he was not opposed to Brandenburg. He asked Leopold to go to Breslau where Brandenburg commanded the Sixth Army Corps and sound him out. Brandenburg was FW's uncle, a product of a FWII liaison. He had a distinguished military career but was unimaginative and in Valentin's phrase was 'bored by himself'. He agreed to serve but only if he had a free hand to direct the cabinet.
 
-6 Oct Meeting at Sanssouci with Gerlachs and FW. FW agreed he was not opposed to
-Brandenburg. He asked Leopold to go to Breslau where Brandenburg commanded the Sixth Army
-Corps and sound him out. Brandenburg was FW's uncle, a product of a FWII liaison. He had a
-distinguished military career but was unimaginative and in Valentin's phrase was 'bored by himself'.
-He agreed to serve but only if he had a free hand to direct the cabinet.
+**7 October** Pfuel wrote to FW that he could not remain in office if FW would not accept the constitutional draft of the summer.
 
-7 Oct Pfuel wrote to FW that he could not remain in office if FW would not accept the
-constitutional draft of the summer.
+**15 October** FW rebuked the Assembly for passing a decree removing FW's title as King 'by the Grace of God' — a huge blow to him.
 
-15 Oct FW rebuked the Assembly for passing a decree removing FW's title as King 'by the Grace
-of God' — a huge blow to him.
+**16 October** The Cabinet offered to resign. FW agreed but asked Pfuel to stay until a new government could be named.
 
-16 Oct The Cabinet offered to resign. FW agreed but asked Pfuel to stay until a new government
-could be named.
+**17 October** Brandenburg arrived in Berlin. The Camarilla wanted a clean break with the previous ministers but Brandenburg considered keeping them. After days of exhausting discussions, the situation was resolved by the end of October.
 
-17 Oct Brandenburg arrived in Berlin. The Camarilla wanted a clean break with the previous
-ministers but Brandenburg considered keeping them. After days of exhausting discussions, the
-situation was resolved by the end of October.
+**18 October** To Joanna: 'Not the slightest sign of revolt here. But instead bitter feelings between workers and civil guard, which can bear good fruit. The workers cheer the King and the army and want the King to rule alone etc.'
 
-18 Oct To Joanna: 'Not the slightest sign of revolt here. But instead bitter feelings between workers
-and civil guard, which can bear good fruit. The workers cheer the King and the army and want the
-King to rule alone etc.'
+**31 October** Austrian army stormed Vienna, revolt crushed. Rebel leaders shot, Austrian troops looted Vienna as if it was an enemy city. Evans: Croatian troops looted and tortured house to house. (A stray cartridge started a fire in the Homburg roof and many books in the Imperial library were damaged by the water used to put it out.)
 
-31 Oct Austrian army stormed Vienna, revolt crushed. Rebel leaders shot, Austrian troops
-looted Vienna as if it was an enemy city. Evans: Croatian troops looted and tortured house to
-house. (A stray cartridge started a fire in the Homburg roof and many books in the Imperial library
-were damaged by the water used to put it out.)
+**November** Hinckeldey put in charge of the Berlin police. He was soon FW's main adviser on security matters and quickly got the right to report in person. FW often circumvented normal channels by giving him direct orders. Hinckeldey had an intelligence operation to monitor suspected revolutionaries, break up plots, and control the press — an operation he extended to other Bund states. Generally FW and Hinckeldey were focused on the left but sometimes Hinckeldey also confiscated the Kreuzzeitung!
 
-November Hinckeldey put in charge of the Berlin police. He was soon FW's main adviser on
-security matters and quickly got the right to report in person. FW often circumvented normal
-channels by giving him direct orders. Hinckeldey had an intelligence operation to monitor
-suspected revolutionaries, break up plots, and control the press — an operation he extended to
-other Bund states. Generally FW and Hinckeldey were focused on the left but sometimes
-Hinckeldey also confiscated the Kreuzzeitung!
-
-Hinckeldey was 'one of the most remarkable and creative conservative officials in 19th
-Century Prussia', in some ways similar to Baron Haussmann (Barclay p240). Hinckeldey favoured a
-combination of repression and socio-economic activism. He was an unusual bureaucrat with
-enormous energy, willing to bend rules and not obsessed with process. He was shunned by the
-court society and hated among the Kreuzzeitung network.1848-56 he became 'a kind of urban boss'
-(Barclay). He established a fire brigade, street-cleaning, soup kitchens, public washhouses in the
-poorest areas, refuges for unemployed female domestic servants. He planted trees and in 1852 he
-had an English engineering firm build a waterworks to supply fresh drinking water. He collected and
-
----
-
-Applied statistics. He did not enrich himself and lived happily with his wife and 7 children. When he complained about being underpaid, FW tried to get him promoted and enhance his powers. Ministers and officials resisted though FW eventually managed to get him more powers. (Cf. 18 July 1856.)
+Hinckeldey was 'one of the most remarkable and creative conservative officials in 19th Century Prussia', in some ways similar to Baron Haussmann (Barclay p240). Hinckeldey favoured a combination of repression and socio-economic activism. He was an unusual bureaucrat with enormous energy, willing to bend rules and not obsessed with process. He was shunned by the court society and hated among the Kreuzzeitung network.1848-56 he became 'a kind of urban boss' (Barclay). He established a fire brigade, street-cleaning, soup kitchens, public washhouses in the poorest areas, refuges for unemployed female domestic servants. He planted trees and in 1852 he had an English engineering firm build a waterworks to supply fresh drinking water. He collected and applied statistics. He did not enrich himself and lived happily with his wife and 7 children. When he complained about being underpaid, FW tried to get him promoted and enhance his powers. Ministers and officials resisted though FW eventually managed to get him more powers. (Cf. 18 July 1856.)
 
 Along with Hinckeldey was Carl Saegert, another odd character who FW turned to and their relationship was 'one of the oddest in the entire annals of the Hohenzollern monarchy' (Barclay p238). Along with FW's secretary Schöning, and the queen's secretary, Harder, Saegert was the leading figure in what Leopold called 'a second Camarilla'. They were introduced in the chaos of spring 1848 and FW was impressed by Saegert's apparent grassroots knowledge about revolutionary events and characters. Saegert was a bourgeois social climber, a disreputable character who others despised. His influence peaked during the Crimean War.
 
-1 Nov The Assembly was informed of Pfuel's departure and Brandenburg's appointment. Ludwig Gerlach arrived in Potsdam. The whole Camarilla, which wanted decisive action, was near the king, who was still toying with compromises. On 2/11 Leopold told Brandenburg the main thing was to 'show in every possible way that the King still rules in this country, and not the Assembly'.
+**1 November** The Assembly was informed of Pfuel's departure and Brandenburg's appointment. Ludwig Gerlach arrived in Potsdam. The whole Camarilla, which wanted decisive action, was near the king, who was still toying with compromises. On 2/11 Leopold told Brandenburg the main thing was to 'show in every possible way that the King still rules in this country, and not the Assembly'.
 
-2 Nov Pfuel replaced as Minister President by Count Friedrich Wilhelm von Brandenburg (the king's uncle and former commander of the VI Army Corps) until 11/50, who was also Foreign Minister. The Gerlachs and the wider Camarilla had been toying with the Brandenburg idea since at least mid-July, and cf. 29/9. Otto von Manteuffel was Interior Minister. When Bismarck's name was mentioned as a possible minister around this time, Gerlach reported the King wrote in the margin 'Only to be employed when the bayonet governs unrestricted.'
+**2 November** Pfuel replaced as Minister President by Count Friedrich Wilhelm von Brandenburg (the king's uncle and former commander of the VI Army Corps) until 11/50, who was also Foreign Minister. The Gerlachs and the wider Camarilla had been toying with the Brandenburg idea since at least mid-July, and cf. 29/9. Otto von Manteuffel was Interior Minister. When Bismarck's name was mentioned as a possible minister around this time, Gerlach reported the King wrote in the margin 'Only to be employed when the bayonet governs unrestricted.'
 
-4 Nov A meeting in the evening in Brandenburg's rooms near Sanssouci with the Gerlachs and others. Brandenburg sketched his plan to move the Assembly out of Berlin and said the King would have to be quiet and not make provocative comments, and generally had to be better controlled: 'A stricter etiquette has to be introduced here.' The Gerlachs were happy.
+**4 November** A meeting in the evening in Brandenburg's rooms near Sanssouci with the Gerlachs and others. Brandenburg sketched his plan to move the Assembly out of Berlin and said the King would have to be quiet and not make provocative comments, and generally had to be better controlled: 'A stricter etiquette has to be introduced here.' The Gerlachs were happy.
 
-9 Nov (anniversary of Napoleon's coup 1799) Brandenburg told the National Assembly they were adjourned until 27/11 after which they would meet in Brandenburg (~60km from Berlin). At 2pm 13,000 troops under General Wrangel entered Berlin. Wrangel rode to the Assembly (sitting in a theatre) and told them to disperse, which they did by 5pm. Bismarck was angry the Assembly was not immediately dissolved. He was in Berlin and involved in the logistics around moving the Assembly out of Berlin, protecting ministers. (JS dates the troop movement to the next day.)
+**9 November** (anniversary of Napoleon's coup 1799) Brandenburg told the National Assembly they were adjourned until 27/11 after which they would meet in Brandenburg (~60km from Berlin). At 2pm 13,000 troops under General Wrangel entered Berlin. Wrangel rode to the Assembly (sitting in a theatre) and told them to disperse, which they did by 5pm. Bismarck was angry the Assembly was not immediately dissolved. He was in Berlin and involved in the logistics around moving the Assembly out of Berlin, protecting ministers. (JS dates the troop movement to the next day.)
 
 OP: the revolutionary enthusiasm of March 'evaporated with astonishing speed'. The middle classes were frightened by the extremism of the lower classes who were disillusioned with the modest aims of the Mittelstand liberals. By the end of November the revolutionary movement was defeated in Berlin. But it was still strengthening in the Rhineland and broke out again in May 1849.
 
 Clark: the deputies called for a tax boycott. There was a heated debate at the Frankfurt Assembly about whether to support this, the moderate-conservative majority voted it down. But this closure energised the organisation of the left across Germany. In Saxony, December elections produced a lower house in which 66 of 75 seats were won by democrats. In Germany and France the liberals were increasingly squeezed between radicals and counter-revolution.
 
-## 9 Nov In Vienna The radical Robert Blum, parliamentary deputy of the Frankfurt Assembly, was taken to execution by firing squad. (Confused reports about him had portrayed him to authorities in chaos as more revolutionary than he was. Schwarzenberg decided that his parliamentary privilege did not hold and martial law should apply: Blum is 'the most influential chief of the German anarchists' [false] and if he were condemned and shot 'his comrades [would] see that in Austria we do not fear them'.) His farewell letter to his wife, written as he awaited the firing squad, became a relic: '... Bring up our — now only your — children to be fine people... Everything I feel runs away in tears so I say again, live well dear wife... Farewell! Farewell! Thousand, thousand the last kisses from your Robert... They are coming! Farewell! Well!' An officer saw his tears and said, 'Don't be afraid, it will all be over in an instant.' Blum replied, 'This tear is not the tear of the parliamentary deputy of the German nation Robert Blum, this is the tear of the father and
+**9 November** In Vienna The radical Robert Blum, parliamentary deputy of the Frankfurt Assembly, was taken to execution by firing squad. (Confused reports about him had portrayed him to authorities in chaos as more revolutionary than he was. Schwarzenberg decided that his parliamentary privilege did not hold and martial law should apply: Blum is 'the most influential chief of the German anarchists' [false] and if he were condemned and shot 'his comrades [would] see that in Austria we do not fear them'.) His farewell letter to his wife, written as he awaited the firing squad, became a relic: '... Bring up our — now only your — children to be fine people... Everything I feel runs away in tears so I say again, live well dear wife... Farewell! Farewell! Thousand, thousand the last kisses from your Robert... They are coming! Farewell! Well!' An officer saw his tears and said, 'Don't be afraid, it will all be over in an instant.' Blum replied, 'This tear is not the tear of the parliamentary deputy of the German nation Robert Blum, this is the tear of the father and husband.' This entered radical legend, the 'Song of Robert Blum' was sung across southern Germany into the 20th century, it identified him as 'a man of middle-class attachments and values, a private man who had entered public life' (Clark)`.
 
-husband.' This entered radical legend, the 'Song of Robert Blum' was sung across southern Germany into the 20th century, it identified him as 'a man of middle-class attachments and values, a private man who had entered public life' (Clark)`.
+**11 November** Martial law declared in Berlin, the Civil Guards were soon dispersed.
 
-11 Nov Martial law declared in Berlin, the Civil Guards were soon dispersed.
+**13 November** Ludwig Gerlach returned to Magdeburg.
 
-13 Nov Ludwig Gerlach returned to Magdeburg.
+**16 November** To Johanna:Yesterday he had dinner with FW.
 
-16 Nov To Johanna:Yesterday he had dinner with FW.
-
-19 Nov Leopold to Ludwig: he noted ministers wanted to impose a constitution which he and Rauch opposed. 'Brandenburg avoided talking to me. I find that odd in view of the curious way in which he entered the government. I can't find fault with him for wanting to show ... that he is not a creature or tool of the Potsdam Camarilla.' By 26/11 Leopold reported that 'the power of the Camarilla has largely been absorbed by the cabinet'. Brandenburg was wary of the king and unenthusiastic about the Camarilla's ideas. He thought FW had to honour the promises made in March and a moderately liberal constitution would do the trick. FW was instinctively with the Camarilla, to Brandenburg's annoyance, who blamed FW's March errors for the whole mess. In his diary 19/11, Leopold wrote that FW still saw Bunsen and Radowitz as his main allies 'and in comparison to those two he regards us cattle' — which was important 1849-50. The Camarilla never again had such influence after autumn 1848 (Barclay).
+**19 November** Leopold to Ludwig: he noted ministers wanted to impose a constitution which he and Rauch opposed. 'Brandenburg avoided talking to me. I find that odd in view of the curious way in which he entered the government. I can't find fault with him for wanting to show ... that he is not a creature or tool of the Potsdam Camarilla.' By 26/11 Leopold reported that 'the power of the Camarilla has largely been absorbed by the cabinet'. Brandenburg was wary of the king and unenthusiastic about the Camarilla's ideas. He thought FW had to honour the promises made in March and a moderately liberal constitution would do the trick. FW was instinctively with the Camarilla, to Brandenburg's annoyance, who blamed FW's March errors for the whole mess. In his diary 19/11, Leopold wrote that FW still saw Bunsen and Radowitz as his main allies 'and in comparison to those two he regards us cattle' — which was important 1849-50. The Camarilla never again had such influence after autumn 1848 (Barclay).
 
 21 Nov Prince Felix von Schwarzenberg, a competent character and one of Europe's great landowners, took over in Vienna as Minister President (Carr wrongly dates this to October). He wanted to join Austria with the Zollverein in a new Customs Union; preserve AH dominance in Germany; revive the Bund and have it guarantee AH's borders so that a challenge anywhere required German states to defend her. Gall: Bismarck appraised Schwarzenberg accurately, Radowitz 'formed a totally false picture' of him and 'vastly overestimated in particular the solidarity of opponents of the revolution'.
 
