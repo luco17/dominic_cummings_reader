@@ -1698,15 +1698,11 @@ Barclay: Late April the Landtag voted to recognise the Frankfurt constitution as
 
 **30 April** King Friedrich Augustus II of Saxony sent the liberal deputies home and appointed a conservative government to impose order. By 3 May there were over 100 barricades in Dresden and the king fled and called for Prussian help. Among the revolutionaries were Richard Wagner (influenced by Proudhon and Feuerbach) and Mikhail Bakunin. Wagner: 'The old world is in ruins from which a new world will arise, for the sublime goddess REVOLUTION comes rushing and roaring on the wings of the storm.' Prussian troops were sent by train, marched on the city 9 May, demolished the barricades. Wagner dodged snipers then fled to Switzerland. Bakunin shaved his beard and fled but was arrested, sent back to Russia where he was exiled to Siberia. Wagner wrote to his wife that he'd learned he was 'anything but a true revolutionary', he preferred 'wife, child, hearth and home', and 'people of our kind are not destined for this terrible task... Thus do I bid farewell to revolution.' (!)
 
-# May
-
-Friedjung writes (p2) that in May FW4 spoke to Schwarzenburg in Vienna about the fanciful scheme for a new federal state excluding the Habsburg empire plus a new alliance between this state and the empire. (Doesn't seem to be mentioned anywhere else?)
+**May** Friedjung writes (p2) that in May FW4 spoke to Schwarzenburg in Vienna about the fanciful scheme for a new federal state excluding the Habsburg empire plus a new alliance between this state and the empire. (Doesn't seem to be mentioned anywhere else?)
 
 Elections to the French Legislative Assembly. The results showed a pattern that would endure for over a century. The areas of 'red France' in 1849 would continue to support the Left through radicals and socialists to communists in the mid-20th Century. Those regions supporting order in 1849 continued to support conservative parties. Maurice Agulhon (French historian): 1848 was the 'apprenticeship of the republic' when the political world of modern France came into existence. This pattern does not hold for the German elections of May 1848. (Fascinating that an electoral pattern can hold so long in one place but not another, we don't have good theories for why.)
 
-# May-July
-
-There were demonstrations in favour of the Frankfurt constitution throughout Germany suppressed by Prussian troops including Dresden, the Bavarian Palatinate (after King Maximillian rejected Frankfurt constitution) and Baden where Wilhelm put down the protests killing insurgents.
+**May-July** There were demonstrations in favour of the Frankfurt constitution throughout Germany suppressed by Prussian troops including Dresden, the Bavarian Palatinate (after King Maximillian rejected Frankfurt constitution) and Baden where Wilhelm put down the protests killing insurgents.
 
 # 7 May
 
