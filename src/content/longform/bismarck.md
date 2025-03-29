@@ -2052,7 +2052,7 @@ Blake: before 1852 it was normal for opposition leaders to treat many government
 
 ## 1853
 
-Bleak House, Dickens.
+_Bleak House_, Dickens.
 
 Haussmann appointed by Napoleon to rebuild Paris. Demolished much of old Paris and replaced with wide streets. Cleared space for grand buildings like the Opera House, new railways.
 
@@ -2070,221 +2070,159 @@ Showalter: Zollverein exports to Austria doubled in 8 years to over 1/3 of the E
 
 Gall: The negotiations were either direct or via the Zoll institutions; the Diet and Bismarck had little to do.
 
-May Russia claimed the right to protect Orthodox Christians in the Ottoman Empire.
+**May** Russia claimed the right to protect Orthodox Christians in the Ottoman Empire.
 
-May-July 'Turkish resistance to Russia's demand for a protectorate over the Christian population in the Ottoman Empire led to Russian occupation of the Danubian principalities' (OP). Russia crossed Pruth river on 31/5 then occupied Moldavia and Wallachia (JS).
+**May-July** 'Turkish resistance to Russia's demand for a protectorate over the Christian population in the Ottoman Empire led to Russian occupation of the Danubian principalities' (OP). Russia crossed Pruth river on 31/5 then occupied Moldavia and Wallachia (JS).
 
-1 May To Ludwig Gerlach: the Bund would never be 'anything other than an insurance (and a poor one) against war and revolution'. Cf. to Gerlach, 12/51.
+**1 May** To Ludwig Gerlach: the Bund would never be 'anything other than an insurance (and a poor one) against war and revolution'. Cf. to Gerlach, 12/51.
 
-16 May Heydt initiated a statute prohibiting child labour under 12 and limiting the hours of children 12-14, prohibiting night work, requiring 3 hours of schooling for under 15s. At the time child labour in England and France was prohibited under 8. (Cf. Feb 1849.)
+**16 May** Heydt initiated a statute prohibiting child labour under 12 and limiting the hours of children 12-14, prohibiting night work, requiring 3 hours of schooling for under 15s. At the time child labour in England and France was prohibited under 8. (Cf. Feb 1849.)
 
-29 May Palmerston told Malmesbury that he favoured 'decided measures against Russia' but Aberdeen opposed.
+**29 May** Palmerston told Malmesbury that he favoured 'decided measures against Russia' but Aberdeen opposed.
 
-16 June (David Brown) The Porte officially rejected Russia's demands.
+**16 June** (David Brown) The Porte officially rejected Russia's demands.
 
-July Commodore Perry entered Edo Bay intending to force Japan to open trade as Britain had done in China.
+**July** Commodore Perry entered Edo Bay intending to force Japan to open trade as Britain had done in China.
 
-July Gerlach writes to Bismarck: Manteuffel says that Goltz will only enter ministry if he, Gerlach, is replaced. Goltz is supported by Bethmann-Hollweg's large fortune.
+**July** Gerlach writes to Bismarck: Manteuffel says that Goltz will only enter ministry if he, Gerlach, is replaced. Goltz is supported by Bethmann-Hollweg's large fortune.
 
-3 July Russia entered the Ottoman Empire. Palmerston argued for naval intervention. Aberdeen wanted negotiation. Clarendon, Foreign Secretary, caught between Cabinet tensions.
+**3 July** Russia entered the Ottoman Empire. Palmerston argued for naval intervention. Aberdeen wanted negotiation. Clarendon, Foreign Secretary, caught between Cabinet tensions.
 
-## 15 July (Gall) Bismarck suggested to Manteuffel a delay in commitment viz the Eastern situation — he couldn't see 'why without a cogent reason or strong inducement of any kind we should have to
+**15 July** (Gall) Bismarck suggested to Manteuffel a delay in commitment viz the Eastern situation - he couldn't see 'why without a cogent reason or strong inducement of any kind we should have to rush into taking sides', certainly not with Austria without a clear quid pro quo. **'The cases where in European politics Austria needs us or fears us ...[are] the only ones where we can make progress in German politics...** If only I could hold this daily before His Majesty like a “My Lord, remember the Athenians”.' [What does this reference mean?!] Armed neutrality 'if possible in association with the other German states and Belgium ... would be a position in accordance with our interests and dignity and one that would lend fresh vigour to our influence in non-Austrian Germany'. He hoped Manteuffel's 'quiet cool-headedness' would not 'yield to the excitement of other advisers ... purely for the glory of having been involved' — but 'if we can get something out of it, that's different'.
 
-rush into taking sides', certainly not with Austria without a clear quid pro quo. 'The cases where in European politics Austria needs us or fears us ...[are] the only ones where we can make progress in German politics... If only I could hold this daily before His Majesty like a “My Lord, remember the Athenians”.' [What does this reference mean?!] Armed neutrality 'if possible in association with the other German states and Belgium ... would be a position in accordance with our interests and dignity and one that would lend fresh vigour to our influence in non-Austrian Germany'. He hoped Manteuffel's 'quiet cool-headedness' would not 'yield to the excitement of other advisers ... purely for the glory of having been involved' — but 'if we can get something out of it, that's different'.
+**28 July** The Vienna Note — output of a conference of Austrian, French and British diplomats, proposed a settlement, rejected by Turkey. (Details only became public in August, Derby worried that vacillation was encouraging Russia, cf. Hawkins p79.)
 
-28 July The Vienna Note — output of a conference of Austrian, French and British diplomats, proposed a settlement, rejected by Turkey. (Details only became public in August, Derby worried that vacillation was encouraging Russia, cf. Hawkins p79.)
+**Autumn** Cholera swept Britain. Palmerston pushed for public health measures in cities, sewers, drains. The expense of dealing with an epidemic far exceeded the expense of preventing it, he argued (cf. covid). Arguments in British Cabinet re how to deal with Russia. Aberdeen brought forward franchise reform partly to keep Russell on board (Brown).
 
-Autumn Cholera swept Britain. Palmerston pushed for public health measures in cities, sewers, drains. The expense of dealing with an epidemic far exceeded the expense of dealing with it, he argued (cf. covid). Arguments in British Cabinet re how to deal with Russia. Aberdeen brought forward franchise reform partly to keep Russell on board (Brown).
+**September** Offered minister of state in Hanover. Replied that he could do it only if Hanover would go 'completely hand in hand with Prussia. I could not take off my “Prussianity” like a coat.'
 
-Sep Offered minister of state in Hanover. Replied that he could do it only if Hanover would go 'completely hand in hand with Prussia. I could not take off my “Prussianity” like a coat.'
+**11-13 September** Around then Manteuffel tried to resign after FW had blown up at him. FW said no: 'I am really a harmless creature but a very harassed one, and I've got nerves.' Barclay: 'Prematurely ageing, nervous, frequently depressed, and increasingly suspicious, he was keenly aware that many of his subjects — especially high-ranking ones — held him in scorn and contempt. A voracious reader of newspapers, after 1848 he became hypersensitive to what he regarded as personal affronts from journalists and other mediators of public opinion.' He knew it would be extremely hard to revive his pre-1848 plans. 'As the burdens of his office and his feelings of guilt weighed more heavily upon him, he craved more than ever the intimate company of old friends and a regular daily routine.' Given his dislike of Berlin post-1848 he stayed mostly at the three palaces of Potsdam, Sanssoucci, and Charlottenburg. He and the queen liked a routine. They had breakfast 7:30-8 with Leopold (what became known as 'the coffee report'). After 1848 the former first secretary of the cabinet ministry was now responsible to the Minister President and the veteran official who headed that section, August Costenoble, held the title of State Ministerial Counsellor. With the right to report directly to the King he served as liaison between the ministers and the King. After 1850, Manteuffel increasingly allowed Costenoble to handle routine ministerial reports on his own. FW spent much of his time in the 1850s on his architectural projects which were almost all unfinished, 'a kind of metaphor for the monarchy in the 1850s: imposing but fragmentary.' He also spent time reorganising the court, titles and uniforms again. He met roughly monthly with the cabinet in Crown Council, usually at Bellevue Palace, at which he talked too much. He constantly undermined and infuriated his officials and ministers by saying one thing then undoing it behind their backs, and with his frequent tantrums. He constantly manoeuvred between different factions. Court intrigue was intense throughout the 1850s. Lord Bloomfield remarked in 1854: 'There is perhaps no court in Europe at the present moment where such a maze of intrigue is being carried out as at Berlin... The King thinks that by not avowing his partiality for any particular party, by playing fast and loose with all, that he maintains his own independence and freedom of action, and though he pleases none he also quarrels with none.' Ludwig Gerlach wrote to Leopold 16 July 1852: 'All we can do is accept the anarchy, as the French say; we must accommodate ourselves to the fact that it exists and that we can't get rid of it. Anarchy isn't totally intolerable for us. We've more or less got used to it.'(Barclay p229ff)
 
-11-13 Sep Around then Manteuffel tried to resign after FW had blown up at him. FW said no: 'I am really a harmless creature but a very harassed one, and I've got nerves.' Barclay: 'Prematurely ageing, nervous, frequently depressed, and increasingly suspicious, he was keenly aware that many of his subjects — especially high-ranking ones — held him in scorn and contempt. A voracious reader of newspapers, after 1848 he became hypersensitive to what he regarded as personal affronts from journalists and other mediators of public opinion.' He knew it would be extremely hard to revive his pre-1848 plans. 'As the burdens of his office and his feelings of guilt weighed more heavily upon him, he craved more than ever the intimate company of old friends and a regular daily routine.' Given his dislike of Berlin post-1848 he stayed mostly at the three palaces of Potsdam, Sanssoucci, and Charlottenburg. He and the queen liked a routine. They had breakfast 730-8 with Leopold (what became known as 'the coffee report'). After 1848 the former first secretary of the cabinet ministry was now responsible to the Minister President and the veteran official who headed that section, August Costenoble, held the title of State Ministerial Counsellor. With the right to report directly to the King he served as liaison between the ministers and the King. After 1850, Manteuffel increasingly allowed Costenoble to handle routine ministerial reports on his own. FW spent much of his time in the 1850s on his architectural projects which were almost all unfinished, 'a kind of metaphor for the monarchy in the 1850s: imposing but fragmentary.' He also spent time reorganising the court, titles and uniforms again. He met roughly monthly with the cabinet in Crown Council, usually at Bellevue Palace, at which he talked too much. He constantly undermined and infuriated his officials and ministers by saying one thing then undoing it behind their backs, and with his frequent tantrums. He constantly manoeuvred between different factions. Court intrigue was intense throughout the 1850s. Lord Bloomfield remarked in 1854: 'There is perhaps no court in Europe at the present moment where such a maze of intrigue is being carried out as at Berlin... The King thinks that by not avowing his partiality for any particular party, by playing fast and loose with all, that he maintains his own independence and freedom of action, and though he pleases none he also quarrels with none.' Ludwig Gerlach wrote to Leopold 16 July 1852: 'All we can do is accept the anarchy, as the French say; we must accommodate ourselves to the fact that it exists and that we can't get rid of it. Anarchy isn't totally intolerable for us. We've more or less got used to it.'(Barclay p229ff)
+**28 September** FW letter to Franz Joseph: He complained he'd been forced to 'take an oath to a miserable, French-modern constitution!!!!' but 'it happened, and my word is sacred, and I will not break it. But with the help of the very laws to which I swore ... I will replace and kill the “French ideologies” with real German ständisch institutions... However, as long as we are afflicted by the French constitution, and especially as we free ourselves from it, we still need majorities!!'
 
-## 28 Sep FW letter to Franz Joseph: He complained he'd been forced to 'take an oath to a miserable, French-modern constitution!!!!' but 'it happened, and my word is sacred, and I will not break it. But with the help of the very laws to which I swore ... I will replace and kill the “French ideologies” with real German ständisch institutions... However, as long as we are afflicted by the French constitution, and especially as we free ourselves from it, we still need majorities!!'
-
-# 4 Oct
-
-The Sultan declared war on Russia, encouraged by Britain and France. The Austrian Foreign Minister Buol:
-
-1. was alarmed by Russian troops around the Danube,
-2. saw a chance to shut Russia permanently out of the Balkans and increase Austrian power there.
+**4 October** The Sultan declared war on Russia, encouraged by Britain and France. The Austrian Foreign Minister Buol was a) alarmed by Russian troops around the Danube, b) saw a chance to shut Russia permanently out of the Balkans and increase Austrian power there.
 
 Conservative ministers opposed him, Franz Joseph was dubious. Britain had long argued that the European balance required the preservation of the Ottoman Empire. In 1841, Britain and France had barred Russian access to the Mediterranean in the London Straits Agreement (all warships were barred from the Straits except the Sultan's allies during wartime).
 
-# Gall (p122)
+Gall (p122): hardcore conservatives in Vienna, like in Berlin, wanted an alliance with Russia and partition of Balkans into Russian/Austrian spheres of influence. The liberals around Buol, like the Wochenblatt network around Wilhelm, preferred alliance with the West and Austrian protectorate over the whole Balkans. A network of Schwarzenberg and Metternich fans preferred armed neutrality and watching for the chance to consolidate and extend the Bund.
 
-Hardcore conservatives in Vienna, like in Berlin, wanted an alliance with Russia and partition of Balkans into Russian/Austrian spheres of influence. The liberals around Buol, like the Wochenblatt network around Wilhelm, preferred alliance with the West and Austrian protectorate over the whole Balkans. A network of Schwarzenberg and Metternich fans preferred armed neutrality and watching for the chance to consolidate and extend the Bund.
+**16 October** Pourtales to Bethmann-Hollweg: 'Bismarck is continually using and abusing his party colleagues. To him they are ... post-horses on which to ride to the next stage. His knightly exterior hides nothing but a Judas and I will not go one step of the way with him.' Gall: the verdict of 'opportunist loner' was very much in the air and very damaging. Bismarck said of Pourtales that he was one of 'the thickest numbskulls I have ever come across ... with a faint touch of church, salon, scholarship and brothel about him'.
 
-# 16 Oct
+**November** The Battle of Sinope: Russian navy destroyed Ottoman fleet. To Gerlach: 'We are in the same position with regard to the Gothaer [moderate/old liberals] as were Louis XIII and XIV to the German Protestants. At home we have no use for them, but in the small states they are the only elements that want anything to do with us.' OP: Richelieu had exploited Lutheran Protestants against the Habsburgs, Bismarck was suggesting a similar move.
 
-Pourtales to Bethmann-Hollweg: 'Bismarck is continually using and abusing his party colleagues. To him they are ... post-horses on which to ride to the next stage. His knightly exterior hides nothing but a Judas and I will not go one step of the way with him.' Gall: the verdict of 'opportunist loner' was very much in the air and very damaging. Bismarck said of Pourtales that he was one of 'the thickest numbskulls I have ever come across ... with a faint touch of church, salon, scholarship and brothel about him'.
+**14 December** Palmerston resigned as Home Secretary. This was ostensibly over differences re extending the franchise. There were also big foreign policy differences. Cabinet ministers and the public thought foreign policy was the real reason for the split. Palmerston wanted a tougher approach to Russia. He argued autumn 1853 that Turkey was not a 'dying power' and remained crucial to the balance of power.
 
-# Nov
+**December** (Barclay) Prussia joined Austria, France and Britain in a note to Russia calling for the maintenance of the integrity of the Ottoman Empire.
 
-The Battle of Sinope: Russian navy destroyed Ottoman fleet. To Gerlach: 'We are in the same position with regard to the Gothaer [moderate/old liberals] as were Louis XIII and XIV to the German Protestants. At home we have no use for them, but in the small states they are the only elements that want anything to do with us.' OP: Richelieu had exploited Lutheran Protestants against the Habsburgs, Bismarck was suggesting a similar move.
+**19 December** Bismarck-Gerlach: 'Our politics have no other exercise room than Germany, not least because of the way we have grown and intertwined with it and Austria hopes desperately to use this fact for itself. **There is no room for us both as long as Austria makes its claims. In the long run we cannot coexist with each other. We breathe the air out of each others' mouths;** one must yield or must be 'yielded' to the other. Until then we must be enemies. I regard that as an 'un-ignorable' fact (if you will pardon the word), however unwelcome it may be.'
 
-# 14 Dec
+**19-20 December** (Gall) To Leopold Gerlach (but this may have been 5/57 see below): 'We cannot make an alliance with France without a certain degree of meanness, but in the Middle Ages very admirable people - even German princes - used a drain to make their escape, rather than be beaten and strangled' (AJPT). Gall quotes similarly ('thrashed or throttled') but says this sentence was in a letter to Leopold Gerlach 19-20/12/53. (In 1853 Ludwig Gerlach referred to the 1848 revolutions — conservatives had 'seized the artillery of the revolution and turned it against the revolution itself, via public speeches, the free press and political organisation'.)
 
-Palmerston resigned as Home Secretary. This was ostensibly over differences re extending the franchise. There were also big foreign policy differences. Cabinet ministers and the public thought foreign policy was the real reason for the split. Palmerston wanted a tougher approach to Russia. He argued autumn 1853 that Turkey was not a 'dying power' and remained crucial to the balance of power.
+**22 December** To sister Malwine, he sneered of the Bund: 'That well-known song of Heine's, “oh Bund, du Hund, du bist nicht gesund”[oh Bund, you dog, you are not healthy], will soon be adopted by unanimous resolution as the national anthem of the German people.'
 
-# Dec (Barclay)
+## 1854
 
-Prussia joined Austria, France and Britain in a note to Russia calling for the maintenance of the integrity of the Ottoman Empire.
-
-# 19 Dec
-
-Bismarck-Gerlach: 'Our politics have no other exercise room than Germany, not least because of the way we have grown and intertwined with it and Austria hopes desperately to use this fact for itself. There is no room for us both as long as Austria makes its claims. In the long run we cannot coexist with each other. We breathe the air out of each others' mouths; one must yield or must be 'yielded' to the other. Until then we must be enemies. I regard that as an 'un-ignorable' fact (if you will pardon the word), however unwelcome it may be.'
-
-# 19-20 Dec (Gall)
-
-## To Leopold Gerlach (but this may have been 5/57 see below): 'We cannot make an alliance with France without a certain degree of meanness, but in the Middle Ages very.
-
-Admirable people - even German princes - used a drain to make their escape, rather than be beaten and strangled' (AJPT). Gall quotes similarly ('thrashed or throttled') but says this sentence was in a letter to Leopold Gerlach 19-20/12/53. (In 1853 Ludwig Gerlach referred to the 1848 revolutions — conservatives had 'seized the artillery of the revolution and turned it against the revolution itself, via public speeches, the free press and political organisation'.)
-
-22 Dec To sister Malwine, he sneered of the Bund: 'That well-known song of Heine's, “oh Bund, du Hund, du bist nicht gesund”[oh Bund, you dog, you are not healthy], will soon be adopted by unanimous resolution as the national anthem of the German people.'
-
-1854
-
-Hard Times, Dickens.
+_Hard Times_, Dickens.
 
 Eastern crisis develops: Russia pushing south, war with Turkey.
 
-Northcote-Trevelyan Report led to modern civil service.
+**Northcote-Trevelyan Report led to modern civil service.**
 
-From 1854-73 the Foreign Office was presided over by PUS Edmund (later Lord) Hammond, an imposing man. His appointment was partly because of the influence of the Northcote Trevelyan reforms and the Foreign Secretary thought he ought to appoint an insider. Palmerston approved of the choice. He said of himself that Palmerston's was 'the school in which I was brought up'. After Crimea there were drastic economies in the FO. Gladstone and the spirit of the time pushed many inquiries including into organisation of diplomacy. Ambassadorial representation was cut back with only Paris and Constantinople retaining embassy status. St P and Vienna regained status in 1860 and Berlin in 1862. The PUS also had responsibility for the Secret Service Fund. Hammond insisted the accounts were personal (not official), therefore not transferable to his successor, and destroyed most documents relating to how he spent the money. Evidence suggests £23,000 per year in the 1860s. In 1860 he started upgrading cypher security. Hammond opposed most innovations, such as using printers instead of manual copying. He fought to keep the FO's business hidden from Parliament and HMT. He had a close relationship with Clarendon and Granville, much less so with Russell.
+From 1854-73 the Foreign Office was presided over by PUS Edmund (later Lord) Hammond, an imposing man. His appointment was partly because of the influence of the Northcote Trevelyan reforms and the Foreign Secretary thought he ought to appoint an insider. Palmerston approved of the choice. He said of himself that Palmerston's was 'the school in which I was brought up'. After Crimea there were drastic economies in the Foreign Office. Gladstone and the spirit of the time pushed many inquiries including into organisation of diplomacy. Ambassadorial representation was cut back with only Paris and Constantinople retaining embassy status. St P and Vienna regained status in 1860 and Berlin in 1862. The PUS also had responsibility for the Secret Service Fund. Hammond insisted the accounts were personal (not official), therefore not transferable to his successor, and destroyed most documents relating to how he spent the money. Evidence suggests £23,000 per year in the 1860s. In 1860 he started upgrading cypher security. Hammond opposed most innovations, such as using printers instead of manual copying. He fought to keep the FO's business hidden from Parliament and HMT. He had a close relationship with Clarendon and Granville, much less so with Russell.
 
 In 1854, Bismarck wrote from Frankfurt to Leopold Gerlach about the struggle against ultramontanism: 'It is not a Christian creed, but a hypocritical, idolatrous Papism full of hate and cunning, which conducts an unrelenting struggle with the most infamous weapons against the Protestant governments, and especially against Prussia, the worldly bulwark of the evangelical faith. The struggle goes on in practical affairs from the cabinets of the princes and their ministers to the feather-bed mysteries of the married set. Here in the city and diet, and at nearby courts, “Catholic” and “enemy of Prussia” are identical in meaning.' There can be no peace, ultramontanes are more dangerous than democrats.
 
 Showalter: In 1854 the Bund's Military Commission tried to establish inspections of Bund contingents but they were whitewashes.
 
-## 22 Jan Palmerston had opposed Russell's proposals over winter to extend the franchise. He worried about extending it to 'a great number of electors of a lower class in regards to intelligence, property and independence'. In Jan he warned Russell that 'A low class of electors may naturally be expected to chuse a low class of representatives but even where men of a superior kind are chosen, these men insensibly and unavoidably adapt the language, the tone, and their votes, to the lowest class of electors, if that class is numerous; just as actors are led to neglect the boxes and the pit, and to play for the shilling gallery.' We will get MPs 'incapable of taking large views' for the sake of some 'fleeting popularity among the lower classes' and in defiance of 'the
+**22 January** Palmerston had opposed Russell's proposals over winter to extend the franchise. He worried about extending it to 'a great number of electors of a lower class in regards to intelligence, property and independence'. In Jan he warned Russell that 'A low class of electors may naturally be expected to chose a low class of representatives but even where men of a superior kind are chosen, these men insensibly and unavoidably adapt the language, the tone, and their votes, to the lowest class of electors, if that class is numerous; just as actors are led to neglect the boxes and the pit, and to play for the shilling gallery.' We will get MPs 'incapable of taking large views' for the sake of some 'fleeting popularity among the lower classes' and in defiance of 'the intelligent & respectable classes whose good opinion is most to be valued'. A few days later he added to Aberdeen that it was bad timing and 'Can it be expected that men who murder their children to get nine pounds to be spent in drink will not sell their vote for whatever they can get for it?'
 
-Intelligent & respectable classes whose good opinion is most to be valued'. A few days later he added to Aberdeen that it was bad timing and 'Can it be expected that men who murder their children to get nine pounds to be spent in drink will not sell their vote for whatever they can get for it?'
+**End January** Crowds gathered outside the Tower of London in the belief they would witness the imprisonment for treason of Lord Aberdeen and Prince Albert. Effigies of the two were burned. Feelings were running high viz the Eastern Crisis.
 
-End Jan Crowds gathered outside the Tower of London in the belief they would witness the imprisonment for treason of Lord Aberdeen and Prince Albert. Effigies of the two were burned. Feelings were running high viz the Eastern Crisis.
+**31 January** Derby denounced government policy as confused and 'discreditable', shrouded in dangerous obscurity and indecision.
 
-31 Jan Derby denounced government policy as confused and 'discreditable', shrouded in dangerous obscurity and indecision.
+**13 February** Russell introduced a Reform Bill. Badly timed. Cabinet chaos. On 3 March he told Parliament further consideration was delayed, on 11 April he had to withdraw it for the rest of the session, and burst into hysterical tears during his speech.
 
-13 Feb Russell introduced a Reform Bill. Badly timed. Cabinet chaos. On 3 March he told Parliament further consideration was delayed, on 11 April he had to withdraw it for the rest of the session, and burst into hysterical tears during his speech.
-
-15 Feb (Gall) Letter to Manteuffel: 'I should be alarmed if we sought protection from the approaching storm by tying our neat seaworthy frigate to Austria's worm-eaten old battleship. Great crises constitute the weather which favours Prussia's growth, provided that it is fearlessly (perhaps even ruthlessly) turned to account by us. If we want to keep on growing, then we must not be afraid to stand alone with 400,000 soldiers, especially as long as the others are fighting and we can by allying with everyone of them still do better business than through a premature and unconditional alliance with so weak and dishonest a confederate as Austria.' OP (p89) Bismarck advised that Prussia should wait until Austria was committed in the east and her troops were deployed in the Balkans then suddenly present Vienna with a demand: either Prussian support against Russia in return for a secret deal establishing spheres of interest, including Austrian respect for Prussia's veto in the Diet; if refused, then Prussia attacks Bohemia.
+**15 February** (Gall) Letter to Manteuffel: **'I should be alarmed if we sought protection from the approaching storm by tying our neat seaworthy frigate to Austria's worm-eaten old battleship. Great crises constitute the weather which favours Prussia's growth, provided that it is fearlessly (perhaps even ruthlessly) turned to account by us. If we want to keep on growing, then we must not be afraid to stand alone with 400,000 soldiers, especially as long as the others are fighting and we can by allying with everyone of them still do better business than through a premature and unconditional alliance with so weak and dishonest a confederate as Austria.' OP (p89) Bismarck advised that Prussia should wait until Austria was committed in the east and her troops were deployed in the Balkans then suddenly present Vienna with a demand: either Prussian support against Russia in return for a secret deal establishing spheres of interest, including Austrian respect for Prussia's veto in the Diet; if refused, then Prussia attacks Bohemia.**
 
 OP: In Berlin there was confusion. The ultra-conservatives such as Gerlach were pro-Russian, Wilhelm was pro-western. The king (whose sister had married Tsar Nicholas) was erratic driven by a desire for neutrality, a fear of isolation and wanting to preserve solidarity with Austria. Tsar Nicholas said of FW, 'My dear brother-in-law goes to bed as a Russian and wakes up as an Englishman.'
 
-20 Feb To Leopold Gerlach: 'Let's have no sentimental alliances in which the wages of noble self-sacrifice must be the awareness of having done a good deed.'
+**20 February** To Leopold Gerlach: 'Let's have no sentimental alliances in which the wages of noble self-sacrifice must be the awareness of having done a good deed.'
 
-March John Bright MP in Commons: '[I]f this phrase of the “balance of power” is to be always an argument for war, the pretext for war will never be wanting, and peace can never be secure.'
+**March** John Bright MP in Commons: '[I]f this phrase of the “balance of power” is to be always an argument for war, the pretext for war will never be wanting, and peace can never be secure.'
 
-7 March (Barclay) FW said, 'The war that is breaking out is an unjust one on both sides. And I will not let Prussia be forced into an unjust war. Prussia should remain firmly neutral.' Gerlach was pro-Russia but given the problems of open support was prepared to support neutrality. Manteuffel leaned towards the western powers early but then supported neutrality. The Wochenblatt network challenged neutrality. On 1 March Bunsen and some of the Wochenblatt network tried to push FW but the Camarilla pushed back. On 19 April, Bunsen, aware of the pressure, asked FW to replace him and the reluctant King appointed Count Bernstorff. Bonin soon followed after a statement rejecting an arrangement with Russia, see below. Gerlach was delighted. Unknown to almost everyone, Saegert was an important factor on FW and was strongly pro-neutrality.
+**7 March** (Barclay) FW said, 'The war that is breaking out is an unjust one on both sides. And I will not let Prussia be forced into an unjust war. Prussia should remain firmly neutral.' Gerlach was pro-Russia but given the problems of open support was prepared to support neutrality. Manteuffel leaned towards the western powers early but then supported neutrality. The Wochenblatt network challenged neutrality. On 1 March Bunsen and some of the Wochenblatt network tried to push FW but the Camarilla pushed back. On 19 April, Bunsen, aware of the pressure, asked FW to replace him and the reluctant King appointed Count Bernstorff. Bonin soon followed after a statement rejecting an arrangement with Russia, see below. Gerlach was delighted. Unknown to almost everyone, Saegert was an important factor on FW and was strongly pro-neutrality.
 
-19 March Palmerston circulated a paper to Cabinet on how the balance of power should be adjusted after a British victory.
+**19 March** Palmerston circulated a paper to Cabinet on how the balance of power should be adjusted after a British victory.
 
-27-28 March Britain and France declared war on Russia. Palmerston then went quiet and focused on the Home Office for months.
+**27-28 March** Britain and France declared war on Russia. Palmerston then went quiet and focused on the Home Office for months.
 
-5 April British troops arrived at Gallipoli.
+**5 April** British troops arrived at Gallipoli.
 
-13 April To Gerlach: 'The sentiment of all my colleagues here, and as far as I can see all the governments of the middle states, is one of deepest concern that the war policy of Vienna should sweep us into an engagement against Russia.'
+**13 April** To Gerlach: 'The sentiment of all my colleagues here, and as far as I can see all the governments of the middle states, is one of deepest concern that the war policy of Vienna should sweep us into an engagement against Russia.'
 
-## 20 April FW renewed the defensive alliance with Austria agreed in 1851, with a mutual territorial guarantee and establishing that Austria might act in the east only in agreement with
+**20 April** FW renewed the defensive alliance with Austria agreed in 1851, with a mutual territorial guarantee and establishing that Austria might act in the east only in agreement with Prussia. If war came in the east, Berlin would mobilise 100-200,000 troops on the eastern frontier. **Bismarck strongly opposed the treaty.** Memoirs: 'At Frankfurt ... I could not avoid a feeling of shame, of bitterness, when I saw how, in face of the demands of Austria ... we sacrificed all our own policy and every independent view; how we fell back from one position to another and, under the pressure of our own inferiority, sought protection on Austria's towing-line, in fear of France and in humility towards England.'
 
-Prussia. If war came in the east, Berlin would mobilise 100-200,000 troops on the eastern frontier. Bismarck strongly opposed the treaty. Memoirs: 'At Frankfurt ... I could not avoid a feeling of shame, of bitterness, when I saw how, in face of the demands of Austria ... we sacrificed all our own policy and every independent view; how we fell back from one position to another and, under the pressure of our own inferiority, sought protection on Austria's towing-line, in fear of France and in humility towards England.'
+**21 April** To Gerlach re Gorchakov: 'G is a solemn, uncouth tom fool, a fox in wooden clogs, when he tries to be clever.'
 
-21 April To Gerlach re Gorchakov: 'G is a solemn, uncouth tom fool, a fox in wooden clogs, when he tries to be clever.'
-
-May (Gall p124)) Bismarck had to mediate in the conflict between FW and Wilhelm, a serious crisis that 'brought the regime to the brink of crisis' says Gall but doesn't really explain what it was. Barclay explains that it arose out of the purge by FW (under the influence of the Gerlach circle) of leading elements of the Wochenblatt network including Pourtales, recently appointed under secretary of state in the FO, Bunsen (London ambassador), and Bonin (War Minister). Wilhelm was 'almost hysterical' (Barclay) in rage at his allies' dismissal. In a violent letter of 5 May, Wilhelm told his brother that advisers were trying to move Prussia 'into the Russian camp', complained at the lack of consultation, said 'I must regard Bonin's fall as directed against myself and thus, as the first officer of the army, I herewith submit a most firm protest against his release, and beseech you at this important moment to retract Bonin's dismissal immediately, for your own good, that of the army, and for your own political position', otherwise he would immediately leave Prussia and go to Baden to dissociate himself from the King's policies. This was gross insubordination. FW tried to calm the situation and didn't want it to blow up and make Prince Carl the heir, but insisted on an apology for 'you have set a very wicked example for my army and my subjects'. Wilhelm backed down and apologised.
+**May** (Gall p124) Bismarck had to mediate in the conflict between FW and Wilhelm, a serious crisis that 'brought the regime to the brink of crisis' says Gall but doesn't really explain what it was. Barclay explains that it arose out of the purge by FW (under the influence of the Gerlach circle) of leading elements of the Wochenblatt network including Pourtales, recently appointed under secretary of state in the FO, Bunsen (London ambassador), and Bonin (War Minister). Wilhelm was 'almost hysterical' (Barclay) in rage at his allies' dismissal. In a violent letter of 5 May, Wilhelm told his brother that advisers were trying to move Prussia 'into the Russian camp', complained at the lack of consultation, said 'I must regard Bonin's fall as directed against myself and thus, as the first officer of the army, I herewith submit a most firm protest against his release, and beseech you at this important moment to retract Bonin's dismissal immediately, for your own good, that of the army, and for your own political position', otherwise he would immediately leave Prussia and go to Baden to dissociate himself from the King's policies. This was gross insubordination. FW tried to calm the situation and didn't want it to blow up and make Prince Carl the heir, but insisted on an apology for 'you have set a very wicked example for my army and my subjects'. Wilhelm backed down and apologised.
 
 Bismarck was obviously happy about the domestic implications but worried that the counter-effect would be a lurch towards a simple conservative solidarity of the three eastern Powers with Prussia playing third fiddle and getting nothing. Gall: His relations barely improved with Wilhelm and rumours spread in Berlin that he favoured a French alliance, even an alliance with liberalism.
 
-?May He argued to the King that instead of fulfilling the April agreement, Prussia should put 200,000 in Upper Silesia. Here they could cross 'either the Russian or the Austrian borders with equal facility... With 200,000 men your majesty would at this moment become the master of the entire European situation, would be able to dictate the peace and win for Prussia a worthy position in Germany.' FW replied, 'A man like Napoleon can commit such acts of violence but not I.' FW continued to cooperate tentatively with Austria much to Bismarck's rage: must Prussia always play Leporello to the Austrian Don Juan (i.e act as servant)?
+**?May** He argued to the King that instead of fulfilling the April agreement, Prussia should put 200,000 in Upper Silesia. Here they could cross 'either the Russian or the Austrian borders with equal facility... With 200,000 men your majesty would at this moment become the master of the entire European situation, would be able to dictate the peace and win for Prussia a worthy position in Germany.' FW replied, 'A man like Napoleon can commit such acts of violence but not I.' FW continued to cooperate tentatively with Austria much to Bismarck's rage: must Prussia always play Leporello to the Austrian Don Juan (i.e act as servant)?
 
-10 May To his brother: 'That at the sound of the first shot against the Russians we shall turn ourselves into the whipping boy for the Western Powers and let them dictate to us the terms of peace while we carry the main burden of war is as clear as a school arithmetic exercise.'
+**10 May** To his brother: 'That at the sound of the first shot against the Russians we shall turn ourselves into the whipping boy for the Western Powers and let them dictate to us the terms of peace while we carry the main burden of war is as clear as a school arithmetic exercise.'
 
-2 June (KL) Gerlach discussed with him the possibility of becoming Minister President but wrote in his diary, 'He is not completely transparent and hence unreliable.' (KL footnote #32 dates this to 1864, which I assume is a fat finger.)
+**2 June** (KL) Gerlach discussed with him the possibility of becoming Minister President but wrote in his diary, 'He is not completely transparent and hence unreliable.' (KL footnote #32 dates this to 1864, which I assume is a fat finger.)
 
-3 June Austria immediately took advantage of the deal with FW. Buol issued an ultimatum forcing Russia to withdraw troops from the Danubian principalities which Austria occupied. Tsar was enraged by Austrian ingratitude after saving her against Hungary in 1849 and then helping viz Prussia.
+**3 June** Austria immediately took advantage of the deal with FW. Buol issued an ultimatum forcing Russia to withdraw troops from the Danubian principalities which Austria occupied. Tsar was enraged by Austrian ingratitude after saving her against Hungary in 1849 and then helping viz Prussia.
 
-7 June (JS) FJ and FW met in Teschen.
+**7 June** (JS) FJ and FW met in Teschen.
 
-July (KL) He was appointed one of 26 new members of the advisory Council of State that FW convened in Berlin.
+**July** (KL) He was appointed one of 26 new members of the advisory Council of State that FW convened in Berlin.
 
-24 July (Gall) Prokesh summed up Bismarck's attitude as based 'not so much on love of Russia as envy of Austria, not so much on any conservative principle as on a ravenous appetite for more power in Germany'.
+**24 July** (Gall) Prokesh summed up Bismarck's attitude as based 'not so much on love of Russia as envy of Austria, not so much on any conservative principle as on a ravenous appetite for more power in Germany'.
 
-## August Disraeli letter to Lady Londonderry complaining about Derby: 'There are a thousand things which ought to be done which are elements of power, and which I am obliged to decline doing or
+**August** Disraeli letter to Lady Londonderry complaining about Derby: 'There are a thousand things which ought to be done which are elements of power, and which I am obliged to decline doing or to do at great sacrifice. Whether it be influence with the Press, or organisation throughout the country, everyone comes to me, and everything is expected from me. **Tho' so many notables and magnificoes belong to the party there was never an aggregation of human being who exercised less social influence. They seem to despise all the modes and means of managing mankind.** As for our Chief we never see him. His House is always closed, he subscribes to nothing tho' his fortune is very large; and expects nevertheless everything to be done. I have never yet been fairly backed in life. **All the great persons I have known, even when what is called 'ambitious' by courtesy, have been unequal to a grand game.** This has been my fate and I never felt it more keenly than at the present moment, with a confederate always at Newmarket and Doncaster, when Europe, nay the world is in the throes of immense changes and all the elements of power at home in a state of dissolution. If ever there were a time when a political chief should concentrate his mind and resources on the situation 'tis the present. There cannot be too much vigilance, too much thought, and too much daring - all seem wanting.
 
-to do at great sacrifice. Whether it be influence with the Press, or organisation throughout the
-country, everyone comes to me, and everything is expected from me. Tho' so many notables and
-magnificoes belong to the party there was never an aggregation of human being who
-exercised less social influence. They seem to despise all the modes and means of managing
-mankind. As for our Chief we never see him. His House is always closed, he subscribes to nothing
-tho' his fortune is very large; and expects nevertheless everything to be done. I have never yet
-been fairly backed in life. All the great persons I have known, even when what is called
-'ambitious' by courtesy, have been unequal to a grand game. This has been my fate and I never
-felt it more keenly than at the present moment, with a confederate always at Newmarket and
-Doncaster, when Europe, nay the world is in the throes of immense changes and all the elements of
-power at home in a state of dissolution. If ever there were a time when a political chief should
-concentrate his mind and resources on the situation 'tis the present. There cannot be too much
-vigilance, too much thought, and too much daring - all seem wanting.
+**August** Britain, France, Austria demanded that Russia: abandon its protectorate over the Danubian Principalities, abandon its claims to be protector of Christians in Turkey, recognise the freedom of shipping on the Danube, and accept a revision of the 13 July 1841 treaties.
 
-August Britain, France, Austria demanded that Russia: abandon its protectorate over the
-Danubian Principalities, abandon its claims to be protector of Christians in Turkey, recognise the
-freedom of shipping on the Danube, and accept a revision of the 13 July 1841 treaties.
+**August** To Leopold Gerlach: Prussia is to be 'reduced to the role of a source of money and recruits ... without our being allowed any hand in the matter'.
 
-August To Leopold Gerlach: Prussia is to be 'reduced to the role of a source of money and recruits
-... without our being allowed any hand in the matter'.
+**September** Battle of the Alma, allied troops beat Russia and threatened Sevastopol.
 
-Sep Battle of the Alma, allied troops beat Russia and threatened Sevastopol.
+**??** Bismarck's first visit to Napoleon.
 
-?? Bismarck's first visit to Napoleon.
+**1 September** Bismarck annoys the King: his wife was ill, he left the palace to be with her. Gerlach told him this had gone down badly (Memoirs 1p161).
 
-1 September Bismarck annoys the King: his wife was ill, he left the palace to be with her. Gerlach
-told him this had gone down badly (Memoirs 1p161).
+**October** (OP p93) Bismarck talks to Russian attaché at Frankfurt about a Russia-Prussia alliance and encouraged the idea of a joint attack on Austria 'while she is still unprepared', while FW was negotiating the treaty with Austria. When Nicholas refused, Bismarck replied, 'Necessity will compel you to do it.' Nicholas replied that this was 'just as sad as it is possible'. The rumours that swept Berlin of his ideas strengthened his reputation for unprincipled adventures.
 
-Oct (OP p93) Bismarck talks to Russian attaché at Frankfurt about a Russia-Prussia alliance and
-encouraged the idea of a joint attack on Austria 'while she is still unprepared', while FW was
-negotiating the treaty with Austria. When Nicholas refused, Bismarck replied, 'Necessity will
-compel you to do it.' Nicholas replied that this was 'just as sad as it is possible'. The rumours that
-swept Berlin of his ideas strengthened his reputation for unprincipled adventures.
+**25 October** Battle of Balaclava, and, after a miscommunicated order in the fog of war, the charge of the Light Brigade.
 
-25 October Battle of Balaclava, and, after a miscommunicated order in the fog of war, the charge of
-the Light Brigade.
+**November** Bismarck made a 'royal peer' of the Upper House.
 
-Nov Bismarck made a 'royal peer' of the Upper House.
+**November** Battle of Inkerman. After this, siege of Sevastopol.
 
-Nov Battle of Inkerman. After this, siege of Sevastopol.
+**2 December** Triple Alliance of Britain, France, Austria agreed. They invited Prussia to join them. Barclay: It was a shock to Prussia and seemed contrary to their agreement with Austria for the maintenance of peace in central Europe. FW said it was 'an infamous betrayal'.
 
-2 Dec Triple Alliance of Britain, France, Austria agreed. They invited Prussia to join them.
-Barclay: It was a shock to Prussia and seemed contrary to their agreement with Austria for the
-maintenance of peace in central Europe. FW said it was 'an infamous betrayal'.
+**8 December** (EF) To Manteuffel re Austria's policy: 'This Jewish mixture of cowardice, greed and impudence which characterises present Austrian policy will, when sobriety returns, bring the imperial state severe misery.'
 
-8 Dec (EF) To Manteuffel re Austria's policy: 'This Jewish mixture of cowardice, greed and
-impudence which characterises present Austrian policy will, when sobriety returns, bring the
-imperial state severe misery.'
-
-12 Dec To Kleist: 'Our foreign policy is bad for it is driven by fear. I have had nothing to do with it
-since September and appear to have fallen a bit into disgrace, at least I have become rather
+**12 December** To Kleist: 'Our foreign policy is bad for it is driven by fear. I have had nothing to do with it since September and appear to have fallen a bit into disgrace, at least I have become rather
 dispensable.'
 
-12 Dec Derby denounced the government's handling of the Crimea war: 'The fatal words “too
-late” had adhered to the whole conduct of the war.' On 19/12 The Times dropped its support for
+**12 December** Derby denounced the government's handling of the Crimea war: 'The fatal words “too late” had adhered to the whole conduct of the war.' On 19/12 The Times dropped its support for
 Aberdeen and denounced the mismanagement of the expedition.
 
-15 Dec Bismarck-Gerlach: Re the 2/12 Treaty, 'I would absolutely not join the coalition, because
+**15 December** Bismarck-Gerlach: Re the 2/12 Treaty, 'I would absolutely not join the coalition, because
 everybody will see that we did it out of fear and conclude that the more they frighten us, the more
 they get from us. Decorum alone forbids it in my view ... The moral is that in all German cabinets
 from the tiniest to the greatest, fear is the only thing that determines decisions; each is afraid of
 the other, all are afraid of France.'
 
-21 Dec Bismarck-Gerlach: 'Three days ago I got a letter from Manteuffel which made me very
-happy. He too thinks that we should not join the 2 December ... As long as we show relaxed self-
-confidence, the others will have respect for us. As soon as we betray fear, they will use this
+**21 December** Bismarck-Gerlach: 'Three days ago I got a letter from Manteuffel which made me very happy. He too thinks that we should not join the 2 December ... As long as we show relaxed self- confidence, the others will have respect for us. **As soon as we betray fear, they will use this ignoble weakness and try to increase and exploit it... In order to fill the Federal states with sufficient fear, as they have of Austria, we have to show ourselves capable, if others make us desperate, to join with France and even Liberalism. As long as we behave well, nobody takes us seriously and then all go where the threat is greater.'**
 
----
+## 1855
 
-ignoble weakness and try to increase and exploit it... In order to fill the Federal states with sufficient fear, as they have of Austria, we have to show ourselves capable, if others make us desperate, to join with France and even Liberalism. As long as we behave well, nobody takes us seriously and then all go where the threat is greater.'
-
-1855
-
-Sevastopol Sketches, Tolstoy.
+_Sevastopol Sketches_, Tolstoy.
 
 He became a member of the House of Lords to which he belonged for the next 43 years.
 
@@ -2292,29 +2230,27 @@ He became a member of the House of Lords to which he belonged for the next 43 ye
 
 Early in 1855 (JS) Buol wrote to Thun arguing: if there is war, it's better if Prussia sides with Russia then we in alliance with France can grab Silesia, restore Saxony 'and we have peace at last in Germany', and 'for this price France can gladly take the Rhineland'.
 
-Jan (OP) Austrian ambassador in Berlin reported that on visits to Berlin Bismarck was arguing that dualism in Germany could no longer be tolerated and Austria should be ejected from Germany. Jan Buol replaced Prokesch — who Bismarck despised but wanted to stay because, as he wrote to his brother, 'such a clumsy opponent I shall never get again' — with Rechberg and invited Manteuffel to replace Bismarck. Manteuffel refused. The Austrians tried to get the Bund to join their alliance against Russia. Bismarck countered them in the arcania of the Bund treaties and exploited the south German fear of France. (JS p127 — Buol's suggestion re Bismarck was made on 20/2.)
+**January** (OP) Austrian ambassador in Berlin reported that on visits to Berlin Bismarck was arguing that dualism in Germany could no longer be tolerated and Austria should be ejected from Germany. Jan Buol replaced Prokesch — who Bismarck despised but wanted to stay because, as he wrote to his brother, 'such a clumsy opponent I shall never get again' — with Rechberg and invited Manteuffel to replace Bismarck. Manteuffel refused. The Austrians tried to get the Bund to join their alliance against Russia. Bismarck countered them in the arcania of the Bund treaties and exploited the south German fear of France. (JS p127 — Buol's suggestion re Bismarck was made on 20/2.)
 
-6 Jan To Gerlach: 'Please don't take me for a Bonapartist, only for a very ambitious Prussian. From this perspective I consider it as impolitic to allow Austria to believe that we would never see a separate understanding with the West, as to ram it down Western throats that we would never tie ourselves to Russia.'
+**6 January** To Gerlach: 'Please don't take me for a Bonapartist, only for a very ambitious Prussian. From this perspective I consider it as impolitic to allow Austria to believe that we would never see a separate understanding with the West, as to ram it down Western throats that we would never tie ourselves to Russia.'
 
-10 Jan (JS) Bismarck summoned to Berlin, stayed until 18th.
+**10 January** (JS) Bismarck summoned to Berlin, stayed until 18th.
 
-20 Jan Palmerston saw failures of Britain to prosecute the war effectively as reflecting serious domestic problems: 'The true cause [of failure] lies in the apathy and indifference the neglect, the incapacity, the want of forsight the want of thought, the want of resource on the part of men in authority in the Crimea, and I should fear, in the want of sufficiently stimulating, peremptory and directing instructions to those men from home.' (Syntax per original.)
+**20 January** Palmerston saw failures of Britain to prosecute the war effectively as reflecting serious domestic problems: 'The true cause [of failure] lies in the apathy and indifference the neglect, the incapacity, the want of forsight the want of thought, the want of resource on the part of men in authority in the Crimea, and I should fear, in the want of sufficiently stimulating, peremptory and directing instructions to those men from home.' (Syntax per original.)
 
-25 Jan Russell resigned from Cabinet after a radical MP gave notice of a motion for a select committee to inquire into the conduct of the war. Derby, who had been hesitant, agreed the Conservatives had to join the attack.
+**25 January** Russell resigned from Cabinet after a radical MP gave notice of a motion for a select committee to inquire into the conduct of the war. Derby, who had been hesitant, agreed the Conservatives had to join the attack.
 
-30 Jan (JS) Bund rejected Austria's motion to mobilise and Austria withdrew it. Bismarck insisted any mobilisation had to be 'neutral' and 'in every direction', that is, stopping its anti-Russian and pro-French flavour.
+**30 January** (JS) Bund rejected Austria's motion to mobilise and Austria withdrew it. Bismarck insisted any mobilisation had to be 'neutral' and 'in every direction', that is, stopping its anti-Russian and pro-French flavour.
 
-## 30 Jan Commons passed a motion for a committee of inquiry into the war (305-108, such a big majority that the shocked MPs burst out laughing). Aberdeen had presided over the war without enthusiasm and under constant attack for vacillation. Aberdeen resigned.Victoria tried everything to avoid making Palmerston PM. The Queen asked Derby to take over but Derby insisted on trying to get Palmerston to serve; he wouldn't. Not settled until 6/2, after many discussions between the Queen and leading aristocrats, when Palmerston became PM. (Disraeli was furious and always maintained Derby had made a huge error; Gladstone agreed. Disraeli was wrong in predicting that Palmerston was too old and would quickly fail.) Gladstone reluctantly joined but within days resigned over the inquiry and took some Peelites with him. Palmerston complained to his brother of the difficulty of finding talent to appoint: 'I have had a very harassing work of it to fill up all the
+**30 January** Commons passed a motion for a committee of inquiry into the war (305-108, such a big majority that the shocked MPs burst out laughing). Aberdeen had presided over the war without enthusiasm and under constant attack for vacillation. Aberdeen resigned. Victoria tried everything to avoid making Palmerston PM. The Queen asked Derby to take over but Derby insisted on trying to get Palmerston to serve; he wouldn't. Not settled until 6/2, after many discussions between the Queen and leading aristocrats, when Palmerston became PM. (Disraeli was furious and always maintained Derby had made a huge error; Gladstone agreed. Disraeli was wrong in predicting that Palmerston was too old and would quickly fail.) Gladstone reluctantly joined but within days resigned over the inquiry and took some Peelites with him. Palmerston complained to his brother of the difficulty of finding talent to appoint: 'I have had a very harassing work of it to fill up all the vacant places. It is so difficult to find men fit to be appointed & willing to accept while there are shoals unfit, & pressing for appointments but I have nearly done.' Cf. 20/1, he focused on procurement, transport, health and sanitation of the army (received news from Florence Nightingale and read reports from soldiers at the front). (Derby was blamed by Disraeli and others for his failure to navigate the complex negotiations and form a ministry. Derby, like many others, underrated the prospects of Palmerston being to form and maintain a ministry.)
 
-vacant places. It is so difficult to find men fit to be appointed & willing to accept while there are shoals unfit, & pressing for appointments but I have nearly done.' Cf. 20/1, he focused on procurement, transport, health and sanitation of the army (received news from Florence Nightingale and read reports from soldiers at the front). (Derby was blamed by Disraeli and others for his failure to navigate the complex negotiations and form a ministry. Derby, like many others, underrated the prospects of Palmerston being to form and maintain a ministry.)
+**25 February** Letter from Keyserling: 'Do you not remember what in probably lucid moments you prophesied to me then [university]: a constitution must come, that's the way to outward honours, at the same time one must be inwardly devout?'
 
-25 Feb Letter from Keyserling: 'Do you not remember what in probably lucid moments you prophesied to me then [university]: a constitution must come, that's the way to outward honours, at the same time one must be inwardly devout?'
+**28 February** To Manteuffel: 'I was certainly no opponent of Austria's on principle when I come here four years ago but I should have had to disown every drop of Prussian blood had I wished to retain even a moderate affection for Austria as its present rulers understand it.'
 
-28 Feb To Manteuffel: 'I was certainly no opponent of Austria's on principle when I come here four years ago but I should have had to disown every drop of Prussian blood had I wished to retain even a moderate affection for Austria as its present rulers understand it.'
+**March** Nicholas I died (married to Wilhelm's sister), Alexander II emperor (Wilhelm's nephew).
 
-March 1855 Nicholas I died (married to Wilhelm's sister), Alexander II emperor (Wilhelm's nephew).
-
-March A conference convened in Vienna to discuss peace terms. Palmerston insisted on Britain's war aims being fulfilled: particularly the Ottoman Empire's preservation and limits on Russia's presence in the Black Sea. Britain was represented by Russell who embarrassed himself by agreeing to terms in Vienna, attacking them in the House of Commons, and was ridiculed. He resigned shortly after in July.
+**March** A conference convened in Vienna to discuss peace terms. Palmerston insisted on Britain's war aims being fulfilled: particularly the Ottoman Empire's preservation and limits on Russia's presence in the Black Sea. Britain was represented by Russell who embarrassed himself by agreeing to terms in Vienna, attacking them in the House of Commons, and was ridiculed. He resigned shortly after in July.
 
 Eve of his 40th birthday, April 'One goes on imagining that one is at the beginning of one's life and that life proper is still to come [but in reality one was already] over the top and it is downhill all the way now to the Schönhausen crypt.'
 
