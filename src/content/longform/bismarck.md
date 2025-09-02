@@ -3203,9 +3203,7 @@ He wrote of officials: 'The majority of these highly expert officials were at he
 
 Gall (p199): When he took power 'his appraisal of the circumstances was well wide of reality', he 'completely and utterly misjudged the situation' and his initial reactions to the situation were 'in every respect inappropriate ... from the standpoint of a man thinking purely in terms of success'. He thought he would be able to pressure the middle classes by mobilising the lower classes. But the boom and rapid industrialisation of the 1850s strengthened the middle classes politically as well as economically. Antagonisms between the propertied middle class and the petty bourgeois strata of the craft trades and small-scale commerce were greatly diminished compared to 1848-50. His success came not from playing off the middle-classes and lower classes against each other, but instead from the insight 'painfully acquired after a whole series of setbacks' that he must ally with at least some sections of the middle-classes and share power with them.
 
-## Outside the Kreuzzeitung network, his appointment was universally greeted with disapproval. Many thought it was the prelude to a military coup against the constitution and possibly war. It was seen
-
-As a desperate last throw of the reactionaries' dice and most assumed he would not last long. Rumours started immediately of his imminent dismissal.
+Outside the Kreuzzeitung network, his appointment was universally greeted with disapproval. Many thought it was the prelude to a military coup against the constitution and possibly war. It was seen as a desperate last throw of the reactionaries' dice and most assumed he would not last long. Rumours started immediately of his imminent dismissal.
 
 Gall argues that Bismarck was pushed towards a 'white' revolutionary foreign policy by the internal struggle. But his views on Austria and foreign policy predated the constitutional conflict and he would have 'sneered' at the idea he was forced into his foreign policy by the liberals (Pflanze — surely right). I think Gall is wrong to think of foreign policy as produced by domestic struggle — there is vast evidence suggesting the opposite, that Bismarck had clear views on the right foreign path that he stuck to despite massive pressure. An example is the way he stood alone from November 1863 in rejecting the alliance with Augustenburg. If Gall were right, then he would have done as almost everyone urged and sided with Augustenburg and with the nationalist liberals.
 
@@ -3219,21 +3217,16 @@ His liberal opponents thought:
 
 His goals in winter 1862
 
-Protect the independence of the Prussian monarchy and the army against the growing liberal forces and civil service sympathies for the liberals.
-Expand Prussian power in North Germany, undermine the Bund's constraints, push Austria out of North Germany. If possible do this without war, increase pressure and use circumstances as they arise to do so, if necessary war but only in the right circumstances when Austria is isolated. E.g to Karolyi, 4/12/62: 'Our relations must become either better or worse than they now are... If Austria persists in her present direction and restricts our action and the air we breathe, then you will conjure up catastrophes which in the last analysis must end in a fight.'
-Expand his own freedom of manoeuvre, evade all constraints from all parties, break alliances between enemies. He did not control his Cabinet or King. He was surrounded by people who despised him and wanted to replace him.
+A. Protect the independence of the Prussian monarchy and the army against the growing liberal forces and civil service sympathies for the liberals.
+B. Expand Prussian power in North Germany, undermine the Bund's constraints, push Austria out of North Germany. If possible do this without war, increase pressure and use circumstances as they arise to do so, if necessary war but only in the right circumstances when Austria is isolated. E.g to Karolyi, 4/12/62: 'Our relations must become either better or worse than they now are... If Austria persists in her present direction and restricts our action and the air we breathe, then you will conjure up catastrophes which in the last analysis must end in a fight.'
+C. Expand his own freedom of manoeuvre, evade all constraints from all parties, break alliances between enemies. He did not control his Cabinet or King. He was surrounded by people who despised him and wanted to replace him.
 
 Some aspects of his approach:
 
 - He looked for ways to a) compromise with the liberals, b) to divide them, while also c) hinting about a black reactionary alternative he could explore. He was held back by Wilhelm's intransigence (encouraged by Manteuffel).
 - He looked for ways to expand Prussian power by mobilising the desire of Prussia's liberal/commercial classes for economic liberalism and German nationalism.
 - He looked for ways to use the negotiations over the renewal of the Zollverein in 1865 and combine with ideas about a Zollverein parliament to: a) divide liberals and b) divide Austria from German states. E.g 7/61 and Christmas Day 1862 to Wilhelm: The Zollverein is 'the most effectual basis for the common handling of the economic and eventually of the political interests of the German states.' January 1863 to Diet: 'The German nation can find a competent organ through which to influence the course of common affairs only in a representative body chosen directly by the people of each confederate state according to its population.'
-- Threaten all Powers with the possibility of alliance with their main opponents to nudge them into closer relations with Prussia and disconnect them from other alliances. Only Russia was
-
----
-
-pretty secure in 1862 and caused few problems 1862-6 but this was partly because of the Alvensleben Convention in early 1863, his first test (and which most thought he was wrong about).
-
+- Threaten all Powers with the possibility of alliance with their main opponents to nudge them into closer relations with Prussia and disconnect them from other alliances. Only Russia was pretty secure in 1862 and caused few problems 1862-6 but this was partly because of the Alvensleben Convention in early 1863, his first test (and which most thought he was wrong about).
 - With Austria, he said repeatedly: either a) a deal (Austria lets Prussia dominate north Germany, Prussia supporting her against France and Italy) or b) conflict (diplomatic and ultimately if necessary military). Use Zollverein and nationalism against Austria. Scuppered Austria's Bund reform plans in 1863.
 - Disconnect liberals from popular support. Most liberals regarded it as axiomatic that German unification would have to be based on liberal principles and required the liberalisation of Prussia. Bismarck thought they had little popular support, did not understand the realities of power politics, and Prussia could expand without move toward the British system with government responsible to parliament.
 - Grip the civil service and stop officials attacking the government.
@@ -3241,19 +3234,13 @@ pretty secure in 1862 and caused few problems 1862-6 but this was partly because
 
 ---
 
-# 23 September
+**23 September** The Landtag passed the 1862 budget but struck out all funds for military reorganisation by 308-11 and rejected by 273-68 the army reform. (Some confusion over numbers in different accounts is because of conflation of two different votes.) Wilhelm used this fact in a letter (evening of 23rd) to his wife to justify his appointment of Bismarck. 'Faced with such conduct I could not hesitate nor would my conscience and my sense of duty any longer allow me to hesitate to set against this unflinching resolve one equally unflinching.' Parliament's decision would 'decree the ruin of the army and the country'.
 
-The Landtag passed the 1862 budget but struck out all funds for military reorganisation by 308-11 and rejected by 273-68 the army reform. (Some confusion over numbers in different accounts is because of conflation of two different votes.) Wilhelm used this fact in a letter (evening of 23rd) to his wife to justify his appointment of Bismarck. 'Faced with such conduct I could not hesitate nor would my conscience and my sense of duty any longer allow me to hesitate to set against this unflinching resolve one equally unflinching.' Parliament's decision would 'decree the ruin of the army and the country'.
-
-# OP:
-
-It was now expected that the government would have to either accept 2 years or restore the army to its status of 1859. Now the conflict changed from 'the army question' to 'constitutional conflict'.
+OP: It was now expected that the government would have to either accept 2 years or restore the army to its status of 1859. Now the conflict changed from 'the army question' to 'constitutional conflict'.
 
 Steinberg writes (p178) that this vote was on 22nd (Sunday), Wilhelm asked what he should do, and Roon said 'Your Majesty, summon Bismarck.' This cannot be right.
 
-# 24 September
-
-(Gall) The official press announced his appointment in the evening.
+**24 September** (Gall) The official press announced his appointment in the evening.
 
 (EF) He wrote to Joanna: 'It's not a cheerful prospect and I feel frightened every morning when I wake up. But it must be... Accept what God has sent us, it is not an easy matter for me.'
 
@@ -3261,84 +3248,29 @@ Steinberg writes (p178) that this vote was on 22nd (Sunday), Wilhelm asked what 
 
 **24 September** Russell overthrew British policy by advising Denmark to cede Holstein to the German Confederation. Derby: 'What on earth does [Russell] mean by turning round on Denmark, and taking up all at once the Prussian view about the Duchies? And how can Palmerston stand it, the original author of the Protocol which was the basis of the treaty of 1852?' Derby and Malmesbury were furious. On 30/11 under pressure from Palmerston, Russell recanted his Danish despatch.
 
-# 28 September
+**28 September** (29th, Gall & EF) **He withdrew the 1863 budget Bill** and promised to reintroduce it along with a new Bill on military organisation in the next session.
 
-(29th, Gall & EF) He withdrew the 1863 budget Bill and promised to reintroduce it along with a new Bill on military organisation in the next session.
-
-# 30 September
-
-Meeting of the budget committee where he gave his first speech as Minister President and probably his most famous, for the memorable line about 'iron and blood' (often written 'blood and iron' in English books). There are no minutes and reports vary on details. No English book I've seen simply prints the whole speech or the different versions for it. [A useful exercise: collect all contemporary records of the speech that secondary sources refer to, publish originals and translations. I'll pay someone £500 to do this!]
+**30 September** Meeting of the budget committee where he gave his first speech as Minister President and probably his most famous, for the memorable line about 'iron and blood' (often written 'blood and iron' in English books). There are no minutes and reports vary on details. No English book I've seen simply prints the whole speech or the different versions for it. [A useful exercise: collect all contemporary records of the speech that secondary sources refer to, publish originals and translations. I'll pay someone £500 to do this!]
 
 This is my attempt at reconstruction:
 
-'It is not to Prussia's liberalism that Germany looks but to its power. Bavaria, Wurttemberg and Baden may indulge in liberalism, no one will expect them to take Prussia's role. Prussia must gather and keep its strength for the right moment, which has been missed several times already. Prussia's frontiers as laid down by the Vienna treaties are not favourable for the healthy existence of the state. The great questions of the day will not be settled by speeches and majority decisions - that was the great mistake of 1848 and 1849 - but by iron and blood. The previous year's allocation [of military funds] was agreed, for what reasons does not matter... If no budget can be agreed, then it is tabula rasa; there is no way out under the constitution, it would be one interpretation against another...' EF writes that one account paraphrases him '... he was sincerely seeking the path of accommodation.'
+**'It is not to Prussia's liberalism that Germany looks but to its power. Bavaria, Wurttemberg and Baden may indulge in liberalism, no one will expect them to take Prussia's role. Prussia must gather and keep its strength for the right moment, which has been missed several times already. Prussia's frontiers as laid down by the Vienna treaties are not favourable for the healthy existence of the state. The great questions of the day will not be settled by speeches and majority decisions - that was the great mistake of 1848 and 1849 - but by iron and blood. The previous year's allocation [of military funds] was agreed, for what reasons does not matter... If no budget can be agreed, then it is tabula rasa; there is no way out under the constitution, it would be one interpretation against another...' EF writes that one account paraphrases him'... he was sincerely seeking the path of accommodation.'**
 
 At one point he waved the olive twig he kept in his cigar case (from his trip with Cathy Orlov) as a gesture of his willingness to compromise, for the sake of unity against foreigners.
 
-# OP (p202):
+OP (p202): He argued that under the constitution, the King, Chamber of Deputies and House of Lords have equal voices in the passage of legislation but all rights not reserved in the constitution were reserved to the Crown. If the three entities cannot agree a budget, then the Crown must follow 'the law of necessity' and allocate expenditures as it sees fit. **'The question of law easily becomes a question of power.**' This was the infamous Lucketheorie (the 'gap theory') whereby the ambiguity or silence of the constitution was deemed to allow the king's government to proceed with government as it wished, 'since the life of the nation cannot stand still even for a second' (Bismarck). It was a 'crude attempt' (Pflanze) to dangle the promise of foreign success before Parliament to pull apart the opposition. OP: the 'gap'/loophole had been intended by the constitution's authors. (Oddly Pflanze does not quote these words in his account of this speech but only out of context a few pages later. Cf. p.180-1 and 202) NB. He had referred to this gap in a speech on 24 February 1851.
 
-## He argued that under the constitution, the King, Chamber of Deputies and House of Lords have equal voices in the passage of legislation but all rights not reserved in the constitution were reserved to the Crown. If the three entities cannot agree a budget, then the Crown must follow 'the law of necessity' and allocate expenditures as it sees fit. 'The question of law easily becomes a question of power.' This was the infamous Lucketheorie (the 'gap theory') whereby the ambiguity or silence of the constitution was deemed to allow the king's government to proceed with government as it wished, 'since the life of the nation cannot stand still even for a
+Gall (p204): He was 'clearly at pains, not least through the relaxed and courteous manner in which he spoke, to defuse the tension, to play down the antagonisms'. He clearly wanted to diffuse tension and focus attention on the aim of army reform — strengthening Prussia as a prerequisite to progress on the German question. He stressed that antagonisms had been dramatised out of proportion by an irresponsible media and by 'a host of Catalinish characters who have a major interest in upheavals'. Gall: 'He even hinted that he was open to suggestions on the question of the two-year period of service.' He was looking for the liberals to give way on the budget issue in return for genuine cooperation with the government on the German issue including appointments to the Cabinet. When he was attacked by Virchow (eminent pathologist) for pursuing war to solve domestic problems, he replied: 'To seek conflicts abroad in order to get over difficulties at home, there he must protest; that would be frivolous; he was not looking for deals; he was talking about conflicts that we would not be able to avoid, without our having sought them' (Berliner Allgemeine Zeitung).
 
-second' (Bismarck). It was a 'crude attempt' (Pflanze) to dangle the promise of foreign success
-before Parliament to pull apart the opposition. OP: the 'gap'/loophole had been intended by the
-constitution's authors. (Oddly Pflanze does not quote these words in his account of this speech but
-only out of context a few pages later. Cf. p.180-1 and 202) NB. He had referred to this gap in a
-speech on 24 February 1851.
+Gall:Virchow's argument had 'more than the whiff of hypocrisy' given the Progressive Party's official policy was to support war if needed for progress towards a Lesser Germany (!) but the argument was nevertheless effective with liberal opinion and all those who saw Bismarck as a dangerous pirate.
 
-Gall (p204): He was 'clearly at pains, not least through the relaxed and courteous manner in which
-he spoke, to defuse the tension, to play down the antagonisms'. He clearly wanted to diffuse
-tension and focus attention on the aim of army reform — strengthening Prussia as a prerequisite
-to progress on the German question. He stressed that antagonisms had been dramatised out of
-proportion by an irresponsible media and by 'a host of Catalinish characters who have a major
-interest in upheavals'. Gall: 'He even hinted that he was open to suggestions on the question of the
-two-year period of service.' He was looking for the liberals to give way on the budget issue in
-return for genuine cooperation with the government on the German issue including appointments
-to the Cabinet. When he was attacked by Virchow (eminent pathologist) for pursuing war to solve
-domestic problems, he replied: 'To seek conflicts abroad in order to get over difficulties at home,
-there he must protest; that would be frivolous; he was not looking for deals; he was talking about
-conflicts that we would not be able to avoid, without our having sought them' (Berliner Allgemeine
-Zeitung).
+*This speech caused him serious problems*. The historian Treitschke: 'When I hear so shallow a country squire as this Bismarck bragging about the “iron and blood” with which he intends to subdue Germany, the meanness of it seems to me to be exceeded only by the absurdity.' Even Roon (who walked home with him after the meeting) was irritated by his 'witty sallies'.
 
-Gall:Virchow's argument had 'more than the whiff of hypocrisy' given the Progressive Party's official
-policy was to support war if needed for progress towards a Lesser Germany (!) but the argument
-was nevertheless effective with liberal opinion and all those who saw Bismarck as a dangerous
-pirate.
+He was looking for ways to split the liberal opposition. **He argued to liberals that a compromise was needed and the conflict was undermining foreign policy: according to GC, he said at the time (to whom?) that the continuation of the conflict was 'an essential and grave obstacle' to successful action abroad.** He suggested Wilhelm could be brought round to 2 years but it would need time. Seems Wilhelm did not hear about some of his risky discussions around this time.
 
-This speech caused him serious problems. The historian Treitschke: 'When I hear so shallow a country
-squire as this Bismarck bragging about the “iron and blood” with which he intends to subdue
-Germany, the meanness of it seems to me to be exceeded only by the absurdity.' Even Roon (who
-walked home with him after the meeting) was irritated by his 'witty sallies'.
+At this time most liberals regarded it as 'axiomatic' (OP) that German unification would have to be based on liberal principles and required the liberalisation of Prussia, hence they thought Bismarck's Napoleonic tendencies were doomed. It's unclear how many at this time really wanted a shift to the British system of proper parliamentary government. When Bismarck accused them of seeking this, many shouted their denials. In 1862, they were mostly fighting to stop the reactionaries upsetting the constitution. They wanted to force the resignation of Bismarck and see the monarchy back down but not a big change and they opposed a democratic franchise. Further, its leaders never had confidence that the public really supported them. (Hoverbeck said astutely a bit later, 'I am very much afraid that this entire notion about our moral success is only an illusion. All our deliberations have no influence on the great bulk of the population, on the third and partly the second class of voters... A general suffrage would possibly bring us naked absolutism once again. We who work for the freedom of the people do not therefore stand on a solid foundation and we cannot therefore count on sweeping successes.') Nor was the conflict about economics. The Government and liberal opposition continued to cooperate on many economic issues. Many of the liberal deputies were aristocratic landowners who were supporting what they saw as political modernisation, the Rechtsstaat, the constitution.
 
-He was looking for ways to split the liberal opposition. He argued to liberals that a compromise
-was needed and the conflict was undermining foreign policy: according to GC, he said at the
-time (to whom?) that the continuation of the conflict was 'an essential and grave obstacle'
-to successful action abroad. He suggested Wilhelm could be brought round to 2 years but it
-would need time. Seems Wilhelm did not hear about some of his risky discussions around this
-time.
-
-At this time most liberals regarded it as 'axiomatic' (OP) that German unification would have to be
-based on liberal principles and required the liberalisation of Prussia, hence they thought Bismarck's
-Napoleonic tendencies were doomed. It's unclear how many at this time really wanted a shift to
-the British system of proper parliamentary government. When Bismarck accused them of seeking
-this, many shouted their denials. In 1862, they were mostly fighting to stop the reactionaries
-upsetting the constitution. They wanted to force the resignation of Bismarck and see the monarchy
-back down but not a big change and they opposed a democratic franchise. Further, its leaders
-never had confidence that the public really supported them. (Hoverbeck said astutely a bit later, 'I
-am very much afraid that this entire notion about our moral success is only an illusion. All our
-deliberations have no influence on the great bulk of the population, on the third and partly the
-second class of voters... A general suffrage would possibly bring us naked absolutism once again.
-We who work for the freedom of the people do not therefore stand on a solid foundation and we
-cannot therefore count on sweeping successes.') Nor was the conflict about economics. The
-Government and liberal opposition continued to cooperate on many economic issues. Many of the
-liberal deputies were aristocratic landowners who were supporting what they saw as political
-modernisation, the Rechtsstaat, the constitution.
-
-Lerman: in his first months, Bismarck had to deal with all sorts of craziness including rumours that
-Wilhelm had multiple mistresses. Bismarck tried to make himself indispensable in matters large and
-small. In January 1864 he was getting half a dozen letters a day from Wilhelm which he replied to in his
-own hand.
-
----
+Lerman: in his first months, Bismarck had to deal with all sorts of craziness including rumours that Wilhelm had multiple mistresses. Bismarck tried to make himself indispensable in matters large and small. In January 1864 he was getting half a dozen letters a day from Wilhelm which he replied to in his own hand.
 
 **October** At Coburg the Nationalverein demanded the Frankfurt constitution of 1849.
 
@@ -3356,67 +3288,20 @@ Hamerow quotes in this context a speech by Twesten (but books give dates in 1861
 
 **3 October** Bismarck, worried about Wilhelm's reaction to his 'iron and blood' speech, wrote a long letter blaming false reporting of his speech for the tumult. The King was in Baden for his wife's birthday, therefore amid many enemies of Bismarck.
 
-## 3 October Evening (OP): He had dinner with Schlözer who recorded: 'We drank a lot of champagne which loosened even more his naturally loose tongue. He exulted about pulling the wool over everyone's eyes. Partly by himself and partly through others he is seeking to get the king to concede the two-year service period. In the House of Lords he paints the reaction he plans in colours so black that ... the lords are becoming anxious... [In the Landtag] he appears at one moment very unbending but in the next hints at his desire to mediate. Finally, he intends to make the German cabinets believe that the king is hard put to restrain the Cavourism of his new prime minister.' (Steinberg says this was 'two days later' after his meeting with the King, but a) OP says 3rd and OP is much more reliable, b) the date JS gives in a footnote is not 'two days' after the 4th
+**3 October** Evening (OP): He had dinner with Schlözer who recorded: 'We drank a lot of champagne which loosened even more his naturally loose tongue. He exulted about pulling the wool over everyone's eyes. Partly by himself and partly through others he is seeking to get the king to concede the two-year service period. In the House of Lords he paints the reaction he plans in colours so black that ... the lords are becoming anxious... [In the Landtag] he appears at one moment very unbending but in the next hints at his desire to mediate. Finally, he intends to make the German cabinets believe that the king is hard put to restrain the Cavourism of his new prime minister.' (Steinberg says this was 'two days later' after his meeting with the King, but a) OP says 3rd and OP is much more reliable, b) the date JS gives in a footnote is not 'two days' after the 4th but the 3rd. JS adds: Schlözer made one indiscreet comment too many in Berlin about his chats with Bismarck and found himself transferred to Rome, on which he commented: 'Tannhauser, end of Act II. Otto sings, “To Rome, thou sinner.”)
 
-but the 3rd. JS adds: Schlözer made one indiscreet comment too many in Berlin about his chats
-with Bismarck and found himself transferred to Rome, on which he commented: 'Tannhauser, end
-of Act II. Otto sings, “To Rome, thou sinner.”)
+**4 October He went to meet Wilhelm's train 50 miles south of Berlin.** The station (Jüterbog) was being built and he sat on an upturned wheelbarrow left by the workers waiting for the train to arrive. He found the King travelling alone in a carriage, depressed. A famous scene...
 
-**4 October** He went to meet Wilhelm's train 50 miles south of Berlin. The station (Jüterbog) was
-being built and he sat on an upturned wheelbarrow left by the workers waiting for the train to
-arrive. He found the King travelling alone in a carriage, depressed. A famous scene...
+'[I] waited for him in the still unfinished railway station filled with third-class travellers, seated in the dark on an overturned wheelbarrow... My object in going to meet him was to counteract the probable effect press criticisms... The after-effects of his discussions with his wife was an obvious depression, and when I begged permission to narrate the events which had occurred during his absence, he interrupted me with the words: “I can perfectly well see where all this will end. Over there in front of the Opera house under my window, they will cut off your head, and mine a little while afterwards.”
 
-'[I] waited for him in the still unfinished railway station filled with third-class travellers, seated in
-the dark on an overturned wheelbarrow... My object in going to meet him was to counteract the
-probable effect press criticisms... The after-effects of his discussions with his wife was an obvious
-depression, and when I begged permission to narrate the events which had occurred during his
-absence, he interrupted me with the words: “I can perfectly well see where all this will end. Over
-there in front of the Opera house under my window, they will cut off your head, and mine a little
-while afterwards.”
-
-'I guessed, and it was afterwards confirmed by witnesses, that during his week's stay at Baden his
-mind had been worked upon with variations on the theme of Polignac, Strafford, and Louis XVI.
-When he was silent I answered with the short remark, “Et après, sire.” “Après indeed: we shall all be
-dead,” answered the king. “Yes, then we shall be dead, but we must all die sooner or later, and can
-we perish more honourably? I fighting for my King's cause, and your Majesty sealing with your own
-blood your rights as King by the grace of God... Your Majesty is bound to fight, you cannot
-capitulate, you must, even at the risk of bodily danger, go forth to meet any attempt at coercion.”
+'I guessed, and it was afterwards confirmed by witnesses, that during his week's stay at Baden his mind had been worked upon with variations on the theme of Polignac, Strafford, and Louis XVI. When he was silent I answered with the short remark, “Et après, sire.” “Après indeed: we shall all be dead,” answered the king. “Yes, then we shall be dead, but we must all die sooner or later, and can we perish more honourably? I fighting for my King's cause, and your Majesty sealing with your own blood your rights as King by the grace of God... Your Majesty is bound to fight, you cannot capitulate, you must, even at the risk of bodily danger, go forth to meet any attempt at coercion.”
 
 'As I continued to speak in this sense, the King grew more and more animated and began to
-assume the part of the the officer fighting for kingdom and fatherland. In presence of external and
-personal danger he possessed a rare and absolutely natural fearlessness, whether on the field of
-battle or in the face of attempts on his life his attitude in any external danger was elevating and
-inspiring... He felt as though he had been touched in his military honour and was in the position of
-an officer who has orders to hold a certain position to the death no matter whether he perishes
-in the task or not. This set him on a course of thought which was quite familiar to him and in a few
-minutes he was restored to the confidence which he had lost at Baden and even recovered his
-cheerfulness. To give up his life for King and fatherland was the duty of an officer, still more that of
-the King... As soon as he regarded his position from the point of view of military honour, it had no
-more terror for him than the command to defend what might prove a desperate position would
-have for any ordinary Prussian officer. This raised him above the anxiety about the criticism which
-public opinion, history, and his wife might pass on his political tactics.... The King, who I found
-weary, depressed, and discouraged had, even before we arrived in Berlin, developed a cheerful, I
-might almost say joyous and combative disposition, which was plainly evident to the ministers and
-officials who received him on his arrival.' (Memoirs, p314ff).
+assume the part of the the officer fighting for kingdom and fatherland. In presence of external and personal danger he possessed a rare and absolutely natural fearlessness, whether on the field of battle or in the face of attempts on his life his attitude in any external danger was elevating and inspiring... He felt as though he had been touched in his military honour and was in the position of an officer who has orders to hold a certain position to the death no matter whether he perishes in the task or not. This set him on a course of thought which was quite familiar to him and in a few minutes he was restored to the confidence which he had lost at Baden and even recovered his cheerfulness. To give up his life for King and fatherland was the duty of an officer, still more that of the King... As soon as he regarded his position from the point of view of military honour, it had no more terror for him than the command to defend what might prove a desperate position would have for any ordinary Prussian officer. This raised him above the anxiety about the criticism which public opinion, history, and his wife might pass on his political tactics.... The King, who I found weary, depressed, and discouraged had, even before we arrived in Berlin, developed a cheerful, I might almost say joyous and combative disposition, which was plainly evident to the ministers and officials who received him on his arrival.' (Memoirs, p314ff).
 
-Steinberg says (p.182) that at Baden Wilhelm agreed to remove Bismarck but Gall says the
-opposite (p206) — that Wilhelm forbade discussion of the subject with the Grand Duke who
-wrote grumpy letters about it. Pflanze says (p182) discussions at Baden ignored the Prussia crisis
-but when the liberals' demand for the 1849 constitution was raised, Wilhelm shouted so loudly at
-his son-in-law he could be heard in the street. (How good are the sources on this story?!). EF
-implies it is wrong (p86).
+Steinberg says (p.182) that at Baden Wilhelm agreed to remove Bismarck but Gall says the opposite (p206) — that Wilhelm forbade discussion of the subject with the Grand Duke who wrote grumpy letters about it. Pflanze says (p182) discussions at Baden ignored the Prussia crisis but when the liberals' demand for the 1849 constitution was raised, Wilhelm shouted so loudly at his son-in-law he could be heard in the street. (How good are the sources on this story?!). EF implies it is wrong (p86).
 
-**10 October** Roon tried to get Wilhelm to agree a compromise: e.g let middle classes buy their children
-out of the third year, which would also give the government revenue and divide the opposition.
-Wilhelm rejected, urged by Manteuffel. He scribbled marginalia like 'ruin of the troops... death
-warrant of army'. Bismarck had stayed on the sidelines but (OP) Roon acted with his approval.
-He wrote to Bernstorff: 'For the infantry two years, with volunteers, would be satisfactory. But if
-the King insisted on ten years I would not refuse obedience in such matters. In my opinion there
-are more important questions than that of purchasing momentary peace with the present
-parliament by this concession. Peace with such people would not be lasting. As far as I'm
-concerned, therefore, no surrender.'
-
----
+**10 October** Roon tried to get Wilhelm to agree a compromise: e.g let middle classes buy their children out of the third year, which would also give the government revenue and divide the opposition. Wilhelm rejected, urged by Manteuffel. He scribbled marginalia like 'ruin of the troops... death warrant of army'. Bismarck had stayed on the sidelines but (OP) Roon acted with his approval. He wrote to Bernstorff: 'For the infantry two years, with volunteers, would be satisfactory. But if the King insisted on ten years I would not refuse obedience in such matters. In my opinion there are more important questions than that of purchasing momentary peace with the present parliament by this concession. Peace with such people would not be lasting. As far as I'm concerned, therefore, no surrender.'
 
 He now had to look for other paths. He thought that a combination of renewing the Zollverein in 1865 and some sort of assembly based on it was Prussia's main chance, plus warning Austria to get out of Germany or else.
 
@@ -3424,7 +3309,7 @@ GC: Bismarck and Roon drafted for submission to Parliament a Bill that would hav
 
 JS: Roon presented a compromise proposal: allow those with means to purchase release from the 3rd year and set army at 1% of population. Wilhelm and Manteuffel opposed. Landtag voted against by 150-17. Bismarck withdrew compromise proposals and shifted attention to the civil service. (His reference to a vote is not in GC or Pflanze??)
 
-'Early October' (Pflanze), 13th (Gall, EF) Parliament was prorogued until 14 January. After the House of Lords rejected the amended budget bill for 1862 and 'exceeded its authority' (OP) by accepting the original bill proposed by the government, there was uproar over the powers of the Lords. Bismarck walked to the rostrum and prorogued Parliament.
+**'Early October' (Pflanze), 13th (Gall, EF) Parliament was prorogued until 14 January.** After the House of Lords rejected the amended budget bill for 1862 and 'exceeded its authority' (OP) by accepting the original bill proposed by the government, there was uproar over the powers of the Lords. Bismarck walked to the rostrum and prorogued Parliament.
 
 Gall: there was a 'speech from the throne' on the occasion of this adjournment in which Bismarck had the King speak as if he still wanted an agreement. Also span a story to the Norddeutscher Allgemeine Zeitung (controlled by Bismarck's 'Literary Bureau' in the FO) to similar effect. (Norddeutscher Allgemeine Zeitung was a liberal Austro-phile paper which converted to support Bismarck. Still only had circulation of 2,000 in 1863, 4,500 in 1864. Hamerow: overall conservative circulation of ~40,000 versus liberal 250,000. The biggest circulation periodical was Gartenlaube which was quite apolitical.)
 
@@ -3436,112 +3321,57 @@ Gall: there was a 'speech from the throne' on the occasion of this adjournment i
 
 **16 October** Bismarck's first discussion with Buchanan on Schleswig-Holstein (Steefel, 1932). He suggested he was happy with the British approach but warned the issue aroused passions in Germany that would have to be managed. (But numerous sources give 28/10 as date Buchanan became ambassador — was this discussion unofficial, was he 'acting'?)
 
-**28 October** The German Reformverein was established in Frankfurt by Great-Germanists to counter the Nationalverein. Hamerow: among the 500 participants were conservatives, clericals, liberals, even democrats; the social distinction of the gathering was impressive. Prussian supporters mostly stayed away for fear of losing influence in Berlin. Its goals: reform of the Bund including a vigorous federal executive authority with national representation, inclusion of all Germany, reform by agreement, admission of Austria to Zollverein.
+**28 October The German Reformverein was established in Frankfurt by Great-Germanists to counter the Nationalverein.** Hamerow: among the 500 participants were conservatives, clericals, liberals, even democrats; the social distinction of the gathering was impressive. Prussian supporters mostly stayed away for fear of losing influence in Berlin. Its goals: reform of the Bund including a vigorous federal executive authority with national representation, inclusion of all Germany, reform by agreement, admission of Austria to Zollverein.
 
 In November, Austria and her allies agreed to press the Diet to accept the new Austrian reform plans and most of the states opposed Prussia's trade deal with France, though businessmen increasingly supported it.
 
 **28 October** Buchanan became Ambassador in Berlin until 15 September 1864.
 
-## End of October Bismarck went to Paris. Napoleon assured him that France would remain neutral in a conflict between Prussia and Austria. In Paris, he told Austria's Ambassador, Prince Metternich, that he intended to make Prussia dominant in north Germany. He preferred to do this 'through understanding and close union with Austria' but if opposed would use 'every means ... without special scruple'.
+**End of October** Bismarck went to Paris. Napoleon assured him that France would remain neutral in a conflict between Prussia and Austria. In Paris, he told Austria's Ambassador, Prince Metternich, that he intended to make Prussia dominant in north Germany. He preferred to do this 'through understanding and close union with Austria' but if opposed would use 'every means ... without special scruple'.
 
 **29 October** To Wilhelm: I dined with Napoleon at St. Cloud on 28th, will see him again in a few days. Napoleon said that Drouyn de Lhuys' appointment 'is without any bias for Austria or against Prussia and has significance only for Italian relations. The Emperor's utterances with respect to us are more friendly than ever... Coolness towards England noticeable on the part of the Emperor and of the minister.'
 
 **November** Bismarck threatened violence in Hesse over the constitutional conflict, he forced the Elector to do a deal with his parliament. EF: a deliberate signal to Prussian liberals he was not what they assumed, it's possible he hoped that his deliberately humiliating behaviour would lead to resistance and an excuse to send in troops (plausible!).
 
-**11 November** Bismarck spoke to Ludwig Gerlach. Gerlach recorded that Bismarck said, 'One can accomplish a great deal even under a constitution by such ordinary means as fear, enticement, and the like. If nothing avails, one can still resort to a coup d'etat.' On 23/11, he wrote to Prince Henry VII of Reuss that 'we are going to carry out a sharp raid on the civil servants ... [I] am intent on bringing the civil service back into discipline at any price.' (OP: Ritter says that Bismarck had 'nothing in common with the Staatssreich plans of the military cabinet' but this is clearly not the case. His view was that his own conscience and loyalty to the Crown overruled any duties to the constitution.)
+**11 November** Bismarck spoke to Ludwig Gerlach. Gerlach recorded that Bismarck said, **'One can accomplish a great deal even under a constitution by such ordinary means as fear, enticement, and the like. If nothing avails, one can still resort to a coup d'etat.'** On 23/11, he wrote to Prince Henry VII of Reuss that 'we are going to carry out a sharp raid on the civil servants ... [I] am intent on bringing the civil service back into discipline at any price.' (OP: Ritter says that Bismarck had 'nothing in common with the Staatssreich plans of the military cabinet' but this is clearly not the case. His view was that his own conscience and loyalty to the Crown overruled any duties to the constitution.)
 
 **19 November** Lassalle proposed in his 'What Now?' speech that the deputies go on strike and refuse to meet until Bismarck restored their constitutional powers (Steinberg). OP: this shocked the liberals who totally opposed it (p.222). Lassalle's immediate reaction to Bismarck was: 'He remains a thoroughly reactionary fellow and Junker from whom only reactionary experiments are to be expected. The only thing which distinguishes him from the ordinary party of the Kreuzzeitung is that he does not have its doctrinaire consistency but is baroque! He is a baroque man of the Kreuzzeitung... He will either only begin an obbligato sabre-rattling in order to squeeze out the money for the army by pretending there will be a war, although people are already firmly resolved not to snap at this bait, or he will really try to bring about some sort of “tasteless pastry” of reactionary unity.'
 
-**28 November** (Barry) Roon asked Moltke to work on possible operations against Denmark. Moltke replied with a first draft 6 December and more detailed work later in December.
+**28 November (Barry) Roon asked Moltke to work on possible operations against Denmark.** Moltke replied with a first draft 6 December and more detailed work later in December.
 
-**29 November** Bismarck 'The Eastern question is an area in which we can help our friends and harm our enemies without being inhibited to any great extent by direct interests of our own.'
+**29 November Bismarck 'The Eastern question is an area in which we can help our friends and harm our enemies without being inhibited to any great extent by direct interests of our own.'**
 
 **December** Eulenburg replaced Jagow as Interior Minister. Made it easier for Bismarck to attack liberal officials. (Pflanze: 40% of 1862 chamber were political officials.) Eulenburg's first act was to instruct officials their primary duty was to support the King 'unconditionally'.
 
-4 [AJPT 5th; Memoirs says 4th] December Bismarck had a revealing discussion with Count Karolyi, Austria's Ambassador in Berlin: he said that Austria should cease looking for hegemony in Germany and shift its centre of gravity to Hungary, in return for which Prussia would regard Austria's interests in Italy and the East as vital and would help protect them. The alternative would be war. 'Our relations must become either better or worse than they now are. I am prepared for a joint attempt to improve them. If it fails through your refusal, do not reckon on our allowing ourselves to be bound by the friendly phrases of the Diet. You will have to deal with us as one of the great powers of Europe.' Austria deliberately leaked the exchange to damage Bismarck and many indeed thought he was mad (Gall). To Karolyi: 'If Austria persists in her present direction and restricts our action and the air we breathe, then you will conjure up catastrophes which in the last analysis must end in a fight.'
+**4 [AJPT 5th; Memoirs says 4th] December Bismarck had a revealing discussion with Count Karolyi, Austria's Ambassador in Berlin:** he said that Austria should cease looking for hegemony in Germany and shift its centre of gravity to Hungary, in return for which Prussia would regard Austria's interests in Italy and the East as vital and would help protect them. The alternative would be war. 'Our relations must become either better or worse than they now are. I am prepared for a joint attempt to improve them. If it fails through your refusal, do not reckon on our allowing ourselves to be bound by the friendly phrases of the Diet. You will have to deal with us as one of the great powers of Europe.' Austria deliberately leaked the exchange to damage Bismarck and many indeed thought he was mad (Gall). To Karolyi: **'If Austria persists in her present direction and restricts our action and the air we breathe, then you will conjure up catastrophes which in the last analysis must end in a fight.'**
 
-## 'If you are willing to take a direction similar to that of Metternich's policy, you will find us ready to conclude a hard and fast alliance with you ... and you won't find any other Prussian statesmen so indifferent to public opinion and so willing to follow a genuine Cabinet policy ... as I.' (Clark) In his Memoirs, Bismarck writes that if Austria had taken seriously what he'd said and 'sought an understanding with Prussia instead of trying to coerce her by means of majorities and other.
+'If you are willing to take a direction similar to that of Metternich's policy, you will find us ready to conclude a hard and fast alliance with you ... and you won't find any other Prussian statesmen so indifferent to public opinion and so willing to follow a genuine Cabinet policy ... as I.' (Clark) In his Memoirs, Bismarck writes that if Austria had taken seriously what he'd said and 'sought an understanding with Prussia instead of trying to coerce her by means of majorities and other influences, we should probably have seen, or at any rate made trial of, a period of dualistic policy in Germany. **It is certainly very doubtful if, without the clearing effect of the experiences of 1866 and 1870, such a system could have developed peacefully in a sense acceptable to German national sentiment, and with permanent avoidance of internal dissensions. The belief in the military superiority of Austria was too strong, both at Vienna and at the courts of the middle states, for a modus vivendi on the footing of equality with Prussia.** The proof that this was the case at Vienna lay in the proclamations that were found in the knapsacks of the Austrian soldiers together with the new uniforms ordered for the entry into Berlin. The contents of those documents betrayed the certainty with which the Austrians had counted on the victorious occupation of the Prussian provinces. The refusal to entertain the latest Prussian proposals for peace ... demonstrates the certainty with which a victory in this was reckoned on.' (p373)
 
-influences, we should probably have seen, or at any rate made trial of, a period of dualistic policy in
-Germany. It is certainly very doubtful if, without the clearing effect of the experiences of
-1866 and 1870, such a system could have developed peacefully in a sense acceptable to
-German national sentiment, and with permanent avoidance of internal dissensions. The
-belief in the military superiority of Austria was too strong, both at Vienna and at the courts
-of the middle states, for a modus vivendi on the footing of equality with Prussia. The proof
-that this was the case at Vienna lay in the proclamations that were found in the knapsacks of the
-Austrian soldiers together with the new uniforms ordered for the entry into Berlin. The contents
-of those documents betrayed the certainty with which the Austrians had counted on the victorious
-occupation of the Prussian provinces. The refusal to entertain the latest Prussian proposals for
-peace ... demonstrates the certainty with which a victory in this was reckoned on.' (p373)
-
-Friedjung (p33): while in Paris in the summer he had met some of the Hungarian nationalist exiles
-such as Count von Seherr-Toss and told them that he wanted to unify Germany under Prussia, this
-needed Hungarian help: 'If we win, Hungary too will get her freedom.' As soon as he was Minister
-President he met them again and stayed in touch. (Cf. Seherr-Toss Memoirs, p140)
+Friedjung (p33): while in Paris in the summer he had met some of the Hungarian nationalist exiles such as Count von Seherr-Toss and told them that he wanted to unify Germany under Prussia, this needed Hungarian help: 'If we win, Hungary too will get her freedom.' As soon as he was Minister President he met them again and stayed in touch. (Cf. Seherr-Toss Memoirs, p140)
 
 **5 December** Manteuffel to Roon — no compromise, 'the game must be played to the end'.
 
-**10 December** Eulenburg issued orders to the civil service that they must 'support the constitutional
-rights of the Crown... [T]he distinction which your position lends you is not to be misused to
-promote political movements which run counter to the views and the will of the government'.
+**10 December** Eulenburg issued orders to the civil service that they must 'support the constitutional rights of the Crown... [T]he distinction which your position lends you is not to be misused to promote political movements which run counter to the views and the will of the government'.
 
-**22 December** Letter from Bismarck to Prussian envoy in Karlsruhe, Count Fleming (JS says 'unknown
-correspondent' but Gall names him): 'I am certain that the whole Danish business can be
-settled in a way desirable for us only by war. The occasion for such a war can be found at
-any moment that we find favourable for waging it... The disadvantage of having signed the
-London Protocol we share with Austria and cannot free ourselves from the consequences of that
-signature without war. It cannot be foreseen what development of the German Federal relations is
-destined for the future. As long, however, as they remain about the same as in the past, I cannot
-regard it as in the interest of Prussia to wage a war in order, as the most favourable result,
-to install in [SH] a new Grand Duke [I.e Augustenburg], who in fear of Prussian lust for
-annexation, will vote against us in the Diet and whose government, in spite of the gratitude due to
-Prussia for its installation, will be a ready object of Austrian intrigues.'
+**22 December** Letter from Bismarck to Prussian envoy in Karlsruhe, Count Fleming (JS says 'unknown correspondent' but Gall names him): **'I am certain that the whole Danish business can be settled in a way desirable for us only by war. The occasion for such a war can be found at any moment that we find favourable for waging it...** The disadvantage of having signed the London Protocol we share with Austria and cannot free ourselves from the consequences of that signature without war. It cannot be foreseen what development of the German Federal relations is destined for the future. As long, however, as they remain about the same as in the past, I cannot regard it as in the interest of Prussia to wage a war in order, as the most favourable result, to install in [SH] a new Grand Duke [I.e Augustenburg], who in fear of Prussian lust for annexation, will vote against us in the Diet and whose government, in spite of the gratitude due to Prussia for its installation, will be a ready object of Austrian intrigues.'
 
-**22 December** Morier had been travelling around Germany gathering intelligence on German views on the
-Zollverein, Franco-Prussian treaty, Austrian policy. He reported back to London that Rechberg was
-not able to make progress with an Anglo-Austrian deal. Rechberg stated that the Austrian
-parliament does not care for a liberal commercial policy for its own sake but only as a means to a
-closer union with the Zollverein. Austria is opposing the French treaty for political, not commercial
-reasons.
+**22 December** Morier had been travelling around Germany gathering intelligence on German views on the Zollverein, Franco-Prussian treaty, Austrian policy. He reported back to London that Rechberg was not able to make progress with an Anglo-Austrian deal. Rechberg stated that the Austrian parliament does not care for a liberal commercial policy for its own sake but only as a means to a closer union with the Zollverein. Austria is opposing the French treaty for political, not commercial reasons.
 
-Christmas Day Bismarck to the King: We must aim for 'liberation from the web of federal
-treaties'. He suggested the introduction of the majority principle into the Zollverein and a
-directly elected Zollverein parliament to represent the people of the various states, not the
-states. The Zollverein is 'the most effectual basis for the common handling of the economic
-and eventually of the political interests of the German states'. Until the end of 1865 and the
-expiry of the Zollverein agreements, he counselled caution 'if possible ensuring the
-realisation of our intentions for the period from 1 January 1866 without allowing ourselves
-to be distracted by concern for bogus successes in the intervening period. That intervening
-period will in any case be filled with diplomatic battles over the shape of the future after the
-year 1865.' He also stressed the advantages of the free trade treaty with France.
+**Christmas Day Bismarck to the King: We must aim for 'liberation from the web of federal treaties'. He suggested the introduction of the majority principle into the Zollverein and a directly elected Zollverein parliament to represent the people of the various states, not the states. The Zollverein is 'the most effectual basis for the common handling of the economic and eventually of the political interests of the German states'. Until the end of 1865 and the expiry of the Zollverein agreements, he counselled caution 'if possible ensuring the realisation of our intentions for the period from 1 January 1866 without allowing ourselves to be distracted by concern for bogus successes in the intervening period. That intervening period will in any case be filled with diplomatic battles over the shape of the future after the year 1865.' He also stressed the advantages of the free trade treaty with France.**
 
-Gall (p217): Bismarck saw the future lay with the programme of Lesser German liberalism and
-'therefore, power-politician that he was, made it his own, as it were taking the political wind out of
-his opponents' sails... Ipse faciam [I will do it myself] — that was the watchword and the extent of
-the secret... His much-invoked juggling encountered precisely defined limits in the realities of the
-given balance of power and interests.' To this program and these forces he 'surrendered almost
-
----
-
-# Document
-
-without reserve and at the sacrifice of convictions and objectives of his own that ran in a different direction'. No, this is overstated.Yes to a considerable extent he went along with the liberal program regarding the economy, free trade, regulation, banking and so on. But the program of Lesser German liberalism wanted the liberalisation of the Prussian state (not its continued control by the monarchy, Junkers and military), not the triumph of the old Prussian state on the battlefield, not universal suffrage, not alliance with Austria against Augustenburg.Yes he clearly would have preferred it if the liberal opposition had crumbled earlier and part of it had joined him in propagandising in Germany, but he stuck to his guns and in the end the liberals split and quarrelled under the pressure he applied. Lesser German liberalism was united in supporting Augustenburg in the Schleswig-Holstein affair but he opposed this very strong wave in opinion, even though the King himself supported it — he did not 'surrender' to it.
+Gall (p217): Bismarck saw the future lay with the programme of Lesser German liberalism and 'therefore, power-politician that he was, made it his own, as it were taking the political wind out of his opponents' sails... Ipse faciam [I will do it myself] — that was the watchword and the extent of the secret... His much-invoked juggling encountered precisely defined limits in the realities of the given balance of power and interests.' To this program and these forces he 'surrendered almost without reserve and at the sacrifice of convictions and objectives of his own that ran in a different direction'. No, this is overstated. Yes to a considerable extent he went along with the liberal program regarding the economy, free trade, regulation, banking and so on. But the program of Lesser German liberalism wanted the liberalisation of the Prussian state (not its continued control by the monarchy, Junkers and military), not the triumph of the old Prussian state on the battlefield, not universal suffrage, not alliance with Austria against Augustenburg.Yes he clearly would have preferred it if the liberal opposition had crumbled earlier and part of it had joined him in propagandising in Germany, but he stuck to his guns and in the end the liberals split and quarrelled under the pressure he applied. Lesser German liberalism was united in supporting Augustenburg in the Schleswig-Holstein affair but he opposed this very strong wave in opinion, even though the King himself supported it — he did not 'surrender' to it.
 
 **26 December** He spoke again to Karolyi (Gall). If Austria persists in seeking hegemony, 'Nous croiserons les bajonettes' [we'll cross bayonets].
 
 **30 December** France told Bismarck it will not agree his proposal whereby France would not offer free trade deals to other Zollverein states. (OP: He hoped that if France did this, then after the Zollverein expired in 1865 he would be able to push the lesser states to accept majority vote and a parliament, which Prussia would dominate.) This unwelcome development, says Pflanze, meant he now did a characteristic shift. He now drew away from France and made offers to Austria, hoping to spook the French into a rethink. He had to draw closer to Austria and scare Napoleon while also scuppering Austria's reform plan for good. In his talks with Karolyi and Thun in early 1863, he sometimes talked of an 'offensive-defensive alliance', sometimes of Prussian self-sufficiency. He spoke of the dangers of revolution and the potential for exploiting it. He denied wanting to divide Germany into two spheres and discussed plans for doing so. He suggested the two powers 'abstract' the European from the German situation, cooperating in the former while disagreeing on the latter. OP: he deployed 'appeasement, threat, enticement and diversion in rapid succession'. Karolyi found it 'truly astonishing with what rapidity Herr von Bismarck goes from one extreme to another diametrically opposed'.
 
-## Late December Bleichröder to Rothschild: Bismarck does not expect the conflict with parliament to be resolved in the next session.
-
-Blue: Prussia 1834; Grey: areas included in Zollverein until 1866;Yellow: Austrian possessions outside the Zollverein; Red: borders of German Confederation
-
-Rise of the German "Zollverein" - Prussian Customs Union and Accessions Customs Union from 1834 until 1866. The German "Zollverein" (Customs-Union) since 1834.
-
-## SWITZERLAND, BELGIUM, FRANCE, RUSSIA, THURINGIA, SAXONY, HANOVER, MALDECK, WALDECK, and other states were part of this historical development.
+**Late December** Bleichröder to Rothschild: Bismarck does not expect the conflict with parliament to be resolved in the next session.
 
 ### 1863
 
-Salon des Refusés. What Is To Be Done?, Chernyshevsky. Written as a response to Fathers and Sons. Advocated a society based on socialist ideas, using producer cooperatives based on the peasant commune. Dostoyevsky mocked and attacked the ideas in Notes from the Underground and the Devils.
+*Salon des Refusés*.
+
+*What Is To Be Done?*, Chernyshevsky. Written as a response to *Fathers and Sons*. Advocated a society based on socialist ideas, using producer cooperatives based on the peasant commune. Dostoyevsky mocked and attacked the ideas in *Notes from the Underground* and *The Devils*.
 
 **January:** He made clear threats to the lesser states not to support Austria's plan, saying that if Prussia lost the vote Prussia would declare herself no longer bound by the Confederation constitution.
 
@@ -3549,7 +3379,7 @@ Salon des Refusés. What Is To Be Done?, Chernyshevsky. Written as a response to
 
 **3 January:** Buchanan-Russell, re what Bismarck had said in discussion about war with Austria: 'at all events Prussia will not provoke war but it was impossible that Austria and Prussia could long remain at peace when their conflicting interests could no longer be treated judicially in the Diet and that war within a year or two might be considered certain.' Russell wanted Austria to make concessions to Prussia and develop a compromise for Bund reform.
 
-**5 January:** In a conversation with Count Thun who he had known since Frankfurt and was now Austrian ambassador in Russia (passing through Berlin, called for a chat). He said, 'I am impervious to this kind of sentimental policy-making, I have no feeling for German nationality, for me a war against the king of Bavaria ... is exactly the same as a war against France... Austria and Prussia are states which are too great to be bound by the text of a treaty. They can be guided only by their interests and their convenience. If any treaty should be in the way of these interests and convenience that treaty must be broken.' Rechberg made two big exclamation marks in the margin of Thun's report 'but that was all he did' (Eyck, p66). EF: 'The last thing Austria could do' was surrender its position in Germany regardless of compensation in Italy or the Balkans. Bismarck 'cannot really have thought a division of Germany between Austria and Prussia roughly along the River Main was likely... No one could expect the Austrians to retreat from Germany without a fight.' (I disagree. If Austria had accurately assessed her own strength and internal discussion had been forced to focus on choosing priorities, this could have happened. But FJ remained determined to avoid choosing until too late. Stranger things have happened, one never knows when ministers will be changed, people will die etc. I think Bismarck was suggesting something he thought a rational Vienna could accept, even if he thought it unlikely to happen.)
+**5 January:** In a conversation with Count Thun who he had known since Frankfurt and was now Austrian ambassador in Russia (passing through Berlin, called for a chat). He said, **'I am impervious to this kind of sentimental policy-making, I have no feeling for German nationality, for me a war against the king of Bavaria ... is exactly the same as a war against France... Austria and Prussia are states which are too great to be bound by the text of a treaty. They can be guided only by their interests and their convenience. If any treaty should be in the way of these interests and convenience that treaty must be broken.'** Rechberg made two big exclamation marks in the margin of Thun's report 'but that was all he did' (Eyck, p66). EF: 'The last thing Austria could do' was surrender its position in Germany regardless of compensation in Italy or the Balkans. Bismarck 'cannot really have thought a division of Germany between Austria and Prussia roughly along the River Main was likely... No one could expect the Austrians to retreat from Germany without a fight.' (I disagree. If Austria had accurately assessed her own strength and internal discussion had been forced to focus on choosing priorities, this could have happened. But FJ remained determined to avoid choosing until too late. Stranger things have happened, one never knows when ministers will be changed, people will die etc. I think Bismarck was suggesting something he thought a rational Vienna could accept, even if he thought it unlikely to happen.)
 
 **January:** Joanna wrote to Keudell that Bismarck hardly spoke to the family over breakfast while reading papers, worked all day, had working dinners, finished at around 1am, slept badly, day after day: 'we never see him at all'.
 
@@ -3557,13 +3387,11 @@ Salon des Refusés. What Is To Be Done?, Chernyshevsky. Written as a response to
 
 **18 January:** Bleichröder to Rothschild: many rumours about the end of Bismarck and Wilhelm withdrawing from affairs of state. His letters from this period show how well-connected contemporaries could not see how Bismarck or anybody could break out of the impasse.
 
-## 21 January (OP): A revolt breaks out in Poland. (Memoirs — 1/1.) Prussian Poland was not affected but Berlin rushed troops to the area and proclaimed the equivalent of martial law. Alvensleben was sent to St P. Bismarck feared an independent Poland would strive for the frontiers of 1772 including Posen and West Prussia. It would be a natural ally of France. He was worried that the reform party led by Gorchakov might withdraw troops and dominoes might fall. As OP says, his brutal comments about the Poles were unmatched by comments about any other racial group, though his views were political rather than racial/cultural. (Although he never pursued anything like a policy of extermination, and we must beware looking at such comments in the light of Nazi history, he did write things like: 'Strike the Poles in such a way that they will despair of their lives. I have every sympathy for their plight but if we are to exist we can do nothing other than exterminate them. The wolf too is not responsible for being what God has made it but we kill it.
+**21 January** (OP): A revolt breaks out in Poland. (Memoirs — 1/1.) Prussian Poland was not affected but Berlin rushed troops to the area and proclaimed the equivalent of martial law. Alvensleben was sent to St P. Bismarck feared an independent Poland would strive for the frontiers of 1772 including Posen and West Prussia. It would be a natural ally of France. He was worried that the reform party led by Gorchakov might withdraw troops and dominoes might fall. As OP says, his brutal comments about the Poles were unmatched by comments about any other racial group, though his views were political rather than racial/cultural. (Although he never pursued anything like a policy of extermination, and we must beware looking at such comments in the light of Nazi history, he did write things like: 'Strike the Poles in such a way that they will despair of their lives. I have every sympathy for their plight but if we are to exist we can do nothing other than exterminate them. The wolf too is not responsible for being what God has made it but we kill it. nevertheless, if we can' (to sister, 2/1861) and 'we cannot carry on the struggle against this element according to the rules of civil justice, but only according to those of war' (to Bernstorff). In May (Gall) he wrote, 'Restoring the kingdom of Poland in any shape or form is tantamount to creating an ally for any enemy that chooses to attack us.' And cf. unpublished letter 20/4/48)
 
-Nevertheless, if we can' (to sister, 2/1861) and 'we cannot carry on the struggle against this element according to the rules of civil justice, but only according to those of war' (to Bernstorff). In May (Gall) he wrote, 'Restoring the kingdom of Poland in any shape or form is tantamount to creating an ally for any enemy that chooses to attack us.' And cf. unpublished letter 20/4/48)
+**22 January** The Austrian reform plan was defeated in the Bund by 9-7. **The Prussian envoy issued a shocking statement to the Bund**: 'The German nation can find a competent organ through which to influence the course of common affairs only in a representative body chosen directly by the people of each confederate state according to its population.' He sprang the idea on a startled German public to prevent King Wilhelm from going to a congress of princes called by the Emperor of Austria. (NB. Pflanze says that he only 'hinted' at universal suffrage now and September, but others write he promised it!?) Showalter: his victory over the Austrian plan was 'purchased at the price of most of Prussia's remaining moral influence in Germany'. (Overstated.)
 
-**22 January** The Austrian reform plan was defeated in the Bund by 9-7. The Prussian envoy issued a shocking statement to the Bund: 'The German nation can find a competent organ through which to influence the course of common affairs only in a representative body chosen directly by the people of each confederate state according to its population.' He sprang the idea on a startled German public to prevent King Wilhelm from going to a congress of princes called by the Emperor of Austria. (NB. Pflanze says that he only 'hinted' at universal suffrage now and September, but others write he promised it!?) Showalter: his victory over the Austrian plan was 'purchased at the price of most of Prussia's remaining moral influence in Germany'. (Overstated.)
-
-**27 January** Virchow (a famous surgeon and a liberal antagonist of Bismarck for many years) moved an uncompromising reply to the Address from the throne and declared the government's behaviour unconstitutional. Bismarck's speech in reply went into the details of the constitutional conflict, rejected the liberals' arguments, and provoked the liberals to great anger. (Bits of this speech are often quoted on different days in January.)
+**27 January** Virchow (a famous surgeon and a liberal antagonist of Bismarck for many years) moved an uncompromising reply to the Address from the throne and declared the government's behaviour unconstitutional. **Bismarck's speech in reply went into the details of the constitutional conflict, rejected the liberals' arguments, and provoked the liberals to great anger.** (Bits of this speech are often quoted on different days in January.)
 
 'Less than a year ago the assertion that the parliament and the Crown were disputing for control of Prussia was energetically disclaimed, but when you have adopted the Address as it is submitted, you will no longer be able to maintain this disclaimer... If, gentlemen, you had the unilateral right to determine the budget and its items definitively; if you had the right to demand of His Majesty the King the dismissal of those ministers in whom you have no confidence; if you had the right, by means of budgetary resolutions, to determine the size and organisation of the army; if you had the right which, under the constitution you do not have but to which you lay claim in your Address, to exercise ultimate control over the relations between the executive power of the government and its officials - then you would indeed possess full governmental power in this country. Your Address is based on these claims if it has any basis at all. I believe, therefore, that I can describe its practical import very simply: this Address claims to deprive the royal house of Hohenzollern of its constitutional rights and to transfer them to the majority of this House.
 
@@ -3573,11 +3401,9 @@ Nevertheless, if we can' (to sister, 2/1861) and 'we cannot carry on the struggl
 
 'Each of these three concurrent rights is in theory unlimited, one as strong as the other. If agreement among the three forces is not reached, the constitution contains no statement whatever as to which of them must yield...
 
-## 'If compromise is made impossible because one of the powers involved wishes to enforce its own will with doctrinaire absolutism, then the series of compromises is broken and is replaced by conflicts. Since the life of the state cannot stand still, conflicts become a question of power. Whoever holds the power proceeds according to his will, for the life of the state cannot remain still even for a second... [He recounts how the Crown and ministry had tried to compromise but been rejected.] It is no new discovery that there is a gap in the constitution here... I am content with the necessity of the state's existence and that it cannot pass its time in pessimistic reflections on what would happen if the flow of money dries up. Necessity alone is
+'If compromise is made impossible because one of the powers involved wishes to enforce its own will with doctrinaire absolutism, then the series of compromises is broken and is replaced by conflicts. **Since the life of the state cannot stand still, conflicts become a question of power. Whoever holds the power proceeds according to his will, for the life of the state cannot remain still even for a second...** [He recounts how the Crown and ministry had tried to compromise but been rejected.] It is no new discovery that there is a gap in the constitution here... I am content with the necessity of the state's existence and that it cannot pass its time in pessimistic reflections on what would happen if the flow of money dries up. Necessity alone is decisive, we have taken account of this necessity... The rights granted to you by the constitution you shall enjoy in full measure; what you demand beyond this we shall refuse, and we shall untiringly defend the rights of the Crown against your claims...
 
-decisive, we have taken account of this necessity... The rights granted to you by the constitution you shall enjoy in full measure; what you demand beyond this we shall refuse, and we shall untiringly defend the rights of the Crown against your claims...
-
-'The Prussian monarchy has not yet fulfilled its mission, it is not yet ready to form a mere ornamental decoration in your constitutional edifice, or to become a dead cog in the machinery of parliamentary government.'
+**'The Prussian monarchy has not yet fulfilled its mission, it is not yet ready to form a mere ornamental decoration in your constitutional edifice, or to become a dead cog in the machinery of parliamentary government.'**
 
 One of the deputies, a liberal landowner (and former minister), rejected his argument and replied: '“Might before right” ... is not in my view a proposition that is capable of sustaining the dynasty in Prussia in the long run... “Right before might: justitia fundamentum regnorum”. That is the device of the Prussian kings and will ever remain so.'
 
@@ -3601,11 +3427,29 @@ GC is one of the few who does not treat it as an error (p168).
 
 Eyck: it was not a 'master-stroke', his claims for it were false, it even caused problems with Gorchakov — but Eyck nevertheless writes that 'it is true that the Polish insurrection caused a regrouping of the European powers which facilitated Bismarck's task considerably.'
 
-## EF: it was a mistake and his position was 'never weaker' than in the weeks and months after it. He always rejected criticisms of this move and defended it in his Memoirs. His relations with Russia strengthened, relations between France and Russia weakened because Napoleon supported the
+EF: it was a mistake and his position was 'never weaker' than in the weeks and months after it. He always rejected criticisms of this move and defended it in his Memoirs. His relations with Russia strengthened, relations between France and Russia weakened because Napoleon supported the Poles, and Austro-Russian relations weakened. Also Anglo-French relations worsened because of diplomatic wrangling over the incident.
 
-## Poles, and Austro-Russian relations weakened. Also Anglo-French relations worsened because of diplomatic wrangling over the incident. Mosse: Gorchakov opposed it as unnecessary and undignified but the Tsar overruled him. Gorchakov tried to stop it coming into force. Bismarck to Buchanan on 14/3: Gorchakov 'endeavoured to render it unpopular and succeeded in rendering it inoperative so far as the principle of the frontier being crossed by the troops of either Government was in question.' Although the details were unknown, the fact of some sort of deal was soon known. Within a fortnight Cowley was reporting from Paris that feeling for Poland was running very high. Memoirs — his attitude on taking over was that... A powerful force in Russia wanted liberalisation and this group also wanted concessions in Poland while conservatives opposed both. He had seen these debates when in St P. If Russia had been pro-Polish, it could have revived Russo-French sympathies which was bad. 'It was our interest to oppose the party in the Russian cabinet which had Polish proclivities'. Alexander II did not have confidence in Russian administration of Poland. Austria and Russia were hostile. France would probably not be friendly in the long run but Napoleon's 'transitory and miscalculated support' might be exploited. 'With Russia we stood on the same footing as with England insofar as with neither had we diverging interests of capital importance, and with both were united by an ancient amity. From England we might expect platonic goodwill, with letters and newspaper articles full of good advice, but hardly more. The support of the Tsar, on the other hand, meant in certain circumstances more than mere benevolent neutrality.' He was therefore determined to foster every sympathy. The Convention's significance was 'diplomatic rather than military'. It signalled 'victory in the Russian cabinet of Prussian over Polish policy' and a defeat for Gorchakov. It was decided by the Tsar against his ministers. It therefore 'amply accomplished its purpose' and 'said “checkmate” in the game which anti-Polish monarchism was then playing against philo-Polish Panslavism within the Russian cabinet... It was assumed that liberal concessions, if granted to the Poles, could not be withheld from the Russians. Russian constitutionalists were therefore philo-Polish.' (Memoirs p345ff) 11 February Bismarck told the British Ambassador that if Russia folded, he would occupy Poland himself. Buchanan: 'Europe will never stand for this.' Bismarck: 'Who is Europe?' Buchanan: 'Several great nations.' Bismarck asked 'whether those nations were at one amongst themselves in this respect'. (The Spectator denounced Bismarck as Lord Tyrconnel, a henchman of James II.) Russell had encouraged the Poles and spoke publicly with moral indignation but could do nothing. Derby and Disraeli were scathing. Disraeli: 'the Polish question is a diplomatic Frankenstein created out of cadaverous elements by the mystic blundering of Lord Russell.' 17 February House of Deputies declared that ministers were responsible with their persons and fortunes for unconstitutional expenditure. Bismarck (Memoirs): I was advised to make over my estate to my brother but declined. 20 February To Wilhelm: 'Seeing how matters seem to be shaping themselves in Poland we shall hardly be called upon for active cooperation there and the convention thus gives us the advantage of having secured cheaply for the future the gratitude of the Tsar Alexander and the Russian sympathy.' 21 February Napoleon proposed identical notes from Paris, London and Vienna censuring Prussian intervention in Poland. British Cabinet met: Russell supported 'a policy of intervention in conjunction with France' but Palmerston was more cautious and warned of 'ulterior plans of aggrandizement'. Victoria was alarmed at some of Russell's ideas which she thought might get Britain into a war with Germany and she wanted milder language used in any admonition of Prussia. Over the next few weeks there were all sorts of discussions in London but essentially the fears of France starting a war dominated thinking and acted to limit Anglo-French cooperation, despite great sympathy for the Poles. Grey warned the Queen (24th) that joining with France diplomatically could increase the chances of a war which would be embarrassing — France would
+Mosse: Gorchakov opposed it as unnecessary and undignified but the Tsar overruled him. Gorchakov tried to stop it coming into force. Bismarck to Buchanan on 14/3: Gorchakov 'endeavoured to render it unpopular and succeeded in rendering it inoperative so far as the principle of the frontier being crossed by the troops of either Government was in question.' Although the details were unknown, the fact of some sort of deal was soon known. Within a fortnight Cowley was reporting from Paris that feeling for Poland was running very high. Memoirs — his attitude on taking over was that... A powerful force in Russia wanted liberalisation and this group also wanted concessions in Poland while conservatives opposed both. He had seen these debates when in St P. If Russia had been pro-Polish, it could have revived Russo-French sympathies which was bad. 'It was our interest to oppose the party in the Russian cabinet which had Polish proclivities'. Alexander II did not have confidence in Russian administration of Poland. Austria and Russia were hostile. France would probably not be friendly in the long run but Napoleon's 'transitory and miscalculated support' might be exploited.
 
-Claim it was to support the freedom of nations, like with Italy. The Queen pushed Granville (President of the Council) to restrain Palmerston (cf. Mosse p110ff).
+'With Russia we stood on the same footing as with England insofar as with neither had we diverging interests of capital importance, and with both were united by an ancient amity. From England we might expect platonic goodwill, with letters and newspaper articles full of good advice, but hardly more. The support of the Tsar, on the other hand, meant in certain circumstances more than mere benevolent neutrality.'
+
+He was therefore determined to foster every sympathy. The Convention's significance was 'diplomatic rather than military'. It signalled 'victory in the Russian cabinet of Prussian over Polish policy' and a defeat for Gorchakov. It was decided by the Tsar against his ministers. It therefore 'amply accomplished its purpose' and 'said “checkmate” in the game which anti-Polish monarchism was then playing against philo-Polish Panslavism within the Russian cabinet... It was assumed that liberal concessions, if granted to the Poles, could not be withheld from the Russians. Russian constitutionalists were therefore philo-Polish.' (Memoirs p345ff)
+
+**11 February** Bismarck told the British Ambassador that if Russia folded, he would occupy Poland himself. 
+
+Buchanan: 'Europe will never stand for this.'
+
+Bismarck: 'Who is Europe?'
+
+Buchanan: 'Several great nations.'
+
+Bismarck asked 'whether those nations were at one amongst themselves in this respect'. (The Spectator denounced Bismarck as Lord Tyrconnel, a henchman of James II.) Russell had encouraged the Poles and spoke publicly with moral indignation but could do nothing. Derby and Disraeli were scathing. Disraeli: 'the Polish question is a diplomatic Frankenstein created out of cadaverous elements by the mystic blundering of Lord Russell.'
+
+**17 February** House of Deputies declared that ministers were responsible with their persons and fortunes for unconstitutional expenditure. Bismarck (Memoirs): I was advised to make over my estate to my brother but declined.
+
+**20 February** To Wilhelm: 'Seeing how matters seem to be shaping themselves in Poland we shall hardly be called upon for active cooperation there and the convention thus gives us the advantage of having secured cheaply for the future the gratitude of the Tsar Alexander and the Russian sympathy.' 
+
+**21 February** Napoleon proposed identical notes from Paris, London and Vienna censuring Prussian intervention in Poland. British Cabinet met: Russell supported 'a policy of intervention in conjunction with France' but Palmerston was more cautious and warned of 'ulterior plans of aggrandizement'. Victoria was alarmed at some of Russell's ideas which she thought might get Britain into a war with Germany and she wanted milder language used in any admonition of Prussia. Over the next few weeks there were all sorts of discussions in London but essentially the fears of France starting a war dominated thinking and acted to limit Anglo-French cooperation, despite great sympathy for the Poles. Grey warned the Queen (24th) that joining with France diplomatically could increase the chances of a war which would be embarrassing — France would claim it was to support the freedom of nations, like with Italy. The Queen pushed Granville (President of the Council) to restrain Palmerston (cf. Mosse p110ff).
 
 **21 February** Bleichröder thought the crisis over Alvensleben would lead to the fall of the government within days and set out a code to inform Rothschild of Bismarck's successor. If Bismarck went, the markets would rise, predicted Bleichröder.
 
@@ -3623,7 +3467,9 @@ Claim it was to support the freedom of nations, like with Italy. The Queen pushe
 
 **27 February** Commons debate — Commons was 'unanimously Polish' (Palmerston-Russell). Russell therefore worked on a despatch to Russia.
 
-**28 February** Russell confirmed to Paris that Britain would not join a remonstrance in Berlin. 1 March Cowley: Napoleon and ministers are 'bitterly disappointed at your declining the combined note'.
+**28 February** Russell confirmed to Paris that Britain would not join a remonstrance in Berlin. 
+
+**1 March** Cowley: Napoleon and ministers are 'bitterly disappointed at your declining the combined note'.
 
 At the end of February Bismarck tried to prorogue the Landtag again but only Roon supported him in Cabinet and Wilhelm would not do it.
 
@@ -3637,17 +3483,15 @@ Bismarck talked down the Convention in London and Vienna. To Russia and Austria 
 
 During March there was toing and froing between London-Paris-Vienna about ideas for joint notes. Austria was not opposed but finding languages that all could agree and which actually pressured Russia was impossible. Cf. Palmerston 7/4.
 
-## Spring According to Bismarck, in 1881 after Wilhelm recounted to him a dream he'd had, Bismarck told him: 'Your Majesty's story encourages me to describe a dream which I had in the spring of 1863 when there seemed no way out of our difficulties. I dreamt I was riding along a narrow mountain path with a precipice on my right and on the left sheer rock. Gradually the path narrowed until my horse refused to go on and there was no room to turn round or dismount. Then I struck the rocks with my whip and called on God. The rock-face fell like a piece of stage- 192 of393
+**Spring** According to Bismarck, in 1881 after Wilhelm recounted to him a dream he'd had, Bismarck told him: 'Your Majesty's story encourages me to describe a dream which I had in the spring of 1863 when there seemed no way out of our difficulties. I dreamt I was riding along a narrow mountain path with a precipice on my right and on the left sheer rock. Gradually the path narrowed until my horse refused to go on and there was no room to turn round or dismount. Then I struck the rocks with my whip and called on God. The rock-face fell like a piece of stage property and revealed a broad road leading down to the Bohemian plain, and everywhere there were Prussian troops and colours. I awoke strengthened and joyful.' (!)
 
-Property and revealed a broad road leading down to the Bohemian plain, and everywhere there were Prussian troops and colours. I awoke strengthened and joyful.' (!)
-
-**1 March** (Pflanze) Lassalle issued the manifesto that led to the German Workers Association (founded 23 May). Demanded universal, direct and equal suffrage.
+**1 March** (Pflanze) Lassalle issued the manifesto that led to the **German Workers Association** (founded 23 May). Demanded universal, direct and equal suffrage.
 
 **2 March** A despatch from Russell to Napier called on Russia to have 'an immediate and unconditional amnesty to his revolted Polish subjects'.
 
 **3 March** Gorchakov told Napier, British Ambassador at St Petersburg, that the Convention had never been ratified and could be considered 'a dead letter'. 4/3 Bismarck told Buchanan that no practical effect had been given to it.
 
-**4 March** (Lerman) To Gerlach: Officials are resisting his opposition to promotion by seniority, desire to open up civil service to talent etc, and Eulenburg, though better than Lippe (minister of justice), is not much use. (In 1865 Lippe threatened resignation, other ministers complained to the King over civil service reform to Bismarck's disgust.) To Gerlach (19/3): he wanted to go on a hunt where all the game were Oberpräsidenten (over-presidents) and Geheimräte (privy counsellors). Cf. Pflanze 207-8.
+**4 March** (Lerman) To Gerlach: **Officials are resisting his opposition to promotion by seniority, desire to open up civil service to talent** etc, and Eulenburg, though better than Lippe (minister of justice), is not much use. (In 1865 Lippe threatened resignation, other ministers complained to the King over civil service reform to Bismarck's disgust.) To Gerlach (19/3): he wanted to go on a hunt where all the game were Oberpräsidenten (over-presidents) and Geheimräte (privy counsellors). Cf. Pflanze 207-8.
 
 **10 March** At Windsor Castle the Prince of Wales married Princess Alexandra of Denmark.
 
@@ -3657,7 +3501,7 @@ Property and revealed a broad road leading down to the Bohemian plain, and every
 
 **23 March** Rechberg drafted a memo to guide Metternich (cf. above). An alliance with France is not impossible but is 'very remote from practical politics'. To cede Venetia, we'd have to get compensation in Germany and the Balkans 'by launching into an adventurous policy contrary to Austria's traditions' — it would mean 'the annihilation of Prussia' and Austria having to defend German nationality and territory. Ceding Galicia would also require compensation from France. Rechberg wasn't totally ruling out ceding Venetia but was making clear how complex and unlikely a deal seemed.
 
-**30 March** Danish King issued the 'March Patent' which suggested Denmark would incorporate Schleswig under the authority of the Danish legislature. Carr: 'Strictly speaking the March patent was an attempt to buy off Holstein, not to annex Schleswig ... but contemporaries could hardly be blamed for assuming that annexation was the government's objective after the huge popular gathering in Copenhagen's Casino theatre on 28 March had rejected all but dynastic links with German Holstein.' (Cf. Carr for a summary of the centuries of history of the S-H conflict.)
+**30 March Danish King issued the 'March Patent' which suggested Denmark would incorporate Schleswig under the authority of the Danish legislature.** Carr: 'Strictly speaking the March patent was an attempt to buy off Holstein, not to annex Schleswig ... but contemporaries could hardly be blamed for assuming that annexation was the government's objective after the huge popular gathering in Copenhagen's Casino theatre on 28 March had rejected all but dynastic links with German Holstein.' (Cf. Carr for a summary of the centuries of history of the S-H conflict.)
 
 Steefel (p55): it was an attempt to deal with the constant interference of the Bund in Danish affairs and the impossibility of reaching agreement with the Holstein Estates. The Patent established a constitution for the affairs of Holstein that meant while no law went into force in Holstein without agreement of its Estates, their opposition could not stop the law going into effect in Denmark and Schleswig. Even the British agreed it contravened Denmark's agreement with Austria and Prussia in 1851-2.
 
