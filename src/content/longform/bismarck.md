@@ -3921,15 +3921,15 @@ If they backed Augustenburg, he wrote, the best that would happen is 'one Grand 
 
 He ended this striking letter by saying to Goltz that he knew about his intrigues in the court and would not tolerate Goltz pushing his alternative policy to the king any more.
 
-'The friction in our state machine, already excessive, cannot be intensified. I will tolerate opposition if it emanates from a competent source such as yourself, but the advising of the King in this matter I will share officially with no one, and if H.M. were to demand that of me, I should resign from my post. I told H.M. that when reading him one of your latest reports. H.M. found my point of view a natural one and I can only adhere to it. No one expects reports which reflect only ministerial views but yours are no longer reports in the usual sense, but assume the nature of ministerial presentations [Vortrage] which recommend to the king a completely contradictory policy to the one which he himself decided on and in council with the whole ministry and has pursued for the last four weeks. Criticism of this resolution, which I will call sharp if not downright hostile, does not constitute an ambassadorial report, but a quite different ministerial program. Such conflicting viewpoints can only do harm and no good, for they can arouse hesitation and indecision, and I consider any policy is better than a vacillating one...
+'The friction in our state machine, already excessive, cannot be intensified. I will tolerate opposition if it emanates from a competent source such as yourself, but the advising of the King in this matter I will share officially with no one, and if H.M. were to demand that of me, I should resign from my post. I told H.M. that when reading him one of your latest reports. H.M. found my point of view a natural one and I can only adhere to it. No one expects reports which reflect only ministerial views but yours are no longer reports in the usual sense, but assume the nature of ministerial presentations [Vortrage] which recommend to the king a completely contradictory policy to the one which he himself decided on and in council with the whole ministry and has pursued for the last four weeks. Criticism of this resolution, which I will call sharp if not downright hostile, does not constitute an ambassadorial report, but a quite different ministerial program. Such conflicting viewpoints can only do harm and no good, for they can arouse hesitation and indecision, and I consider any policy is better than a vacillating one...'
 
 'The friction which everyone in my position has to overcome — with ministers and councillors at Court, with occult influences, with the Chambers, the press, and foreign courts — must not be aggravated by the substitution for the discipline of my department, of a rivalry between the minister and the ambassador, and by my having to restore the indispensable homogeneity of the service by a discussion through the post. I can seldom write at such length as I can today, Christmas Eve, when all the officials are on leave, and I would not write the fourth part of this to anyone but you. I do so because I cannot bring myself to write to you officially and through the clerks in the same autocratic tone in which your reports to hand have been couched. I have no hope of convincing you, but I have sufficient confidence in your own official experience and impartiality to make me believe that you will grant me that only one policy can be carried out at a time, and that it must be the policy upon which the ministry and the King are one. If you want to try to overthrow that and the ministry along with it, you must do it here in the Chamber and in the press, at the head of the Opposition, but not from your present position. In that case I should equally have to abide by your maximum that, in case of a conflict between patriotism and friendship, the former must decide. I can assure you that my patriotism is of so pure and strong a nature that a friendship which has to give way to it may nevertheless be very cordial.'
 
 31/12 Goltz replied: 'You are not a parliamentary government but neither are you a monarchical one, yours is the dictatorship of the minister for foreign affairs.'
 
-3. He wanted to annex S-H.
+3. **He wanted to annex S-H.**
 
-## In his Memoirs, he referred to discussion at a December Crown Council in which he raised this. All of Wilhelm's predecessors had added to Prussian territory, he said. His view was not recorded in the protocol of the meeting because the King seemed to think 'that I had spoken under the Bacchic influences of a lunch [!] and would be glad to hear no more about it. I insisted, however, upon the words being put in and they were. While I was speaking, the Crown Prince raised his hands to heaven as if he doubted my sanity. My colleagues remained silent.' Wilhelm objected that he had no 'right' to the Duchies.
+In his Memoirs, he referred to discussion at a December Crown Council in which he raised this. All of Wilhelm's predecessors had added to Prussian territory, he said. His view was not recorded in the protocol of the meeting because the King seemed to think 'that I had spoken under the Bacchic influences of a lunch [!] and would be glad to hear no more about it. I insisted, however, upon the words being put in and they were. **While I was speaking, the Crown Prince raised his hands to heaven as if he doubted my sanity**. My colleagues remained silent.' Wilhelm objected that he had no 'right' to the Duchies.
 
 Lerman says there is 'scant evidence' (p.99) that Bismarck was set on annexation before February. Wrong. Carr: It is 'doubtful' that annexation was primary objective until February 1864. Wrong. GC: 3/2/64 'seems to have been the first occasion on which Bismarck suggested to the king that Prussia should annex the duchies'. Wrong.
 
@@ -3937,7 +3937,7 @@ While Bismarck dated his comment on annexation to December, Keudell thought it r
 
 My conclusion... He always held annexation as his primary goal and certainly was thinking this before February 1864, before November 1863 and even before 1863.
 
-a) Look at his letter of 22/12/62 to Count Flemming: 'I am certain that the whole Danish business can be settled in a way desirable for us only by war. The occasion for such a war can be found at any moment that we find favourable for waging it... The disadvantage of having signed the London Protocol we share with Austria and cannot free ourselves from the consequences of that signature without war. It cannot be foreseen what development of the German Federal relations is destined for the future. As long, however, as they remain about the same as in the past, I cannot regard it as in the interest of Prussia to wage a war in order, as the most favourable result, to install in [SH] a new Grand Duke [I.e Augustenburg], who in fear of Prussian lust for annexation, will vote against us in the Diet and whose government, in spite of the gratitude due to Prussia for its installation, will be a ready object of Austrian intrigues.'
+a) Look at his letter of 22/12/62 to Count Flemming: **'I am certain that the whole Danish business can be settled in a way desirable for us only by war. The occasion for such a war can be found at any moment that we find favourable for waging it...** The disadvantage of having signed the London Protocol we share with Austria and cannot free ourselves from the consequences of that signature without war. It cannot be foreseen what development of the German Federal relations is destined for the future. As long, however, as they remain about the same as in the past, **I cannot regard it as in the interest of Prussia to wage a war in order, as the most favourable result, to install in [SH] a new Grand Duke [I.e Augustenburg]**, who in fear of Prussian lust for annexation, will vote against us in the Diet and whose government, in spite of the gratitude due to Prussia for its installation, will be a ready object of Austrian intrigues.'
 
 b) Look at his correspondence with Wilhelm on 1/12/63.
 
@@ -3949,169 +3949,138 @@ In his Memoirs:
 
 'From the very beginning I kept annexation steadily before my eyes, without losing sight of the other gradations.' The course which 'absolutely must be avoided' was 'war for the erection of a new Grand Duchy, at the head of the newspapers, the clubs, the volunteers and the states of the Bund (Austria excepted)... I should have regarded as a fool and a traitor any minister who had fallen back upon the erroneous policy of 1848, 1849 and 1850 which must have prepared a new Olmütz for us.' In his Memoirs he speculates that William might never have been persuaded to go for the course they took were it not for the failures and problems of the New Era. 'Even in 1864 it certainly cost us much trouble to loosen the threads by which the King, with the co-operation of the liberalising influence of his consort, remained attached to that camp.' William stuck to the line that he had no right to Holstein. Bismarck took the view that the law was very complicated and could be forced to yield some sort of justification for what he wanted. (2, p12-13). 'My respect for so-called public opinion — or in other words, the clamour of orators and newspapers — has never been very great but was still further lowered as regards foreign policy [by the SH crisis].'
 
-## 217 of 393
+In Busch's book (1p130/174 depending on edition), he told Busch: **'What I am proudest of, however, is our success in the Schleswig-Holstein affair...** It was difficult to carry my idea into execution. Everything was against it — Austria, the English, the small [German] states — both Liberal and anti-Liberal, the Opposition in the Diet, influential personages at Court, and the majority of the press... There was some hard fighting, the hardest being with the Court, and it demanded stronger nerves than mine.'
 
-# In Busch's book
+4. Publicly we stand for 'international law'. This makes it harder for Powers to attack, particularly Britain as Britain favours Denmark but is embarrassed when she's breaking international law.
 
-(1p130/174 depending on edition), he told Busch: 'What I am proudest of, however, is our success in the Schleswig-Holstein affair... It was difficult to carry my idea into execution. Everything was against it — Austria, the English, the small [German] states — both Liberal and anti-Liberal, the Opposition in the Diet, influential personages at Court, and the majority of the press... There was some hard fighting, the hardest being with the Court, and it demanded stronger nerves than mine.'
-
-# Public stance on 'international law'
-
-Publicly we stand for 'international law'. This makes it harder for Powers to attack, particularly Britain as Britain favours Denmark but is embarrassed when she's breaking international law.
-
-# Strategy with Austria and Rechberg
-
-We hitch Austria to our cause to block pro-Augustenburg intrigues and discredit the Confederation. In 1864 he was discussing the situation with the Italian Ambassador at a ball who commented on his alliance with FJ to which he replied, 'Oh, we've only hired him [Austria].' 'For nothing?' 'It is travailler pour le roi de Prusse [i.e 'hard work for little gain' to Austria].'
+5. We hitch Austria to our cause to block pro-Augustenburg intrigues and discredit the Confederation. In 1864 he was discussing the situation with the Italian Ambassador at a ball who commented on his alliance with FJ to which he replied, 'Oh, we've only hired him [Austria].' 'For nothing?' 'It is travailler pour le roi de Prusse [i.e 'hard work for little gain' to Austria].'
 
 Rechberg thought it was a chance to discredit the German national movement. He also had to worry that Napoleon was supporting Bismarck in annexing the duchies and grabbing other parts of north Germany. Rechberg knew about this because Bismarck passed on some of Napoleon's suggestions to Rechberg, to pressure the latter to move in the desired direction. Bismarck kept dropping hints to Napoleon re possible compensation in Italy or the Rhine.
 
-# Interactions with Rechberg and Diplomatic Maneuvering
-
 He had dealt with Rechberg at the Diet in Frankfurt. At one point Rechberg challenged him to a duel though it was quickly smoothed over. On another occasion, Rechberg gave him the wrong document to read — a very sensitive one. Bismarck handed it back, pointed out the error, and never used the information. 'Thenceforth he placed in me every confidence' (Memoirs, p366).
 
-# Playing the Powers against each other
+**Throughout the crisis Bismarck played the Powers off against each other.**
 
-Throughout the crisis Bismarck played the Powers off against each other.
-
-# First a stocktake:
+First a stocktake:
 
 - Napoleon had now annoyed and seemed to threaten Russia (in Poland), Austria (in Italy), Prussia (on the Rhine) and Britain (in Belgium). Paris was furious with London and estranged from St Petersburg. Napoleon thought he could gain from disruption: perhaps he could grab Venetia, perhaps he could improve France's northern frontier. This gave Bismarck leverage.
+
 - Vienna, worried by Napoleon and the failure of her German initiatives, now wanted to cooperate with Prussia. This gave Bismarck leverage.
+
 - Vienna wanted British cooperation in keeping Napoleon calm and the financial help of London's banks. There was no direct clash of interests. Palmerston had said in 1859, 'If [Austria] were dismembered, France and Russia would shake hands across Germany and the independence of Europe would be gone.' But London also favoured Venetia going to Italy and assumed it inevitable. Metternich wanted an alliance with Napoleon. The collapse of the August initiative undermined Schmerling somewhat. Everybody in official circles was contemptuous of Italy but although FJ had sometimes said he would retake Lombardy, Schmerling and others opposed this. FJ and Rechberg going for an alliance with Prussia was unpopular in most of the court circles (Clark).
+
 - Russia occupied Poland and had an army within 200 miles of Berlin and Vienna. The growth of nationalism threatened her position in Poland. And in 1863 Russia was absorbed in its internal problems, the recent emancipation of the serfs etc.
 
----
+- Gorchakov sought closer relations with Britain summer-December and 1863 ended, having started with the row over Poland, with the Cabinet assuring Russia of 'their most friendly feelings' (Russell-Napier, 31/12). The Polish rebellion was not yet crushed and Napoleon may return to action in spring 1864. Russia wanted France isolated and the space to focus on internal reorganisation. Polish operations were expensive — in 1863 the deficit rose from ~35 million roubles to 40m then in 1865 it was 55m before starting to fall. Russia saw liberalism on the march in Germany, a democratic national movement attacking the government in Denmark, growing revolutionary ideas in Paris, revolutionary tides in Hungary, and the people of Venetia wanting union with the new kingdom of Italy. In this context, Russia did not want Bismarck resigning and a liberal government taking over in Berlin. Regarding Denmark, Russia neither wanted a new Scandinavian union, ruled by the anti-Russian Swedish king, nor Bismarck's diplomatic defeat and fall. Russia and Austria rubbed against each other in the Balkans where Austria wanted Turkey to stay stable (unless Vienna could grab something) while Russia wanted to weaken Turkey and Panslavist propaganda was aimed at Vienna. Overall the Tsar was personally and politically closer to Wilhelm than FJ. Austria's flirtation with Paris and London over Poland had knocked back relations again.
 
-# Gorchakov's Diplomatic Relations and European Alliances
+- Bismarck could exploit Gorchakov's fears and desires, including by dropping hints of how he may be forced to resign or seek closer relations with Napoleon. Mosse: he made frequent and skilful use' of these two trump cards.
 
-Gorchakov sought closer relations with Britain in the summer of 1863, which ended in December of the same year. The initial disagreement over Poland was resolved with the British Cabinet assuring Russia of their friendly feelings. The Polish rebellion was ongoing, and there were concerns about Napoleon potentially resuming action in the spring of 1864. Russia aimed to isolate France to focus on internal reorganization. The cost of Polish operations was significant, leading to a rise in the deficit before a gradual decline.
+- Britain had conflicting attitudes towards Germany. She didn't want a major war. But the Bund guaranteed Germany was relatively weak and therefore less effective in constraining France, Britain's perpetual fear.
 
-Russia observed liberal movements in Germany, a democratic uprising in Denmark, revolutionary ideas in Paris, unrest in Hungary, and aspirations for union with Italy in Venetia. The Tsar preferred Wilhelm over FJ personally and politically. Tensions arose with Austria in the Balkans, where their interests clashed regarding Turkey and Panslavist propaganda targeted Vienna. Austria's engagements with Paris and London regarding Poland strained relations.
+- In London, it was clear that preserving Danish independence was a national interest. Palmerston thought it best achieved by pressuring Germany and was determined to uphold the 1852 Treaty. The Queen and most of the Cabinet preferred pressure on Denmark and were ready to jettison 1852. Russell got caught between Palmerston/Cabinet and pressure on Copenhagen/ Germany. The wrangling over Poland in 1863 was a very poor prelude to cooperation in Europe over Denmark from November 1863. (Mosse).
 
-Bismarck skillfully manipulated Gorchakov's concerns and aspirations, hinting at potential resignations or closer ties with Napoleon. Britain had mixed feelings towards Germany, aiming to avoid a major war while also recognizing the need to balance power dynamics in Europe. The preservation of Danish independence was a priority for Britain, leading to internal debates within the Cabinet.
+- As the crisis unfolded, Russia regarded Bismarck's fall as a disaster and was prepared to act to help him. Britain regarded it, and the liberal Prussia it assumed would follow, as great news. Mosse: Britain and Russia had lower prestige than the days of Olmütz and Don Pacifico in 1850, while Austria and Prussia, working together, were stronger than they had been in 1848-9.
 
-As the crisis unfolded, Russia viewed Bismarck's potential fall as a disaster, while Britain welcomed the prospect of a liberal Prussia. Various alliances among the powers faced challenges in coordination due to historical conflicts and differing interests. The relationships between Russia/Austria, Russia/France, Russia/Britain, and Britain/France were marked by distrust, tensions, and conflicting objectives.
+There were six possible 2-way alliances among the 4 other powers. They all struggled to coordinate:
 
-## Overall, the European landscape in the 1860s was characterized by complex diplomatic maneuvers, power struggles, and shifting alliances as each nation pursued its interests amidst a backdrop of regional and global uncertainties.
-
-Developed in 1864, Napoleon used it to undermine support for the 1815 settlement, which deepened tension with Britain, which did not want the crisis to spread into a general crisis.
-
-- Britain/Austria: Neither could really help the other much directly or cared about the other's interests. Austria wouldn't give up Italy, British elites favored liberal nationalism in Italy.
+- Russia/Austria: Crimea created antipathy in Russia for Austria.
+- Russia/France: Napoleon's attack over Poland in February 1863 then November 1863 on tearing up the 1815 settlement created tension and suspicion.
+- Russia/Britain: legacy of Crimea War, Great Game in central Asia made Britain worried about India, competition in Mediterranean made Britain worried about the Middle East. Both Russia and Britain in 1860s wanted Europe quiet while they pursued interests and growth outside Europe.
+- Britain/France: huge distrust of Napoleon, Britain opposed Napoleon's intervention in Italy, made worse in November 1863 when Napoleon renounced the 1815 settlement and called for a Congress, UK rightly suspected him making moves on Rhineland and Belgium. As the crisis developed in 1864 Napoleon used it to undermine support for the 1815 settlement, which deepened tension with Britain which did not want the crisis to spread into a general crisis.
+- Britain/Austria: Neither could really help the other much directly or cared about the other's interests. Austria wouldn't give up Italy, British elites favoured liberal nationalism in Italy.
 - France/Austria: Franco-Austrian war 1959 and Italian unification made Franco-Austrian cooperation hard and left Austria vulnerable to attack from the south. Austria and France inevitably were in tension over nationalism.
 
 Bismarck exacerbated tension between all these relationships to maximize his own options, particularly to avoid France and Russia coming together to pressure him.
 
 - With Britain he stressed 'international law', his limited goals, and hinted that hostility would force him to do a deal with Napoleon who wanted to tear up 1815. He stressed to Buchanan: Prussia could either a) stick to the London 1851 Treaty and keep Napoleon isolated or b) abandon the Treaty and join with the Bund and possibly Napoleon — I hope, he told Buchanan, that London 'would not give a signal for the start of a steeplechase to Paris.'
+
 - British policy was confused, Palmerston was old, the Cabinet was divided and few wanted to fight over it — especially not alongside Napoleon. [Exercise: how would Bismarck have handled it if he had worked for London?]
+
 - With Austria he stressed conservative solidarity, the dangers of French maneuvers in Italy, and hinted at the possibility of himself doing a deal with Napoleon. He suggested that N3 was offering help to annex the duchies so Rechberg felt he had to try to keep the madman Bismarck close. He used democracy to undermine Austria — e.g he accepted Britain's suggestion of a referendum knowing Austria could not accept. When Austria asked him for concessions that he could not easily just refuse, he replied that he would be prepared to do so but could not persuade Wilhelm. When Austria backtracked, cheated him, and backed Augustenburg (May), he did not openly oppose -- he went along but imposed such tough conditions that Augustenburg withdrew: 'I hitched Augustenburg as an ox before the plough'.
+
 - Austria was trapped between a) the triumph of liberal nationalism (a major problem for her viz Hungary and Italy) or b) Prussian annexation. Austria was almost immediately (12/63) discredited in the Bund by going with Prussia against Augustenburg and bullying the Bund. In April 1864 Bismarck remarked to Keudell that it was 'incomprehensible' why Austria had followed Prussia into SH. Austria could neither figure out what Bismarck was up to nor develop a good rationale for why it was getting entangled in SH, in which it had no real interest. [Exercise: how would Bismarck have handled it if he had worked for Vienna?]
+
 - With Napoleon he held out the chance of vindicating the nationality principle in Schleswig. He held out the possibility of gains for France in Italy and hinted he might support a grab in Belgium, while warning that hostility would force him to be more pro-Austrian: 'From the moment that you show us faccia feroce, we must put ourselves on good terms with Austria' (to Talleyrand, spring 1863).
+
 - Britain and France could not cooperate. When the Cabinet was considering options in spring 1863 de Lhuys told the British Ambassador in Paris that the Polish affair in 1863 had shown that 'Great Britain could not be relied upon when war was in the distance.' But Napoleon couldn't decide on a goal and win allies for it. He'd annoyed Britain and Russia in November 1863 by denouncing Vienna and by the end of 1864 had not got anything for himself. [Exercise: how would Bismarck have handled it if he had worked for Paris?]
-- With Russia he exploited their hostility to Austria and stressed conservative solidarity against revolutionary forces. Carr writes a few times that Bismarck was genuinely worried about the Augustenburg movement leading to revolution. I'm not sure about this. I think it's more accurate to say that he feared his own King, under the influence of his wife, might back Augustenburg and
 
----
-
-Generally mishandle events such as to encourage revolutionary dynamics, but he also thought that if Wilhelm followed his advice then revolutionary dynamics would fade away.
+- With Russia he exploited their hostility to Austria and stressed conservative solidarity against revolutionary forces. Carr writes a few times that Bismarck was genuinely worried about the Augustenburg movement leading to revolution. I'm not sure about this. I think it's more accurate to say that he feared his own King, under the influence of his wife, might back Augustenburg and generally mishandle events such as to encourage revolutionary dynamics, but he also thought that if Wilhelm followed his advice then revolutionary dynamics would fade away.
 
 - He used British opposition to Augustenburg to undermine the latter with Wilhelm (i.e if we push for Augustenburg we might get embroiled in war with Britain) and also waved the spectre of German liberals running amok at Wilhelm to quell his inclinations for Augustenburg. Denmark's intransigence was important. Wilhelm feared that the Danes might compromise and the opportunity to ditch 1852 could be lost, while Bismarck thought that he would always be able to provoke trouble over it and the real danger was backing Augustenburg, not the Danes pulling a diplomatic coup.
+
 - He used the pressure on him in Germany to side with Augustenburg to argue in London that he had to insist on Denmark fulfilling her obligations.
-- He secretly encouraged Danish intransigence which supplied energy to him.
+
+- He secretly encouraged Danish intransigence *which supplied energy to him.*
+
 - He isolated the liberals by using their opposition to funding the army against them.
+
 - His hardest problem was always the King and the influences on him. E.g To Roon, 21 January 1864: 'I have the premonition that the cause of the crown against the revolution is lost, for the heart of the king is in the other camp.'
 
 His main opponent was Austria which suffered many problems:
 
 1. She couldn't decide on priorities between preserving her position in the Bund / North Germany and Italy.
+
 2. Decision-making around FJ was shambolic — politically, militarily, and when the two combined. She stumbled into the S-H crisis without thinking through the hard questions.
+
 3. She suffered severe debt problems.
+
 4. Internal divisions over the Zollverein and tariffs.
+
 5. Multi-national empire in an age of growing nationalism.
+
 6. Relied on the 1815 Vienna Treaty in an age when Napoleon was undermining faith in Vienna and 'international law'.
+
 7. She couldn't repair relations with Russia.
+
 8. Britain and France opposed her in Italy.
+
 9. Napoleon thought he could exploit conflict between Austria and Prussia and Vienna couldn't figure out how to cope with this.
 
 Some other things to keep in mind over the next 6 months:
 
 - It was hard for Bismarck to push Wilhelm to adopt annexation as the policy. He had to both keep this as his guiding star while avoiding a rupture with the King over it and gradually converting him.
+
 - The British Cabinet was divided and Palmerston could not get support for a more aggressive policy. Britain often faced the dilemma: perhaps we could make gains 'on the cheap' by making threats, but what if our bluff is called? Here Bismarck correctly calculated he could call Britain's bluff. And when push came to shove Palmerston consistently was more fearful of France. Cf. 8/2/61, 13/2/63, 7/4/63, 13/9/65. Many in London thought that a stronger Germany would be useful to Britain in containing France and Russia.
+
 - When Austria flipped to support Augustenburg, Bismarck's response was amazingly subtle: he did not overtly oppose, he met Augustenburg and manipulated Augustenburg into blowing his own chances up. Cf. his famous comment about hitching Augustenburg like an ox to the plough then dropping him.
+
 - No other Power could develop a coherent approach to ends, ways and means. This is normal. It was Bismarck's incredible performance and intricate execution that was highly abnormal.
+
 - His cynicism was boundless. He used both nationalism and democracy as forces to give him energy but he privately described both as a 'swindle'.
+
 - Austria was tricked into thinking it was working with Bismarck on a joint conservative project. He kept annexation hidden from Vienna until Vienna was embroiled in territories far from her core concerns.
+
 - He told Rechberg and Napoleon about the offers from each other to Prussia to keep each suspicious of the other and more inclined to stay closer to him.
+
+- Almost all observers assumed the Austrian army was much stronger than Prussia's. We know what happened in 1866 but it was shocking to almost everybody at the time. The real power of states can quietly change in ways that experts cannot see. The development of the Prussian General Staff and other military reforms were vastly underrated until the shock of Sadowa then still underrated until 1870-1.
 
 ---
 
-# Document
 
-## • Almost all observers assumed the Austrian army was much stronger than Prussia's. We know what happened in 1866 but it was shocking to almost everybody at the time. The real power of states can quietly change in ways that experts cannot see. The development of the Prussian General Staff and other military reforms were vastly underrated until the shock of Sadowa then still underrated until 1870-1.
+### 1864
 
-# History Notes
+*Notes from the Underground*, Dostoyevsky.
 
-# 1864
+'British foreign policy during the Schleswig-Holstein crisis of 1863-4 was hardly deserving of the name. It was a curious and incoherent amalgam of Palmerstonian blustering and anti-Palmerstonian pressures emanating from Windsor and amplified within the Cabinet, presided over by Lord John Russell, who had somehow forgotten it was all a bluff' (Otte, The Foreign Office Mind).
 
-Notes from the Underground, Dostoyevsky.
-
-'British foreign policy during the Schleswig-Holstein crisis of 1863-4 was hardly deserving of the
-name. It was a curious and incoherent amalgam of Palmerstonian blustering and anti-Palmerstonian
-pressures emanating from Windsor and amplified within the Cabinet, presided over by Lord John
-Russell, who had somehow forgotten it was all a bluff' (Otte, The Foreign Office Mind).
-
-There was 'a divided Cabinet and the confused uncertainty of Parliament' leading to 'an indefinite
-wavering policy which brought embarrassment and discredit to the Government... British
-impotence and her reluctance to fight had been bared for all to see.' But 1864 saw no radical
-change. It was 'the culmination of a long period of British disenchantment with the Continent,
-which went back at least as far as the end of the Crimean War.' (Millman, p.5).
+There was 'a divided Cabinet and the confused uncertainty of Parliament' leading to 'an indefinite wavering policy which brought embarrassment and discredit to the Government... British impotence and her reluctance to fight had been bared for all to see.' But 1864 saw no radical change. It was 'the culmination of a long period of British disenchantment with the Continent, which went back at least as far as the end of the Crimean War.' (Millman, p.5).
 
 Ignatiev arrived as Ambassador in Constantinople in [1864 Wikipedia and others, 1867 Otte].
 
-**1 January** In the Norddeutsche Allgemeine Zeitung (a Prussian newspaper that was often the place for
-official stories or semi-official leaks) appeared a story that Britain had protested the Austro-
-Prussian proposal to the Diet for the occupation of Schleswig, and had told the German
-governments that 'in case German troops crossed the Eider, England would give Denmark the aid
-desired'. The story was picked up by other papers including in Copenhagen. On 4 January Bernstorff
-posted it out to Bismarck and said he was surprised if it were true as Russell had not given any
-indication of it. Bismarck replied that such a declaration had not actually been made but some
-information offered some justification for the statements published(!). He did not tell Bernstorff
-that he had himself urged Britain to toughen its notes to German states (cf. 26/12). Steefel
-speculates that this was a subtle move by Bismarck to encourage foolish hopes and further
-resistance in Copenhagen. This seems to me likely, cf. the comments to Beust in August 1865.
+**1 January** In the Norddeutsche Allgemeine Zeitung (a Prussian newspaper that was often the place for official stories or semi-official leaks) appeared a story that Britain had protested the Austro- Prussian proposal to the Diet for the occupation of Schleswig, and had told the German governments that 'in case German troops crossed the Eider, England would give Denmark the aid desired'. The story was picked up by other papers including in Copenhagen. On 4 January Bernstorff posted it out to Bismarck and said he was surprised if it were true as Russell had not given any indication of it. Bismarck replied that such a declaration had not actually been made but some information offered some justification for the statements published(!). He did not tell Bernstorff that he had himself urged Britain to toughen its notes to German states (cf. 26/12). Steefel speculates that this was a subtle move by Bismarck to encourage foolish hopes and further resistance in Copenhagen. This seems to me likely, cf. the comments to Beust in August 1865.
 
-2-3 January Church: Meetings of the Crown Council at which Bismarck got Wilhelm to agree — no
-agreement with Austria for a permanent commitment to Denmark's integrity. Cf. 10 January.
+**2-3 January** Church: Meetings of the Crown Council at which Bismarck got Wilhelm to agree — no agreement with Austria for a permanent commitment to Denmark's integrity. Cf. 10 January.
 
-**2 January** Carr: British Cabinet decided to help Denmark if Augustenburg was established in S-H but
-without support from France and Russia it would not be military support.
+**2 January** Carr: British Cabinet decided to help Denmark if Augustenburg was established in S-H but without support from France and Russia it would not be military support.
 
 Mosse: British Cabinet despatched a note to Malet in Frankfurt: HMG would regard giving
-**August**enburg possession of both duchies 'as equivalent to an attack upon Denmark with a view to
-its dismemberment, and they would feel bound, in that case, to afford assistance to Denmark in
-opposing so evident an act of aggression.' Britain asked for a delay to allow consideration by the
-signatories to 1852. This should be communicated to the Diet after a similar note had been agreed
-by Russia, France and Sweden. Cf 8/1.
+Augustenburg possession of both duchies 'as equivalent to an attack upon Denmark with a view to its dismemberment, and they would feel bound, in that case, to afford assistance to Denmark in opposing so evident an act of aggression.' Britain asked for a delay to allow consideration by the signatories to 1852. This should be communicated to the Diet after a similar note had been agreed by Russia, France and Sweden. Cf 8/1.
 
-**3 January** Cowley-Russell: Drouyn says that French sympathies are with Denmark but 1852 provided
-no guarantee of action and France only had 'so to say, but a sixth of the responsibility' for the
-Treaty; France won't fight for Denmark alone and doesn't see much prospect of allies and 'the
-question of Poland had shown that Great Britain could not be relied upon when war was in the
-distance'. (JS dates this comment to 'late 1863'. He cites Pflanze for this but Pflanze does not give a
-date and implies p.248 it was January, which it was.)
+**3 January** Cowley-Russell: Drouyn says that French sympathies are with Denmark but 1852 provided no guarantee of action and France only had 'so to say, but a sixth of the responsibility' for the Treaty; France won't fight for Denmark alone and doesn't see much prospect of allies and 'the question of Poland had shown that Great Britain could not be relied upon when war was in the distance'. (JS dates this comment to 'late 1863'. He cites Pflanze for this but Pflanze does not give a date and implies p.248 it was January, which it was.)
 
-Cowley thought this 'lamentable' conduct was caused by: 1) The 'rankling disappointment at the
-failure of the projected Congress and a desire to justify the project in the eyes of the world by the
-spectacle of a conflict which might have been avoided'; 2) Anger to HMG re 'their imputed
-abandonment of France in the Polish question'; 3) 'The possibility that out of the complications
-something may turn up advantageous to France'.
+Cowley thought this 'lamentable' conduct was caused by: 1) The 'rankling disappointment at the failure of the projected Congress and a desire to justify the project in the eyes of the world by the spectacle of a conflict which might have been avoided'; 2) Anger to HMG re 'their imputed abandonment of France in the Polish question'; 3) 'The possibility that out of the complications something may turn up advantageous to France'.
 
-Mosse: This marked 'an epoch in the history of the nineteenth-century', the age of Palmerston was
-ending and that of Bismarck began, it 'paved the way for the German advance across the Eider', it
-'marked the end of the Palmerstonian age in British foreign policy and the beginning of British
-isolation'. Napoleon was angry with Britain over Poland, angry with Britain over the Congress.
-
----
-
-(especially the insulting nature of the briefing), and hopeful that in the chaos of Bismarck pushing for changes something would turn up for France, with little risk.
+Mosse: This marked 'an epoch in the history of the nineteenth-century', the age of Palmerston was ending and that of Bismarck began, it 'paved the way for the German advance across the Eider', it 'marked the end of the Palmerstonian age in British foreign policy and the beginning of British isolation'. Napoleon was angry with Britain over Poland, angry with Britain over the Congress (especially the insulting nature of the briefing), and hopeful that in the chaos of Bismarck pushing for changes something would turn up for France, with little risk.
 
 **5 January** Napier-Russell: 'The leading aims of Prince Gorchakov are to combat the notions of democracy and nationality and to control France'.
 
