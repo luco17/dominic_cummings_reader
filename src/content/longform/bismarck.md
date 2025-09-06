@@ -3705,13 +3705,11 @@ OP: most liberals tried to ignore the move and focus on domestic issues but they
 
 **30 September** To Wilhelm: expects to be back in Berlin in a week then proceed to Baden. He suggests that the king should pardon a locally-influential peasant under attack from local liberal/legal forces who are trying to persuade the peasants that they have more power than the king over local issues — a pardon would make the point forcefully that the king could influence local battles. (Interesting example of the sort of small battle, which doesn't make it into history books (it's recounted in a letter), that someone like Bismarck is constantly engaged with.)
 
-## October He complained that the Foreign Ministry was in 'a deplorable state of decay'. One of his officials wrote that he was 'not completely of sound mind' and from time to time demanded completely impracticable things'. Blanckenburg wrote to Gerlach on 3/10 that Bismarck is 'writing everything on his own, no one can do it right for him, ... he is losing contact, speaks to few people'.
-
-Gerlach advised him to bring in outsiders to help. He complained to Keudell that he had aged 15 years in a year and 'the people are much stupider than I thought'.
+**October** He complained that the Foreign Ministry was in 'a deplorable state of decay'. One of his officials wrote that he was 'not completely of sound mind' and from time to time demanded completely impracticable things'. Blanckenburg wrote to Gerlach on 3/10 that Bismarck is 'writing everything on his own, no one can do it right for him, ... he is losing contact, speaks to few people'. Gerlach advised him to bring in outsiders to help. He complained to Keudell that he had aged 15 years in a year and 'the people are much stupider than I thought'.
 
 **October** (Clark) There was a conference of German state foreign ministers at Nuremberg. Rechberg tried to get them to agree on the August plan without Prussia. The other states did not want to alienate Prussia. Rechberg said to the Saxon minister, 'Very well, if you wish it that way we too can make friends with Prussia.' When he returned to Vienna, he decided that, although Bismarck wanted to push Austria out of Germany, in the short-term he should look for a deal to buy time while Austria recovered from recent disasters. Bismarck would also help against the democratic tide while the minor German sovereigns were bending like reeds in a storm. FJ was disheartened by the failure of the Schmerling/Biegeleben plan and was willing to listen — although he preferred Schwarenberg's approach to Metternich's, his disposition was to temporise and swerve around. Influential people around FJ disliked Bismarck's style and aggression but they also feared that if he fell he would be replaced by a liberal and this limited action against him in 1862-4.
 
-**1 October** (Gall) The Bund approved a 'federal execution' order against Holstein and charged Prussia and Austria with Saxony and Hanover to enforce it. Bleichröder: the market is depressed with fears of conflict (Stern).
+**1 October** **(Gall) The Bund approved a 'federal execution' order against Holstein and charged Prussia and Austria with Saxony and Hanover to enforce it.** Bleichröder: the market is depressed with fears of conflict (Stern).
 
 **7 October** Bismarck spoke to Buchanan: suggested he was happy at the idea of a conference but he urged Britain not to act until after the Execution. He repeatedly portrayed himself to Buchanan as softening demands from Austria and other German states.
 
@@ -3721,13 +3719,11 @@ Gerlach advised him to bring in outsiders to help. He complained to Keudell that
 
 **17 October** Buchanan-Russell: Bismarck says that he prefers the Danish king in the Duchies to a new Duke.
 
-20/28 October 1863 elections (Pflanze refers to September elections p208 but 20/10 p216): conservatives recovered a bit from 10 [wrong, 11] to 36, liberals had 258/350. Steinberg: PP 135>>141; other liberals 96>>106; conservatives 11>>35; 'Constitutionals' disappeared completely. EF: cons 11>35, PP 133>140 (historian Mommsen elected), liberals ~70%, turnout down from 34% to 31%. Wilhelm was so worried by the October 1863 election results that he apparently said, looking out of a window onto Palace Square, 'Down there is where they will put up a guillotine for me' (Clark). Deputies soon rejected the three-year military reform again and cut the budget accordingly. OP: the results were roughly as Bismarck expected, the only good news was some better conservatives elected, such as Wagener and Blanckenburg. Hamerow: the liberals got 536k votes (49%) and 258 (down from 285) seats (same seats as OP) vs conservatives 336k votes (31%) and 36 seats (same seats as OP). PP up from 141 to 143. They had roughly the same advantage in each of the three classes. Turnout down from 34% to 31%. (Only 1863 has detailed electoral records.) Seems 258-36 is the right result.
+**20/28 October** 1863 elections (Pflanze refers to September elections p208 but 20/10 p216): conservatives recovered a bit from 10 [wrong, 11] to 36, liberals had 258/350. Steinberg: PP 135>>141; other liberals 96>>106; conservatives 11>>35; 'Constitutionals' disappeared completely. EF: cons 11>35, PP 133>140 (historian Mommsen elected), liberals ~70%, turnout down from 34% to 31%. Wilhelm was so worried by the October 1863 election results that he apparently said, looking out of a window onto Palace Square, 'Down there is where they will put up a guillotine for me' (Clark). Deputies soon rejected the three-year military reform again and cut the budget accordingly. OP: the results were roughly as Bismarck expected, the only good news was some better conservatives elected, such as Wagener and Blanckenburg. Hamerow: the liberals got 536k votes (49%) and 258 (down from 285) seats (same seats as OP) vs conservatives 336k votes (31%) and 36 seats (same seats as OP). PP up from 141 to 143. They had roughly the same advantage in each of the three classes. Turnout down from 34% to 31%. (Only 1863 has detailed electoral records.) Seems 258-36 is the right result.
 
 **22 October** Bismarck wrote to Gerlach complaining that Crown Prince was an 'impudent nonentity' and 'cretin'.
 
-## 26 October Bismarck to Schleinitz: 'The Prussian monarchy and our present constitution are irreconcilable.' The chief obstacle in the way of the 'complete and unconditional' elimination of the constitution was the king. (In autumn (Hamerow) Roon wrote from Pomerania (autumn): 'I live here in the midst of so-called Junkerdom, but my hopes for the future are not thereby strengthened. Supineness, laziness, pusillanimity, these are the chief characteristics of the so-called
-
-Conservative monarchist majority of the people, which endures everything but also expects everything from the government. Only the rule of the sabre can save us!
+**26 October** Bismarck to Schleinitz: 'The Prussian monarchy and our present constitution are irreconcilable.' The chief obstacle in the way of the 'complete and unconditional' elimination of the constitution was the king. (In autumn (Hamerow) Roon wrote from Pomerania (autumn): 'I live here in the midst of so-called Junkerdom, but my hopes for the future are not thereby strengthened. Supineness, laziness, pusillanimity, these are the chief characteristics of the so-called conservative monarchist majority of the people, which endures everything but also expects everything from the government. Only the rule of the sabre can save us!
 
 **30 October** Russell-Queen: 'Prussia is becoming more friendly to England than she has been for many years.'
 
@@ -3737,7 +3733,7 @@ Conservative monarchist majority of the people, which endures everything but als
 
 **1 November** Austrian Council of Ministers met — what to do if France continued to push on Poland? Mosse: Rechberg feared Napoleon and wanted closer relations with Prussia.
 
-**5 November** Napoleon declares that the 1815 treaties had 'ceased to exist' and demands a European Congress. (Mosse — invitation to Congress on 4th, denounced 1815 on 5th.) Cowley reported to London that in Paris the message of Napoleon's speech was seen as 'A Congress or war'.
+**5 November** **Napoleon declares that the 1815 treaties had 'ceased to exist' and demands a European Congress.** (Mosse — invitation to Congress on 4th, denounced 1815 on 5th.) Cowley reported to London that in Paris the message of Napoleon's speech was seen as 'A Congress or war'.
 
 Bismarck replied in a friendly tone without commitment, assuming Britain would veto. Austria and Russia didn't want it but wanted Britain to torpedo. Russell's first reaction was not hostile but he thought it required serious thought, not immediate response. Rechberg expressed the fear it would lead to a general war (Bloomfield, 8/11). Gorchakov wanted to weaken further the Britain-France relationship.
 
@@ -3755,23 +3751,21 @@ Bismarck replied in a friendly tone without commitment, assuming Britain would v
 
 **13 November** Wilhelm received Napoleon's invitation to the Congress from the Ambassador. Reply was presented by Goltz on 22nd.
 
-## 13 November Denmark adopted a new constitution. It put into effect the concept from the March Patent. The Danish Council President, Hall, went to get it signed by the King but found him ill. Two days later on 15 November the Danish king died, he had no direct heir. He was succeeded by Prince Christian of Schleswig-Holstein-Sönderburg-Glücksbrg as King Christian IX (proclaimed 18th). The new King signed the new constitution (20th) under great pressure from politicians and even the police (who said they could not guarantee law and order unless he signed). (Gorchakov tried to stop Christian signing the new constitution.)
-
-This kicked off the Schleswig-Holstein affair. Schleswig and Holstein were possessions of the Danish crown. Holstein was part of the German Confederation but Schleswig was not. Denmark had promised not to incorporate either duchy in 1852.
+**13 November** **Denmark adopted a new constitution**. It put into effect the concept from the March Patent. The Danish Council President, Hall, went to get it signed by the King but found him ill. **Two days later on 15 November the Danish king died, he had no direct heir. He was succeeded by Prince Christian of Schleswig-Holstein-Sönderburg-Glücksbrg as King Christian IX (proclaimed 18th). The new King signed the new constitution (20th)** under great pressure from politicians and even the police (who said they could not guarantee law and order unless he signed). (Gorchakov tried to stop Christian signing the new constitution.) **This kicked off the Schleswig-Holstein affair**. Schleswig and Holstein were possessions of the Danish crown. Holstein was part of the German Confederation but Schleswig was not. Denmark had promised not to incorporate either duchy in 1852.
 
 Steefel: the new constitution did not incorporate Schleswig but it was reasonable to argue that it was a step toward its incorporation, and Denmark had expressly promised not to do this. It is generally now agreed that Denmark was violating its promises of 1851-2.
 
 **16 November** (19th JS) Duke Christian Augustenburg had accepted 1852 but not given up his rights forever in favor of his son. Frederik proclaimed himself 'Friedrik VIII, Duke of Schleswig-Holstein' and soon his sovereignty was recognized by most lesser German states and his case was taken up by liberal Germany. There was 'almost unanimous support of the German public' (Gall) for him. His wife was a niece of Queen Victoria which added to Bismarck's problems.
 
-Bismarck was intimately familiar with the details of the famously complex SH question. He had been involved in 1851 in Frankfurt talks and over the years advised the government on how to handle it. He always looked at it from the perspective of how it could help the Prussian monarchy, as he defined its interests. He had consistently told diplomats that he preferred to see the Duchies under the Danish King than a new Grand Duke who would oppose Prussia in the Bund. Openly he agreed with Rechberg in August and September that the Danish policy was unsatisfactory and the legal procedure should run its course but secretly October/November he was working with Britain to try to avert the Execution by securing concessions from Denmark. He presented himself to London as a moderating influence on Austria and the south German states. He also secretly encouraged Denmark into a more aggressive posture that he would later use to justify his action against her. NB. He was explicit 22 December 1862 (to Count von Fleming): 'I am certain that the whole Danish business can be settled in a way desirable for us only by war. The occasion for such a war can be found at any moment that we find favorable for waging it.' He was determined to undermine the Bund and happy to do so by using the supposed sanctity of international treaties he thought were untenable and undesirable — everything in good time.
+Bismarck was intimately familiar with the details of the famously complex SH question. He had been involved in 1851 in Frankfurt talks and over the years advised the government on how to handle it. He always looked at it from the perspective of *how it could help the Prussian monarchy*, as he defined its interests. **He had consistently told diplomats that he preferred to see the Duchies under the Danish King than a new Grand Duke who would oppose Prussia in the Bund**. Openly he agreed with Rechberg in August and September that the Danish policy was unsatisfactory and the legal procedure should run its course but secretly October/November he was working with Britain to try to avert the Execution by securing concessions from Denmark. He presented himself to London as a moderating influence on Austria and the south German states. He also secretly encouraged Denmark into a more aggressive posture that he would later use to justify his action against her. NB. He was explicit 22 December 1862 (to Count von Fleming): **'I am certain that the whole Danish business can be settled in a way desirable for us only by war**. The occasion for such a war can be found at any moment that we find favorable for waging it.' He was determined to undermine the Bund and happy to do so by using the supposed sanctity of international treaties he thought were untenable and undesirable — everything in good time.
 
 OP: Almost every force in Europe was opposed to Prussian annexation: the Great Powers, his own King and his family, his own Parliament, the German lesser states, many of his own officials in the Foreign Office, the media. As Pflanze writes, his achievement over SH was 'one of the amazing feats in the history of politics'. He did it by constantly diverting the pressure from different forces against each other, keeping them all divided, expanding his own possibilities.
 
-He later told Bucher: 'The Schleswig-Holstein question was a nut on which we might well have broken our teeth. Denmark didn't worry me. I counted on her making blunders and it was only a question of creating a favorable situation. Austria had to be brought to see that she would dissipate all sympathy in Germany if she didn't go with us. Russia had to be reminded of the services we rendered when Austria wanted to mobilize Germany against her. England had to be isolated so that she would confine herself to threats, as she always does when no-one will pull her chestnuts out of the fire for her. The individual actions were trifles in themselves; to see that they connected was the difficulty.'
+He later told Bucher: 'The Schleswig-Holstein question was a nut on which we might well have broken our teeth. Denmark didn't worry me. I counted on her making blunders and it was only a question of creating a favorable situation. Austria had to be brought to see that she would dissipate all sympathy in Germany if she didn't go with us. Russia had to be reminded of the services we rendered when Austria wanted to mobilize Germany against her. **England had to be isolated so that she would confine herself to threats, as she always does when no-one will pull her chestnuts out of the fire for her. The individual actions were trifles in themselves; to see that they connected was the difficulty**.'
 
 **16 November** Russell asked Prussia and Austria to delay the Execution to give the new king time to consider the situation. Two days later he offered British mediation on the duchies. After the news of Augustenburg's proclamation he switched tactics and pushed for a rapid Execution as it would imply recognition by the Diet of Christian as Duke of Holstein (Bernstorff-Bismarck, 22/11). Then he reversed again and told Prussia and Austria that Britain expected Christian's right of accession to all territories to be acknowledged and warned against the use of Execution to enforce international obligations.
 
-## 18 November The Nationalverein issued an inflammatory appeal calling for Germany to reclaim the two duchies and supporting Augustenburg, with much talk of 'common fatherland' and warnings against 'betrayal to foreigners'. The Reformverein joined them. Both summoned the deputies of all German parliaments to Frankfurt on 21 December. Wilhelm and the Crown Prince supported Augustenburg.
+**18 November** The Nationalverein issued an inflammatory appeal calling for Germany to reclaim the two duchies and supporting Augustenburg, with much talk of 'common fatherland' and warnings against 'betrayal to foreigners'. The Reformverein joined them. **Both summoned the deputies of all German parliaments to Frankfurt on 21 December.** Wilhelm and the Crown Prince supported Augustenburg.
 
 OP (p268): 'Moderate' liberals such as Virchow feared that Bismarck would take up Augustenburg's cause and put them on the defensive. They urged Wilhelm to support Augustenburg. Waldeck and his democratic faction of 35 opposed them. Waldeck actually supported Prussian annexation and the development of German naval power but did not want Parliament to support the Crown and Bismarck, thus dissipating energy from the constitutional conflict. Some prioritised freedom at home, others prioritised progress on unification. Waldeck feared war would strengthen Bismarck, others confidently predicted the government could not survive such a crisis. When debate ended, the resolution urging support for Augustenburg passed with a large majority. Cf. 9/12. (Blackburn: Pflanze underestimated the importance of the Nationalverein in general, referred to a 'few thousand' members but it had 25,000. True?)
 
@@ -3781,7 +3775,7 @@ OP (p268): 'Moderate' liberals such as Virchow feared that Bismarck would take u
 
 **19 November** Lincoln's Gettysburg address.
 
-**19 November** British Cabinet discussed Napoleon's offer and agreed to decline. Palmerston wanted to stay friendly with France to contain Russia in the East but did not want a Congress that he thought would exacerbate disagreements. Russell's despatch declining the Congress was sent on evening of 25/11, reached Paris on 26th, but not presented to Drouyn until 28th, meanwhile the full text had appeared in the London Gazette on 27th. Napoleon was furious about it and made clear the Anglo-French alliance was over and he would be looking for new combinations. Cowley reported he'd never seen Napoleon so angry. It seems the Cabinet did not appreciate the way in which they turned this down would have the effects it did.
+**19 November** **British Cabinet discussed Napoleon's offer and agreed to decline.** Palmerston wanted to stay friendly with France to contain Russia in the East but did not want a Congress that he thought would exacerbate disagreements. Russell's despatch declining the Congress was sent on evening of 25/11, reached Paris on 26th, but not presented to Drouyn until 28th, meanwhile the full text had appeared in the London Gazette on 27th. **Napoleon was furious about it and made clear the Anglo-French alliance was over and he would be looking for new combinations**. Cowley reported he'd never seen Napoleon so angry. It seems the Cabinet did not appreciate the way in which they turned this down would have the effects it did.
 
 Mosse (p141-2) describes this event as 'a landmark in the history of European diplomacy'. Arguably this is an overstatement but a) the tale does not appear in the standard Bismarck books and b) it really does seem important. The implication is it was briefed deliberately to the Gazette, but the details aren't clear — perhaps lost to history like many a media briefing?! Interestingly Clarendon wrote to Cowley (14/12) of this incident saying that 'Palmerston's pen is always dipped in gall and the Earl's vision is always obscured by the blue books [a reference to the Colonial Office's Blue Books?] that stand before him, while the others [in Cabinet] are indifferent because they are not personally responsible.'
 
@@ -3789,172 +3783,69 @@ OP: In 1848, the Frankfurt Parliament had asked Prussia to intervene on behalf o
 
 **19 November** Bleichröder: stock market 'swept by a great panic concerning the Schleswig-Holstein affair' and stocks lost 3.5%. Over winter, Bleichröder said little to Rothschild about Bismarck's policy viz S-H perhaps because he did not know what it was amid the extreme complexity and different rumours. By 1864 according to Keudell, Bleichröder, 'a man of unusual abilities', was one of Bismarck's closer confidantes and had told Keudell to keep Bleichröder briefed on non-secret matters. This was partly in the knowledge that information would flow to Rothschild and thereby to Napoleon. In November 1863 Bleichröder first suggested to Bismarck that Prussia could sell its rich coal mines in the Saar. Businessmen wanted them privatised. Bismarck knew Napoleon coveted them and had raised them in their October 1862 meeting. Wilhelm hated rumours in the press that he might sell them to Napoleon. The story returned in 1866. (Stern, p37)
 
-## 21 November Buchanan-Russell: Bismarck said that Wilhelm is disposed to favour Augustenburg and it was 'only after a very animated discussion which lasted two hours and a half, and during which he threatened his own resignation that he succeeded in convincing His majesty that he must abide for
+**21 November** Buchanan-Russell: Bismarck said that Wilhelm is disposed to favour Augustenburg and it was 'only after a very animated discussion which lasted two hours and a half, and during which he threatened his own resignation that he succeeded in convincing His majesty that he must abide for the present by the provision of the Treaty of 1852.' The Queen and the Duke of Saxe Coburg were working with Schleinitz to push Wilhelm to support Augustenburg. Bismarck had angrily confronted Schleinitz about his interference. He now stood 'almost alone'. (Buchanan wisely had some doubts about the veracity of all his claims.)
 
-the present by the provision of the Treaty of 1852.' The Queen and the Duke of Saxe Coburg were
-working with Schleinitz to push Wilhelm to support Augustenburg. Bismarck had angrily confronted
-Schleinitz about his interference. He now stood 'almost alone'. (Buchanan wisely had some doubts
-about the veracity of all his claims.)
+**21 November** Napier-Russell: Gorchakov keeps stressing how he wants the other four Powers to work together against Napoleon.
 
-**21 November** Napier-Russell: Gorchakov keeps stressing how he wants the other four Powers to work
-together against Napoleon.
+**21 November** First meeting of Bund since Danish King died. Austria and Prussia had the accession question referred to the Committee for Holstein and Lauenburg (agreed by Bismarck and Karolyi the night before, Steefel, p99).
 
-**21 November** First meeting of Bund since Danish King died. Austria and Prussia had the accession
-question referred to the Committee for Holstein and Lauenburg (agreed by Bismarck and Karolyi
-the night before, Steefel, p99).
+**22 November** Goltz-Drouyn: France has the least interest in maintaining 1852, she has a chance to show her support for the national issue, and the plan for a Scandinavian union required first the separation of the duchies from Denmark. Drouyn didn't bite but stressed how France would be helpful at the Congress. Later that day, at Compiègne, Goltz presented Wilhelm's reply. Napoleon said to Goltz that he wished an entente: 'Prussia is surrounded by a crowd of small states which hamper its action without adding to its strength. I had hoped that the meeting of the Sovereigns would give the opportunity of establishing an understanding between us on this as well as on the other great questions.' (Steffel: Sybel and others wrongly place this discussion on 23rd, p117.)
 
-**22 November** Goltz-Drouyn: France has the least interest in maintaining 1852, she has a chance to show
-her support for the national issue, and the plan for a Scandinavian union required first the
-separation of the duchies from Denmark. Drouyn didn't bite but stressed how France would be
-helpful at the Congress. Later that day, at Compiègne, Goltz presented Wilhelm's reply. Napoleon
-said to Goltz that he wished an entente: 'Prussia is surrounded by a crowd of small states which
-hamper its action without adding to its strength. I had hoped that the meeting of the Sovereigns
-would give the opportunity of establishing an understanding between us on this as well as on the
-other great questions.' (Steffel: Sybel and others wrongly place this discussion on 23rd, p117.)
+**23 November** Goltz and Drouyn spoke again about the division of the duchies. Drouyn floated the possibility of Prussia annexing territory.
 
-**23 November** Goltz and Drouyn spoke again about the division of the duchies. Drouyn floated the
-possibility of Prussia annexing territory.
+**24 November** After dinner Goltz had another chat with Napoleon who said that while his sympathies were on the side of nationalities he would remain neutral, but the conflict showed the need for a Congress. He was grateful for Wilhelm's reply but thought the other Powers' attitude meant there was little hope of important results. He was pondering new alliances and wished one with Prussia. He also agreed with Goltz that a) France could not ally with Austria and b) Austria's existence being based on treaties meant she could not tolerate a policy based on the principle of nationality. Wilhelm scribbled on Goltz's despatch: 'What does it mean — that Goltz always speaks of a possible Franco-Prussian alliance? He has never been authorised by me to do this!' [... nie autorisirt worden!]
 
-**24 November** After dinner Goltz had another chat with Napoleon who said that while his sympathies
-were on the side of nationalities he would remain neutral, but the conflict showed the need for a
-Congress. He was grateful for Wilhelm's reply but thought the other Powers' attitude meant there
-was little hope of important results. He was pondering new alliances and wished one with Prussia.
-He also agreed with Goltz that a) France could not ally with Austria and b) Austria's existence
-being based on treaties meant she could not tolerate a policy based on the principle of nationality.
-Wilhelm scribbled on Goltz's despatch: 'What does it mean — that Goltz always speaks of a
-possible Franco-Prussian alliance? He has never been authorised by me to do this!' [... nie autorisirt
-worden!]
+**25 November** Around 24-5, Gorchakov proposed to London,Vienna and Berlin (and slightly later Paris) the idea of a London conference on SH. He wanted the Danes to ditch the new constitution and provide a way out for Germany without a crisis and Prussia renouncing 1852 etc. The Cabinet agreed the plan, the Queen was delighted. Over the next few weeks there was tension between Palmerston and the Queen about the balance of pressure to be applied in Copenhagen and Berlin/ Vienna.
 
-**25 November** Around 24-5, Gorchakov proposed to London,Vienna and Berlin (and slightly later Paris)
-the idea of a London conference on SH. He wanted the Danes to ditch the new constitution and
-provide a way out for Germany without a crisis and Prussia renouncing 1852 etc. The Cabinet
-agreed the plan, the Queen was delighted. Over the next few weeks there was tension between
-Palmerston and the Queen about the balance of pressure to be applied in Copenhagen and Berlin/
-Vienna.
+**27 November** Britain's refusal published in the London Gazette on 27th, presented formally on 28th (see above 19th).
 
-**27 November** Britain's refusal published in the London Gazette on 27th, presented formally on 28th (see
-above 19th).
+**28 November** **The majority of the Bund Committee: the vote of Holstein-Lauenburg should be suspended pending settlement of the succession question. The minority, Prussia and Austria, read a declaration that they saw themselves bound by the 1852 Treaty— i.e they did not support Augustenburg**. Bismarck and Karolyi/Rechberg had agreed on this approach. The details are more complex than related in almost any of the books except Steefel — Austria had wanted just to refer to the 1852 treaty but Bismarck insisted that Denmark also had obligations from 1851-2 connected to the Treaty — 'No fulfilment of the Danish obligations of 1851-2, no Treaty of London' he said (Karolyi-Rechberg, 23/11). This distinction provided him with future wriggle room. On 28th they also made clear that the Execution should proceed swiftly on the basis already agreed — it should not change, as some states wanted (because the original was a tacit recognition of Christian as Duke of Holstein). The issue was referred to the Committee. Prussia and Austria told the Bund states that if they tried to change the Execution they would forestall the Bund by occupying Holstein themselves. **The lesser states were enraged but enough buckled to allow the vote to pass by one vote on 7 December**. (Cf. Steefel p. 99ff.)
 
-**28 November** The majority of the Bund Committee: the vote of Holstein-Lauenburg should
-be suspended pending settlement of the succession question. The minority, Prussia and
-Austria, read a declaration that they saw themselves bound by the 1852 Treaty— i.e they
-did not support Augustenburg. Bismarck and Karolyi/Rechberg had agreed on this approach. The
-details are more complex than related in almost any of the books except Steefel — Austria had
-wanted just to refer to the 1852 treaty but Bismarck insisted that Denmark also had obligations
-from 1851-2 connected to the Treaty — 'No fulfilment of the Danish obligations of 1851-2, no
-Treaty of London' he said (Karolyi-Rechberg, 23/11). This distinction provided him with future
-wriggle room. On 28th they also made clear that the Execution should proceed swiftly on the basis
-already agreed — it should not change, as some states wanted (because the original was a tacit
-recognition of Christian as Duke of Holstein). The issue was referred to the Committee. Prussia
-and Austria told the Bund states that if they tried to change the Execution they would forestall the
-Bund by occupying Holstein themselves. The lesser states were enraged but enough buckled to
-allow the vote to pass by one vote on 7 December. (Cf. Steefel p. 99ff.)
+When Austria, which had for years led an anti-Prussian majority, suddenly adopted the Prussian line that the Diet could not outvote the Great Powers there was an outcry. This was disastrous for Austria's reputation with the Confederation. Her envoy in Frankfurt reported it had been catastrophic for Austria's prestige: 'So they put a knife to our throats' shouted the Bavarian minister president. Austria feared she could not support Augustenburg and a national movement without causing itself internal problems. Clark: Rechberg said around then, 'Never could Austria be expected to submit to a pack of little states.' He wrote to Prince Alexander of Hesse: ' The demand for the conquest of Schleswig for Germany, which is now so prevalent that it seems even to be catching hold of governments otherwise prudent, differs in no way from the striving of the French people for the Rhine frontier.'
 
-When Austria, which had for years led an anti-Prussian majority, suddenly adopted the Prussian line
-that the Diet could not outvote the Great Powers there was an outcry. This was disastrous for
+**29 November** Goltz-Bismarck: Drouyn keen on alliance, said 'If you have something to whisper in our ears, we shall listen to you attentively.'
 
----
+**30 November** Budberg presented the Russian reply to Napoleon, who spoke of new alliances and possibilities with Prussia and Russia. Budburg left the meeting convinced Napoleon would launch a war in the spring probably against Austria. (Steefl, p119)
 
-Austria's reputation with the Confederation. Her envoy in Frankfurt reported it had been
-catastrophic for Austria's prestige: 'So they put a knife to our throats' shouted the Bavarian
-minister president. Austria feared she could not support Augustenburg and a national movement
-without causing itself internal problems. Clark: Rechberg said around then, 'Never could Austria be
-expected to submit to a pack of little states.' He wrote to Prince Alexander of Hesse: ' The demand
-for the conquest of Schleswig for Germany, which is now so prevalent that it seems even to be
-catching hold of governments otherwise prudent, differs in no way from the striving of the French
-people for the Rhine frontier.'
-
-**29 November** Goltz-Bismarck: Drouyn keen on alliance, said 'If you have something to whisper in our
-ears, we shall listen to you attentively.'
-
-**30 November** Budberg presented the Russian reply to Napoleon, who spoke of new alliances and
-possibilities with Prussia and Russia. Budburg left the meeting convinced Napoleon would launch a
-war in the spring probably against Austria. (Steefl, p119)
-
-End November/early December Moltke in Frankfurt talking to Austrians and others about military plans and
-reporting back. He thinks possible to get Austrian agreement on a Prussian commander.
+**End November/early December** Moltke in Frankfurt talking to Austrians and others about military plans and reporting back. He thinks possible to get Austrian agreement on a Prussian commander.
 
 **December** Crown Council — DATE?? JS says 'early December'.
 
-**December** Napoleon-Nigra: 'We will bring it to pass that Prussia and Austria turn their cannon on each
-other.'
+**December** Napoleon-Nigra: 'We will bring it to pass that Prussia and Austria turn their cannon on each other.'
 
-**December** (Pflanze) Prussia, supported on this by Landtag, told the lesser states that unless they accepted
-the French free trade deal the Zollverein would expire in 1865. They buckled.
+**December** (Pflanze) Prussia, supported on this by Landtag, told the lesser states that unless they accepted the French free trade deal the Zollverein would expire in 1865. They buckled.
 
-**1 December** Wilhelm asked Bismarck not to tell people that 'an independent Holstein does not
-commend itself to you, as this is not my opinion.' Bismarck replied the same day threatening to
-resign. (This isn't mentioned in any of the books I've read except Gall but is in the correspondence
-(#52, 1/12/63). Any reply from Wilhelm is not included.) On 3rd, Wilhelm wrote to Bismarck re
-police reports about subversives and asked whether they ought to increase defensive measures
-(also not mentioned in the books but an interesting reminder that the king was genuinely worried
-about revolutionary violence at this time).
+**1 December** Wilhelm asked Bismarck not to tell people that 'an independent Holstein does not commend itself to you, as this is not my opinion.' Bismarck replied the same day threatening to resign. (This isn't mentioned in any of the books I've read except Gall but is in the correspondence (#52, 1/12/63). Any reply from Wilhelm is not included.) On 3rd, Wilhelm wrote to Bismarck re police reports about subversives and asked whether they ought to increase defensive measures (also not mentioned in the books but an interesting reminder that the king was genuinely worried about revolutionary violence at this time).
 
-**1 December** Goltz wrote to Bismarck outlining his own policy — Prussia should align with German
-nationalism against Austria and lead 'the moderate elements in its own land in a sounder direction'.
-Bismarck completely disagreed, cf. 20 December.
+**1 December** Goltz wrote to Bismarck outlining his own policy — Prussia should align with German nationalism against Austria and lead 'the moderate elements in its own land in a sounder direction'. **Bismarck completely disagreed, cf. 20 December.**
 
-**4 December** Buchanan-Russell: Bismarck is keen that Britain counteracts 'the daily influences' on Wilhelm
-by insisting on Prussia observing1852.
+**4 December** Buchanan-Russell: Bismarck is keen that Britain counteracts 'the daily influences' on Wilhelm by insisting on Prussia observing 1852.
 
-**5 December** Buchanan-Russell: Bismarck says that while he and Austria are counteracting the smaller
-states 'acting under the influence of Democratic Societies', 'the Danish government should
-emancipate itself from the control of the mob at Copenhagen'. (Bismarck's conduct of diplomacy is
-evidence regarding the proposition that 'democracies are more inclined to peace': a subtext of
-much discussion was that democratic influences made policy more emotional and inclined to risk war,
-with governments wanting to retain power inclined to let themselves be influenced by the forces
-around them.)
+**5 December** Buchanan-Russell: Bismarck says that while he and Austria are counteracting the smaller states 'acting under the influence of Democratic Societies', 'the Danish government should emancipate itself from the control of the mob at Copenhagen'. (Bismarck's conduct of diplomacy is evidence regarding the proposition that 'democracies are more inclined to peace': a subtext of much discussion was that democratic influences made policy more emotional and inclined to risk war, with governments wanting to retain power inclined to let themselves be influenced by the forces around them.)
 
-**6 December** Grey had two meetings with Wodehouse, stressing the importance of pressuring Denmark.
-Grey thought Wodehouse was influenced by the strong pro-Danish public opinion which 'exists in
-utter ignorance of the merits of the question' (Grey-Queen). The Queen tried to push Russell to
-push Wodehouse in a tougher direction viz Denmark. 3-5/12 Palmerston and Victoria had
-exchanged letters with Victoria stressing Denmark's obligations of 1851-2.
+**6 December** Grey had two meetings with Wodehouse, stressing the importance of pressuring Denmark. Grey thought Wodehouse was influenced by the strong pro-Danish public opinion which 'exists in utter ignorance of the merits of the question' (Grey-Queen). The Queen tried to push Russell to push Wodehouse in a tougher direction viz Denmark. 3-5/12 Palmerston and Victoria had exchanged letters with Victoria stressing Denmark's obligations of 1851-2.
 
 **7 December** Bund vote (see above).
 
-**8 December** Drouyn proposed a Paris Congress without Britain. Bismarck again was friendly, even though
-he didn't want it, to pull Napoleon towards him (cheaply) and pressure others.
+**8 December** Drouyn proposed a Paris Congress without Britain. Bismarck again was friendly, even though he didn't want it, to pull Napoleon towards him (cheaply) and pressure others.
 
-**9 December** Government asked Landtag for a loan of 12m thaler for military expenses against Denmark.
-They didn't need it but Bismarck brought it to a vote to cause trouble. Waldeck opposed. Leading
-nationalists argued for acceptance. Liberals argued for days and brought a motion stating the
-readiness of Parliament to support the government if it adopted a 'national policy'. (OP, p269).
-Bleichröder thought it would be turned down. Cf. 22/1/64.
+**9 December** Government asked Landtag for a loan of 12m thaler for military expenses against Denmark. They didn't need it but Bismarck brought it to a vote to cause trouble. Waldeck opposed. Leading nationalists argued for acceptance. Liberals argued for days and brought a motion stating the readiness of Parliament to support the government if it adopted a 'national policy'. (OP, p269). Bleichröder thought it would be turned down. Cf. 22/1/64.
 
----
+**9 December** Tsar made clear to the Danes that he would not fight to defend her nor to defend 1852. He also politely pointed out the Danes were being overly aggressive towards Germany — 'you have been drawing the cord too tight... If unhappily war should break out between you and Germany I cannot take part in it; you know our situation, you ought to understand... I don't want to say anything painful to you, we are merely consistent; we have often warned you...'
 
-# 9 December
+**11 December** Talleyrand-Drouyn: Bismarck says he said to Wilhelm: 'I do not wish to throw down the gauntlet into darkness and without knowing who will pick it up. I cannot expose myself at one blow to the polite observations of France, to the violent recriminations of England, to the paternal admonitions of Russia, and, finally, to be coolly abandoned by Austria, who may well be tempted to show herself moderate at our expense. I shall not, then, take a step without her and without her sharing our risks and perils.'
 
-Tsar made clear to the Danes that he would not fight to defend her nor to defend 1852. He also politely pointed out the Danes were being overly aggressive towards Germany — 'you have been drawing the cord too tight... If unhappily war should break out between you and Germany I cannot take part in it; you know our situation, you ought to understand... I don't want to say anything painful to you, we are merely consistent; we have often warned you...'
-
-# 11 December
-
-Talleyrand-Drouyn: Bismarck says he said to Wilhelm: 'I do not wish to throw down the gauntlet into darkness and without knowing who will pick it up. I cannot expose myself at one blow to the polite observations of France, to the violent recriminations of England, to the paternal admonitions of Russia, and, finally, to be coolly abandoned by Austria, who may well be tempted to show herself moderate at our expense. I shall not, then, take a step without her and without her sharing our risks and perils.'
-
-# 12 December
-
-Buchanan-Russell. At the end of a long note (cf. Steefel p288) Buchanan observed: various things may flow from the Execution and 'I shall be surprised if M. de Bismarck does not endeavour to obtain more solid advantages for Prussia in return for the losses and sacrifices which the country will have to suffer in the event of war, than the honour of having placed a Prince of Augustenburg upon the Ducal throne of a Sleswig-Holstein state.'
+**12 December** Buchanan-Russell. At the end of a long note (cf. Steefel p288) Buchanan observed: various things may flow from the Execution and 'I shall be surprised if M. de Bismarck does not endeavour to obtain more solid advantages for Prussia in return for the losses and sacrifices which the country will have to suffer in the event of war, than the honour of having placed a Prince of Augustenburg upon the Ducal throne of a Sleswig-Holstein state.'
 
 (Amid all the lies and trickery, one of the things Bismarck was honest about to Buchanan (and others) was his opposition from the start to Augustenburg. Should London have wised up earlier to the question: given there's so much evidence Bismarck opposes Augustenburg, and given his character, what if his real goal here is a war to detach the duchies, using 1852 as a pretext, in order to then grab them for Prussia later, and if so shouldn't we pressure the Danes into rapid concessions to forestall this possibility? Of course, such a policy would have been strongly attacked by Disraeli and the Tories. Even if this had happened Bismarck would have continued to look for chances to push Austria out of north Germany — his long-term true goal. The deeper problem viz British policy is: given the greater fear was Napoleon, not a united north Germany, Britain was never going to fight to block Bismarck provided he pursued his goals in such a way as to keep Austria-France-Russia unable to unite against him.)
 
-# 12 December
+**12 December** Bismarck made clear to Wodehouse (envoy sent by Russell to Denmark via Berlin — NB. interesting that Palmerston, Russell and the Queen all had wanted another candidate but were overruled by the Cabinet, something inconceivable in the past 20 years at least, Mosse p156) that unless the new Danish constitution was declared inapplicable to Schleswig before 1 January, the German powers would see themselves as released from 1852. Wodehouse spoke to Wilhelm and Karolyi in Berlin too but got the same answer. Bismarck would not explore quite what it was Prussia would accept as a solution. He told the French Ambassador he'd told Wodehouse, 'You are too distinguished a man of affairs to expect an answer from me. If I had to sell you a two hundred louis horse, I would not tell you that I would end up giving it to you for a hundred because you would only offer me eighty.' (cf. Wodehouse-Russell, 13/12). Wodehouse spoke to the Russian envoy to Copenhagen (Ewers) in Berlin and reported to Russell (13th) he thought Russia would 'go very far on the German side'.
 
-Bismarck made clear to Wodehouse (envoy sent by Russell to Denmark via Berlin — NB. interesting that Palmerston, Russell and the Queen all had wanted another candidate but were overruled by the Cabinet, something inconceivable in the past 20 years at least, Mosse p156) that unless the new Danish constitution was declared inapplicable to Schleswig before 1 January, the German powers would see themselves as released from 1852. Wodehouse spoke to Wilhelm and Karolyi in Berlin too but got the same answer. Bismarck would not explore quite what it was Prussia would accept as a solution. He told the French Ambassador he'd told Wodehouse, 'You are too distinguished a man of affairs to expect an answer from me. If I had to sell you a two hundred louis horse, I would not tell you that I would end up giving it to you for a hundred because you would only offer me eighty.' (cf. Wodehouse-Russell, 13/12). Wodehouse spoke to the Russian envoy to Copenhagen (Ewers) in Berlin and reported to Russell (13th) he thought Russia would 'go very far on the German side'.
+**15 December** Buchanan telegrammed Russell discussing the possibility of Bismarck's fall. The Queen inquired about contingency plans.
 
-# 15 December
+**15 December** Wodehouse told Hall that Britain hoped for a conciliatory attitude.
 
-Buchanan telegrammed Russell discussing the possibility of Bismarck's fall. The Queen inquired about contingency plans.
-
-# 15 December
-
-Wodehouse told Hall that Britain hoped for a conciliatory attitude.
-
-# 16 December
-
-## Hall (day after first talk with Wodehouse) advised the King that a peaceful solution was unlikely. Anglo-French relations made mediation hard and German feeling was pushing Austria and Prussia. Denmark could not yield to the demand to suspend/amend the new Constitution — it would not appease Germany and it would cause terrible internal problems. If they did as demanded what security did they have the Powers would then guarantee their security? (When a report of this argument from Hall came to Bismarck on 31/12, he scribbled on the margin 'None'.) Steefel, p.147ff: It seems that the Danish ministers were also misled (wanted to be misled) about the chances of support by a) promises from Sweden, b) bad intelligence that France would fight for her against Germany in the spring, c) hopes that the British government would be pushed by opinion and the Tories to step forward and defend her. After their discussions on 20th Wodehouse
-
-Telegrammed Russell: 'I cannot help suspecting that the Danes still count upon support from France in the spring.' It also seems that although the English were clear that Fleury was telling them that France would not fight for Denmark, members of the Danish government and the Swedish representative (Count Hamilton) got conflicting impressions.
+**16 December** Hall (day after first talk with Wodehouse) advised the King that a peaceful solution was unlikely. Anglo-French relations made mediation hard and German feeling was pushing Austria and Prussia. Denmark could not yield to the demand to suspend/amend the new Constitution — it would not appease Germany and it would cause terrible internal problems. If they did as demanded what security did they have the Powers would then guarantee their security? (When a report of this argument from Hall came to Bismarck on 31/12, he scribbled on the margin 'None'.) Steefel, p.147ff: It seems that the Danish ministers were also misled (wanted to be misled) about the chances of support by a) promises from Sweden, b) bad intelligence that France would fight for her against Germany in the spring, c) hopes that the British government would be pushed by opinion and the Tories to step forward and defend her. After their discussions on 20th Wodehouse telegrammed Russell: 'I cannot help suspecting that the Danes still count upon support from France in the spring.' It also seems that although the English were clear that Fleury was telling them that France would not fight for Denmark, members of the Danish government and the Swedish representative (Count Hamilton) got conflicting impressions.
 
 **19 December** Mosse: Denmark decided to withdraw all forces from Holstein.
 
@@ -3976,19 +3867,13 @@ Telegrammed Russell: 'I cannot help suspecting that the Danes still count upon s
 
 **24 December** Letter from Bismarck to Goltz, see below.
 
-**24 December** Saxon and Hanoverian troops entered Holstein and Lauenburg. Danish troops withdrew on advice from Britain and Russia. (EF says this was 23rd.)
+**24 December** **Saxon and Hanoverian troops entered Holstein and Lauenburg**. Danish troops withdrew on advice from Britain and Russia. (EF says this was 23rd.)
 
 **25 December** Russell-Buchanan: ask Bismarck on what basis the Diet has the right to decide the Duke of Holstein?
 
-## 26 December British ambassador at Frankfurt warned that England, France, Russia and Sweden had recognised Christian IX as king of all the components of the Danish monarchy and warned of
+**26 December** British ambassador at Frankfurt warned that England, France, Russia and Sweden had recognised Christian IX as king of all the components of the Danish monarchy and warned of 'serious complications' if the Diet were to breach the Treaty, but there should be a conference in London and the Diet should be represented.
 
-# Document History
-
-# Document History
-
-'serious complications' if the Diet were to breach the Treaty, but there should be a conference in London and the Diet should be represented.
-
-**26 December** Buchanan-Russell: Bismarck suggests that in Germany people think Britain won't intervene, therefore Britain 'should use the strongest language compatible with diplomatic forms, to convince [the German people] and more particularly the people of the Northern Sea-board that they are following a course which may expose their coasts to a blockade by a British Fleet... [Britain] should let the people of Germany know the risk they are incurring'. NB. Bismarck also pointed out to Buchanan that Britain should not let it be known that he, Bismarck, was urging such action or else he would have to act publicly in such a way to contradict any British leaks. (This is a nice example of the deep, subtle, and dishonest moves he made. He was 1) trying indirectly to get the Danes to resist, by using British threats to mislead them as to their true situation, 2) while fooling London about his true goals (pretending he just wanted the issue to go away and was respecting international law) and 3) using aggressive British language to manipulate both his own King and the other Powers. NB. the leak to the press of 1 January 1864 (a week later) and his comments to Beust in August 1865 about his indirect manipulation of Denmark.)
+**26 December** Buchanan-Russell: Bismarck suggests that in Germany people think Britain won't intervene, therefore Britain 'should use the strongest language compatible with diplomatic forms, to convince [the German people] and more particularly the people of the Northern Sea-board that they are following a course which may expose their coasts to a blockade by a British Fleet... [Britain] should let the people of Germany know the risk they are incurring'. NB. Bismarck also pointed out to Buchanan that Britain should not let it be known that he, Bismarck, was urging such action or else he would have to act publicly in such a way to contradict any British leaks. (**This is a nice example of the deep, subtle, and dishonest moves he made**. He was 1) trying indirectly to get the Danes to resist, by using British threats to mislead them as to their true situation, 2) while fooling London about his true goals (pretending he just wanted the issue to go away and was respecting international law) and 3) using aggressive British language to manipulate both his own King and the other Powers. NB. the leak to the press of 1 January 1864 (a week later) and his comments to Beust in August 1865 about his indirect manipulation of Denmark.)
 
 **28 December** The Austrian and Prussian envoys proposed to the Bund that Schleswig also be temporarily occupied as a guarantee of the Danes fulfilling legal obligations but soon clear would not get a majority. Voted down on 14 January.
 
@@ -3996,51 +3881,41 @@ Telegrammed Russell: 'I cannot help suspecting that the Danes still count upon s
 
 **30 December** Friedrich arrived in Kiel and set up his court, which was illegal. Wilhelm had asked him not to but he feared seeming feeble so risked offence.
 
-**31 December** Among his family Bismarck said: 'The “old inseparables” [i.e the duchies] must some day be Prussian. That is the goal toward which I am steering; whether I reach it rests in God's hands. But I could not take the responsibility for letting Prussian blood be shed just to create a new 'middle state' which would always vote with the others against us in the Diet' (von Keudell, old family friend and secretary, p140). It's surprising how little historians refer to this given debate about when he was pursuing annexation. EF mentions it and EF quotes another line: 'How long it will later hang together I don't know but the beginning is good and the obstinacy of the Danes will probably give us what we need, a reason for war.' But EF wrongly dates it to a year later, New Year's Eve 1864 (so does Carr, p87)! EF also says that a month earlier Keudell had angered Bismarck by suggesting that he put himself at the head of national feeling, an interesting sign that Bismarck's inner circle also did not necessarily appreciate at the start how he would approach the crisis.
+**31 December** Among his family Bismarck said: '**The “old inseparables” [i.e the duchies] must some day be Prussian. That is the goal toward which I am steering; whether I reach it rests in God's hands. But I could not take the responsibility for letting Prussian blood be shed just to create a new 'middle state' which would always vote with the others against us in the Diet**' (von Keudell, old family friend and secretary, p140). It's surprising how little historians refer to this given debate about when he was pursuing annexation. EF mentions it and EF quotes another line: 'How long it will later hang together I don't know but the beginning is good and **the obstinacy of the Danes will probably give us what we need, a reason for war**.' But EF wrongly dates it to a year later, New Year's Eve 1864 (so does Carr, p87)! EF also says that a month earlier Keudell had angered Bismarck by suggesting that he put himself at the head of national feeling, an interesting sign that Bismarck's inner circle also did not necessarily appreciate at the start how he would approach the crisis.
 
 **31 December** After a lot of discussion since 5/11, Russell told Napier to give Gorchakov an assurance of British goodwill in the event of 'hazards to which the peace of Europe and the Balance of Power may be exposed'. It was not a specific promise of action, but was still 'a significant change in the direction of British policy' (Mosse).
 
-## 31 December Britain formally proposed a conference.
+**31 December** Britain formally proposed a conference.
 
-# Bismarck's Thoughts on Schleswig-Holstein
+---
 
-# What did Bismarck really think about Schleswig Holstein?
+## What did Bismarck really think about Schleswig Holstein?
 
-'[I]t was a startling achievement to conjure a treaty [of 1852] out of existence within twelve years
-of its signature by all the Powers, the first of many achievements which were to make Bismarck the
-undisputed master of the diplomatic art.' AJPT
+'[I]t was a startling achievement to conjure a treaty [of 1852] out of existence within twelve years of its signature by all the Powers, the first of many achievements which were to make Bismarck the undisputed master of the diplomatic art.' AJPT
 
-So what was Bismarck thinking from the autumn 1863 as this crises emerged and played out?
+*So what was Bismarck thinking from the autumn 1863 as this crises emerged and played out?*
 
 1. Allying with the national liberal movement for Augustenburg would be damaging and pointless. There's no point creating another independent state that will oppose us.
 
-To Goltz (20 December): 'Seeing the impulses which motivate [public opinion in Germany], the possibility of aligning Prussian policy with them appears to me remote and improbable... The more sensible and moderate elements form a constantly diminishing minority in the movement which is sweeping through Germany. To attain even a temporary community of action with the real leaders of it [the national movement] I regard as impossible, for it would be incompatible with the maintenance of ordered conditions in Prussia. I therefore believe that we must attach more weight to our relations with the other Great Powers than on agreement with the present direction of public opinion and I believe rather in directing our policy toward open conflict than toward open alliance with the incipient national and revolutionary movement...'
+**To Goltz (20 December): 'Seeing the impulses which motivate [public opinion in Germany], the possibility of aligning Prussian policy with them appears to me remote and improbable... The more sensible and moderate elements form a constantly diminishing minority in the movement which is sweeping through Germany. To attain even a temporary community of action with the real leaders of it [the national movement] I regard as impossible, for it would be incompatible with the maintenance of ordered conditions in Prussia. I therefore believe that we must attach more weight to our relations with the other Great Powers than on agreement with the present direction of public opinion and I believe rather in directing our policy toward open conflict than toward open alliance with the incipient national and revolutionary movement...'**
 
 '[U]ntil we can forecast more clearly the form which the relations of the Great Powers to each other will take as a result of the conflict with Denmark, it will be necessary for us to keep the Congress question in flux, to cultivate our relations with France on that basis and to employ the favourable dispositions of the Emperor Napoleon as a means of pressure on England and its attitude towards Danish affairs.'
 
-'It is in this sense that your Excellency will understand the proposal which we have directed to London, Petersburg and Vienna concerning a conference on Danish affairs. In spite of the detailed responses which we have received from Vienna, Petersburg and London, it is not at all probable that a definite declaration of willingness to attend will follow quickly; it does not seem to me certain that it will follow at all. If it should, we would admit to negotiation only the international side of the German-Danish question, not the federal one of Holstein, and would thus retain the final conclusion in our own hands... Should the conference come to pass, I should look upon it less as a means of solving the Danish question then as the terrain on which the alliances for the presumably impending European war would form themselves. That would not exclude our striving at the same time to secure the arrangement of the Danish question that would be most favourable to the interests of Prussia.'
+'It is in this sense that your Excellency will understand the proposal which we have directed to London, Petersburg and Vienna concerning a conference on Danish affairs. In spite of the detailed responses which we have received from Vienna, Petersburg and London, it is not at all probable that a definite declaration of willingness to attend will follow quickly; it does not seem to me certain that it will follow at all. **If it should, we would admit to negotiation only the international side of the German-Danish question, not the federal one of Holstein, and would thus retain the final conclusion in our own hands...** Should the conference come to pass, I should look upon it less as a means of solving the Danish question then as the terrain on which the alliances for the presumably impending European war would form themselves. That would not exclude our striving at the same time to secure the arrangement of the Danish question that would be most favourable to the interests of Prussia.' In the margin of Goltz's letter of 1/12, he scribbled there is no reason to trust Napoleon — it was safer not to antagonise the other three powers by open alliance with Napoleon, and still by diplomacy keep him friendly.
 
-In the margin of Goltz's letter of 1/12, he scribbled there is no reason to trust Napoleon — it was safer not to antagonise the other three powers by open alliance with Napoleon, and still by diplomacy keep him friendly. 2. Our priority is not public opinion but Great Power calculations.
+2. Our priority is not public opinion but Great Power calculations.
 
 There is a question for Prussia which 'simple in itself is obscured by the dust arising from the Danish business and the mirage attaching thereto.'
 
-## He wrote to Goltz, on 24 December: 'The question is whether we are a Great Power or simply a German federal state and whether, in the first case, we are to be governed monarchically or, as would be permissible in the second case, by professors, circuit judges.'
-
-# Document
-
-and small town gossips. The chase after the phantom “popularity in Germany” which we have carried on since the 1840s has cost us our position in Germany and Europe and we shall not win this back by allowing ourselves to drift in the stream and persuading ourselves we are directing its course, but only by standing firmly on our feet and being first of all a Great Power and a German federal state second. This is something that Austria has to our cost always recognised and she will not allow her European alliances, if indeed she has any, to be destroyed by the playacting which she is conducting with German sympathies... The twenty percent Germans in Austria are not in the last resort a factor which would compel Austria to allow herself to be diverted from her own interests...
+He wrote to Goltz, on 24 December: (I've pieced this together from a dozen different sources, some of which put passages in different orders — it's so important I'd pay someone to track the original and do a definitive translation): **'The question is whether we are a Great Power or simply a German federal state and whether, in the first case, we are to be governed monarchically or, as would be permissible in the second case, by professors, circuit judges and small town gossips**. The chase after the phantom “popularity in Germany” which we have carried on since the 1840s has cost us our position in Germany and Europe and we shall not win this back by allowing ourselves to drift in the stream and persuading ourselves we are directing its course, but only by standing firmly on our feet and being **first of all a Great Power and a German federal state second**. This is something that Austria has to our cost always recognised and she will not allow her European alliances, if indeed she has any, to be destroyed by the playacting which she is conducting with German sympathies... **The twenty percent Germans in Austria are not in the last resort a factor which would compel Austria to allow herself to be diverted from her own interests...**
 
 'Our policy, which was so briskly opposed by you in the spring, has been verified in the Polish question while the Schmerling policy has borne bitter fruit for her [Austria]. Is it not the most signal victory we could win that Austria, two months after the reform attempt, should be glad when nothing more is said about it, should be writing identical notes with us to her former friends, and joining in our threats towards her pet, the majority in the Federal Diet...?
 
-'Never before has there been a time when Viennese policy was so largely dictated by Berlin both in outline and detail. Add to this that we are sought after by France... our voice has, in London and St Petersburg, the weight it had lost for twenty years. And all this eight months after you prophesied to me the most dangerous isolation as a result of our Polish policy. If we were now to turn our back on the Great Powers in order to throw ourselves into the arms of the small states caught in the net of democratic clubbery, it would be the most wretched state into which one could deliver the monarchy at home and abroad. We would be pushed instead of pushing; we would lean for support on elements which we do not control, which are necessarily hostile to us, but to which we would have to submit for better or worse.You believe there is some hidden virtue in 'German public opinion', Chambers, newspapers and such like, which might support or help us in a 'Union' or 'Hegemony' policy. I consider that a radical error, a fantasy. Our strength cannot come from parliamentary and press politics but only from Great Power politics backed by arms, and we have not sufficient force and vigour to squander it on a bogus front and on empty words and Augustenburg. You attach a great deal too much importance to the whole Danish question and you allow yourself to be deluded by the general uproar among the democrats who control the media of press and assembly and who are agitating this question, which in itself is of no great importance. Twelve months ago the question was that of two years' service; eight months ago it was Poland; and now it is Schleswig-Holstein...
+**'Never before has there been a time when Viennese policy was so largely dictated by Berlin both in outline and detail.** Add to this that we are sought after by France... our voice has, in London and St Petersburg, the weight it had lost for twenty years. And all this eight months after you prophesied to me the most dangerous isolation as a result of our Polish policy. **If we were now to turn our back on the Great Powers in order to throw ourselves into the arms of the small states caught in the net of democratic clubbery, it would be the most wretched state into which one could deliver the monarchy at home and abroad. We would be pushed instead of pushing; we would lean for support on elements which we do not control, which are necessarily hostile to us, but to which we would have to submit for better or worse.** You believe there is some hidden virtue in 'German public opinion', Chambers, newspapers and such like, which might support or help us in a 'Union' or 'Hegemony' policy. I consider that a radical error, a fantasy. **Our strength cannot come from parliamentary and press politics but only from Great Power politics backed by arms, and we have not sufficient force and vigour to squander it on a bogus front and on empty words and Augustenburg. You attach a great deal too much importance to the whole Danish question and you allow yourself to be deluded by the general uproar among the democrats who control the media of press and assembly and who are agitating this question, which in itself is of no great importance.** Twelve months ago the question was that of two years' service; eight months ago it was Poland; and now it is Schleswig-Holstein...
 
-'For the moment, I regard it as the right policy to have Austria on our side; whether the moment for separation arrives, and on whose part, we shall see... I am prepared for war and revolution combined... Nor am I the slightest bit afraid of war, on the contrary; I am also indifferent to the labels “revolutionary” or “conservative”, as I am to all mere phrases; you will perhaps soon convince yourself that war is a part of my program as well... If the barroom enthusiasm in London and Paris makes any impression, I shall be glad of it; it is part of our stock-in-trade, but it has not impressed me so far and in the case of a fight it furnishes little money and no powder. You may call the convention of London revolutionary if you like. The Vienna treaties were ten times more so and ten times more unjust to many princes, estates and countries. It is only by European treaties that European law is established. If, however, you want to apply the standard of morality and justice to these latter they must well-nigh all be abolished...
+**'For the moment, I regard it as the right policy to have Austria on our side; whether the moment for separation arrives, and on whose part, we shall see... I am prepared for war and revolution combined... Nor am I the slightest bit afraid of war, on the contrary; I am also indifferent to the labels “revolutionary” or “conservative”, as I am to all mere phrases; you will perhaps soon convince yourself that war is a part of my program as well... If the barroom enthusiasm in London and Paris makes any impression, I shall be glad of it; it is part of our stock-in-trade, but it has not impressed me so far and in the case of a fight it furnishes little money and no powder**. You may call the convention of London revolutionary if you like. The Vienna treaties were ten times more so and ten times more unjust to many princes, estates and countries. It is only by European treaties that European law is established. **If, however, you want to apply the standard of morality and justice to these latter they must well-nigh all be abolished...**
 
-## 'I can only say, “La critique est aisée [criticism is easy].” It is not difficult amid the applause of the mob to find fault with the government, especially a government which has been obliged to
-
-# Document
-
-Lay hold of several wasps nests into the bargain... If the government makes a fiasco over things which are in general beyond the control of human will and foresight, you have the glory of having prophesied at the right time that the government was on the “woodman's road” [i.e to nowhere].
+'I can only say, “La critique est aisée [criticism is easy].” **It is not difficult amid the applause of the mob to find fault with the government, especially a government which has been obliged to lay hold of several wasps nests into the bargain...** If the government makes a fiasco over things which are in general beyond the control of human will and foresight, you have the glory of having prophesied at the right time that the government was on the “woodman's road” [i.e to nowhere].
 
 If they backed Augustenburg, he wrote, the best that would happen is 'one Grand Duke more in Germany who in his anxiety to preserve his sovereignty would vote against Prussia in the Bund'.
 
