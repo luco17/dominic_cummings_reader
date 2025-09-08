@@ -4126,13 +4126,21 @@ OP: In London Palmerston and Russell were very unhappy about Bismarck's approach
 
 **16 January** (evening) Against Bismarck's opposition, Wilhelm went to the Crown Prince's palace to receive a letter from Prince Frederick and talked to Samwer, who had brought it, 'in a tone quite different from the formal and cold reply drafted by Bismarck and actually sent to Kiel' (Steefel, p160). This was the sort of thing that drove him to distraction. 
 
-**17 January** Roon to Perthes: 'The first shot from a cannon tears up all treaties without our having to break them explicitly.' 18 January Russell asked all signatories of 1852 to 'concert and cooperate' with England to maintain the Treaty and uphold the integrity of the Danish monarchy. 19 January Gorchakov-Oubril: Britain won't accept the idea of advising Denmark to accept the occupation of Schleswig in return for rejecting Augustenburg in Holstein, because London does not trust German motives. Berlin and Vienna should therefore publicly clarify their commitment to 1852. This message crossed with one from Oubril (20th) saying Bismarck was worried that if he did not stay friendly with Napoleon the latter was looking for trouble and would swiftly turn against Prussia. 20 January The Danish ambassador in London listened to Russell read a letter from Palmerston saying Denmark 'mustn't imagine that for its sake England will wage war with all of Germany'. This happened while in London newspapers close to Palmerston (such as the Morning Post) thundered threats. 20 January Steinberg: Field Marshall Wrangel entered Holstein. Steefel: Wrangel took command of all federal forces on 20th, on 21st their forces entered Holstein. 20 January (Barry, p89) Meeting called by Wilhelm: 'an immediate and violent dispute between Bismarck and the generals'. Bismarck objected to the plan to occupy all Jutland which he thought would frighten the
+**17 January** Roon to Perthes: 'The first shot from a cannon tears up all treaties without our having to break them explicitly.' 
 
-Austrians into dropping the adventure. Roon and Wilhelm supported Moltke's plan and Roon was happy to pressure the Austrians. Bismarck threatened to resign, Roon looked for a compromise. (This meeting seems to be nowhere in OP, Gall, JS, Wawro. GC discuses p183: Roon disagreed with Bismarck but when he realised the latter would resign he urgently sought and found a compromise with instructions on Jutland removed from orders to Wrangel.)
+**18 January** Russell asked all signatories of 1852 to 'concert and cooperate' with England to maintain the Treaty and uphold the integrity of the Danish monarchy. 
 
-**21 January**, to Roon: 'I have the premonition that the cause of the Crown against the revolution is lost, for the heart of the king is in the other camp and his confidence rests more with his opponents than with his servants... I have not slept a wink this night and feel miserable, and don't really know what to tell these people, who will for sure refuse to vote credits, when it as good as clear that HM, in spite of the danger of breaking with Europe and to suffer a worse Olmütz, will give way to democracy and the Wurzburger [the medium states] in order to establish Augustenburg and create a new medium state.' (He could see the right path but also how easy for it go wrong. He also had to worry about the generals who he could not control.)
+**19 January** Gorchakov-Oubril: Britain won't accept the idea of advising Denmark to accept the occupation of Schleswig in return for rejecting Augustenburg in Holstein, because London does not trust German motives. Berlin and Vienna should therefore publicly clarify their commitment to 1852. This message crossed with one from Oubril (20th) saying Bismarck was worried that if he did not stay friendly with Napoleon the latter was looking for trouble and would swiftly turn against Prussia.
 
-**22 January** Parliament rejected a bill authorising money for Prussia's action supporting the confederate execution against Denmark 275-51. Many had mocked Bismarck during the debates in January saying he did not understand what he was doing and was doomed. 'Politics is not an exact science... I really believe, gentlemen, that without exaggeration I understand these matters better', he said: we will get the money somehow and 'I believe you too are no longer stranger to the feeling that it will turn out this way.' The deputies laughed. He attacked them for never supporting Prussian nationalism: 'An open profession of the Prussian interest, of Prussian nationalism is not to be found on your side... You reject the glorious traditions of our past for you disavow the ... Great Power position of Prussia acquired through heavy sacrifice in the people's blood and property.' He lectured them on international relations. When one criticised him for giving precedence to the 'European' over the 'German' aspect of the problem, he replied, 'As long as we live in Europe we must place ourselves on the European standpoint.' The deputies' real goal was Parliamentary government: you are trying 'to establish the dictatorship of this House ... This is a battle for the control of Prussia between the [monarchy] and the Landtag.' If the government were to go along with your wishes then 'We should be your ministers — and that is something I hope to God we never come to!'
+**20 January** The Danish ambassador in London listened to Russell read a letter from Palmerston saying Denmark 'mustn't imagine that for its sake England will wage war with all of Germany'. This happened while in London newspapers close to Palmerston (such as the Morning Post) thundered threats.
+
+**20 January** Steinberg: Field Marshall Wrangel entered Holstein. Steefel: Wrangel took command of all federal forces on 20th, on 21st their forces entered Holstein. 
+
+**20 January** (Barry, p89) Meeting called by Wilhelm: 'an immediate and violent dispute between Bismarck and the generals'. *Bismarck objected to the plan to occupy all Jutland which he thought would frighten the Austrians into dropping the adventure*. Roon and Wilhelm supported Moltke's plan and Roon was happy to pressure the Austrians. Bismarck threatened to resign, Roon looked for a compromise. (This meeting seems to be nowhere in OP, Gall, JS, Wawro. GC discuses p183: Roon disagreed with Bismarck but when he realised the latter would resign he urgently sought and found a compromise with instructions on Jutland removed from orders to Wrangel.)
+
+**21 January** **to Roon: 'I have the premonition that the cause of the Crown against the revolution is lost, for the heart of the king is in the other camp and his confidence rests more with his opponents than with his servants... I have not slept a wink this night and feel miserable, and don't really know what to tell these people, who will for sure refuse to vote credits, when it as good as clear that HM, in spite of the danger of breaking with Europe and to suffer a worse Olmütz, will give way to democracy and the Wurzburger [the medium states] in order to establish Augustenburg and create a new medium state**.' (He could see the right path but also how easy for it go wrong. He also had to worry about the generals who he could not control.)
+
+**22 January** Parliament rejected a bill authorising money for Prussia's action supporting the confederate execution against Denmark 275-51. Many had mocked Bismarck during the debates in January saying he did not understand what he was doing and was doomed. '**Politics is not an exact science... I really believe, gentlemen, that without exaggeration I understand these matters better**', he said: we will get the money somehow and 'I believe you too are no longer stranger to the feeling that it will turn out this way.' The deputies laughed. He attacked them for never supporting Prussian nationalism: 'An open profession of the Prussian interest, of Prussian nationalism is not to be found on your side... You reject the glorious traditions of our past for you disavow the ... Great Power position of Prussia acquired through heavy sacrifice in the people's blood and property.' He lectured them on international relations. When one criticised him for giving precedence to the 'European' over the 'German' aspect of the problem, he replied, 'As long as we live in Europe we must place ourselves on the European standpoint.' The deputies' real goal was Parliamentary government: you are trying 'to establish the dictatorship of this House ... This is a battle for the control of Prussia between the [monarchy] and the Landtag.' If the government were to go along with your wishes then 'We should be your ministers — and that is something I hope to God we never come to!'
 
 OP (p269) is confusing, suggesting some of this happened in December, and that there was another vote before 22/1. Cf. 9/12.
 
@@ -4142,9 +4150,7 @@ OP (p269) is confusing, suggesting some of this happened in December, and that t
 
 Around 23-5 January (it's impossible for me to get this straight from the books), there was a sort-of coordinated push by Britain-Russia-France in Berlin and Vienna. Russell urged Austria and Prussia to give Denmark 6 weeks from 1 February to withdraw the constitution. There were other similar diplomatic initiatives but none of them gained traction.
 
-## 25 January The Prussian Parliament passed a resolution condemning the expenditure of funds as illegal and it refused to authorise a loan for the war. Virchow attacked Bismarck for no longer attempting 'an energetic foreign policy' and for having given himself to evil. Bismarck replied that: 'I have acted on the principle: Flectere si nequeo superos, Acheronta movebo. I did incidentally when I came here cherish the hope that I should find in others besides myself a willingness, should the need arise, to sacrifice the standpoint of party to the overall interest of the country. I shall not,
-
-lest I offend anyone, go any further into how far and in whom I have been disappointed but disappointed I have been and of course this affects my political position and relations.' The same day Parliament was prorogued.
+**25 January** **The Prussian Parliament passed a resolution condemning the expenditure of funds as illegal and it refused to authorise a loan for the war**. Virchow attacked Bismarck for no longer attempting 'an energetic foreign policy' and for having given himself to evil. Bismarck replied that: 'I have acted on the principle: *Flectere si nequeo superos, Acheronta movebo*. I did incidentally when I came here cherish the hope that I should find in others besides myself a willingness, should the need arise, to sacrifice the standpoint of party to the overall interest of the country. I shall not, lest I offend anyone, go any further into how far and in whom I have been disappointed but disappointed I have been and of course this affects my political position and relations.' **The same day Parliament was prorogued.**
 
 OP (p270): Berlin was 'awash with rumours' of a cabinet crisis, Wilhelm and Bismarck disagreeing over Augustenburg etc. Twesten bombarded Wilhelm with promises the Landtag would support any other minister as liberals tried to drive Bismarck out. BUT the liberals were not confident in public support in Prussia, bemoaned the lack of public interest in Augustenburg, didn't dare try a tax strike, and they rightly feared that a Prussian victory would move opinion behind the government. On 29 January Mommsen wrote to Freytag: 'I have completely given up the idea that the nation will interfere with real energy.'
 
@@ -4158,69 +4164,37 @@ OP (p270): Berlin was 'awash with rumours' of a cabinet crisis, Wilhelm and Bism
 
 **28 January** Oubril-Gorchakov: Bismarck's response to the joint suggestion of a 6 week delay — Oubril didn't expect further developments for a week or so, the King was resisting any declaration, Bismarck's position was dicey and he may be replaced by a liberal government that would seek alliance with France; he wanted to occupy Schleswig 'on conservative principles' and maintain 1852.
 
-28-30 January (Friedjung) Debate in the Austrian Parliament on the war against Denmark — fierce attacks on Rechberg's policy. Schindler said, 'Prussia has scarcely digested Silesia and now she is getting her claws into the Duchies, while we are leading her into them with drum and trumpet. But what music will get her out again?' Schmerling spoke out in defence of Rechberg's approach even though he opposed it.
+**28-30 January** (Friedjung) Debate in the Austrian Parliament on the war against Denmark — fierce attacks on Rechberg's policy. Schindler said, 'Prussia has scarcely digested Silesia and now she is getting her claws into the Duchies, while we are leading her into them with drum and trumpet. But what music will get her out again?' Schmerling spoke out in defence of Rechberg's approach even though he opposed it.
 
 **31 January** Oubril read to Bismarck a despatch from Gorchakov sent on 28th (cf. Mosse p169ff): Britain won't let the Danish monarchy be destroyed, we should look for a solution that she and Germany can agree, don't drive London towards Napoleon, London is hinting at intervention, you should provide a clear and unambiguous commitment to 1852 on condition Denmark meets its obligations, perhaps consider occupying only part of Schleswig. (It's unclear how much Gorchakov believed the possibility of British intervention. Brunnow had written (undated, around then) that he did not believe it — Palmerston won't give France the excuse to cross the Rhine. On 13th Brunnow had reported the Cabinet discussion and concluded: Russell and Cabinet don't want other Powers to act 'to justify their inaction'. Bismarck prevaricated, blamed the King and avoided commitments.
 
 In the last week of January, lots of diplomatic exchanges between the powers. Russell pushed for the 1852 signatories to sign a further protocol by which the Danish government agreed to repeal the constitution while Prussia and Austria postponed action in Schleswig. At some point in last week of January Wilhelm rejected it. Bismarck prevaricated and fobbed everyone off, often using Wilhelm as an excuse. To Russia he stressed the conservatism of his policy and the danger of his replacement, to London he stressed his support for 1852.
 
-## February British Chambers of Commerce protested to Palmerston about the failures of the FO and Board of Trade to advance British commercial interests and 'the division of authority' between the two they blamed for lack of action. Palmerston replied: there are three modes of influence open — persuasion, equivalence, and compulsion. The first is always tried, 'as to the second, we have none to offer, and the last was of course out of the question'. The pressure building led to the instigation
+**February** British Chambers of Commerce protested to Palmerston about the failures of the FO and Board of Trade to advance British commercial interests and 'the division of authority' between the two they blamed for lack of action. Palmerston replied: there are three modes of influence open — persuasion, equivalence, and compulsion. The first is always tried, 'as to the second, we have none to offer, and the last was of course out of the question'. The pressure building led to the instigation of the Select Committee on Trade with Foreign Nations in mid-1864. Ward, Britain's greatest expert on the Zollverein, came over to give evidence. Ward spent time discussing matters with British businessmen and concluded that they did not appreciate the politics of the Zollverein and the obstacles to Prussian liberalisation.
 
-of the Select Committee on Trade with Foreign Nations in mid-1864. Ward, Britain's greatest
-expert on the Zollverein, came over to give evidence. Ward spent time discussing matters with
-British businessmen and concluded that they did not appreciate the politics of the Zollverein and
-the obstacles to Prussian liberalisation.
-**February** Palmerston had been accused of being caught in an adulterous affair. The case collapsed 2/64.
-Gladstone worried about the effects on the Liberals' reputation, Disraeli suspected it had been a
-deliberate scheme to enhance Palmerston's popularity(!).
-**1 February** Prussian forces move across the Eider into Schleswig, Danish forces soon retreated from
-fortifications, and by the end of February Danes pushed out of Schleswig. (Barry: orders to move into
-Schleswig issued on 3 February, but seems contradicted in his own story.)
+**February** Palmerston had been accused of being caught in an adulterous affair. The case collapsed 2/64. Gladstone worried about the effects on the Liberals' reputation, Disraeli suspected it had been a deliberate scheme to enhance Palmerston's popularity(!).
+
+**1 February** **Prussian forces move across the Eider into Schleswig**, Danish forces soon retreated from fortifications, and by the end of February Danes pushed out of Schleswig. (Barry: orders to move into Schleswig issued on 3 February, but seems contradicted in his own story.)
+
 The invasion of Schleswig prompted questions:
 
 1.  Would the 1852 Treaty survive?
 2.  Would the Danish monarchy survive?
 3.  Would Napoleon or England intervene?
 4.  What did Austria and Prussia truly intend?
-    3 February Redern (Prussian ambassador)-Bismarck: Gorchakov said — 'So this is the general war you
-    want... Russia will never do anything against Prussia but you will have the other three on your
-    hands and you will have brought back the agreement between France and England.' While they
-    were talking the first reports arrived of clashes between Danish and German forces. Gorchakov
-    was 'tief erschüttert' (deeply shaken), wrote Redern, and repeatedly warned 'c'est la guerre générale'.
-    But this was a misreading — the British Cabinet opposed intervention and would only have
-    countenanced it in conjunction with at least France, which she did not trust and which she had
-    fallen out with in 1863, while France was enjoying the embarrassment of London and hoping to
-    profit from the action.
-    OP: When the army marched against Denmark, another 'of nearly equal size' (35,000) remained in
-    the neighbourhood of Berlin as part of the plan to maintain the monarchy in the event of any
-    revolutionary activity. 'At no time during the constitutional conflict did the liberals question that
-    the army, both officers and men, would stand behind the crown'.
-    Showalter: Moltke wanted to send a single corps under Frederick Charles (on the grounds of
-    having units and officers who knew each other) but was successfully opposed by others including
-    Manteuffel who argued it was too dangerous to strip a province of all its active force. The Austrian
-    army, rejigged after 1859, relied on long-service conscripts and quick victory based on shock. The
-    Prussian approach, of short-service conscripts with breech-loading rifles and cast-steel cannon,
-    supported by intense preparation, was seen in Europe as an experiment. Prussia's rail deployment
-    was effective (thanks to Wartensleben).
-    2/3 February (Steefel) Goltz-Wilhelm: Drouyn at dinner '... in a half-joking manner ... said to me that
-    we should annex Schleswig-Holstein, and some of the other lands nearby. France would gladly be of
-    help to us and would be content with compensation which would amount more to an outward
-    satisfaction for the French nation than a real equivalent to such an increase in the power of
-    Prussia.' (Reported to Berlin on 9/2)
-    3 February Crown Council, Bismarck pushed annexation, Wilhelm resisted. (See above for
-    problems dating this meeting, cf. Pflanze p251, Steefel p.108-9, Gall p244.) Bismarck made clear a)
-    he wanted to annex the duchies, b) they could not say so now, c) they must oppose the
-    Augustenburg option, which would close down annexation and just cause them trouble, d) they
-    should go along with Austria for the moment and bide their time. Wilhelm argued but accepted the
-    proposed note with Austria, and wrote on the margin of the note of the meeting that annexation
-    was not the only aim but merely one of the possibilities. (Steefel, p108) OP: Wilhelm 'added to the
-    protocol that recorded the discussion' that annexation was not the goal but a possible outcome.
-    'I reminded the King that each of his immediate forebears, except his brother, had won for the
-    state an increase in territory and encouraged him to do the same.' Gall says he felt 'the moment
-    had come' to reveal his support for annexation.
-    Over the next few months Bismarck encouraged allies to push for annexation in public.
 
----
+**3 February** Redern (Prussian ambassador)-Bismarck: Gorchakov said — 'So this is the general war you want... Russia will never do anything against Prussia but you will have the other three on your hands and you will have brought back the agreement between France and England.' While they were talking the first reports arrived of clashes between Danish and German forces. Gorchakov was 'tief erschüttert' (deeply shaken), wrote Redern, and repeatedly warned 'c'est la guerre générale'. But this was a misreading — the British Cabinet opposed intervention and would only have countenanced it in conjunction with at least France, which she did not trust and which she had fallen out with in 1863, while France was enjoying the embarrassment of London and hoping to profit from the action.
+
+
+OP: When the army marched against Denmark, another 'of nearly equal size' (35,000) remained in the neighbourhood of Berlin as part of the plan to maintain the monarchy in the event of any revolutionary activity. 'At no time during the constitutional conflict did the liberals question that the army, both officers and men, would stand behind the crown'.
+
+Showalter: Moltke wanted to send a single corps under Frederick Charles (on the grounds of having units and officers who knew each other) but was successfully opposed by others including Manteuffel who argued it was too dangerous to strip a province of all its active force. The Austrian army, rejigged after 1859, relied on long-service conscripts and quick victory based on shock. The Prussian approach, of short-service conscripts with breech-loading rifles and cast-steel cannon, supported by intense preparation, was seen in Europe as an experiment. Prussia's rail deployment was effective (thanks to Wartensleben).
+
+**2/3 February** (Steefel) Goltz-Wilhelm: Drouyn at dinner '... in a half-joking manner ... said to me that we should annex Schleswig-Holstein, and some of the other lands nearby. France would gladly be of help to us and would be content with compensation which would amount more to an outward satisfaction for the French nation than a real equivalent to such an increase in the power of Prussia.' (Reported to Berlin on 9/2)
+
+**3 February** **Crown Council, Bismarck pushed annexation, Wilhelm resisted**. (See above for problems dating this meeting, cf. Pflanze p251, Steefel p.108-9, Gall p244.) Bismarck made clear a) he wanted to annex the duchies, b) they could not say so now, c) they must oppose the Augustenburg option, which would close down annexation and just cause them trouble, d) they should go along with Austria for the moment and bide their time. Wilhelm argued but accepted the proposed note with Austria, and wrote on the margin of the note of the meeting that annexation was not the only aim but merely one of the possibilities. (Steefel, p108) OP: Wilhelm 'added to the protocol that recorded the discussion' that annexation was not the goal but a possible outcome. 'I reminded the King that each of his immediate forebears, except his brother, had won for the state an increase in territory and encouraged him to do the same.' Gall says he felt 'the moment had come' to reveal his support for annexation.
+
+Over the next few months Bismarck encouraged allies to push for annexation in public.
 
 **4 February** Metternich reported that Napoleon wants 'England to intervene in it [the war] and above all that she remain impotent'.
 
@@ -4228,7 +4202,7 @@ The invasion of Schleswig prompted questions:
 
 Palmerston made clear to Greville at dinner on 6th that he thought 'the fighting was over', and was 'sanguine' that Austria and Prussia would keep their word and restore the dominions to the Danes after the King renounced the Constitution. Disraeli and Derby attacked the policy of 'meddle and muddle', criticised a lack of help for Denmark, but also made clear they wanted peace. 'The hesitant policy of a divided Cabinet was shown to represent fully and faithfully the conflicting emotions of Parliament' (Mosse, p175).
 
-**4 February** Derby in Parliament attacked Russell and Palmerston for their ineffective interference everywhere — 'meddle and muddle': 'Now, my Lords, as to non-intervention in the internal affairs of other countries, when I look around me I fail to see what country there is in the internal affairs of which the noble Earl [Russell] and Her Majesty's government have not interfered. Nihil intactum reliquit, nihil tetigit quod [He left nothing untouched, nothing he touched that] — I cannot say non ornavit [he did not decorate], but non conturbavit [he did not disturb]. [So: He left nothing untouched, nothing he touched that he did not disturb.] Or the foreign policy of the noble Earl, as far as the principle of non-intervention is concerned, may be summed up in two short homely but expressive words — 'meddle and muddle'. During the whole course of the noble Earl's diplomatic correspondence, wherever he has interfered — and he has interfered everywhere — he has been lecturing, scolding, blustering, and retreating.' Palmerston had gone to the Lords to listen and watched the Lords strongly support Derby's attack. But the Queen asked Derby not to push attacks too far and force a dissolution and Derby also thought trying to push Palmerston out a mistake.
+**4 February** Derby in Parliament attacked Russell and Palmerston for their ineffective interference everywhere — 'meddle and muddle': 'Now, my Lords, as to non-intervention in the internal affairs of other countries, when I look around me I fail to see what country there is in the internal affairs of which the noble Earl [Russell] and Her Majesty's government have not interfered. *Nihil intactum reliquit, nihil tetigit quod [He left nothing untouched, nothing he touched that]* — I cannot say *non ornavit [he did not decorate], but non conturbavit [he did not disturb]. [So: He left nothing untouched, nothing he touched that he did not disturb.]* Or the foreign policy of the noble Earl, as far as the principle of non-intervention is concerned, may be summed up in two short homely but expressive words — 'meddle and muddle'. During the whole course of the noble Earl's diplomatic correspondence, wherever he has interfered — and he has interfered everywhere — he has been lecturing, scolding, blustering, and retreating.' Palmerston had gone to the Lords to listen and watched the Lords strongly support Derby's attack. But the Queen asked Derby not to push attacks too far and force a dissolution and Derby also thought trying to push Palmerston out a mistake.
 
 **6 February** Buchanan warned that as long as Berlin thinks our non-intervention is a 'certainty', 'no one is to be trusted' and this 'illusion' should be corrected. Napier echoed this. Cowley: France will continue to stand aloof and wait to profit.
 
@@ -4236,66 +4210,24 @@ Palmerston made clear to Greville at dinner on 6th that he thought 'the fighting
 
 **8 February** Bismarck and Talleyrand spoke (before reports of Goltz's recent chats had arrived in Berlin) — Talleyrand then called in to see Buchanan who sent a report to Russell on 8th, Talleyrand reported it to Paris on 9th.
 
-Talleyrand's report: Bismarck says that the King and Crown Prince support Augustenburg but 'As for me, my ideas on the Danish question have not changed. Of all the policies we could follow, the most inept would be for Prussia to cooperate to establish a new German Grand Duchy, to create a Prince who, in time of peace will vote against us at Frankfurt and in time of war will compromise us if he does not betray us. Believe me, it is not for a nobody like the Prince of Augustenburg that Prussia is spending the blood of its soldiers and the money of its treasury.' But he suggested that annexation wasn't practical and therefore he supported 'reconciliation with Denmark' and he still adhered 'to the principle of the integrity of the Danish Monarchy.'
+Talleyrand's report: Bismarck says that the King and Crown Prince support Augustenburg but 'As for me, my ideas on the Danish question have not changed. **Of all the policies we could follow, the most inept would be for Prussia to cooperate to establish a new German Grand Duchy, to create a Prince who, in time of peace will vote against us at Frankfurt and in time of war will compromise us if he does not betray us. Believe me, it is not for a nobody like the Prince of Augustenburg that Prussia is spending the blood of its soldiers and the money of its treasury.**' But he suggested that annexation wasn't practical and therefore he supported 'reconciliation with Denmark' and he still adhered 'to the principle of the integrity of the Danish Monarchy.'
 
-## Buchanan's report: Bismarck told Talleyrand that there were three courses he could follow: support Augustenburg, annexation, or maintain the integrity of the Danish monarchy. The first would be
+Buchanan's report: Bismarck told Talleyrand that there were three courses he could follow: support Augustenburg, annexation, or maintain the integrity of the Danish monarchy. The first would be against Prussian interests [for the reasons he repeated many times]. The second would be impossible for even if there were no other objections to it France would want some equivalent gain. The third option was therefore his preferred policy.
 
-against Prussian interests [for the reasons he repeated many times]. The second would be
-impossible for even if there were no other objections to it France would want some equivalent
-gain. The third option was therefore his preferred policy.
-**10 February** British Cabinet supported the proposal for an armistice following total evacuation of
-Schleswig by Danes but this was rejected by Vienna and Berlin on 11th.
-**10 February** Palmerston spoke to Klindworth, 'the famous secret agent' (Steefel), who reported the chat
-to Apponyi who informed Rechberg on 10th. Palmerston was angry and threatening re Austria, and
-complained about the Queen who was following 'a policy of her own in espousing the cause of
-Prussia' and in influencing party leaders in Parliament. He regrets the fallout with Napoleon and
-intends a rapprochement including the offer of carte blanche in Italy in return for help on Denmark.
-The alliance with Prussia will end in disaster — you will lose Venetia and Galicia, 'so much the
-better', and Hungary, 'so much the worse'. Gorchakov is supporting Prussia and wants an alliance
-with Napoleon. (Palmertson knew Klindworth was an Austrian agent and referred to it being 'very
-useful to remind the Austrians privately of the danger they were running' to Russell a few days
-later, so it's very likely this was a deliberate back-channel message from Palmerston to Vienna.)
-Apponyi agreed that Palmerston was cross because he was isolated — he had no ally, his Cabinet
-was divided and the Queen disagreed with him. (Otto Manteuffel also hired Klindworth around
-1853, Barclay p263).
-**11 February** The Danes formally asked London for support. This was probably the reason for Palmerston
-and Russell giving orders that Sir Alfred Horsfold 'prepare the scheme for an English army to be
-landed on the shore of Denmark'.
-By 11 February The Danish army had retreated from fortifications, riots in Copenhagen, but Wrangel
-had blundered. Moltke was sent on 11/2 to inspect situation but had no direct command and was
-not always even informed of developments. GC: At the start of the Danish war Moltke's influence
-was 'almost negligible'. If it had not been for his private correspondence with Colonel von
-Blumenthal, serving as Frederick Charles' chef, 'he would have been completely in the dark
-concerning events in Schleswig' (GC).
-**11 February** Oubril again stresses — accept Britain's suggestion of armistice and conference. Bismarck
-replies: We support the integrity of Danish monarchy per the terms of 1852 (i.e conditionally), we
-are released from obligations to Denmark, a conference is OK provided no preconditions, and if a
-change is needed I prefer Oldenburg to Augustenburg. On 13th Tsar wrote that 'material
-intervention ... is not to be thought of'.
-**13 February** Palmerston-Russell: 'The conduct of Austria and Prussia is incredibly bad, and one or
-both of them will suffer for it before these matters are settled.' France will 'probably decline' to act
-with us 'unless tempted' by the prospect of an army on the Rhine. Sending a fleet would take 'many
-weeks' and wouldn't have 'much effect upon the Germans unless it were understood to be a first
-step towards something more; and I doubt whether the Cabinet or the country are as yet
-prepared for active interference.' Fighting Austria and Prussia is a 'huge undertaking' — we have
-20,000 men, they have '200,000 or 300,000' and would have German allies. Also, we face a problem
-in raising for Prussia the spectre of France attacking as 'it might not be advisable nor for our own
-interest to suggest to France an attack' on the Rhine. 'It would serve Prussia right if such an attack
-were made; and if Prussia remains in the wrong we could not take part with her against France.
-But the conquest [of Rhenish provinces] by France would be an evil for us and would
-seriously affect the position of Holland and Belgium.' I.e Palmerston's view was that traditional
-British interests were at bottom the Low Countries and containing France and they should not act
-to contain Germany, in defence of secondary interests, in such a way as to jeopardise these
-primary interests.
-British Cabinet meetings on 13 and 17 February confirmed that Cabinet was determined to avoid
-threatening unilateral intervention. Granville reported to the Queen: Russell clear there is 'no
-question of our going to war single handed' and Palmerston seems even less keen, but it would
-'weaken' our leverage if the Cabinet's position were known. The Queen complained (13th) re
+**10 February** British Cabinet supported the proposal for an armistice following total evacuation of Schleswig by Danes but this was rejected by Vienna and Berlin on 11th.
 
----
+**10 February** Palmerston spoke to Klindworth, 'the famous secret agent' (Steefel), who reported the chat to Apponyi who informed Rechberg on 10th. Palmerston was angry and threatening re Austria, and complained about the Queen who was following 'a policy of her own in espousing the cause of Prussia' and in influencing party leaders in Parliament. He regrets the fallout with Napoleon and intends a rapprochement including the offer of carte blanche in Italy in return for help on Denmark.
 
-suggestions of threatening Germany with intervention and of Napier's 'wild and violent advice'. On
-17th Russell retreated from intervention further.
+The alliance with Prussia will end in disaster — you will lose Venetia and Galicia, 'so much the better', and Hungary, 'so much the worse'. Gorchakov is supporting Prussia and wants an alliance with Napoleon. (Palmertson knew Klindworth was an Austrian agent and referred to it being 'very useful to remind the Austrians privately of the danger they were running' to Russell a few days later, so it's very likely this was a deliberate back-channel message from Palmerston to Vienna.) Apponyi agreed that Palmerston was cross because he was isolated — he had no ally, his Cabinet was divided and the Queen disagreed with him. (Otto Manteuffel also hired Klindworth around 1853, Barclay p263).
+
+**11 February** The Danes formally asked London for support. This was probably the reason for Palmerston and Russell giving orders that Sir Alfred Horsfold 'prepare the scheme for an English army to be landed on the shore of Denmark'. By 11 February The Danish army had retreated from fortifications, riots in Copenhagen, but Wrangel had blundered. Moltke was sent on 11/2 to inspect situation but had no direct command and was not always even informed of developments. GC: At the start of the Danish war Moltke's influence was 'almost negligible'. If it had not been for his private correspondence with Colonel von Blumenthal, serving as Frederick Charles' chef, 'he would have been completely in the dark concerning events in Schleswig' (GC).
+
+**11 February** Oubril again stresses — accept Britain's suggestion of armistice and conference. Bismarck replies: We support the integrity of Danish monarchy per the terms of 1852 (i.e conditionally), we are released from obligations to Denmark, a conference is OK provided no preconditions, and if a change is needed I prefer Oldenburg to Augustenburg. On 13th Tsar wrote that 'material intervention ... is not to be thought of'.
+
+**13 February** Palmerston-Russell: 'The conduct of Austria and Prussia is incredibly bad, and one or both of them will suffer for it before these matters are settled.' France will 'probably decline' to act with us 'unless tempted' by the prospect of an army on the Rhine. Sending a fleet would take 'many weeks' and wouldn't have 'much effect upon the Germans unless it were understood to be a first step towards something more; and **I doubt whether the Cabinet or the country are as yet prepared for active interference**.' Fighting Austria and Prussia is a 'huge undertaking' — we have 20,000 men, they have '200,000 or 300,000' and would have German allies. Also, we face a problem in raising for Prussia the spectre of France attacking as 'it might not be advisable nor for our own interest to suggest to France an attack' on the Rhine. 'It would serve Prussia right if such an attack were made; and if Prussia remains in the wrong we could not take part with her against France. **But the conquest [of Rhenish provinces] by France would be an evil for us and would seriously affect the position of Holland and Belgium.**' I.e Palmerston's view was that traditional British interests were at bottom the Low Countries and containing France and they should not act to contain Germany, in defence of secondary interests, in such a way as to jeopardise these primary interests.
+
+British Cabinet meetings on 13 and 17 February confirmed that Cabinet was determined to avoid threatening unilateral intervention. Granville reported to the Queen: Russell clear there is 'no question of our going to war single handed' and Palmerston seems even less keen, but it would 'weaken' our leverage if the Cabinet's position were known. The Queen complained (13th) re suggestions of threatening Germany with intervention and of Napier's 'wild and violent advice'. On 17th Russell retreated from intervention further.
+
 **14 February** Wrangel: unless explicit orders to contrary, I'll invade Jutland on 17th. GC: by now reports
 had come from Vienna and from Austria's Ambassador in Berlin that FJ opposed a move to Jutland
 and Wilhelm realised Bismarck had been right on 21 January (or 20th?). With Wilhelm's agreement,
