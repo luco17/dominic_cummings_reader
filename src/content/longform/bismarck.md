@@ -4437,55 +4437,31 @@ Bismarck never saw him again until the day after Sedan, when he was wearing the 
 
 **10 June** (EF, unmentioned by most) Tsar and Gorchakov arrived in Berlin. Bismarck stressed conservative solidarity. Mosse: Tsar was at Potsdam en route to the spa at Kissingen. On 10th the Tsar urged Bismarck to be conciliatory, if an armistice could not be renewed he should not push further and possibly provoke British and French intervention. Bismarck said a bad deal was worse than war and he would not concede to spare British embarrassments. He successfully waved the Oldenburg possibility at the Tsar, who liked it but warned against annexation. Bismarck said he would not see a European war over the duchies but could not refuse them if offered. Tsar: who would offer them? Gorchakov also warned re French intervention on the Rhine which Britain would support [false — Palmerston was much more worried re French gains on the Rhine than anything in Denmark]. He conjured other possibilities of Anglo-French action and said that although a Prussia-Russia war was impossible, if a British squadron arrived in the Baltic then Russia might have to participate. Wilhelm: 'At least you will not fire on us.' Gorchakov: 'No, your Majesty, but the mere presence of our flag amongst your enemies would be a regrettable proof that from the political point of view, we cannot support the cause you uphold. It would be utterly inconsistent if we acted otherwise.' Gorchakov also warned that the democratic forces looking to smash Denmark and grab the duchies would be supported by Britain and France. Is it worth risking disaster for a few more square miles of land? Wilhelm promised to 'weigh carefully' Gorchakov's words. Bismarck hid behind the King — he and his entourage have certain views, my own position is very tenuous, and there could easily be a liberal takeover, a war with Britain wasn't the worst outcome. Bismarck was confident that Britain would not start a war alone and that France would not intervene imminently over the duchies, cf. 14/6. (Mosse p198-200) Gorchakov also tried to push Vienna similarly over the next few days — watch out for a revival of an Anglo-French alliance, be moderate etc — but failed there too.
 
-## 11 June There was a long discussion in British Cabinet. Granville-Queen: Cabinet 'not as compact as it was, on the question of what part England should take in the case of the conference being broken up and the war renewed'. There was also a strong move to the view — if the Danes accept arbitration but Prussia refuses, Britain should give Denmark 'material aid'. The Queen was very unhappy with this and asked that Cabinet reconsider (to Russell, 12th). There were disputes re what Cabinet had actually agreed. Granville told the Queen (13th) that Russell had misrepresented Cabinet.
+**11 June** There was a long discussion in British Cabinet. Granville-Queen: Cabinet 'not as compact as it was, on the question of what part England should take in the case of the conference being broken up and the war renewed'. There was also a strong move to the view — if the Danes accept arbitration but Prussia refuses, Britain should give Denmark 'material aid'. The Queen was very unhappy with this and asked that Cabinet reconsider (to Russell, 12th). There were disputes re what Cabinet had actually agreed. Granville told the Queen (13th) that Russell had misrepresented Cabinet.
 
-# 11 June
+**11 June** Russell-Cowley: It would be 'a step back in civilisation to lay down as a principle that a Sovereign could not rule with justice and fairness subjects of a different race and language' — such a principle 'would not suit' any of the Powers.
 
-Russell-Cowley: It would be 'a step back in civilisation to lay down as a principle that a Sovereign could not rule with justice and fairness subjects of a different race and language' — such a principle 'would not suit' any of the Powers.
+**12 June** Armistice renewed for a fortnight. Crown Council. Bodelschwingh, finance minister, said that they needed to raise more money. Bismarck and Roon: let's raise loans without asking for Parliament's permission. Bodelschwingh and others objected it would be unconstitutional. No decision taken. (Steinberg)
 
-# 12 June
+Stern's account is different. He says there was a ministerial council on 12th and a Crown Council on 13th that continued the discussion in which Bismarck and Roon 'violently opposed' Bodelschwingh's proposal to ask Parliament for authorisation for a loan. Bismarck argued: if war comes 'the article of the Constitution could not mean that the king in such an eventuality would be compelled either to submit to the conditions of the Diet or to give up the country to the enemy.' Bodelschwingh argued the Constitution was clear that they could not accept a state loan without authorisation. Stern — the majority 'seems to have supported Bodelschwingh against Bismarck' and 'no decision was reached'. (Cf. 24 March 1865 — how to reconcile? In 1865 the finances were in good shape and Prussia didn't need a loan. Perhaps the situation looked shakier in 1864 and they thought the war with Denmark might be longer, more expensive etc than it turned out.)
 
-Armistice renewed for a fortnight.
+**14 June** In a highly confidential note to Werther in Vienna Bismarck wrote that Britain may be forced to act by public opinion but he thought it likely that a firm stand from Prussia and Austria would see Britain back down. Anti-war opinion was strong and England needed France as an ally. Even if she did act, Prussia should fear this less than a yielding attitude: 'We must not jeopardise the great conservative interests which we are defending for the sake of an immediate good relationship with England.' Together we should not fear her navy and her interference would unite Germany and rob German liberals of many illusions. Napoleon knows that intervening would provoke a powerful German alliance that Russia would sympathize with and he will not start a war.
 
-Crown Council. Bodelschwingh, finance minister, said that they needed to raise more money. Bismarck and Roon: let's raise loans without asking for Parliament's permission. Bodelschwingh and others objected it would be unconstitutional. No decision taken. (Steinberg)
+**14 June** Bismarck called in the Austrian chargé d’affaires Count Chotek and span him a tale of how Prussia was rolling in money, he opposed asking Parliament for a loan, many bankers were offering cash and so on. ‘Ah, if one could only get rid of this whole dirty business known as parliamentary constitutionalism.’ If we need to change the constitution to raise money, we will do so.
 
-# 13 June
+**15 June** British Cabinet met again (cf. 11/6). No clear decision.
 
-Stern's account is different. He says there was a ministerial council on 12th and a Crown Council on 13th that continued the discussion in which Bismarck and Roon 'violently opposed' Bodelschwingh's proposal to ask Parliament for authorization for a loan. Bismarck argued: if war comes 'the article of the Constitution could not mean that the king in such an eventuality would be compelled either to submit to the conditions of the Diet or to give up the country to the enemy.' Bodelschwingh argued the Constitution was clear that they could not accept a state loan without authorization. Stern — the majority 'seems to have supported Bodelschwingh against Bismarck' and 'no decision was reached'. (Cf. 24 March 1865 — how to reconcile? In 1865 the finances were in good shape and Prussia didn't need a loan. Perhaps the situation looked shakier in 1864 and they thought the war with Denmark might be longer, more expensive etc than it turned out.)
+**16 June** A letter from Napoleon arrived at the British Embassy in Paris suggesting Britain intervene, but Cowley told Russell he did not think this meant there would soon be assistance from Napoleon.
 
-# 14 June
+**17 June** Bismarck told Buchanan that if he believed the reports of the media from London he would consider war between the two as inevitable (reported to Russell on 18th). Bernstorff-Wilhelm (17th): Clarendon told me that 'as surely as we are at this moment here in Buckingham Palace — England will take part in the war if it begins again.' On 18th Bismarck told Buchanan that he didn't care whether Britain joined the war or not. Steefel (p253): it wasn't until the Congress of Berlin that 'the words of a British statesman again had weight in the councils of Europe'.
 
-In a highly confidential note to Werther in Vienna Bismarck wrote that Britain may be forced to act by public opinion but he thought it likely that a firm stand from Prussia and Austria would see Britain back down. Anti-war opinion was strong and England needed France as an ally. Even if she did act, Prussia should fear this less than a yielding attitude: 'We must not jeopardise the great conservative interests which we are defending for the sake of an immediate good relationship with England.' Together we should not fear her navy and her interference would unite Germany and rob German liberals of many illusions. Napoleon knows that intervening would provoke a powerful German alliance that Russia would sympathize with and he will not start a war.
+**18 June** Bernstorff proposed the population of Schleswig be consulted, Denmark objected. Brunnow opposed the Prussian proposal on principle. After arguments meeting postponed to 22nd for envoys to discuss with their bosses.
 
-# 15 June
+**19 June** Russell-Queen: Bismarck seems to court rather than avoid war with us.
 
-British Cabinet met again (cf. 11/6). No clear decision.
+**19-24 June** JS: Bismarck at Carlsbad with Wilhelm, met Rechberg and FJ. (Clark: FJ was there 22-24 and conferred on Bismarck the Grand Cross of St Stephen.) Austria had financial problems as well as diplomatic ones and was looking to pull the plug on military action. Bismarck pushed them to keep going for a little longer. (Stern — while this was going on there was another cabinet meeting without Bismarck to discuss finances, but Stern dates this to 6 July. Stern seems confused — refers to this Carlsbad meeting happening in 1864 and 65!?)
 
-# 16 June
-
-A letter from Napoleon arrived at the British Embassy in Paris suggesting Britain intervene, but Cowley told Russell he did not think this meant there would soon be assistance from Napoleon.
-
-# 17 June
-
-Bismarck told Buchanan that if he believed the reports of the media from London he would consider war between the two as inevitable (reported to Russell on 18th). Bernstorff-Wilhelm (17th): Clarendon told me that 'as surely as we are at this moment here in Buckingham Palace — England will take part in the war if it begins again.' On 18th Bismarck told Buchanan that he didn't care whether Britain joined the war or not. Steefel (p253): it wasn't until the Congress of Berlin that 'the words of a British statesman again had weight in the councils of Europe'.
-
-# 18 June
-
-Bernstorff proposed the population of Schleswig be consulted, Denmark objected. Brunnow opposed the Prussian proposal on principle. After arguments meeting postponed to 22nd for envoys to discuss with their bosses.
-
-# 19 June
-
-Russell-Queen: Bismarck seems to court rather than avoid war with us.
-
-# 19-24 June
-
-JS: Bismarck at Carlsbad with Wilhelm, met Rechberg and FJ. (Clark: FJ was there 22-24 and conferred on Bismarck the Grand Cross of St Stephen.) Austria had financial problems as well as diplomatic ones and was looking to pull the plug on military action. Bismarck pushed them to keep going for a little longer. (Stern — while this was going on there was another cabinet meeting without Bismarck to discuss finances, but Stern dates this to 6 July. Stern seems confused — refers to this Carlsbad meeting happening in 1864 and 65!?)
-
-# 20 June
-
-## (Clark) Augustenburg wrote a conciliatory letter to Wilhelm on 20 June and gave a speech on 22nd in which he expressed his desire to make far-reaching concessions to Prussia. Clark thinks
-
-this had some effect in countering, in the mind of Wilhelm, the effects of Bismarck's manipulation of the 1/6 interview.
+**20 June** (Clark) Augustenburg wrote a conciliatory letter to Wilhelm on 20 June and gave a speech on 22nd in which he expressed his desire to make far-reaching concessions to Prussia. Clark thinks this had some effect in countering, in the mind of Wilhelm, the effects of Bismarck's manipulation of the 1/6 interview.
 
 **20 June** Drouyn and Cowley discussed the situation. Drouyn said that an alliance would allow them both to 'govern the world' but that separately France was suffering viz Italy and Britain was suffering viz Denmark: 'Why can't we come to an understanding?' Cowley thought Napoleon wanted to use the situation to push Austria out of Italy and 'get a bit of the Rhine'. To Clarendon, Cowley wrote that 'It is clear, I think, that the French alliance is to be bought, but the price will be perhaps more than it is worth. The [illegible] destruction of Austria is a high price to pay. As to the Rhine, as I do not think Belgium to be asked for, I confess I should not care.' On 21st Cowley and Drouyn had another chat about the possibility of Britain and France uniting to tell Germany and Denmark — here is a fair division, both sides must accept it. (Napoleon is 'getting so sick of the question and so disgusted with the proceedings of the Germans' said Drouyn.)
 
