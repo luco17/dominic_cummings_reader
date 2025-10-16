@@ -4475,65 +4475,25 @@ Stern's account is different. He says there was a ministerial council on 12th an
 
 **25 June** Conference ended, armistice expired 26th. Some time this summer Clarendon said: 'Je ne veux plus jamais rien avoir a faire avec cet homme sans foi ni loi qui s'appelle M. de Bismarck, ni celui qui est son nègre M. de Rechberg' (I never want to have anything to do with this man without faith or law who is called Mr. de Bismarck, nor the one who is his negro [contemporary slang for 'slave'?] M. de Rechberg). This insult spread to the Vienna press (Clark).
 
-## Clark (p79): Austria failed to push for Personal Union with Britain and Russia then do a deal with Denmark behind Prussia's back. While Bismarck was lying and cheating and double-dealing behind Vienna's back, FJ told Biegeleben to stick with Prussia. This passed up a chance that was there. Rechberg didn't realise what he was dealing with. (When Prussia was suddenly warm to a referendum in June, Rechberg expressed his 'astonishment' that a monarchy could adopt 'even temporarily ... so disastrous a modern principle' — how would she feel about a referendum in
+Clark (p79): Austria failed to push for Personal Union with Britain and Russia then do a deal with Denmark behind Prussia's back. While Bismarck was lying and cheating and double-dealing behind Vienna's back, FJ told Biegeleben to stick with Prussia. This passed up a chance that was there. Rechberg didn't realise what he was dealing with. (When Prussia was suddenly warm to a referendum in June, Rechberg expressed his 'astonishment' that a monarchy could adopt 'even temporarily ... so disastrous a modern principle' — how would she feel about a referendum in Poland?) Biegeleben admitted to a friend (12 July): 'A diplomat doesn't willingly admit that he has failed all along the line ... but ... I'm privately admitting the complete collapse of all my ideas.'
 
-Poland?) Biegeleben admitted to a friend (12 July): 'A diplomat doesn't willingly admit that he has
-failed all along the line ... but ... I'm privately admitting the complete collapse of all my ideas.'
-**27 June** Palmerston (Commons) and Russell (Lords) presented their case to Parliament. Bombast
-from Palmerston — 'if the existence of Denmark as an independent kingdom or the safety of
-Copenhagen was threatened, a new decision would have to be made.' But also he admitted: 'We
-had also to consider what really was the matter in dispute for which hostilities were to be begun,
-and it did not appear to us to be one of very great importance.' Russell: 'we should remain neutral
-in this war'. Debate in Parliament over four days. French Foreign Minister Drouyn: 'the British do
-nothing by halves, they are now retreating vigorously'.
-**27 June** Bismarck writes to his sister that 'politically things are going so well that it makes me
-nervous'.
-On night of 28/29 Prussian forces crossed the narrow channel from the mainland to the
-island of Alsen, this victory 'shattered Danish confidence' (Pflanze); public in Copenhagen
-'utterly dismayed' as the stubborn diplomatic resistance in London had been based on belief in the
-efficacy of Danish naval superiority. GC: The success of the Alsen operation was attributed widely
-inside the army to Moltke and this 'enormously strengthened' his position with army and king.
-End of June Hesse-Kassel folded on the Zollverein renewal issue rumbling since Christmas. It had an
-important role between the Prussian frontiers and between Hanover and the south. Bismarck had
-been pushing the states to accept Prussian terms, including the French free trade treaty, since he
-took office. Cf. October 1864.
-**July** Rechberg agreed to exclude the Diet from the peace negotiations and to provide in the treaty
-for the cession of sovereignty over the duchies to the dual powers alone. Prussian forces expelled
-Hanoverian troops from the fortress of Rendsburg.
-**1 July** Cowley-Clarendon: 'The disappointment at our pacific resolution is very great here, and
-proves how glad they would have been, had they been able to involve us in difficulties.'
-**1 July** An operation around Lundby showed the effectiveness of the needle gun when deployed
-properly: ~200 Danes charged 124 Prussians, the Prussians fired in volleys — after 20 minutes the
-charge collapsed, 88 Danes were dead or wounded, 3 Prussians suffered light wounds.
-**4 July** Disraeli moved a vote of censure in the Commons: 'The position of England in the
-councils of Europe is essentially that of a moderating and mediatorial power. Her interest
-and her policy are, when changes are inevitable and necessary, to assist so that these
-changes, if possible, may be accomplished without war; or, if war occurs, that its duration
-and its asperity may be lessened... Within twelve months we have been repulsed at Saint
-Petersburg. Twice have we supplicated in vain at Paris. We have menaced Austria and Austria has
-allowed our menaces to pass her like idle wind. We have threatened Prussia, and Prussia has defied
-us. Our objurgations have rattled over the head of the German Diet, and the German Diet has
-treated them with contempt... Sir, it is not for any man in this House, on whatever side he sits, to
-indicate the policy of this country in our foreign relations — it is the duty of no one but the
-responsible Ministers of the Crown. The most we can do is to tell the noble Lord what is not our
-policy. We will not threaten and then refuse to act. We will not lure on our allies with
-expectations we do not fulfil. And, Sir, if it ever be the lot of myself or any public men with whom
-I have the honour to act to carry on important negotiations on behalf of this country, as the noble
-Lord and his Colleagues have done, I trust that we at least shall not carry them on in such a
-manner that it will be our duty to come to Parliament to announce to the country that we
-have no allies, and then declare that England can never act alone. Sir, those are words which
-ought never to have escaped the lips of a British Minister. They are sentiments which ought never
-to have occurred even to his heart. I repudiate — I reject them. I remember there was a time
-when England with not a tithe of her present resources, inspired by a patriotic cause,
-triumphantly encountered a world in arms. And, Sir, I believe now, if the occasion were fitting, if
-her independence or her honour were assailed, or her Empire endangered, I believe that England
-would rise in the magnificence of her might and struggle triumphantly for those objects for which
+**27 June** Palmerston (Commons) and Russell (Lords) presented their case to Parliament. Bombast from Palmerston — 'if the existence of Denmark as an independent kingdom or the safety of Copenhagen was threatened, a new decision would have to be made.' But also he admitted: 'We had also to consider what really was the matter in dispute for which hostilities were to be begun, and it did not appear to us to be one of very great importance.' Russell: 'we should remain neutral in this war'. Debate in Parliament over four days. French Foreign Minister Drouyn: 'the British do nothing by halves, they are now retreating vigorously'.
 
----
+**27 June** Bismarck writes to his sister that 'politically things are going so well that it makes me nervous'.
 
-Men live and nations flourish. But I, for one, will never consent to go to war to extricate Ministers from the consequences of their own mistakes. It is in this spirit that I have drawn up this Address to the Crown. I have drawn it up in the spirit in which the Royal Speech was delivered at the commencement of the Session. I am ready to vindicate the honour of the country whenever it is necessary, but I have drawn up this Address in the interest of Peace. Sir, I beg leave to move the Resolution of which I have given notice.
+**On night of 28/29 Prussian forces crossed the narrow channel from the mainland to the island of Alsen, this victory 'shattered Danish confidence'** (Pflanze); public in Copenhagen 'utterly dismayed' as the stubborn diplomatic resistance in London had been based on belief in the efficacy of Danish naval superiority. GC: The success of the Alsen operation was attributed widely inside the army to Moltke and this 'enormously strengthened' his position with army and king.
 
-Robert Cecil attacked the 'oscillating, vague and fluctuating' policy — 'If we did not intend to carry out by arms our threats and measures, we must abstain from the luxury of indulging in them. That is the only policy for the future which I believe is involved in the censure of the government for the past.' Cecil observed that foreign policy would have been better had Cobden been Foreign Secretary.
+**End of June** Hesse-Kassel folded on the Zollverein renewal issue rumbling since Christmas. It had an important role between the Prussian frontiers and between Hanover and the south. Bismarck had been pushing the states to accept Prussian terms, including the French free trade treaty, since he took office. Cf. October 1864.
+
+**July** Rechberg agreed to exclude the Diet from the peace negotiations and to provide in the treaty for the cession of sovereignty over the duchies to the dual powers alone. Prussian forces expelled Hanoverian troops from the fortress of Rendsburg.
+
+**1 July** Cowley-Clarendon: 'The disappointment at our pacific resolution is very great here, and proves how glad they would have been, had they been able to involve us in difficulties.'
+
+**1 July** An operation around Lundby showed the effectiveness of the needle gun when deployed properly: ~200 Danes charged 124 Prussians, the Prussians fired in volleys — after 20 minutes the charge collapsed, 88 Danes were dead or wounded, 3 Prussians suffered light wounds.
+
+**4 July** Disraeli moved a vote of censure in the Commons: **'The position of England in the councils of Europe is essentially that of a moderating and mediatorial power. Her interest and her policy are, when changes are inevitable and necessary, to assist so that these changes, if possible, may be accomplished without war; or, if war occurs, that its duration and its asperity may be lessened...** Within twelve months we have been repulsed at Saint Petersburg. Twice have we supplicated in vain at Paris. We have menaced Austria and Austria has allowed our menaces to pass her like idle wind. We have threatened Prussia, and Prussia has defied us. Our objurgations have rattled over the head of the German Diet, and the German Diet has treated them with contempt... Sir, it is not for any man in this House, on whatever side he sits, to indicate the policy of this country in our foreign relations — it is the duty of no one but the responsible Ministers of the Crown. The most we can do is to tell the noble Lord what is not our policy. **We will not threaten and then refuse to act. We will not lure on our allies with expectations we do not fulfil.** And, Sir, if it ever be the lot of myself or any public men with whom I have the honour to act to carry on important negotiations on behalf of this country, as the noble Lord and his Colleagues have done, **I trust that we at least shall not carry them on in such a manner that it will be our duty to come to Parliament to announce to the country that we have no allies, and then declare that England can never act alone.** Sir, those are words which ought never to have escaped the lips of a British Minister. They are sentiments which ought never to have occurred even to his heart. I repudiate — I reject them. **I remember there was a time when England with not a tithe of her present resources, inspired by a patriotic cause, triumphantly encountered a world in arms.** And, Sir, I believe now, if the occasion were fitting, if her independence or her honour were assailed, or her Empire endangered, I believe that England would rise in the magnificence of her might and struggle triumphantly for those objects for which Men live and nations flourish. But I, for one, will never consent to go to war to extricate Ministers from the consequences of their own mistakes. It is in this spirit that I have drawn up this Address to the Crown. I have drawn it up in the spirit in which the Royal Speech was delivered at the commencement of the Session. I am ready to vindicate the honour of the country whenever it is necessary, but I have drawn up this Address in the interest of Peace. Sir, I beg leave to move the Resolution of which I have given notice.'
+
+Robert Cecil attacked the 'oscillating, vague and fluctuating' policy — '**If we did not intend to carry out by arms our threats and measures, we must abstain from the luxury of indulging in them.** That is the only policy for the future which I believe is involved in the censure of the government for the past.' Cecil observed that foreign policy would have been better had Cobden been Foreign Secretary.
 
 Cobden: '... why do we trouble ourselves with these continental politics? We have no territorial interests on the continent. We gain nothing there by our diplomatic meddling.'
 
