@@ -4703,7 +4703,7 @@ Clark (p201ff): Bismarck had treated Schleswig as a Prussian province from the s
 
 **29 December** Bismarck talked to Chotek. Clark: Now he was wanting to soothe Vienna somewhat and keep control of the timing. He 'conjured up anew all the glowing visions with which he had tried to enchant the Emperor and Rechberg four months before (p181) — cash, retaking north Italy, partition of the duchies etc. Chotek turned a deaf ear for the moment. Cf. 18/1.
 
-# After the Danish War, Austria faced multiple problems:
+After the Danish War, Austria faced multiple problems:
 
 1. Bismarck wanted the duchies and Prussian dominance in north Germany.
 2. Napoleon wanted Venetia.
@@ -4712,71 +4712,35 @@ Clark (p201ff): Bismarck had treated Schleswig as a Prussian province from the s
 5. If Austria supported Russia with the Oldenburg candidate in the duchies and over the Principalities (Rumania etc), she would offend liberal Germany and Napoleon.
 6. Austria could only get support from France and Britain by abandoning Venetia, but any attempt to gain compensation in the Principalities would provoke Russian enmity.
 
-## Like many Powers at many times, Austria could not prioritize as Bismarck increased the pressure in 1865-6.
+ Like many Powers at many times, _Austria could not prioritize_ as Bismarck increased the pressure in 1865-6.
 
-# 1865
+### 1865
 
-A Dynamical Theory of the Electromagnetic Field, Maxwell. Feynman: 'From the long view of this history
-of mankind - seen from, say, 10,000 years from now - there can be little doubt that the most
-significant event of the 19th century will be judged as Maxwell's discovery of the laws of
-electromagnetism.'
+_A Dynamical Theory of the Electromagnetic Field, Maxwell_. Feynman: 'From the long view of this history of mankind - seen from, say, 10,000 years from now - there can be little doubt that the most significant event of the 19th century will be judged as Maxwell's discovery of the laws of electromagnetism.'
 
-Comte's work became widely known in English with the publication of A General View of Positivism.
+Comte's work became widely known in English with the publication of _A General View of Positivism_.
 
-1865 Napoleon: 'war between Austria and Prussia constitutes one of those unhoped-for
-eventualities which can bring us more than one advantage'! Through 1865 Napoleon is dealing with
-the increasingly bad Mexico situation. Russia is worrying about the emancipation of serfs. British
-opinion is hostile to involvement in European wars. US Civil War ends May 1865 and this puts
-more pressure on France over Mexico.
+1865 Napoleon: 'war between Austria and Prussia constitutes one of those unhoped-for eventualities which can bring us more than one advantage'! Through 1865 Napoleon is dealing with the increasingly bad Mexico situation. Russia is worrying about the emancipation of serfs. British opinion is hostile to involvement in European wars. US Civil War ends May 1865 and this puts more pressure on France over Mexico.
 
-Some time in 1865 Bismarck says, 'Bavaria is perhaps the only German country that has succeeded
-in developing a real, harmonious national sentiment.'
+Some time in 1865 Bismarck says, 'Bavaria is perhaps the only German country that has succeeded in developing a real, harmonious national sentiment.'
 
-KL: Some time in 1865 he was photographed with a famous opera singer and sent copies to
-Johanna, then the photographer began to sell unauthorised copies before being compelled to
-destroy the plates (OP II p62).
+KL: Some time in 1865 he was photographed with a famous opera singer and sent copies to Johanna, then the photographer began to sell unauthorised copies before being compelled to destroy the plates (OP II p62).
 
-**2 January** Palmerston complained of a document from Bismarck re alliances: 'an impudent vainglorious
-& boastful pamphlet intended to inlist Prussian sympathies in support of a ministry likely to be
-defeated in Parliament; to coax France by visions of Prussian assistance to promote the ambitious
-projects of France; to intimidate Austria by representing her as unable to stand alone, and to keep
-Russia quiet & friendly, and finally to destroy the influence of England on the continent by
-representing her as incapable of any exertion. The pamphlet is however ably written for its
-purpose.' (What was this 'pamphlet'?)
+**2 January** Palmerston complained of a document from Bismarck re alliances: 'an impudent vainglorious & boastful pamphlet intended to inlist Prussian sympathies in support of a ministry likely to be defeated in Parliament; to coax France by visions of Prussian assistance to promote the ambitious projects of France; to intimidate Austria by representing her as unable to stand alone, and to keep Russia quiet & friendly, and finally to destroy the influence of England on the continent by representing her as incapable of any exertion. The pamphlet is however ably written for its purpose.' (What was this 'pamphlet'?)
 
-**11 January** Council of Austrian ministers, Mensdorff complained of the 'miserable inheritance from the
-Rechberg period'.
+**11 January** Council of Austrian ministers, Mensdorff complained of the 'miserable inheritance from the Rechberg period'.
 
-**14 January** Opening of Landtag, speech from the throne expressed an 'urgent wish' to come to an
-agreement. Stern: 'conciliatory in tone but not in substance.'
+**14 January** Opening of Landtag, speech from the throne expressed an 'urgent wish' to come to an agreement. Stern: 'conciliatory in tone but not in substance.'
 
-'About the middle of January' (Clark) there appeared in several leading newspapers excerpts from
-Austrian official documents. Clark thinks they were 'probably' leaked by Schmerling, in alliance with
-Metternich but without telling Mensdorff, to improve Austria's standing in Germany. It backfired
-because, says Clark, the news that Prussia wanted to annex the duchies was less surprising than the
-news that Austria was prepared to discuss it! Pfordten and Beust knew now, if not before, that
-Vienna would ditch Augustenburg if Prussia offered enough.
+**'About the middle of January'** (Clark) there appeared in several leading newspapers excerpts from Austrian official documents. Clark thinks they were 'probably' leaked by Schmerling, in alliance with Metternich but without telling Mensdorff, to improve Austria's standing in Germany. It backfired because, says Clark, the news that Prussia wanted to annex the duchies was less surprising than the news that Austria was prepared to discuss it! Pfordten and Beust knew now, if not before, that Vienna would ditch Augustenburg if Prussia offered enough.
 
-**18 January** (late evening) Bismarck and Chotek talked. Bismarck raised ideas about partition again. He
-rejected Mensdorff's counter-arguments and stressed his desire to maintain the alliance. Chotek
-reported this on 20/1. Also in January, some senior soldiers went to Vienna including Moltke. FJ and
-Mensdorff stressed their desire to resolve the issue. Moltke returned and argued for cession of the
-Hohenzollern Principalities for Austria's share of the duchies.
+**18 January** (late evening) Bismarck and Chotek talked. Bismarck raised ideas about partition again. He rejected Mensdorff's counter-arguments and stressed his desire to maintain the alliance. Chotek reported this on 20/1. Also in January, some senior soldiers went to Vienna including Moltke. FJ and Mensdorff stressed their desire to resolve the issue. Moltke returned and argued for cession of the Hohenzollern Principalities for Austria's share of the duchies.
 
 **18 January** Crown Prince hosted a reception for Benedetti.
 
-**20 January** Chotek-Mensdorff: Bismarck will soon send his conditions, within 7-10 days, and is about to
-'climb down' and accept Augustenburg(!). Mensdorff made a 'very rare' marginal note on this
-telegram (Clark). Karolyi was recalled from his honeymoon to be ready to deal with Bismarck's
-note. (He had left Berlin in December to get married in Paris.)
+**20 January** Chotek-Mensdorff: Bismarck will soon send his conditions, within 7-10 days, and is about to 'climb down' and accept Augustenburg(!). Mensdorff made a 'very rare' marginal note on this telegram (Clark). Karolyi was recalled from his honeymoon to be ready to deal with Bismarck's note. (He had left Berlin in December to get married in Paris.)
 
-**24 January** Eulenburg speech to Landtag made clear government desire for compromise. Bismarck and
-Roon wanted to settle the conflict before war with Austria and were still willing to look at
-compromises on 3-year service. They now had the Cabinet with them. However, Wilhelm was
-
----
-
-cross about Eulenburg's speech and told the Cabinet he remained opposed to any concessions. He was encouraged by Manteuffel and his circle who were still angling for a coup, an 'inner Düppel' or 'Düppel at home'. Gall: this episode made Bismarck more determined to move Manteuffel out the way.
+**24 January** Eulenburg speech to Landtag made clear government desire for compromise. Bismarck and Roon wanted to settle the conflict before war with Austria and were still willing to look at compromises on 3-year service. They now had the Cabinet with them. However, **Wilhelm was cross about Eulenburg's speech and told the Cabinet he remained opposed to any concessions**. He was encouraged by Manteuffel and his circle who were still angling for a coup, an 'inner Düppel' or 'Düppel at home'. Gall: this episode made Bismarck more determined to move Manteuffel out the way.
 
 **26 January** Pfordten sent a draft of a resolution to Vienna. Discussions over drafts occupied several weeks. Blome wrote on 19/2 of their gentle handling of him, with frequent and 'flattering expressions' and 'theoretical legal deductions. The former show him that he is respected in Vienna, the latter provides endless delight for his professorial nature.'
 
@@ -4790,19 +4754,45 @@ cross about Eulenburg's speech and told the Cabinet he remained opposed to any c
 
 **8 February** Karolyi, returned to Berlin, talked to Bismarck on the basis of Biegeleben's instructions of 4th. 'When the Prussian people comprehend that Prussia's just demands are disregarded,' he roared, 'they will claim them with weapons in their hands. The matter had better not be forced to a head, nor the Prussian national feeling aroused with Bavarian resolutions.' (Reported to Vienna 11th) Friedjung reported (p70) what presumably was an earlier comment in the discussion. Karolyi urged a final settlement. 'Why? Why cannot our joint possession be a final settlement? However do not disturb yourself, we shall keep faith and submit our conditions... You see, we stand before the question of the Duchies like two men at a well-spread table - one of them has no appetite and therefore energetically forbids the other, whose mouth is watering, to sit down and eat. Well, we can wait, we are quite comfortable as we are and we shall not move until we are offered satisfactory terms.'
 
-14/15 February Benedetti reported discussions with Bismarck over SH. Austria will resist Prussian expansion but does not have the leadership for another Olmütz. Bismarck has persuaded Wilhelm and will pursue annexation but would accept less than this if he can get conditions such as Kiel.
+**14/15 February** Benedetti reported discussions with Bismarck over SH. Austria will resist Prussian expansion but does not have the leadership for another Olmütz. Bismarck has persuaded Wilhelm and will pursue annexation but would accept less than this if he can get conditions such as Kiel.
 
-**20 February** Bismarck: 'It will be seen when there is a storm that we can swim better in heavy seas than others can.'
+**20 February** **Bismarck: 'It will be seen when there is a storm that we can swim better in heavy seas than others can.'**
 
 **20 February** Friedjung (p70): Bismarck replied to Goltz re Napoleon's hints of a deal, 'It seems to me better for the time being to stick to the marriage with Austria in spite of a few family quarrels and not to do anything until a divorce becomes necessary, to sever the tie now would invite all the disadvantages of infidelity.'
 
-**22 February** Bismarck finally replies to Vienna's requests to state his intentions with the 'February conditions': a permanent military alliance; effective absorption of the S-H army and navy by Prussia and an oath to the Prussian King; cession of land to Prussia for coastal forts and bases; complete control of the proposed Baltic-North Sea canal; amalgamation of postal and telegraph system with Prussia; the duchies to join the Zollverein. A shocked Mensdorff called them 'without precedent in all history'. FJ called them 'quite unacceptable' and rejected them.
+**22 February** Bismarck finally replies to Vienna's requests to state his intentions with the 'February conditions': a permanent military alliance; effective absorption of the S-H army and navy by Prussia and an oath to the Prussian King; cession of land to Prussia for coastal forts and bases; complete control of the proposed Baltic-North Sea canal; amalgamation of postal and telegraph system with Prussia; the duchies to join the Zollverein. 
 
-## In his Memoirs, Bismarck says that Augustenburg 'by declining the so-called February conditions had also neglected the favourable moment.' Pflanze: the liberals soon adopted the conditions as the minimum acceptable deal. Around then Bismarck leaked his version of his discussion the previous summer with Augustenburg (who issued no public denial) which further alienated the liberals.
+A shocked Mensdorff called them 'without precedent in all history'. FJ called them 'quite unacceptable' and rejected them.
 
-## End February (Stern) Bleichröder, approved by Bismarck, was looking for some sort of 'compensation formula' by which Prussia could buy the duchies. Bismarck declined to make an offer and simply encouraged Vienna to make an offer. Clark also discusses how a financial deal was quietly discussed in Vienna — Werther discussed with Austrian ministers how gold could help plug their deficit. Esterhazy was also in favour of a buy-out, still favouring a deal with conservative Prussia that would allow them to fight together in a future war for counter-revolution against the democratic movement in France, Italy and south Germany. Some time in March (undated), Wilhelm wrote that a land trade 'is against my honour, so that it is honour against honour [i.e FJ saying 'honour' prevented a financial deal], and gold is certainly more malleable than the welfare of human beings.' By March Wilhelm had switched to annexation (OP, p.261). Eyck: it was important that Bismarck fixed the most senior court (the Syndics of the Crown, chaired by the reactionary Lippe) to consider the legality of the SH situation and they ruled that the Danish King had been the only lawful Duke and he had ceded all his rights to the kings of Prussia and Austria in the peace deal so...! (Date of this judgment?) Some time in March (Clark), Chotek, who understood Bismarck and his relationship with Wilhelm better than Karolyi, suggested to Vienna the idea of an administrative partition of the duchies, months before Blome presented the idea to Bismarck at Gastein (Chotek-Mensdorff, 18/8/65). 2 March (WAF) While dining with Bismarck, Benedetti learned that Austria would not accept Prussian demands. 4 March (WAF) Goltz-Bismarck: Drouyn will accept the borderline Flensburg-Tondern as Prussia's minimum demand if the northern parts of Schleswig are returned to Denmark. 4 March Roon, prompted by Bismarck, asked Moltke for briefing on: the state of the Austrian army and speed of its mobilisation. At this time Moltke still assumed France the most likely enemy and Austria a possible ally (Barry p136). (Friedjung puts this on 27/2.) 5 March (Clark) Vienna formally rejected Prussia's demands, though accepted four: Rendsburg to be a federal fortress; Kiel a federal naval station; Prussia to construct a canal; duchies to join the Zollverein. Bismarck was unperturbed: 'Austria will not accept.Very well. Wir können warten' [we can wait] he said, paraphrasing Schmerling. Vienna now shifted: 1) it would support an Augustenburg resolution in the Diet; 2) it would more aggressively resist the Prussianisation of the duchies (see above, November, re propaganda). In a note Mensdorff-Karolyi, Karolyi was told to tell Bismarck: your approach endangers our alliance and peace in Europe; have you thought ahead to how Napoleon will use a crisis in Poland against Prussia; returning to a path of alliance with Austria will bring advantages for Prussia 'though less than they wish' while the annexation policy will lead to disaster. 6 March (WAF) Benedetti told Bismarck that annexation would meet with no objections provided the retrocession of north Schleswig took place. Bismarck said that public opinion would not allow him to give up territory but sidestepped a clear answer (must speak to Austria, the King etc). Another discussion on 8th. 17 March Karolyi reported to Vienna: Bismarck is suggesting we consider territorial compensation in Silesia. 'Organise a movement for annexation. Stir up demonstrations in favour of joining Austria.' Clark says he added 'I will gladly keep my eye on them', Stern says he said 'I will happily close one eye'. Bismarck persuaded Karolyi that he was in favour of the scheme and was trying to win over a reluctant Wilhelm. Clark says that it was 'highly improbable' that Bismarck was actually trying to persuade Wilhelm to make territorial concessions. I think it's essentially inconceivable. There is no other evidence to suggest it and much counter-evidence: e.g when annexation was discussed in the Prussian Crown Council 29/5, Bismarck did not propose territorial concessions.This was surely a classic Bismarck trap: encourage Vienna to do something that he could then use to wind up Wilhelm — 'see, I told you, now they're agitating for our territory which is impossible, we must toughen up...' (Similar to his indirect encouragement of Danish intransigence — i.e his method of trying to get his enemies to
+In his Memoirs, Bismarck says that Augustenburg 'by declining the so-called February conditions had also neglected the favourable moment.' Pflanze: the liberals soon adopted the conditions as the minimum acceptable deal. Around then Bismarck leaked his version of his discussion the previous summer with Augustenburg (who issued no public denial) which further alienated the liberals.
 
-Provide energy which he could use for his own ends.) Karolyi was repeatedly too ready to believe Bismarck. Cf. below June.
+**End February** (Stern) Bleichröder, approved by Bismarck, was looking for some sort of'compensation formula' by which Prussia could buy the duchies. Bismarck declined to make an offer and simply encouraged Vienna to make an offer.
+
+Clark also discusses how a financial deal was quietly discussed in Vienna — Werther discussed with Austrian ministers how gold could help plug their deficit. Esterhazy was also in favour of a buy-out, still favouring a deal with conservative Prussia that would allow them to fight together in a future war for counter-revolution against the democratic movement in France, Italy and south Germany.
+
+**Some time in March** (undated), Wilhelm wrote that a land trade 'is against my honour, so that it is honour against honour [i.e FJ saying 'honour' prevented a financial deal], and gold is certainly more malleable than the welfare of human beings!
+
+**By March Wilhelm had switched to annexation** (OP, p.26 |). Eyck: it was important that Bismarck fixed the most senior court (the Syndics of the Crown, chaired by the reactionary Lippe) to consider the legality of the SH situation and they ruled that the Danish King had been the only lawful Duke and he had ceded all his rights to the kings of Prussia and Austria in the peace deal so...! (Date of this judgment?)
+
+**Some time in March** (Clark), Chotek, who understood Bismarck and his relationship with Wilhelm better than Karolyi, suggested to Vienna the idea of an administrative partition of the duchies, months before Blome presented the idea to Bismarck at Gastein (Chotek-Mensdorff, 18/8/65).
+
+**2 March** (WAF) While dining with Bismarck, Benedetti learned that Austria would not accept Prussian demands.
+
+**4 March** (WAF) Goltz-Bismarck: Drouyn will accept the borderline Flensburg-Tondern as Prussia's minimum demand if the northern parts of Schleswig are returned to Denmark.
+
+**4 March** Roon, prompted by Bismarck, asked Moltke for briefing on: the state of the Austrian army and speed of its mobilisation. At this time Moltke still assumed France the most likely enemy and Austria a possible ally (Barry pl36). (Friedjung puts this on 27/2.)
+
+**5 March** **(Clark) Vienna formally rejected Prussia's demands**, though accepted four: Rendsburg to be a federal fortress; Kiel a federal naval station; Prussia to construct a canal; duchies to join the Zollverein. Bismarck was unperturbed: 'Austria will not accept. Very well. Wir können warten' [we can wait] he said, paraphrasing Schmerling.
+
+Vienna now shifted: I) it would support an Augustenburg resolution in the Diet; 2) it would more aggressively resist the Prussianisation of the duchies (see above, November, re propaganda). In a note Mensdorff-Karolyi, Karolyi was told to tell Bismarck: your approach endangers our alliance and peace in Europe; have you thought ahead to how Napoleon will use a crisis in Poland against Prussia; returning to a path of alliance with Austria will bring advantages for Prussia 'though less than they wish' while the annexation policy will lead to disaster.
+
+**6 March** (WAF) Benedetti told Bismarck that annexation would meet with no objections provided the retrocession of north Schleswig took place. Bismarck said that public opinion would not allow im to give up territory but sidestepped a clear answer (must speak to Austria, the King etc). Another discussion on 8th.
+
+**17 March** Karolyi reported to Vienna: Bismarck is suggesting we consider territorial compensation in Silesia. 'Organise a movement for annexation. Stir up demonstrations in favour of joining Austria!
+
+Clark says he added 'I will gladly keep my eye on them', Stern says he said 'I will happily close one eye'. Bismarck persuaded Karolyi that he was in favour of the scheme and was trying to win over a reluctant Wilhelm.
+
+Clark says that it was 'highly improbable' that Bismarck was actually trying to persuade Wilhelm to make territorial concessions. I think it's essentially inconceivable. There is no other evidence to suggest it and much counter-evidence: eg when annexation was discussed in the Prussian Crown Council 29/5, Bismarck did not propose territorial concessions. This was surely a classic Bismarck trap: encourage Vienna to do something that he could then use to wind up Wilhelm — 'see, I told you, now they're agitating for our territory which is impossible, we must toughen up...? (Similar to his indirect encouragement of Danish intransigence — i.e _his method of trying to get his enemies to Provide energy which he could use for his own ends_.) Karolyi was repeatedly too ready to believe Bismarck. Cf. below June.
 
 **17 March** Napier (Berlin) to Russell: 'the true policy of Prussia is now to secure what she has gained, to be satisfied with moderate advantages, to avoid great adventures, and to close an account which at this moment exhibits a satisfactory balance in her favour'.
 
