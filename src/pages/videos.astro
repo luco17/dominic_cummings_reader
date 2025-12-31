@@ -1,7 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 
-const vids = [
+const vidsRaw = [
   {
     link: "https://www.youtube.com/watch?v=c4iI3GU6eZ4&t",
     title: "Spectator - Quite Right",
@@ -94,6 +94,30 @@ const vids = [
     date: "July 2025",
   },
 ];
+
+// Sort by date (newest first)
+function parseDate(dateStr: string): Date {
+  const months: { [key: string]: number } = {
+    January: 0,
+    February: 1,
+    March: 2,
+    April: 3,
+    May: 4,
+    June: 5,
+    July: 6,
+    August: 7,
+    September: 8,
+    October: 9,
+    November: 10,
+    December: 11,
+  };
+  const [month, year] = dateStr.split(" ");
+  return new Date(parseInt(year), months[month]);
+}
+
+const vids = vidsRaw.sort((a, b) => {
+  return parseDate(b.date).getTime() - parseDate(a.date).getTime();
+});
 ---
 
 <Layout title="Dominic Cummings Reader ~ Videos">
@@ -111,4 +135,3 @@ const vids = [
     }
   </div>
 </Layout>
-<style></style>
