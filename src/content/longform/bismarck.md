@@ -5173,7 +5173,11 @@ While at Biarritz, Bismarck got a letter from Bleichröder in which the latter a
 
 **October** Lothar Bucher, one of Bismarck's spin doctors, offered Marx employment as a financial columnist for an official Prussian state journal. Marx refused.
 
-**1 October** Deputies of German parliaments gathered in Frankfurt to protest the illegality of the Gastein deal and a conference of the Nationalverein was expected to do the same on 29th. At Bismarck's urging both powers protested to Frankfurt (when?) for allowing such a meeting but were rebuffed. Bismarck sought to get Austrian agreement on severe reprisals for Frankfurt but Vienna refused (when?). Mensdorff 'had finally resolved the concessions must end' (Pflanze). OP (p265-6): Bismarck's reaction was severe, Mensdorff's refusal 'seems to have convinced Bismarck that the usefulness of the Austrian alliance was about over [and] events in the duchies offered further proof'. At Gastein, he had thought Austria might sell Holstein but the French loan (November) eased the pressure. But Pflanze (p265-6) telescopes October-December into a few paras, suggests the 'war to the knife' comment etc happened around early-mid October, rather than the end of November, then suddenly skips to Altona in January.
+**1 October** Deputies of German parliaments gathered in Frankfurt to protest the illegality of the Gastein deal and a conference of the Nationalverein was expected to do the same on 29th.
+
+At Bismarck's urging both powers protested to Frankfurt (when?) for allowing such a meeting but were rebuffed. Bismarck sought to get Austrian agreement on severe reprisals for Frankfurt but Vienna refused (when?). Mensdorff 'had finally resolved the concessions must end' (Pflanze).
+
+OP (p265-6): Bismarck's reaction was severe, Mensdorff's refusal 'seems to have convinced Bismarck that the usefulness of the Austrian alliance was about over [and] events in the duchies offered further proof'. At Gastein, he had thought Austria might sell Holstein but the French loan (November) eased the pressure. But Pflanze (p265-6) telescopes October-December into a few paras, suggests the 'war to the knife' comment etc happened around early-mid October, rather than the end of November, then suddenly skips to Altona in January.
 
 Some leading Prussian liberals refused to go to another meeting in Frankfurt to condemn the Gastein agreement on the grounds that it was anti-Prussian. Mommsen and Twesten publicly opposed the meeting of delegates and said that Prussia had to unify Germany.
 
@@ -5181,21 +5185,43 @@ On 28/9 Mommsen wrote an open letter dissociating himself from the S-H movement:
 
 Twesten wrote 28/9: there is no reason 'to place any hope in the middle states'; the conference is directed exclusively against Prussia; 'we would prefer anything as an alternative to a defeat of the Prussian state. We do this in the interests not only of Prussia but also of Germany, since we are strengthened by recent events in the conviction that no other power can do anything for Germany but Prussia.'
 
-The liberal movement had been 'split apart by the Schleswig-Holstein question' (OP, p276).
+**The liberal movement had been 'split apart by the Schleswig-Holstein question' (OP, p276).**
 
 **7 October** Chotek to Mensdorff: 'the more intelligent majority of the Prussian people' now support Bismarck's policy. 20 November: 'in the domestic question Count Bismarck is constantly gaining ground'.
 
-**18 October** Palmerston died, Russell became PM. Clarendon Foreign Secretary, Gladstone Chancellor and Leader of the Commons.
+**18 October** **Palmerston died, Russell became PM**. Clarendon Foreign Secretary, Gladstone Chancellor and Leader of the Commons.
 
 Clarendon was charming and suave, Russell blunt. Clarendon was 'an aristocrat whose familiarity with the Continent made him at least as cosmopolitan as he was patriotic' (Millman). Clarendon's 'high place in society have made some people forget that his views were seldom original and not seldom diffusely or imprudently expressed' (H Temperley, 1932). Victoria's dislike of Clarendon 'so pronounced in 1868, was evident in 1865' (Millman). In October she wrote to the King of Belgium that 'I don't quite trust him.' In March 1866 she wrote to the Crown Princess of Prussia that he was 'most disagreeable & unmanageable'. The Queen and Russell were 'more disposed to action than Clarendon' but all three were agreed that 'the disgrace of 1864, the opprobrium of promising more than was delivered, should not be repeated' (Millman, p6-7).
 
 When the crisis with Austria flared up in 1866, Russell (PM) and Clarendon (Foreign Secretary) both wanted to see Prussia beaten and thought she would be. They made clear Britain would stay out even if France wanted to intervene. Clarendon: we will not 'use the language of menace wh. might entail the necessity of action'.
 
-## The FO 'favoured strict non-interference' (Otte). The FO was more worried about French adventurism and Napoleon's untrustworthiness. Hammond called him 'the devil's own child' (5 July 1866) and Cowley said that Napoleon thought 'no promise, however securely made, is binding under altered circumstances' (20 September 1866). However, the FO also assumed that France would continue to be generally supportive of Britain's desire to keep Turkey going given Russia would reap all the rewards of a Turkish collapse. The FO was contemptuous of Austria: 'they are in the haziest of hazes, & it is not in the Austrian character to see the way through the fog' (Hammond, 25 October 1865). Morier and others underestimated Bismarck and overestimated the strength of Prussian liberalism. (Hammond thought in 1864 that the Prussian army was clearly inferior to the French.) Napier wrote to Russell (14 October 1865) that Bismarck's 'strange and transitory notions and speeches' may be 'heard with amazement'.
+The FO 'favoured strict non-interference' (Otte). The FO was more worried about French adventurism and Napoleon's untrustworthiness. Hammond called him 'the devil's own child' (5 July 1866) and Cowley said that Napoleon thought 'no promise, however securely made, is binding under altered circumstances' (20 September 1866). However, the FO also assumed that France would continue to be generally supportive of Britain's desire to keep Turkey going given Russia would reap all the rewards of a Turkish collapse. The FO was contemptuous of Austria: 'they are in the haziest of hazes, & it is not in the Austrian character to see the way through the fog' (Hammond, 25 October 1865). Morier and others underestimated Bismarck and overestimated the strength of Prussian liberalism. (Hammond thought in 1864 that the Prussian army was clearly inferior to the French.) **Napier wrote to Russell (14 October 1865) that Bismarck's 'strange and transitory notions and speeches' may be 'heard with amazement'but 'will probably leave not a trace behind.'**
 
-## but 'will probably leave not a trace behind.' 26 October Cowley wrote to Russell saying Russell had left his post 'with not a question of importance to solve'. (Cf. Otte p.31ff) Mosse: with Clarendon in post, England and Russia were likely to be passive spectators and 'the ring was cleared for Bismarck, Esterhazy and Napoleon'. (Mosse stresses Esterhazy's role more than others.) 21 October Manteuffel had been talking to Austrians including Gablenz about possible deals. On 21/10 he suggested giving Austria some land in return for the duchies and maintaining the conservative alliance. 31 October Gablenz-Mensdorff: 'Hardly a day goes by that [Manteuffel] doesn't turn to me with some petty trouble, and though I've so far parried them with the best form, yet I foresee clearly that my position here is not tenable for long.' Early November (Clark) Mensdorff sent Count Wimpffen to London to talk to Russell privately and bring a closer entente. Wimpffen reported that 'the bonds which unite England and France are stronger than ever', the path to London lies through Paris. (This is odd as the FO was not pro-French and Clarendon was friendly to Austria. Clark seems to get the dates of Russell/Clarendon taking over wrong.) November Count Malaguzzi, a private citizen, mooted in Vienna the idea of a deal: Austria sells Venetia, a royal marriage, official recognition of Italy. The military hated it. Mensdorff and others thought that Italy would not be properly unifiable — they looked forward to Napoleon's death and taking revenge (cf. 3/8 Bloomfield report). Belcredi and others hated the idea of doing a deal with 'revolution'. FJ thought selling against his 'honour', wife agreed. Discussions went nowhere again. Other ideas re an exchange of Venetia for Danubian Principalities also went nowhere. Bismarck leaked what he heard of such discussions to Russia to discredit Austria. 2 November (WAF) Bismarck returned from his holiday through Paris on 2nd. Spoke to Benedetti who had not been invited to Biarritz, unlike Goltz. Benedetti visited him at Hotel du Douvres but it seems little was said. Bismarck spoke to Napoleon and Drouyn. Little trace of these discussions too but they added little to Biarritz according to Bismarck. Benedetti left on the morning of Monday 6 November to be in Berlin before Bismarck but an accident disturbed his visit and he ended up with Bismarck and his family on the train which arrived in Berlin on 7th. Pottinger: Bismarck and Napoleon talked on 3rd, Napoleon said an alliance with Austria was 'an impossibility'. Sudden agricultural problems influenced French opinion towards army cuts in autumn 1865, though the cuts were very minor. (This is unmentioned in other books I've read but if Napoleon was thinking 'the public wants a quiet life' autumn 1865-spring 1866, then it's important.) 10 November Hohenthal-Beust: 'At the French embassy [in Berlin, Bismarck's] sojourn in Paris is summarised with the words: “They have been very polite to Count Bismarck. They played games with him, but he has brought nothing back, and the bad impression of the Gastein convention has not been swept away at all.”' 23 November For the first time since Gastein, the Kreuzzeitung attacked Austria and threatened war. Bismarck also leaked a conversation with Chotek, and admitted it to Chotek, justifying his behaviour as a response to the virulence of the Austrian press. He told Chotek: 'There cannot exist between Austria and Prussia a half-relationship. Either sincere alliance or war to the knife' (report 20/11). On 27/11 Thile recorded Bismarck's instructions: keep up a steady stream of complaints in Vienna, 'exercise a slow gradual pressure against Austria without provocative or final steps' (Clark p324). 27 November A loan to Austria was raised in Paris by French banks after help from Napoleon. It carried a 9% interest rate, 'a sign of the fragility of Austrian credit' (Steinberg). (Showalter: it was 90M florins (roughly a year's military budget) at 18% (my hunch is Showalter is wrong about 18%). Bismarck offered to buy the duchies in November for 60M florins.) Carr: 1848-1866 Austrian national debt tripled and by now was x5 national income. Clark: FJ could not raise a loan from the Viennese Baron Rothschild except on conditions FJ would not accept. The French deal was a 'staggeringly high' price and within months the finance minister
+**26 October** Cowley wrote to Russell saying Russell had left his post 'with not a question of importance to solve'. (Cf. Otte p.31ff)
 
-was panicking again. But the political effect of help from France and pro-Austrian press in Paris was considerable.
+Mosse: with Clarendon in post, England and Russia were likely to be passive spectators and 'the ring was cleared for Bismarck, Esterhazy and Napoleon'. (Mosse stresses Esterhazy's role more than others.) 
+
+**21 October** Manteuffel had been talking to Austrians including Gablenz about possible deals. On 21/10 he suggested giving Austria some land in return for the duchies and maintaining the conservative alliance. 
+
+**31 October** Gablenz-Mensdorff: 'Hardly a day goes by that [Manteuffel] doesn't turn to me with some petty trouble, and though I've so far parried them with the best form, yet I foresee clearly that my position here is not tenable for long.'
+
+**Early November** (Clark) Mensdorff sent Count Wimpffen to London to talk to Russell privately and bring a closer entente. Wimpffen reported that 'the bonds which unite England and France are stronger than ever', the path to London lies through Paris. (This is odd as the FO was not pro-French and Clarendon was friendly to Austria. Clark seems to get the dates of Russell/Clarendon taking over wrong.) 
+
+**November** Count Malaguzzi, a private citizen, mooted in Vienna the idea of a deal: Austria sells Venetia, a royal marriage, official recognition of Italy. The military hated it. Mensdorff and others thought that Italy would not be properly unifiable — they looked forward to Napoleon's death and taking revenge (cf. 3/8 Bloomfield report). Belcredi and others hated the idea of doing a deal with 'revolution'. FJ thought selling against his 'honour', wife agreed. Discussions went nowhere again. Other ideas re an exchange of Venetia for Danubian Principalities also went nowhere. Bismarck leaked what he heard of such discussions to Russia to discredit Austria.
+
+**2 November** (WAF) Bismarck returned from his holiday through Paris on 2nd. Spoke to Benedetti who had not been invited to Biarritz, unlike Goltz. Benedetti visited him at Hotel du Douvres but it seems little was said. Bismarck spoke to Napoleon and Drouyn. Little trace of these discussions too but they added little to Biarritz according to Bismarck. Benedetti left on the morning of Monday 6 November to be in Berlin before Bismarck but an accident disturbed his visit and he ended up with Bismarck and his family on the train which arrived in Berlin on 7th.
+
+Pottinger: Bismarck and Napoleon talked on 3rd, Napoleon said an alliance with Austria was 'an impossibility'. Sudden agricultural problems influenced French opinion towards army cuts in autumn 1865, though the cuts were very minor. (This is unmentioned in other books I've read but _if Napoleon was thinking 'the public wants a quiet life' autumn 1865-spring 1866, then it's important_.) 
+
+**10 November** Hohenthal-Beust: 'At the French embassy [in Berlin, Bismarck's] sojourn in Paris is summarised with the words: “They have been very polite to Count Bismarck. They played games with him, but he has brought nothing back, and the bad impression of the Gastein convention has not been swept away at all.”' 
+
+**23 November** For the first time since Gastein, the Kreuzzeitung attacked Austria and threatened war. Bismarck also leaked a conversation with Chotek, and admitted it to Chotek, justifying his behaviour as a response to the virulence of the Austrian press. He told Chotek: **'There cannot exist between Austria and Prussia a half-relationship. Either sincere alliance or war to the knife'** (report 20/11). On 27/11 Thile recorded Bismarck's instructions: keep up a steady stream of complaints in Vienna, 'exercise a slow gradual pressure against Austria without provocative or final steps' (Clark p324).
+
+**27 November** **A loan to Austria was raised in Paris by French banks after help from Napoleon**. It carried a 9% interest rate, 'a sign of the fragility of Austrian credit' (Steinberg). (Showalter: it was 90M florins (roughly a year's military budget) at 18% (my hunch is Showalter is wrong about 18%). Bismarck offered to buy the duchies in November for 60M florins.) 
+
+**Carr: 1848-1866 Austrian national debt tripled and by now was x5 national income.**
+
+Clark: FJ could not raise a loan from the Viennese Baron Rothschild except on conditions FJ would not accept. The French deal was a 'staggeringly high' price and within months the finance minister was panicking again. But the political effect of help from France and pro-Austrian press in Paris was considerable.
 
 Pottinger: first the Vienna branch of the Rothschilds demanded terms that were too tough, then an attempt to sell bonds to the public failed, then the English Rothschilds refused despite urging from Russell, then the Paris Rothschilds demanded too much. After last minute difficulties they raised the cash from the Habers: 90M gulden for 37 years, but Austria only received only 61.25 gulden per 100. Drouyn was asked to approve it around mid-November so it could be listed on the Paris bourse. The Finance Ministry was under pressure itself but after a Council of Ministers meeting on 17/11 Napoleon decided to support it. The subscription opened on 27th. Both sides made clear they were thinking of the implications for friendly relations. While its economic value was low it was seen as a success for Vienna and a problem for Bismarck.
 
@@ -5215,34 +5241,25 @@ Metternich: I urged a deal, he replied — 'That is not impossible, and if one c
 
 **14 December** Bismarck told Benedetti with a smile that he was complaining to Vienna 'twice a week' to alienate Wilhelm step-by-step from Austria.
 
-**17 December** Metternich-Mensdorff: Napoleon wants peace, he's happy to see FJ attempting to satisfy Hungary. Drouyn says: Napoleon wants to see Austria restored to former glory; if Italy attacks you will annihilate them, we will let you act freely in Italy: 'I repeated it solemnly, if things were to go worse in Italy and if you were one day attacked in Venetia — not only would we leave you freedom of action, but a complete entente can be established between us upon a final solution of the Italian question... We want no new annexations, we have become frankly conservatives — that means we resemble you very much. Those who resemble each other assemble... Events may compel us to seek a power with whom we can combine our forces to make common cause against the danger.' Metternich was hopeful. Mensdorff, however, was cooler — do not get into details of an alliance unless/until it seems war is sure. (Clark p305-6)
+**17 December** Metternich-Mensdorff: Napoleon wants peace, he's happy to see FJ attempting to satisfy Hungary. Drouyn says: Napoleon wants to see Austria restored to former glory; if Italy attacks you will annihilate them, we will let you act freely in Italy: '**I repeated it solemnly, if things were to go worse in Italy and if you were one day attacked in Venetia — not only would we leave you freedom of action, but a complete entente can be established between us upon a final solution of the Italian question... We want no new annexations, we have become frankly conservatives — that means we resemble you very much. Those who resemble each other assemble... Events may compel us to seek a power with whom we can combine our forces to make common cause against the danger**.' Metternich was hopeful. Mensdorff, however, was cooler — do not get into details of an alliance unless/until it seems war is sure. (Clark p305-6)
 
 Pottinger: this was an important difference between Napoleon and Drouyn, with the latter much more anti-Italy, while Napoleon really wanted Italy dealt with before he could imagine closer relations with Austria viz Germany.
 
-## 21 December Bloomfield-Clarendon: Mensdorff is clear they will not sell the duchies.
+**21 December** Bloomfield-Clarendon: Mensdorff is clear they will not sell the duchies.
 
-**26 December** To a friend, Andrae Roman: 'Anyone who calls me an unscrupulous politician is doing me an
-injustice and should start by trying his own conscience in this particular arena... When I stake my
-life on a thing, I do so in the faith that I have fortified for myself, in long and bitter struggle but also
-in sincere and humble prayer to God, and that no word of man, not even that of a friend in the
-Lord and a servant of his Church, is going to overthrow for me... As a statesman I am not
-ruthless enough but rather cowardly in my feelings, and this is so because in the questions
-that confront me it is not always easy to gain the clarity that engenders faith in God.' Some
-place this in 1869 but EF & Gall 26/12/65.
-End December The Italo-Zollverein treaty was signed: members recognised the kingdom of
+**26 December** To a friend, Andrae Roman: 'Anyone who calls me an unscrupulous politician is doing me an injustice and should start by trying his own conscience in this particular arena... When I stake my life on a thing, I do so in the faith that I have fortified for myself, in long and bitter struggle but also in sincere and humble prayer to God, and that no word of man, not even that of a friend in the Lord and a servant of his Church, is going to overthrow for me... **As a statesman I am not ruthless enough but rather cowardly in my feelings, and this is so because in the questions that confront me it is not always easy to gain the clarity that engenders faith in God**.' Some place this in 1869 but EF & Gall 26/12/65.
+
+**End December** The Italo-Zollverein treaty was signed: members recognised the kingdom of
 Italy.
+
 By the end of December Manteuffel thought he'd failed in Schleswig, 'he now sees himself forced to
 a standstill in his proceedings' (Gablenz 31/12), and was contemplating martial law (cf. 24/8).
 
-## 285 of 393
+### 1866
 
-# History
+**January 1866** **Napoleon announced the withdrawal of troops from Mexico**. He told America he would withdraw between 11/66 and 11/67. Hamerow: the end of the US Civil War and renewal of the Zollverein in 1865 had stimulated the demand for credit at the time when the Paris Bourse was buzzing with news of the Mexican fiasco and several important London firms were declaring bankruptcy. The growing threat of an Austro-Prussian conflict kept money markets disrupted until the war was resolved. Mid-March to end of May the discount rate on the Berlin stock exchange rose from 6 to 9% and Prussian bonds declined ~10% March-June. The political uncertainty kept finance wobbly until the final resolution of the conflict in 1871 after which there was another boom. (Cf. Keudell p412)
 
-# 1866
-
-ZHlondil, Ziclb Mliwgura 1266. biebtt bee eicl(an Finitetraaeu fclbft. Gaeiie Plate NiagaraWalking =thetightropeof'constitutional conflict; cartoon inKladderadatsch 1866:Bismarck'$performancecompared to Blondin"$ tightrope crossing of the Source:FallsbetweentheUnitedExplore and CanadaCourtesy Professor `Wiluam January 1866 Napoleon announced the withdrawal of troops from Mexico. He told America he would withdraw between 11/66 and 11/67. Hamerow: the end of the US Civil War and renewal of the Zollverein in 1865 had stimulated the demand for credit at the time when the Paris Bourse was buzzing with news of the Mexican fiasco and several important London firms were declaring bankruptcy. The growing threat of an Austro-Prussian conflict kept money markets disrupted until the war was resolved. Mid-March to end of May the discount rate on the Berlin stock exchange rose from 6 to 9% and Prussian bonds declined ~10% March-June. The political uncertainty kept finance wobbly until the final resolution of the conflict in 1871 after which there was another boom. (Cf. Keudell p412) January Bismarck had Wilhelm present the Black Eagle to the Italian king, as part of his seduction. Clark: Vienna was 'as usual ... too late and too half-hearted' to counter his moves — making even a pretence of contemplating recognition of Italy might have kept La Marmora out of Bismarck's clutches for months.
-
-## 286 of 393
+**January** Bismarck had Wilhelm present the Black Eagle to the Italian king, as part of his seduction. Clark: Vienna was 'as usual ... too late and too half-hearted' to counter his moves — making even a pretence of contemplating recognition of Italy might have kept La Marmora out of Bismarck's clutches for months.
 
 During January (WAF) Bismarck speculated to Goltz that the Mexican affair could embroil France with America and help Prussia, and he forbade Goltz from exercising a restraining influence on the American ambassador in Paris.
 
@@ -5258,118 +5275,59 @@ During January (WAF) Bismarck speculated to Goltz that the Mexican affair could 
 
 **13 January** (EF) To Usedom (ambassador in Italy): He stressed he'd always seen Gastein as provisional, Austria has allowed Augustenburg supporters to agitate and is agitating itself across Germany. We don't have to worry about Russia or France intervening. Prussia might have to call for a German parliament.
 
-14/18 January Manteuffel suggested to Bismarck that he demand the expulsion of Augustenburg again but this proved unnecessary because of Altona (below).
+**14/18 January** Manteuffel suggested to Bismarck that he demand the expulsion of Augustenburg again but this proved unnecessary because of Altona (below).
 
 **15 January** The Prussian Landtag opened for another session. Bismarck said the government would not resubmit the military bills. The Landtag appointed a commission to investigate the legality of the railway budget operation. Unruh expressed the frustration of the liberals: 'We are able to unite only in negation or on phrases.' Hoverbeck replied, 'If that were only the case!' (OP implies this was in a meeting, not on the floor of the house.) Liberals were divided over whether to go through the long process of amending the budget or reject it outright without debate. Many of the famous names — Twesten, Lasker, Hoverbeck — were in favour of the extreme option but they were a minority. Waldeck and others did not want to intensify the conflict. When the budget bill was introduced, conservatives, left centrists and Waldeck progressives voted down the extremists and the bill was referred to committee. Cf. 21/2.
 
 **21 January** Bismarck negotiated with Hanover about a royal wedding as part of trying to win an alliance. But it went wrong — in March/April they began mobilising reserves. In his Memoirs, Bismarck said Austria persuaded Hanover to side with her. Clark: Around this time [I think this must refer to 21/1] Bismarck spoke to Count von Platen, Hanover foreign minister, about Austria's bad situation in a war with 150,000 Italians threatening in the south, Prussia seizing the railroad centre in Moravia, Prussia's superior equipment including the needle gun. Platen concluded that Bismarck wanted war and quickly. (Clark: Bismarck wanted Platen to mediate but Platen committed himself to nothing.) This was passed on to Karolyi who informed Mensdorff on 26/1.(This is one of the few references I've seen to Bismarck discussing military issues in 1866 — I assume this was a much bigger feature of his discussions than we can now see.) He also told Saxony that if Austria refused to eject Augustenburg she'd have to decide 'whether she had more to fear from the Prussian army or the outcry of the liberal press'.
 
-## 21 January Bloomfield-Clarendon: I had dinner with FJ who 'seemed under the impression that in Europe there was no present appearance of any serious complications arising; he trusted the year would pass over quietly and peacefully, and that Austria might be able to devote itself more entirely.
+**21 January** Bloomfield-Clarendon: I had dinner with FJ who 'seemed under the impression that in Europe there was no present appearance of any serious complications arising; he trusted the year would pass over quietly and peacefully, and that Austria might be able to devote itself more entirely to her internal organisation'. Same day, Mensdorff wrote to Duke Ernst of Coburg (cousin): 'In politics there is a lull - but the atmosphere is heavy ... plenty of inflammable stuff is lying about, and on the thrones, little insight and strength.'
 
-to her internal organisation'. Same day, Mensdorff wrote to Duke Ernst of Coburg (cousin): 'In
-politics there is a lull - but the atmosphere is heavy ... plenty of inflammable stuff is lying about, and
-on the thrones, little insight and strength.'
+**22 January** Napoleon gave his annual Speech from the Throne to Corps Legislatif (in the Louvre). 'Abroad, peace seems assured everywhere', he told them. Regarding Germany he said he would keep his policy of neutrality and stay out where 'our interests are not directly engaged'. In February-March there was growing heated debate in Paris about this as Thiers stirred opposition.
 
-**22 January** Napoleon gave his annual Speech from the Throne to Corps Legislatif (in the Louvre). 'Abroad,
-peace seems assured everywhere', he told them. Regarding Germany he said he would keep his
-policy of neutrality and stay out where 'our interests are not directly engaged'. In February-March there
-was growing heated debate in Paris about this as Thiers stirred opposition.
+**23 January** **The Austrian governor of Holstein, Gablenz, allowed a demonstration in Altona in favour of Augustenburg. Bismarck sent a very sharp note to Vienna (26th) demanding the suppression of all 'revolutionary' and 'democratic' agitation in Holstein. A 'negative or devious answer' would compel Prussia to consider the alliance ended and to assume 'complete freedom for our entire policy... If Austria continues to provide a haven for the activities of the republican democracy ... then the king will prefer an open breach to this kind of struggle.' Pflanze: 'It had the sound of an ultimatum' and spoke of Austrian 'aggression'.**
 
-**23 January** The Austrian governor of Holstein, Gablenz, allowed a demonstration in Altona in
-favour of Augustenburg. Bismarck sent a very sharp note to Vienna (26th) demanding the
-suppression of all 'revolutionary' and 'democratic' agitation in Holstein. A 'negative or
-devious answer' would compel Prussia to consider the alliance ended and to assume
-'complete freedom for our entire policy... If Austria continues to provide a haven for the
-activities of the republican democracy ... then the king will prefer an open breach to this
-kind of struggle.' Pflanze: 'It had the sound of an ultimatum' and spoke of Austrian
-'aggression'.
+EF: he told the ambassador in Vienna to complain about Austria allowing 'revolutionary tendencies, inimical to every throne, to spread themselves under the sign of the Austrian double eagle', to ask for assurances that all anti-Prussian agitation in Holstein is suppressed, and to threaten an open breach.
 
-EF: he told the ambassador in Vienna to complain about Austria allowing 'revolutionary tendencies,
-inimical to every throne, to spread themselves under the sign of the Austrian double eagle', to ask
-for assurances that all anti-Prussian agitation in Holstein is suppressed, and to threaten an open
-breach.
+(Gall refers to an 'ultimatum' that sounds similar but on 31 July 1865!? — is Gall confused or a misprint referring to something else?)
 
-(Gall refers to an 'ultimatum' that sounds similar but on 31 July 1865!? — is Gall confused or a
-misprint referring to something else?)
+**24 January** Lerman: Bismarck wrote to Gerlach enraged by the Crown Prince again saying the monarchy appeared finished.
 
-**24 January** Lerman: Bismarck wrote to Gerlach enraged by the Crown Prince again saying the
-monarchy appeared finished.
+**29 January** Supreme Court ruled (majority of 1) that deputies could be prosecuted for speeches on the floor of the Landtag, after packing the court with two 'relief' judges.
 
-**29 January** Supreme Court ruled (majority of 1) that deputies could be prosecuted for speeches on the
-floor of the Landtag, after packing the court with two 'relief' judges.
+**31 January** A letter to Wilhelm: interesting glimpse into the daily intricacies... Would you attend a confidential soirée with Benedetti, I think it would be useful, if Yes then 'the Ambassador would be very grateful if I could let him have a hint as to whether the fact that your Majesty will be present may be intimated by mentioning “Uniform” on the invitations'...
 
-**31 January** A letter to Wilhelm: interesting glimpse into the daily intricacies... Would you attend a
-confidential soirée with Benedetti, I think it would be useful, if Yes then 'the Ambassador would be
-very grateful if I could let him have a hint as to whether the fact that your Majesty will be present
-may be intimated by mentioning “Uniform” on the invitations'...
+**2 February** Duke of Cambridge complained to Russell about the lack of spending on the Army. Russell did not support increases in spending and neither did Parliament.
 
-**2 February** Duke of Cambridge complained to Russell about the lack of spending on the Army. Russell
-did not support increases in spending and neither did Parliament.
+**3 February** **Bismarck in Landtag rejected the suspicion that he was using foreign policy for domestic ends: 'Foreign affairs are for me an end in themselves and rank higher with me than the rest. You gentlemen should think the same and if you should give some ground domestically, you could regain it quickly under a liberal ministry, which might come about.'** (Gall: '... And you, gentlemen, ought to be thinking on the same lines, because after all any ground you lost at home you could very quickly make up under, say, a liberal ministry, such as might possibly ensue.') EF: the liberals laughed at him, it was the last time in the history of Prussia that distinguished liberals could proclaim liberal principles with equal boldness and confidence.
 
-**3 February** Bismarck in Landtag rejected the suspicion that he was using foreign policy for
-domestic ends: 'Foreign affairs are for me an end in themselves and rank higher with me
-than the rest. You gentlemen should think the same and if you should give some ground
-domestically, you could regain it quickly under a liberal ministry, which might come
-about.' (Gall: '... And you, gentlemen, ought to be thinking on the same lines, because after all any
-ground you lost at home you could very quickly make up under, say, a liberal ministry, such as might
-possibly ensue.') EF: the liberals laughed at him, it was the last time in the history of Prussia that
-distinguished liberals could proclaim liberal principles with equal boldness and confidence.
+**3 February** Karolyi-Mensdorff: 'If it comes to war then it is Bismarck's work; if he falls, then collapses the policy of active hostility towards Austria.' The Austrian military attaché also reported (3 & 17/2) that there was military activity, Roon has been heard saying Prussia must strike 'before the enemy has time to think about it', Silesia is well prepared with railways and cavalry is moving towards the border.
 
-**3 February** Karolyi-Mensdorff: 'If it comes to war then it is Bismarck's work; if he falls, then collapses the
-policy of active hostility towards Austria.' The Austrian military attaché also reported (3 & 17/2)
-that there was military activity, Roon has been heard saying Prussia must strike 'before the enemy
-has time to think about it', Silesia is well prepared with railways and cavalry is moving towards the
-border.
+**3 February** General Gablenz: 'Prejudice, rusty ideas, failure to recognise the needs of the times, postpone everything, never take action, always just waiting - it is this which is so disastrous for us.' On 10 May his brother Anton Gablenz wrote: 'the perplexity and inactivity in Vienna is fearful, and for anyone who tries to get things done it is a desperate situation.'
 
-**3 February** General Gablenz: 'Prejudice, rusty ideas, failure to recognise the needs of the times, postpone
-everything, never take action, always just waiting - it is this which is so disastrous for us.' On10 May
-his brother Anton Gablenz wrote: 'the perplexity and inactivity in Vienna is fearful, and for anyone
-who tries to get things done it is a desperate situation.'
+**6 February** Gala evening at French Embassy. Royal Family attended. Bismarck trying to be friendly to Benedetti (and fix misunderstandings over some court etiquette issues, WAF p45).
 
-**6 February** Gala evening at French Embassy. Royal Family attended. Bismarck trying to be friendly to
-Benedetti (and fix misunderstandings over some court etiquette issues, WAF p45).
+**7 February** **Biegeleben drafted a reply about Altona from FJ: it rejected Bismarck's demands, reiterated Austria's right to administer Holstein**. Clark: Mensdorff saw Altona had been a mistake and sent a second message accompanying the formal note, quietly telling Bismarck he regretted Gablenz's error, as did Gablenz and FJ. Bismarck had been winding Wilhelm up again for weeks.
 
----
+OP (p267) **Bismarck was now resolved to escalate**. For two years he had made progress. 'Constantly aggressive, he invariably depicted himself as on the defensive; always injuring, he continually assumed the role of the injured; ever working for the upset of the status quo, he steadily posed as a genuine conservative. For Austria it was a long story of futility and frustration. Her protests were met by declarations of innocence and indignation, her attempts to temporise and delay by the threat that Prussia would act alone, her efforts to halt Prussian encroachments by the charge that they endangered the monarchical cause.'
 
-# 7 February
+**9 February** Karolyi-Mensdorff: Bismarck has unleashed the official media against us. There was retaliation.
 
-Biegeleben drafted a reply about Altona from FJ: it rejected Bismarck's demands, reiterated Austria's right to administer Holstein. Clark: Mensdorff saw Altona had been a mistake and sent a second message accompanying the formal note, quietly telling Bismarck he regretted Gablenz's error, as did Gablenz and FJ. Bismarck had been winding Wilhelm up again for weeks.
+**11 February** (Pottinger) Benedetti-Drouyn: Bismarck says that if things go badly with Austria, 'We will move quickly ... and perhaps we will move far.' The first step will be bringing back Goltz for discussions.
 
-# OP (p267)
+**14 February** (Clark) **Bismarck interview with Benedetti: 'All ties with Austria are now broken and Prussia is free again to act according to her own interests**.' He said he was contemplating bringing liberals into his ministry and leading the German national movement, forcing the middle states to follow him to escape revolution. Benedetti reported back to Gramont who read it to Mensdorff who informed FJ on 19/2. He was also briefing the press against Austria.
 
-Bismarck was now resolved to escalate. For two years he had made progress. 'Constantly aggressive, he invariably depicted himself as on the defensive; always injuring, he continually assumed the role of the injured; ever working for the upset of the status quo, he steadily posed as a genuine conservative. For Austria it was a long story of futility and frustration. Her protests were met by declarations of innocence and indignation, her attempts to temporise and delay by the threat that Prussia would act alone, her efforts to halt Prussian encroachments by the charge that they endangered the monarchical cause.'
+**14 February** He instructed his envoy to talk to Pfordten about Bund reform.
 
-# 9 February
+**15 February** (OP, JS says 19th) Loftus arrived on 15th taking over from Napier in Berlin until 1871 then St P (Vienna 1858, Berlin 1860, Munich 1862). He described the atmosphere as 'loaded' and 'smelled of powder'.
 
-Karolyi-Mensdorff: Bismarck has unleashed the official media against us. There was retaliation.
+**17 February** **Bismarck was reticent and calm with Karolyi in contrast to the violence of his words and actions elsewhere — there is an 'ominous stillness' in the Wilhelmstrasse, 'the calm before the storm' reported Karolyi.**
 
-# 11 February (Pottinger)
+21 February (OP p317ff) The Landtag committee completed a preliminary report on the budget composed by Virchow. It recited the history of the constitutional conflict and concluded: 'It is clear as day that absolutism has been restored in Prussia and indeed absolutism without the self-imposed limitations of the pre-March [1848] period. There is no longer any control of the finances or any legal budget; the Staatsanzeiger has replaced the statute books; the superior accounting office no longer has any function; the treasury and property of the state are at the free disposal of the government. One point alone has not been attacked. This is the one upon which the old absolutism failed and constitutionalism was won in Prussia. Still in effect is the clause in article 103 of the constitution reading: “treasury loans may be raised only through legislation”.'
 
-Benedetti-Drouyn: Bismarck says that if things go badly with Austria, 'We will move quickly ... and perhaps we will move far.' The first step will be bringing back Goltz for discussions.
+**21 February** **Austrian Council of Ministers presided by FJ (in Budapest): decided to push diplomatically and not make more concessions, but neither developed a new approach to solving the problem nor decided to fight**.
 
-# 14 February (Clark)
-
-Bismarck interview with Benedetti: 'All ties with Austria are now broken and Prussia is free again to act according to her own interests.' He said he was contemplating bringing liberals into his ministry and leading the German national movement, forcing the middle states to follow him to escape revolution. Benedetti reported back to Gramont who read it to Mensdorff who informed FJ on 19/2. He was also briefing the press against Austria.
-
-# 14 February
-
-He instructed his envoy to talk to Pfordten about Bund reform.
-
-# 15 February (OP, JS says 19th)
-
-Loftus arrived on 15th taking over from Napier in Berlin until 1871 then St P (Vienna 1858, Berlin 1860, Munich 1862). He described the atmosphere as 'loaded' and 'smelled of powder'.
-
-# 17 February
-
-Bismarck was reticent and calm with Karolyi in contrast to the violence of his words and actions elsewhere — there is an 'ominous stillness' in the Wilhelmstrasse, 'the calm before the storm' reported Karolyi.
-
-# 21 February (OP p317ff)
-
-The Landtag committee completed a preliminary report on the budget composed by Virchow. It recited the history of the constitutional conflict and concluded: 'It is clear as day that absolutism has been restored in Prussia and indeed absolutism without the self-imposed limitations of the pre-March [1848] period. There is no longer any control of the finances or any legal budget; the Staatsanzeiger has replaced the statute books; the superior accounting office no longer has any function; the treasury and property of the state are at the free disposal of the government. One point alone has not been attacked. This is the one upon which the old absolutism failed and constitutionalism was won in Prussia. Still in effect is the clause in article 103 of the constitution reading: “treasury loans may be raised only through legislation”.'
-
-# 21 February
-
-## Austrian Council of Ministers presided by FJ (in Budapest): decided to push diplomatically and not make more concessions, but neither developed a new approach to solving the problem nor decided to fight. Gall: this 'as good as decided to go to war' (p280). (Wrong.)
+Gall: this 'as good as decided to go to war' (p280). (Wrong.)
 
 Carr gives the opposite impression to Gall: 'No one at this meeting wanted war or thought there was any cause for war.'
 
