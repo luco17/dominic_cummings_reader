@@ -5538,45 +5538,17 @@ Friedjung (p110): Govone at first did not want to do a deal with Bismarck but wa
 
 **16 March** Rumours in Berlin that Bismarck was trying to sell the Saar coalfields.
 
-**16 March** **(Clark p366ff) With tensions very high in Vienna, Mensdorff 'dashed off' a telegram to Karolyi** in his own hand: News of military preparations is alarming, 'We can therefore no longer postpone a demand for the certain elucidation of Prussia's intentions.You will therefore at once interpellate [Bismarck] as to whether Prussia harbours the object of tearing up the Gastein Convention with forcible hands. Point out that only a completely precise and unambiguous answer can reassure us. See that [Wilhelm] is informed of your step, the basis of which is the urgent desire to try to uphold the peace in Germany. Report by telegraph at the earliest possible moment.' Without waiting for an answer, the 7 main German courts were informed of the demand, and if no 'satisfactory answer' is given, Austria will place the Duchies in the hands of the Bund and appeal against Prussia under Articles 11 & 19. 'Thus the interpellation was widely announced even before Karolyi had made it!' (Clark).Vienna added another dispatch to the effect that she would propose mobilising non-Prussian federal forces and their union with Austria's army. Mensdorff insisted on an extremely pacific passage added at the end.
+**16 March** **(Clark p366ff) With tensions very high in Vienna, Mensdorff 'dashed off' a telegram to Karolyi** in his own hand: News of military preparations is alarming, 'We can therefore no longer postpone a demand for the certain elucidation of Prussia's intentions.You will therefore at once interpellate [Bismarck] as to whether Prussia harbours the object of tearing up the Gastein Convention with forcible hands. Point out that only a completely precise and unambiguous answer can reassure us. See that [Wilhelm] is informed of your step, the basis of which is the urgent desire to try to uphold the peace in Germany. Report by telegraph at the earliest possible moment.' **Without waiting for an answer, the 7 main German courts were informed of the demand**, and if no 'satisfactory answer' is given, Austria will place the Duchies in the hands of the Bund and appeal against Prussia under Articles 11 & 19. 'Thus the interpellation was widely announced even before Karolyi had made it!' (Clark).Vienna added another dispatch to the effect that she would propose mobilising non-Prussian federal forces and their union with Austria's army. Mensdorff insisted on an extremely pacific passage added at the end.
 
-Karolyi went to speak to Bismarck. Clark: Bismarck wanted to keep the situation tense but not spark the war now. He answered Austria's question with a laconic 'No' but with a cynical smile added, 'But, my dear Count, you don't really think I should have answered any differently if I did intend war, do you?... If a power intended the next morning to march across its frontiers, it would also reply with a 'no' the evening before.' Karolyi reported the exchange at 21:00, received Vienna 23:00. Karolyi was unaware of the communication to the German courts and reported that Bismarck had given a precise answer to the question.
+Karolyi went to speak to Bismarck. Clark: Bismarck wanted to keep the situation tense but not spark the war now. He answered Austria's question with a laconic 'No' but with a cynical smile added, **'But, my dear Count, you don't really think I should have answered any differently if I did intend war, do you?**... If a power intended the next morning to march across its frontiers, it would also reply with a 'no' the evening before.' Karolyi reported the exchange at 21:00, received Vienna 23:00. Karolyi was unaware of the communication to the German courts and reported that Bismarck had given a precise answer to the question.
 
-17 March
+**17 March** (Clark) **Bismarck realised he'd made a mistake with his cynical joke and downplayed his comment**. Karolyi reported that he'd been invited back and told that, contrary to his comment, if he really were intending to cross the frontier he would have given 'an evasive reply or none at all' and he denied any warlike purpose behind the trial mobilisation ('it was called by Prince Friedrich Carl without his knowledge for purely technical reasons'), Prussia had done nothing to give cause for fear while Austria was beginning to arm. When Karolyi said that all Europe knew that Austria would never fire the first shot, **Bismarck replied that the Austrian public would drive the Emperor to attack Prussia.**
 
-(Clark) Bismarck realised he'd made a mistake with his cynical joke and
-downplayed his comment. Karolyi reported that he'd been invited back and told that, contrary to
-his comment, if he really were intending to cross the frontier he would have given 'an evasive reply
-or none at all' and he denied any warlike purpose behind the trial mobilisation ('it was called by
-Prince Friedrich Carl without his knowledge for purely technical reasons'), Prussia had done
-nothing to give cause for fear while Austria was beginning to arm. When Karolyi said that all
-Europe knew that Austria would never fire the first shot, Bismarck replied that the Austrian
-public would drive the Emperor to attack Prussia.
-Beust regretted Vienna's mishandling — you can't catch a man like Bismarck with a telegraphic and
-oral question, he complained. Clark — FJ and Mensdorff had again acted 'without visualising clearly
-enough the outcome', it had not pinned Bismarck down or created tension between him/Wilhelm.
-Broadcasting the news was a 'greater mistake'. The act worried the scared states (e.g Hanover,
-Bavaria) and the failure worried the more zealous! Ironically, the failure of the plan was beneficial as
-the threat to place the matter finally in the hands of the Bund would have been seen in Berlin as an
-act of war. On 18th Mensdorff told German states that Prussia had denied aggressive intentions so
-Austria would not make the declaration.
+Beust regretted Vienna's mishandling — you can't catch a man like Bismarck with a telegraphic and oral question, he complained. Clark — FJ and Mensdorff had again acted 'without visualising clearly enough the outcome', it had not pinned Bismarck down or created tension between him/Wilhelm. Broadcasting the news was a 'greater mistake'. The act worried the scared states (e.g Hanover, Bavaria) and the failure worried the more zealous! Ironically, the failure of the plan was beneficial as the threat to place the matter finally in the hands of the Bund would have been seen in Berlin as an act of war. On 18th Mensdorff told German states that Prussia had denied aggressive intentions so Austria would not make the declaration.
 
-**17 March** A few days after his discussion with Bismarck on 11th (but before 17th), Loftus met
-Wilhelm and told him the gist of Clarendon's message. Loftus reported that Wilhelm was 'well-
-disposed to accept the good offices of England'. Bismarck made a vague suggestion to Loftus that
-he would inform Bernstorff of the King's view. Then Bismarck was blindsided by Wilhelm asking
-the Crown Prince to write to Victoria asking her to mediate, which he did on 17th. Bismarck,
-enraged, when he found out told Bernstorff (20th) to regard it as unofficial. (The Crown Princess
-was writing to Victoria in March that 'Fritz' was 'completely against' the King's/Bismarck's policy.)
-Clarendon did not want to seize the bull by the horns and commit himself particularly as he kept
-changing his mind about the likelihood of war — on 13th he thought 'the fear of war has rather
-abated', so did not want to back Oldenburg as a possible compromise.
+**17 March** A few days after his discussion with Bismarck on 11th (but before 17th), Loftus met Wilhelm and told him the gist of Clarendon's message. Loftus reported that Wilhelm was 'well- disposed to accept the good offices of England'. Bismarck made a vague suggestion to Loftus that he would inform Bernstorff of the King's view. **Then Bismarck was blindsided by Wilhelm asking the Crown Prince to write to Victoria asking her to mediate, which he did on 17th**. Bismarck, enraged, when he found out told Bernstorff (20th) to regard it as unofficial. (The Crown Princess was writing to Victoria in March that 'Fritz' was 'completely against' the King's/Bismarck's policy.) Clarendon did not want to seize the bull by the horns and commit himself particularly as he kept changing his mind about the likelihood of war — on 13th he thought 'the fear of war has rather abated', so did not want to back Oldenburg as a possible compromise.
 
-**17 March** Mensdorff's sister-in-law wrote: 'There is unanimity here that Bismarck is simply mad and
-has so jammed himself up in domestic and foreign affairs that he has lost his head and wants war a
-tout prix, to get himself out of the affair and maintain his position.'
-
----
+**17 March** Mensdorff's sister-in-law wrote: 'There is unanimity here that Bismarck is simply mad and has so jammed himself up in domestic and foreign affairs that he has lost his head and wants war a tout prix, to get himself out of the affair and maintain his position.'
 
 **17 March** (Stern — haven't seen reference to this meeting elsewhere) Ministers met, told (by who) Austria won't take money for the duchies, the Cologne-Minden share deal is in trouble.
 
@@ -5584,7 +5556,9 @@ tout prix, to get himself out of the affair and maintain his position.'
 
 **17 March** Goltz-Bismarck: Napoleon 'talked with me in a manner which does not directly encourage the initiation of [war with Austria], but does not discourage it either.'
 
-**18 March** (Clark) Mensdorff telegraphed the German states: Prussia has denied aggressive intentions so Austria will not make the proposed declaration. Over the next ten days he tried to get Pfordten to bring the matter before the Bund. He argued that it would make it harder for Bismarck to create a war, raise the status of the Bund, and mobilise European opinion against Bismarck. Pfordten was not keen on jumping into Bismarck's crosshairs. Cf. 26/3 Clark (p390ff): Dalwigk (minister of Hesse) had offered Austria an alliance on 4 March. Württemberg seemed solid (Queen Olga pushed her father, the Tsar, to intervene against Bismarck, which Wilhelm reminded her of after the war). Saxony and Beust were obviously onside. Mensdorff therefore used these 3 to try to corral Bavaria and Baden. On 17th Beust began to take military preparations, on 19th the reserves were called six weeks early, 'thus Saxony was the first of the secondary states to take the same steps that Austria was so soon to regret' (p393). Bismarck remained optimistic about persuading Pfordten to keep Bavaria neutral, against the prediction of his envoy there. (Clark: Bismarck handled Pfordten much better than Biegeleben did, speaking to him honestly, inflating his ego, disclosing confidences, and offered him the chance to be a partner in presenting the plan for epoch-making reform. I suspect the dramatic and tyrannical stories about Bismarck — e.g the cynical joke to Karolyi above — were kept alive more than the flattering and charming stories.) Vienna was more accurate in predicting Bavaria would ultimately support her. Pfordten had told Vienna on 2/3 that Bavaria would support her if she were attacked but he wanted to watch the negotiations before making his stance public. Bavaria's three leading military men thought Prussia was better prepared and were cool towards Vienna. Blome urged Mensdorff to send secret agents to run a propaganda campaign to fight Prussia's, it's unclear if this happened.
+**18 March** (Clark) Mensdorff telegraphed the German states: Prussia has denied aggressive intentions so Austria will not make the proposed declaration. Over the next ten days he tried to get Pfordten to bring the matter before the Bund. He argued that it would make it harder for Bismarck to create a war, raise the status of the Bund, and mobilise European opinion against Bismarck. Pfordten was not keen on jumping into Bismarck's crosshairs. Cf. 26/3 Clark (p390ff): Dalwigk (minister of Hesse) had offered Austria an alliance on 4 March. Württemberg seemed solid (Queen Olga pushed her father, the Tsar, to intervene against Bismarck, which Wilhelm reminded her of after the war). Saxony and Beust were obviously onside. Mensdorff therefore used these 3 to try to corral Bavaria and Baden.
+
+On 17th Beust began to take military preparations, on 19th the reserves were called six weeks early, 'thus Saxony was the first of the secondary states to take the same steps that Austria was so soon to regret' (p393). Bismarck remained optimistic about persuading Pfordten to keep Bavaria neutral, against the prediction of his envoy there. (Clark: Bismarck handled Pfordten much better than Biegeleben did, speaking to him honestly, inflating his ego, disclosing confidences, and offered him the chance to be a partner in presenting the plan for epoch-making reform. I suspect the dramatic and tyrannical stories about Bismarck — e.g the cynical joke to Karolyi above — were kept alive more than the flattering and charming stories.) Vienna was more accurate in predicting Bavaria would ultimately support her. Pfordten had told Vienna on 2/3 that Bavaria would support her if she were attacked but he wanted to watch the negotiations before making his stance public. Bavaria's three leading military men thought Prussia was better prepared and were cool towards Vienna. Blome urged Mensdorff to send secret agents to run a propaganda campaign to fight Prussia's, it's unclear if this happened.
 
 **20 March** Hammond to Bloomfield: 'I confess I should like to see the Prussians well licked'.
 
@@ -5596,74 +5570,33 @@ tout prix, to get himself out of the affair and maintain his position.'
 
 **20 March** (Pottinger) Moltke told Bismarck that Italy could put ~200k in the field (and was exaggerating numbers) and the effectiveness was dubious. But he had also stressed, e.g 28/2 Council, that the fact of Italy creating a two-front war and requiring a large Austrian presence in the south was 'indispensable' (28/2) to Prussian success. Bismarck had said 28/2 that he doubted Italy could afford to keep her forces at the 1866 level for long.
 
-## 21 March Having suggested mediation to Bismarck via Loftus, now that Wilhelm seemed keen Clarendon pointed out that he had not officially offered to mediate. He also told Loftus, 'If we act at all in this matter I entirely agree with you that it must be in conjunction with France.' On the same day, 21st, the Cabinet decided that Britain should offer 'good offices' if Prussia asks and Loftus was told this. On 21 March Bernstorff told Bismarck that Clarendon had told Apponyi (on 7th) that Britain will stay neutral.
+**21 March** Having suggested mediation to Bismarck via Loftus, now that Wilhelm seemed keen Clarendon pointed out that he had not officially offered to mediate. He also told Loftus, 'If we act at all in this matter I entirely agree with you that it must be in conjunction with France.' On the same day, 21st, the Cabinet decided that Britain should offer 'good offices' if Prussia asks and Loftus was told this. On 21 March Bernstorff told Bismarck that Clarendon had told Apponyi (on 7th) that Britain will stay neutral.
 
-**21 March** (Pottinger) Napoleon told Nigra to go ahead with the Prussian treaty. Around this time
-he told Nigra, 'Don't cherish any illusions. Austria will not cede Venetia unless she is forced to it by
-war.' This was passed on by Goltz to Bismarck on 23rd.
+**21 March** (Pottinger) Napoleon told Nigra to go ahead with the Prussian treaty. Around this time he told Nigra, 'Don't cherish any illusions. Austria will not cede Venetia unless she is forced to it by war.' This was passed on by Goltz to Bismarck on 23rd.
 
-**22 March**, morning (Mosse) Bernstorff read out Bismarck's long letter full of accusations against
-Vienna but also making clear his goal was annexation — the duchies were 'politically & militarily
-indispensable' to Prussia. Clarendon told Bernstorff that helping on annexation 'was not to be
-thought of for a moment'. Millman's account is unclear on timing around this. NB. Bismarck did not
-reject mediation entirely. Clarendon considered 'all question of good offices ... at an end' and
-relations with Prussia 'remained as before'. In Berlin, Bismarck told Loftus that London should try
-to moderate the Austrians who were the aggressors.
+**22 March**, morning (Mosse) Bernstorff read out Bismarck's long letter full of accusations against Vienna but also making clear his goal was annexation — the duchies were 'politically & militarily indispensable' to Prussia. Clarendon told Bernstorff that helping on annexation 'was not to be thought of for a moment'. Millman's account is unclear on timing around this. NB. Bismarck did not reject mediation entirely. Clarendon considered 'all question of good offices ... at an end' and relations with Prussia 'remained as before'. In Berlin, Bismarck told Loftus that London should try to moderate the Austrians who were the aggressors.
 
-**22 March** Metternich reported to Mensdorff various discussions with Eugénie et al, including about
-the Principalities (cf. 12/3). Realising they'd erred, Napoleon had brought Drouyn into the picture
-to calm Metternich. Drouyn had reassured him:Venetia will not be raised again unless
-circumstances cause a general redrawing of boundaries, and relations have not been damaged by
-the episode with Eugénie.
+**22 March** Metternich reported to Mensdorff various discussions with Eugénie et al, including about the Principalities (cf. 12/3). Realising they'd erred, Napoleon had brought Drouyn into the picture to calm Metternich. Drouyn had reassured him:Venetia will not be raised again unless circumstances cause a general redrawing of boundaries, and relations have not been damaged by the episode with Eugénie.
 
-**23 March** (JS 26th) In a letter to a friend, Roon wrote: 'Things are not good here. Our friend Otto
-Bismarck in Herculean day and night efforts has worn down his nerves ... The day before yesterday
-he suffered such hefty stomach cramps and was as a result yesterday so depressed, so irritable and
-annoyed — apparently by little things — that I am today not without anxiety, because I know
-what's at stake.... Complete freedom of thought does not combine well with a bad stomach and
-irritated nerves.'
+**23 March** (JS 26th) In a letter to a friend, Roon wrote: 'Things are not good here. Our friend Otto Bismarck in Herculean day and night efforts has worn down his nerves ... The day before yesterday he suffered such hefty stomach cramps and was as a result yesterday so depressed, so irritable and annoyed — apparently by little things — that I am today not without anxiety, because I know what's at stake.... Complete freedom of thought does not combine well with a bad stomach and irritated nerves.'
 
-**23 March** Goltz to Bismarck: Don't push for war, here in Paris everyone is suddenly anti-Prussian
-except Napoleon, 'You must know better than I ... that Rothschild refused you the Saarbrucken
-coal business.' Bismarck noted: 'It has not been offered to him.' Clark: Goltz was also secretly
-part of the Coburg Intrigue (cf. 27/3) and wrote at the time he hoped for a letter from FJ to
-'break Bismarck's neck'. He wrote to Bismarck 29/3 and to Wilhelm 3/4 that there was growing
-hostility to Prussia in Paris.
+**23 March** Goltz to Bismarck: Don't push for war, here in Paris everyone is suddenly anti-Prussian except Napoleon, 'You must know better than I ... that Rothschild refused you the Saarbrucken coal business.' Bismarck noted: 'It has not been offered to him.' Clark: **Goltz was also secretly part of the Coburg Intrigue (cf. 27/3) and wrote at the time he hoped for a letter from FJ to 'break Bismarck's neck'**. He wrote to Bismarck 29/3 and to Wilhelm 3/4 that there was growing hostility to Prussia in Paris.
 
-**23 March** Cowley reported to the FO on growing hostility to Napoleon in Paris, he and Eugénie
-had just been booed on a trip through Paris to the theatre, there was growing muttering about
-public opinion and the failures of the regime, and Napoleon had likened the atmosphere to 1848.
+**23 March** Cowley reported to the FO on growing hostility to Napoleon in Paris, he and Eugénie had just been booed on a trip through Paris to the theatre, there was growing muttering about public opinion and the failures of the regime, and Napoleon had likened the atmosphere to 1848.
 
-**23 March** Mensdorff to the Duke of Coburg (his cousin): 'I did not invent the stupid Schleswig-
-Holstein question and am suffering for the sins of past years. Whether we shall get out of this most
-tedious of tedious questions without a conflict I cannot yet say' (Friedjung). (I feel his pain!)
+**23 March** Mensdorff to the Duke of Coburg (his cousin): 'I did not invent the stupid Schleswig- Holstein question and am suffering for the sins of past years. Whether we shall get out of this most tedious of tedious questions without a conflict I cannot yet say' (Friedjung). (I feel his pain!)
 
-**24 March** To Goltz: The problem of neutralising Napoleon requires opening 'the German question'
-and establishing for Prussia 'a firm and national foundation'.
+**24 March** To Goltz: The problem of neutralising Napoleon requires opening 'the German question' and establishing for Prussia 'a firm and national foundation'.
 
-**24 March** Bismarck to Bavarian Minister-President Pfordten: 'Direct elections ... and universal
-suffrage I regard as greater guarantees of a conservative stance that any artificial electoral
-system designed to produce contrived majorities.' Similarly see his comment to von Coburg-
-Gotha on 26 March and to Bernstorff on 19 April. Gall: also on 24/3 Bismarck shared with Pfordten
-his motion for the Bund and asked for his opinion.
+**24 March** Bismarck to Bavarian Minister-President Pfordten: '**Direct elections ... and universal suffrage I regard as greater guarantees of a conservative stance that any artificial electoral system designed to produce contrived majorities**.' Similarly see his comment to von Coburg-Gotha on 26 March and to Bernstorff on 19 April. Gall: also on 24/3 Bismarck shared with Pfordten his motion for the Bund and asked for his opinion.
 
-**24 March** Bismarck issued a circular to the Bund members portraying Austrian troop movements
-as a hostile act against an innocent Prussia. Clark: This persuaded Pfordten to agree with Beust that
-the two courts remind Bismarck of his federal obligations. By now FJ realised that Mensdorff had
-been right about ordering troop movements on 14/3. Mensdorff planned: 1) a public challenge to
-Prussia (cf. 31/3); 2) seek neutrals' support, 3) a secret plan to have Bismarck removed. He had to
-deal with growing warlike mood in Vienna from generals, his own department etc. Gablenz, Karolyi
-and Esterhazy encouraged his attempt to keep the peace. (Clark p374).
+**24 March** Bismarck issued a circular to the Bund members portraying Austrian troop movements as a hostile act against an innocent Prussia. Clark: This persuaded Pfordten to agree with Beust that the two courts remind Bismarck of his federal obligations. By now FJ realised that Mensdorff had been right about ordering troop movements on 14/3. Mensdorff planned: 1) a public challenge to Prussia (cf. 31/3); 2) seek neutrals' support, 3) a secret plan to have Bismarck removed. He had to deal with growing warlike mood in Vienna from generals, his own department etc. Gablenz, Karolyi and Esterhazy encouraged his attempt to keep the peace. (Clark p374).
 
-**24 March** (Stern) Bodelschwingh told Prussian Cabinet that he might raise 40m thaler but
-thereafter would need a loan. End of March he tried to sell the Cologne-Minden shares but could
-not sell them all without incurring a loss. Market was sagging.
+**24 March** (Stern) Bodelschwingh told Prussian Cabinet that he might raise 40m thaler but thereafter would need a loan. End of March he tried to sell the Cologne-Minden shares but could not sell them all without incurring a loss. Market was sagging.
 
-24 March Victoria-the Crown Princess of Prussia: Clarendon is 'most disagreeable & unmanageable'.
+**24 March** Victoria-the Crown Princess of Prussia: Clarendon is 'most disagreeable & unmanageable'.
 
-24 March
-
-(WAF, p56) Bismarck negotiated the Italian deal with Count Barral because Govone did not have full powers.
+**24 March** (WAF, p56) Bismarck negotiated the Italian deal with Count Barral because Govone did not have full powers.
 
 (Pottinger) Nigra telegraphed that he had heard that Napoleon had said that France could not support an offensive attack on Austria, and Drouyn was saying similar but that things might be different if Austria attacked. La Marmora was worried and sent a secret emissary, Count Arese (who knew Napoleon), to Paris. At roughly the same time (dates are confused), Napoleon's cousin (known as Plon-plon) rushed to Paris from Italy to tell his uncle that Italy was close to signing the deal, and he, Plon-plon, thought Italian unification was best served by supporting Austria and doing a Silesia/Venetia trade after a war with Prussia (much discussed in Vienna). Napoleon told Arese he supported a deal with Prussia but this was advice 'without any responsibility' for the consequences.
 
@@ -5671,33 +5604,23 @@ Friedjung talked to Nigra after the war and wrote (p113) that Nigra told him Nap
 
 (NB. Napoleon was not telling Drouyn much of what he was thinking and doing viz Italy/Prussia and was more pro the deal than he let on to Drouyn.)
 
-25 March
+**25 March** An anti-war protest in Solingen that spread. Wilhelm found this 'very unpleasant' but the liberals remained divided about how to oppose Bismarck.
 
-An anti-war protest in Solingen that spread. Wilhelm found this 'very unpleasant' but the liberals remained divided about how to oppose Bismarck.
-
-26 March
-
-Bismarck to von Coburg-Gotha (private): 'A German parliament is of more use to us than an army corps.'
+**26 March** Bismarck to von Coburg-Gotha (private): 'A German parliament is of more use to us than an army corps.'
 
 Pfordten suggested he mediate on the basis of: Prussia to accept Augustenburg and a modification of February demands, Austria to allow Prussia greater voting rights in the Bund and to exercise preponderant influence in North Germany. Clark: this was 'unfortunately never taken seriously by either German power' and came too late — proposed formally on 31/3 but by then Prussia had started partial mobilisation. Bismarck did not dismiss Pfordten though — he 'showed deference' to Bavaria's wishes to try to neutralise her (Clark p378).
 
 The Crown Prince to the Duke of Coburg (his uncle): 'Bismarck ignores me completely. Since the autumn manoeuvres in Saxony he has not vouchsafed me a single word on the burning questions of the moment... His foolhardiness is absolutely inexplicable to me... We are handing ourselves over to blind faith with our hands tied! For my part I shall leave no stone unturned to warn against and ward off disaster. But you know how powerless I am.' Elsewhere that spring he described Bismarck's policy as 'a wanton gamble with the most sacred ideas'.
 
-27 March
+**27 March** Revertera reported on discussion with Gorchakov: The Tsar has written to Wilhelm who had replied in 'excessively cordial' terms. Bismarck's conduct has irritated the Russian Court. Austria has 'gained a lot of ground' here and Russian neutrality 'is already beginning to tilt in our favour'. Revertera suggested offering a 'cordial understanding' on the Principalities to buy Russian help. Mensdorff replied that Vienna could not support Russia in the Principalities, nor support Oldenburg and discussion of an alliance is premature. (Such diplomatic confidence, or inflexibility, could only be justified if her military confidence were justified, which it proved not to be.)
 
-Revertera reported on discussion with Gorchakov: The Tsar has written to Wilhelm who had replied in 'excessively cordial' terms. Bismarck's conduct has irritated the Russian Court. Austria has 'gained a lot of ground' here and Russian neutrality 'is already beginning to tilt in our favour'. Revertera suggested offering a 'cordial understanding' on the Principalities to buy Russian help. Mensdorff replied that Vienna could not support Russia in the Principalities, nor support Oldenburg and discussion of an alliance is premature. (Such diplomatic confidence, or inflexibility, could only be justified if her military confidence were justified, which it proved not to be.)
+**27 March** Gramont reported: Mensdorff says he would 'consent to the annexation of Schleswig, if absolutely necessary to avoid a war, provided that Holstein ... conserved its federal independence'. This illumines what Mensdorff was suggesting on 1 March — an international conference could give Schleswig to Prussia while the Bund gets Holstein, half a loaf (Clark p358).
 
-Gramont reported: Mensdorff says he would 'consent to the annexation of Schleswig, if absolutely necessary to avoid a war, provided that Holstein ... conserved its federal independence'. This illumines what Mensdorff was suggesting on 1 March — an international conference could give Schleswig to Prussia while the Bund gets Holstein, half a loaf (Clark p358).
+**27 March** Russell wrote to Victoria that 'There is but one remedy — one certain ... [way] of preserving peace — it is the dismissal of Count Bismarck'. He was probably hoping that Victoria would suggest this to Wilhelm. Victoria did write to the Crown Prince and his wife but to no effect.
 
-Russell wrote to Victoria that 'There is but one remedy — one certain ... [way] of preserving peace — it is the dismissal of Count Bismarck'. He was probably hoping that Victoria would suggest this to Wilhelm.Victoria did write to the Crown Prince and his wife but to no effect.
+**27 March** (Clark) Werther sent to Bismarck details of what Mensdorff had told him, honestly, about troop movements so far. Bismarck scribbled on the telegram: 'Ich glaube nur nichts von dem was Mensdorff sagt!' (I just don't believe anything Mensdorff says!). He sent a copy to Wilhelm, without comment, who wrote on the note: 'Unsere Projekte von heute scheinen deinem gegenüber sehr übertrieben. Dass Beurlaubten in Mahren wieder entlassen sind, meldet auch Thile, Winckler und Feldman.' ('Our projects today seem very exaggerated compared to yours. Thile, Winckler and Feldman also report that those on leave have been released in Mahren.' I don't understand this, maybe bad translation?)
 
-27 March
-
-(Clark) Werther sent to Bismarck details of what Mensdorff had told him, honestly, about troop movements so far. Bismarck scribbled on the telegram: 'Ich glaube nur nichts von dem was Mensdorff sagt!' (I just don't believe anything Mensdorff says!). He sent a copy to Wilhelm, without comment, who wrote on the note: 'Unsere Projekte von heute scheinen deinem gegenüber sehr übertrieben. Dass Beurlaubten in Mahren wieder entlassen sind, meldet auch Thile, Winckler und Feldman.' ('Our projects today seem very exaggerated compared to yours. Thile, Winckler and Feldman also report that those on leave have been released in Mahren.' I don't understand this, maybe bad translation?)
-
-27 March
-
-Crown Council at which William agreed on partial mobilisation but the orders were not issued. Bismarck got Roon to fix a meeting for them to get Wilhelm to sign 'definitive orders' and on 29 March (the Wednesday before Easter) Wilhelm signed the orders for partial mobilisation and a call up of reserves (Steinberg, p239, Pflanze p294).
+**27 March** Crown Council at which William agreed on partial mobilisation but the orders were not issued. Bismarck got Roon to fix a meeting for them to get Wilhelm to sign 'definitive orders' and on 29 March (the Wednesday before Easter) Wilhelm signed the orders for partial mobilisation and a call up of reserves (Steinberg, p239, Pflanze p294).
 
 Steinberg: 'The Prussian King and his ministers had opted for war'. This is clearly wrong. Bismarck urged Roon on 28th to push the king to sign on 29th.
 
