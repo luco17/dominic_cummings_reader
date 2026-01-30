@@ -6007,13 +6007,13 @@ Derby attacked Russell for 'misrepresentation' and also connected the current si
 
 **11 May** Prussia raised discount rate to 9% in response to market fears (connected to the problems in the City?).
 
-**12 May** Clarendon to Cowley: '[W]e are willing to do anything for the maintenance of peace except committing ourselves to a policy of action that we cd. not justify & wh. wd. not be sanctioned by public opinion at home...[W]hat wd. please everybody in Europe wd. be that Italy got Venetia, Austria, Silesia, & Prussia a licking.' (Cf. 31/3)
+**12 May** **Clarendon to Cowley: '[W]e are willing to do anything for the maintenance of peace except committing ourselves to a policy of action that we cd. not justify & wh. wd. not be sanctioned by public opinion at home...[W]hat wd. please everybody in Europe wd. be that Italy got Venetia, Austria, Silesia, & Prussia a licking**.' (Cf. 31/3)
 
 **12 May** Bloomfield-Clarendon: Mensdorff says, 'Count Bismarck's plans have been too long and too deeply laid to admit of sufficient modification at the last moment ... to be reconcilable with the interests of the Austrian Empire.'
 
 **12 May** Hohenlohe noted of the military parade on 12th that 'The King's appearance horrified me. He was ashen-grey and there were deep lines on his forehead. His dreadful seriousness and deep anxiety showed that he was trying to make up his mind to some vital decision'.
 
-13-14 May Conference of middle states at Bamberg including Hanover.
+**13-14 May** Conference of middle states at Bamberg including Hanover.
 
 Clark: by now Bavaria, Saxony, Württemberg, Darmstadt and Nassau had mobilised forces. Within a week Dalwigk told Vienna 'we are completely mobilised and will fulfil our duties to the last moment'. Vienna proved unable to organise serious coordination of German forces. Beust had proposed at Bamberg a coordination plan but Pfordten wouldn't agree and returned from Bamberg 'more pacific than ever' (Clark). Pfordten kept changing his mind and would not commit. He wanted to keep relations with Bismarck and his own role as a potential mediator open and his own generals thought Prussia's army superior to Austria's. (So not all shared the consensus view that Austria would win.) King Ludwig was thought to be mad by many. Pfordten had rejected neutrality but would not prepare seriously until after the war had been going a week. He continued talking about possible ways out of the war. (Clark p447 and p457ff for lots of detail re Vienna's dealings with the middle states.)
 
@@ -6023,119 +6023,75 @@ Clark: by now Bavaria, Saxony, Württemberg, Darmstadt and Nassau had mobilised 
 
 **15 May** (Pottinger) There was a meeting in Paris with Drouyn and the English and Russian ambassadors in Paris about the proposed congress. And after much to-ing and fro-ing formal invitations were sent on 24 May.
 
-**16 May** Zerber: Prussia's rail deployment started.
+**16 May** **Zerber: Prussia's rail deployment started**.
 
 **16 May** Metternich-Mensdorff (possibly as a consequence of the constant intrigues around Napoleon who lied constantly to everyone): 'I have the feeling of a man who, involved by duty and by patriotism in the events of the day, understands nothing, nothing at all, of the situation.'
 
 **17 May** Schweinitz (back since 12th) found the Tsar in bad humour after reading despatches from Berlin. Gorchakov was still talking about an Austro-Prussian understanding on Bund reform but clear he would maintain neutrality.
 
-**18 May** Moltke given a paper from staff warning that 'Public opinion ... is increasingly hostile to the idea of the war. Unless the army is set in motion its morale will be seriously affected.' In Berlin in Maylots of institutions lobbied for peace such as the Chamber of Commerce.
+**18 May** Moltke given a paper from staff warning that 'Public opinion ... is increasingly hostile to the idea of the war. Unless the army is set in motion its morale will be seriously affected.' In Berlin in May lots of institutions lobbied for peace such as the Chamber of Commerce.
 
 **18 May** Lerman: Last meeting with Gerlach. Gerlach reported he looked 'strikingly serious, pale and agitated'.
 
-(WAF) Bismarck spoke to Benedetti: Major von Burg has returned without delivering the letter (cf. 14/5), Goltz says that Napoleon is preparing a conciliation program with British and Russian ambassadors. Bismarck attacked Napoleon's behaviour saying he was setting up an Austrian grab of Silesia in compensation for Venetia and stressed that Prussia would fight. Bismarck suggested that Benedetti knew about Napoleon's nefarious schemes. Benedetti was alarmed — actually he was in the dark but he feared that he would lose Bismarck's confidence. He complained to Drouyn (19/5): 'they all [all the ambassadors] imagine, and Bismarck with them, that I am in the possession of all your secrets'. Bismarck said to me yesterday that France's other ambassadors are speaking in an anti-Prussian sense 'and how can one believe that they are authorised to speak while you are asked to remain silent'.
+**18 May** (WAF) Bismarck spoke to Benedetti: Major von Burg has returned without delivering the letter (cf. 14/5), Goltz says that Napoleon is preparing a conciliation program with British and Russian ambassadors. Bismarck attacked Napoleon's behaviour saying he was setting up an Austrian grab of Silesia in compensation for Venetia and stressed that Prussia would fight. Bismarck suggested that Benedetti knew about Napoleon's nefarious schemes. Benedetti was alarmed — actually he was in the dark but he feared that he would lose Bismarck's confidence. He complained to Drouyn (19/5): 'they all [all the ambassadors] imagine, and Bismarck with them, that I am in the possession of all your secrets'. Bismarck said to me yesterday that France's other ambassadors are speaking in an anti-Prussian sense 'and how can one believe that they are authorised to speak while you are asked to remain silent'.
 
-(Pottinger) There was a ministerial meeting in Paris. According to Persigny, Drouyn eloquently set out the history of the crisis but proposed nothing. Rouher babbled and pulled out document after document suggesting he was conducting a parallel diplomatic operation, and also proposed no plan. There were discussions about the possibility of stripping Prussia's Rhineland provinces but ministers preferred to aim for the congress. The next day Drouyn told Metternich that he thought an alliance would happen if war broke out or the congress failed.
+**18 May** (Pottinger) There was a ministerial meeting in Paris. According to Persigny, Drouyn eloquently set out the history of the crisis but proposed nothing. Rouher babbled and pulled out document after document suggesting he was conducting a parallel diplomatic operation, and also proposed no plan. There were discussions about the possibility of stripping Prussia's Rhineland provinces but ministers preferred to aim for the congress. The next day Drouyn told Metternich that he thought an alliance would happen if war broke out or the congress failed.
 
-# 19 May
+**18 May** Goltz-Bismarck: Drouyn says the French military think Austria will win.
 
-Mensdorff: mobilisation is less than half complete. Clark: in early May it was not a third ready, the earliest date for completion was 10 June but that kept getting put back.
+**19 May** Mensdorff: mobilisation is less than half complete. Clark: in early May it was not a third ready, **the earliest date for completion was 10 June** but that kept getting put back.
 
-# 20 May
+**20 May** A panicky Bodelschwingh told Bismarck that he did not have enough money for war or even enough to guarantee sufficient funds beyond 2 months.
 
-A panicky Bodelschwingh told Bismarck that he did not have enough money for war or even enough to guarantee sufficient funds beyond 2 months.
+**21 May** (Pottinger) There was a court ball where Napoleon and Metternich talked in a side room for an hour (reported by Metternich on 23/5). Metternich explained his opposition to a congress based on cession of Venetia: 'Your Majesty has just thrown on the gaming-table a card which we had furtively passed You ... the congress is the first act of hostility undertaken against Austria.' Napoleon said — you will beat Italy but I don't want to have to fight to save Italy or see it destroyed. He asked whether Vienna would accept that Venetia would be given up even if the Austrians won. Metternich was 'horrified' (Pottinger) and Napoleon said this is why we can't do a deal.
 
-# 21 May
-
-(Pottinger) There was a court ball where Napoleon and Metternich talked in a side room for an hour (reported by Metternich on 23/5). Metternich explained his opposition to a congress based on cession of Venetia: 'Your Majesty has just thrown on the gaming-table a card which we had furtively passed You ... the congress is the first act of hostility undertaken against Austria.' Napoleon said — you will beat Italy but I don't want to have to fight to save Italy or see it destroyed. He asked whether Vienna would accept that Venetia would be given up even if the Austrians won. Metternich was 'horrified' (Pottinger) and Napoleon said this is why we can't do a deal.
-
-# 22 May
-
-On 30 March a provisional offer of the Rumanian throne had been made to Prince Charles of Hohenzollern-Sigmaringen. It was confirmed by a referendum 15 April. On 22/5 Prince Charles entered Bucharest. His election was contrary to the Treaty of Paris and a sign of the crumbling old order (Mosse). It had happened with the tacit support of Bismarck and Napoleon. The acceptance by the Powers 'contrasted strikingly' (Mosse) with the Russo-Turkish occupation 17 years earlier in similar circumstances.
+**22 May** On 30 March a provisional offer of the Rumanian throne had been made to Prince Charles of Hohenzollern-Sigmaringen. It was confirmed by a referendum 15 April. On 22/5 Prince Charles entered Bucharest. His election was contrary to the Treaty of Paris and a sign of the crumbling old order (Mosse). It had happened with the tacit support of Bismarck and Napoleon. The acceptance by the Powers 'contrasted strikingly' (Mosse) with the Russo-Turkish occupation 17 years earlier in similar circumstances.
 
 Oddly, Vienna missed the fact that the Prince travelled through Vienna by boat down the Danube and missed a chance to arrest him! It turned out the Prince was too scared to do much and Vienna did not have to divert troops to deal with him, contra Bismarck's hope. (Clark p443)
 
-## The Times said that Prussia was mistaken in relying on its army and on 23 May, Italy and Prussia have made 'a strange and almost unnatural alliance'; Bismarck's policy of war is unpopular across Germany; 'the Prussian army, which is popular in its constitution and contains a large proportion of educated men, has no spirit for a war condemned by the nation, a war which can give no real glory, and the ultimate consequences of which are likely to be a great national misfortune.' The proceedings of the Bund show how the German people oppose Bismarck's policy. If war starts it is a 'probability' that it is checked by 'some political movement in Germany'. If Austria ignores 'the advice of Europe' on Venetia, 'we assume' that she will remain on the defensive, not attack. 'It is almost needless, however, to repeat that the course of events will be in the main directed by the French Emperor.' During the crisis The Times ran a series of editorials predicting disaster for Prussia. The Manchester Guardian also predicted success for Austria.
+**22 May** The Times said that Prussia was mistaken in relying on its army and on 23 May, Italy and Prussia have made 'a strange and almost unnatural alliance'; Bismarck's policy of war is unpopular across Germany; 'the Prussian army, which is popular in its constitution and contains a large proportion of educated men, has no spirit for a war condemned by the nation, a war which can give no real glory, and the ultimate consequences of which are likely to be a great national misfortune.' The proceedings of the Bund show how the German people oppose Bismarck's policy. If war starts it is a 'probability' that it is checked by 'some political movement in Germany'. If Austria ignores 'the advice of Europe' on Venetia, 'we assume' that she will remain on the defensive, not attack. 'It is almost needless, however, to repeat that the course of events will be in the main directed by the French Emperor.' During the crisis The Times ran a series of editorials predicting disaster for Prussia. The Manchester Guardian also predicted success for Austria.
 
-**22 May** What Wawro calls 'a truly spectacular intelligence coup' (p64, footnotes 52,53 for sources): FJ's spies reported that the Prussian General Staff had ordered 150 linen maps of Saxony and Bohemia which highlighted an invasion route through Görlitz and Dresden to Königgratz. Belcredi informed Mensdorff on 22nd and Benedek was told but he ignored the report. (Not in OP, JS, Gall, or I think G Craig.)
+**22 May** **What Wawro calls 'a truly spectacular intelligence coup'** (p64, footnotes 52,53 for sources): FJ's spies reported that the Prussian General Staff had ordered 150 linen maps of Saxony and Bohemia which highlighted an invasion route through Görlitz and Dresden to Königgratz. Belcredi informed Mensdorff on 22nd and Benedek was told but he ignored the report. (Not in OP, JS, Gall, or I think G Craig.)
 
 **23 May** Metternich-Mensdorff: 'The Emperor wants to induce us at all costs to yield Venice, and expects to get it either through the war or by means of the congress.' See above 21/5.
 
-**24 May** Napoleon announced that Britain and Russia supported a congress. (The French accepted that Britain could not commit in advance to forcing anybody to give up territory. Clarendon felt he could not refuse an invitation provided there were no pre-conditions.) Bismarck accepted on 29th, Austria insisted on pre-conditions that doomed it 31 May.
+**24 May** **Napoleon announced that Britain and Russia supported a congress**. (The French accepted that Britain could not commit in advance to forcing anybody to give up territory. Clarendon felt he could not refuse an invitation provided there were no pre-conditions.) **Bismarck accepted on 29th, Austria insisted on pre-conditions that doomed it 31 May.**
 
 **25 May** Moltke met Wilhelm: the deployment on the borders of Saxony and Bohemia will be done by 5 June and 'from then on we must not wait a single day before acting.' Austria will not have transported all their forces by then but 'with every succeeding day they will become stronger' and we have to worry about the French intervening. 'Military considerations make it highly desirable that our diplomacy action should come to a conclusion by 5 June.' Blumenthal attended the meeting and recorded that he thought Wilhelm was still hoping for peace but was fearful of an Austrian strike at Berlin.
 
 **25 May** FJ told Gablenz: 'it was regrettable that these proposals had not been made six or eight weeks earlier, when they would certainly have been accepted'. 26/5: FJ discussed the draft treaty with Mensdorff, Belcredi and Esterhazy and decided not to continue further negotiations unless Gablenz could persuade Bavaria or Saxony to sponsor the deal. Gablenz talked to Beust but obviously he had no interest in the plan. The Gablenz initiative was dead by the end of May. Of course, Bismarck argued to the King: Austria has abandoned negotiations and clearly wants war.
 
-There are three records of him telling people years later a fascinating detail about the secret conversations: that he proposed that Austria and Prussia join forces, attack France, capture Alsace, and make Strasbourg a federal fortress with an Austrian garrison with Prussia garrisoning Mainz. (The 3 accounts: 1880 to Dr Cohen, 1883 to Busch, 1890 to Friedjung: all three accounts agree, says Clark. This seems underweighted by historians.)
+There are three records of him telling people years later a fascinating detail about the secret conversations: that **he proposed that Austria and Prussia join forces, attack France, capture Alsace, and make Strasbourg a federal fortress with an Austrian garrison with Prussia garrisoning Mainz**. (The 3 accounts: 1880 to Dr Cohen, 1883 to Busch, 1890 to Friedjung: all three accounts agree, says Clark. This seems underweighted by historians.)
 
-In December 1866, Bismarck spoke to Count Wimpffen, sent by FJ to Berlin: '“I wish that we had shot the stag together” was Bismarck's expression. He had believed, he said, that there was a chance in the last hour before the war, when he sent Baron Gablenz to Vienna. That moment seemed to him the most appropriate time to clasp each other's hand and with guns loaded to face in another direction' (Wimpffen-Beust, 6/12/66). At the time Manteuffel was let partly into the secret and he wrote a memo 21/5 on the idea concluding: '... should France object [to this settlement] then we will have a fine war and Austria has the prospect of Milan.'
+In December 1866, Bismarck spoke to Count Wimpffen, sent by FJ to Berlin: '“**I wish that we had shot the stag together” was Bismarck's expression. He had believed, he said, that there was a chance in the last hour before the war, when he sent Baron Gablenz to Vienna. That moment seemed to him the most appropriate time to clasp each other's hand and with guns loaded to face in another direction**' (Wimpffen-Beust, 6/12/66). At the time Manteuffel was let partly into the secret and he wrote a memo 21/5 on the idea concluding: '... should France object [to this settlement] then we will have a fine war and Austria has the prospect of Milan.'
 
 Bismarck worked seriously on the draft treaty in May amid all the other demands on his time and sent the section on military arrangements to Moltke for comment. Would he have done so if it were not serious? Clark points out he went to the trouble of drafting a treaty between Prussia and Augustenburg in February 1865 despite thinking it would be unnecessary, and a treaty with Oldenburg in June 1865 for the improbable contingency that Austria would accept Oldenburg. Bismarck was an obsessive character who left no promising path unexplored — that he worked on it seriously does not mean that he thought it 'more likely than not to work out'.
 
 On 15 May Werner-Mensdorff: 'A confidential report from Count Hohenthal yesterday, which I saw, speaks of negotiations that were secretly held between Austria and Prussia on the question of the duchy; Count Bismarck, when asked about this, is said to have stated that they only took place in order to compromise Austria with regard to the medium-sized acts...' This is a characteristic comment.
 
-## On 25 May Bismarck told Karolyi: Prussia, Austria and Italy should exchange views upon a common attitude in preparation for a possible congress. He urged that Mensdorff 'appear in
+On 25 May Bismarck told Karolyi: Prussia, Austria and Italy should exchange views upon a common attitude in preparation for a possible congress. He urged that Mensdorff 'appear in Paris with the most extensive powers for concluding an agreement with Prussia' and hinted that Mensdorff should not take Biegeleben to Paris. (Karolyi was not in on the secret negotiations so did not understand the significance of the discussion.)
 
-Paris with the most extensive powers for concluding an agreement with Prussia' and hinted that
-Mensdorff should not take Biegeleben to Paris. (Karolyi was not in on the secret negotiations so
-did not understand the significance of the discussion.)
-Anton Gablenz told FJ (25/5): 'Your Majesty will presently send a representative to the congress,
-at the same time conclude the treaty with Prussia in Kiel and quickly ratify it. As soon as the
-Venetian question is brought up at the congress,Your Majesty's envoy will leave the conference
-and your Majesty will reply with the ratified treaty. Napoleon of course will be surprised but the
-sword of justice is taken from him — but history will label the Treaty of Kiel with the motto:
-revenge for Villa Franca! and revenge will be sweet and sure, for behind the Kiel treaty will stand
-a million soldiers'. This further shows that Bismarck had been talking in May to Gablenz about
-possibilities dependent on the congress happening.
-Clark thinks Bismarck's main motive was to show Wilhelm — see, I've done all I can to avoid
-war but Vienna wants it, we have no choice. Further that if Napoleon suddenly tried to intervene,
-Bismarck had an escape route. The congress was looming at this time, he could not be sure what
-Napoleon might do (as Napoleon did not know himself!). He was perhaps also thinking he could
-use the document to incriminate Austria at some point, as he did later with Benedetti. (Clark
-p419ff).
-What do I think? This was a classic example of Bismarck keeping multiple possibilities open as
-long as possible and some historians' analysis is distorted by forgetting how in May multiple
-possible futures still seemed possible to Bismarck.
+Anton Gablenz told FJ (25/5): 'Your Majesty will presently send a representative to the congress, at the same time conclude the treaty with Prussia in Kiel and quickly ratify it. As soon as the Venetian question is brought up at the congress,Your Majesty's envoy will leave the conference and your Majesty will reply with the ratified treaty. Napoleon of course will be surprised but the sword of justice is taken from him — but history will label the Treaty of Kiel with the motto: revenge for Villa Franca! and revenge will be sweet and sure, for behind the Kiel treaty will stand a million soldiers'. This further shows that Bismarck had been talking in May to Gablenz about possibilities dependent on the congress happening.
 
-1.  This secret backchannel provided him an escape route if various things happened such as a)
-    Wilhelm wobbling again, b) Napoleon and/or Britain intervening, c) a Congress proving
-    unavoidable because of Great Power pressure etc. I think because the Congress did not
-    happen, historians have not considered properly the fact that in May Bismarck had to take
-    seriously the possibility it would happen, and that a significant part of his motive in May was
-    using the Gablenz initiative to weave new combinations for this scenario.
-2.  One of his core operating principles was: try to make opponents seem unreasonable to key
-    audiences. This gave him a great chance to show Wilhelm and others that 'Austria wants war'.
-3.  It gave him a means to undermine Austria further with the middle states by making it public
-    if he chose, as per the Benedetti document in 1870.
-4.  Taking it seriously had no obvious downside. Why turn it down and let Vienna whisper more
-    strongly to Wilhelm via different channels 'you are being dragged into a dishonourable war
-    by Bismarck'?
-    Clark: It was perhaps a missed opportunity. If the Gablenz initiative had started 2 months earlier
-    before the generals and armies came to the foreground then perhaps it could have worked. For
-    FJ prestige ranked higher than a province and he felt he could not give in to threats, though he
-    might have done a secret deal that allowed him to claim his honour intact. In the end, FJ was
-    right to reject the deal that emerged. Bismarck watered down then removed the secret protocol
-    giving Austria defence against France. The deal was much more skewed to Prussia. It would have
-    alienated Austria's German allies without solving the Italian problem, overstretching the empire
-    and leaving FJ vulnerable to revolts everywhere. But the manner of the rejection was not adroit.
-    Clark thinks Mensdorff and Esterhazy probably did not take the talks too seriously and were
-    stringing them out to buy time and prevent a surprise attack. E.g Mensdorff to Bloomfield 12/5:
-    'Count Bismarck's plans have been too long and too deeply laid to admit of sufficient
-    modification at the last moment ... to be reconcilable with the interests of the Austrian Empire.'
-    Clark also quotes a letter from Anton von Gablenz to Wilhelm on 25th in which he wrote that FJ
-    had told him with a sigh that Bismarck had many traits he 'regarded highly' but 'one must never
-    trust him and in this country one cannot forgive him for setting Italy upon us'.
-    25 May Mensdorff told UK and Russia: we cannot accept Venetia as part of the discussion in a
-    Congress, and said it should first discuss the duchies which were the source of the problem.
-    25 May Blome-Mensdorff: Pfordten considers his mediation ended and now wants the long-
-    postponed diplomatic initiative.
+Clark thinks Bismarck's main motive was to show Wilhelm — see, I've done all I can to avoid war but Vienna wants it, we have no choice. Further that if Napoleon suddenly tried to intervene, Bismarck had an escape route. The congress was looming at this time, he could not be sure what Napoleon might do (as Napoleon did not know himself!). He was perhaps also thinking he could use the document to incriminate Austria at some point, as he did later with Benedetti. (Clark p419ff).
 
----
+What do I think? This was a classic example of Bismarck keeping multiple possibilities open as long as possible and some historians' analysis is distorted by forgetting how in May multiple possible futures still seemed possible to Bismarck.
 
-# 26 May
+1.  This secret backchannel provided him an escape route if various things happened such as a) Wilhelm wobbling again, b) Napoleon and/or Britain intervening, c) a Congress proving unavoidable because of Great Power pressure etc. I think because the Congress did not happen, historians have not considered properly the fact that in May Bismarck had to take seriously the possibility it would happen, and that a significant part of his motive in May was using the Gablenz initiative to weave new combinations for this scenario.
 
-Crown Council. Stosch attended and wrote his account in a letter to his wife: 'Bismarck gave hints that the war must decisively achieve the rounding off of Prussian territory. That caused the Crown Prince to ask whether there was an intention to annex territory... The King answered angrily that there is no question of war yet and still less of deposing German princes. He wants peace... Bismarck was by far the clearest and sharpest. I became convinced that he had brought about the whole situation in order to encourage the King to be more warlike... The meeting went on for three hours and as we came out the Crown Prince said “we know no more than we did before. The King will not, Bismarck will.”' But Stosch added that Bismarck would soon go to the conference in Paris and 'people see that as decisive because by his absence he loses his power over the King and his opponents, whose number grows each day, gain ground'. (JS, p245)
+2.  One of his core operating principles was: try to _make opponents seem unreasonable to key audiences_. This gave him a great chance to show Wilhelm and others that 'Austria wants war'.
+
+3.  It gave him a means to undermine Austria further with the middle states by making it public if he chose, as per the Benedetti document in 1870.
+
+4.  Taking it seriously had no obvious downside. Why turn it down and let Vienna whisper more strongly to Wilhelm via different channels 'you are being dragged into a dishonourable war by Bismarck'?
+
+Clark: It was perhaps a missed opportunity. If the Gablenz initiative had started 2 months earlier before the generals and armies came to the foreground then perhaps it could have worked. For FJ prestige ranked higher than a province and he felt he could not give in to threats, though he might have done a secret deal that allowed him to claim his honour intact. In the end, FJ was right to reject the deal that emerged. Bismarck watered down then removed the secret protocol giving Austria defence against France. The deal was much more skewed to Prussia. It would have alienated Austria's German allies without solving the Italian problem, overstretching the empire and leaving FJ vulnerable to revolts everywhere. But the manner of the rejection was not adroit. Clark thinks Mensdorff and Esterhazy probably did not take the talks too seriously and were stringing them out to buy time and prevent a surprise attack. E.g Mensdorff to Bloomfield 12/5: 'Count Bismarck's plans have been too long and too deeply laid to admit of sufficient modification at the last moment ... to be reconcilable with the interests of the Austrian Empire.' 
+
+Clark also quotes a letter from Anton von Gablenz to Wilhelm on 25th in which he wrote that FJ had told him with a sigh that Bismarck had many traits he 'regarded highly' but 'one must never trust him and in this country one cannot forgive him for setting Italy upon us'. 25 May Mensdorff told UK and Russia: we cannot accept Venetia as part of the discussion in a Congress, and said it should first discuss the duchies which were the source of the problem. 
+
+**25 May** Blome-Mensdorff: Pfordten considers his mediation ended and now wants the long- postponed diplomatic initiative.
+
+**26 May** Crown Council. Stosch attended and wrote his account in a letter to his wife: 'Bismarck gave hints that the war must decisively achieve the rounding off of Prussian territory. That caused the Crown Prince to ask whether there was an intention to annex territory... The King answered angrily that there is no question of war yet and still less of deposing German princes. He wants peace... Bismarck was by far the clearest and sharpest. I became convinced that he had brought about the whole situation in order to encourage the King to be more warlike... The meeting went on for three hours and as we came out the Crown Prince said “we know no more than we did before. The King will not, Bismarck will.”' But Stosch added that Bismarck would soon go to the conference in Paris and 'people see that as decisive because by his absence he loses his power over the King and his opponents, whose number grows each day, gain ground'. (JS, p245)
 
 Gordon Craig dates this Crown Council as 25th. Moltke wanted Wilhelm to declare war as soon as rail movements were complete on or about 5 June and Roon urged this to the King but Wilhelm not only turned this down but refused Bismarck's request to send an ultimatum to Saxony offering neutrality or invasion (p33). (I suspect different accounts are confusing one meeting on 25th.)
 
