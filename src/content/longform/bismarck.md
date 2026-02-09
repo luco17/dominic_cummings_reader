@@ -6769,7 +6769,7 @@ He wrote (Memoirs) that he had 'overestimated' the danger of a war with France a
 
 **29 August** Disraeli warned Derby about 'the obstinacy with which the Admiralty has declined building iron ships'.
 
-**1 September** Drouyn resigned, replaced by Moustier as Foreign Secretary — cf. Eyck above — this happened because of Bismarck leaking details to a French paper. According to Millman, Goltz informed Bismarck of the change on 30/8. Mosse: Drouyn resigned on 31st and Cowley informed Stanley of the switch to Moustier. Mosse: the change was unpopular in St Petersburg as Moustier was seen as pro-Turk and anti-Russia.
+**1 September** **Drouyn resigned, replaced by Moustier as Foreign Secretary** — cf. Eyck above — this happened because of Bismarck leaking details to a French paper. According to Millman, Goltz informed Bismarck of the change on 30/8. Mosse: Drouyn resigned on 31st and Cowley informed Stanley of the switch to Moustier. Mosse: the change was unpopular in St Petersburg as Moustier was seen as pro-Turk and anti-Russia.
 
 Cowley was scathing about Moustier — he 'prefers the society of ballet dancers to all others' and is a 'bird of a feather' with Napoleon (22/9). (Millman says by now Cowley was old and deaf, disliked Moustier and distrusted Napoleon, and wanted to retire and only stayed at Stanley's request.) Eyck says that Rouher, minister of state, took over the negotiations — not Moustier.
 
@@ -6777,84 +6777,45 @@ Cowley was scathing about Moustier — he 'prefers the society of ballet dancers
 
 **1 September** Bismarck told Loftus: 'Prussia had no personal interest or wish with respect to Luxembourg... Prussia was quite ready ... to withdraw her garrison ... and we are prepared for any arrangement which may be agreeable to the King'.
 
-Bismarck speech to Landtag on Indemnity: 'The more sincerely the Royal Government wishes for peace, the more its members feel the obligation to abstain from any kind of retrospective criticism, be it in the form of defence or attacks. Over the past four years, we have frequently advocated our respective viewpoints on both sides, sometimes with more bitterness than goodwill, and in these four years, no one has succeeded in convincing the other. Each protagonist believed he was correct in acting the way he did. In external affairs, too, it would be difficult for a peace agreement to materialise if one demanded that it be preceded by the one side acknowledging: “I now accept the fact that I have acted wrongly.” We wish for this peace, but not because we are unable to fight; on the contrary, the tide is more in our favour today than it was years ago. We do not wish for peace to evade possible prosecution under a future law on [ministerial] responsibility; I don't believe we'll be charged - but if it does come to that, I don't believe we'll be convicted. Be that as it may, our ministry has been accused of many things, but fearfulness has never been one of them.
+**1 September** Bismarck speech to Landtag on Indemnity: 'The more sincerely the Royal Government wishes for peace, the more its members feel the obligation to abstain from any kind of retrospective criticism, be it in the form of defence or attacks. **Over the past four years, we have frequently advocated our respective viewpoints on both sides, sometimes with more bitterness than goodwill, and in these four years, no one has succeeded in convincing the other**. Each protagonist believed he was correct in acting the way he did. In external affairs, too, it would be difficult for a peace agreement to materialise if one demanded that it be preceded by the one side acknowledging: “I now accept the fact that I have acted wrongly.” We wish for this peace, but not because we are unable to fight; on the contrary, the tide is more in our favour today than it was years ago. We do not wish for peace to evade possible prosecution under a future law on [ministerial] responsibility; I don't believe we'll be charged - but if it does come to that, I don't believe we'll be convicted. Be that as it may, our ministry has been accused of many things, but fearfulness has never been one of them.
 
-'We wish for peace because in our view the fatherland currently needs it more than ever before;
-we wish for it and seek it especially because we believe we can find it at the present moment; we
-would have sought it earlier if we had had hopes of finding it then; we believe we can find it
-because you will have recognised that the Royal Government is closer to the tasks to which
-the majority of you are also committed than you may have thought it to be earlier; closer
-than the government's silence about things that must be kept silent would entitle you to
-believe.
+'We wish for peace because in our view the fatherland currently needs it more than ever before; we wish for it and seek it especially because we believe we can find it at the present moment; we would have sought it earlier if we had had hopes of finding it then; we believe we can find it because **you will have recognised that the Royal Government is closer to the tasks to which the majority of you are also committed than you may have thought it to be earlier; closer than the government's silence about things that must be kept silent would entitle you to believe**.
 
-'For this reason, we believe we can find peace, and we are seeking it honestly; we have held out our
-hand to you, and the committee report gives us the guarantee that you will shake this hand. We will
-then solve the tasks that have to be solved in cooperation with you; I certainly do not exclude
-from these tasks improvements in the domestic fulfilment of promises made in the constitution.
-However, we will only be able to solve them jointly by recognising, on both sides, that both sides
-are in fact serving the fatherland with the same good will, and we must do so without doubting the
-other's sincerity.
+'For this reason, we believe we can find peace, and we are seeking it honestly; we have held out our hand to you, and the committee report gives us the guarantee that you will shake this hand. We will then solve the tasks that have to be solved in cooperation with you; I certainly do not exclude from these tasks improvements in the domestic fulfilment of promises made in the constitution. However, we will only be able to solve them jointly by recognising, on both sides, that both sides are in fact serving the fatherland with the same good will, and we must do so without doubting the other's sincerity.
 
-'At this moment, though, the tasks of foreign policy still remain unresolved; the brilliant successes
-of our army have only, as it were, raised the stakes, and we have more to lose than before, but the
-game is not won yet; the more firmly we stick together at home, the surer we are to win it. [...]
+'At this moment, though, the tasks of foreign policy still remain unresolved; the brilliant successes of our army have only, as it were, raised the stakes, and we have more to lose than before, but the game is not won yet; the more firmly we stick together at home, the surer we are to win it. [...]
 
-'If it is commonplace to say, “What the sword won, the pen spoiled,” then I have complete
-confidence that we will never have to hear, “What sword and pen have won has been destroyed
-from this rostrum.”...'
+'If it is commonplace to say, “What the sword won, the pen spoiled,” then I have complete confidence that we will never have to hear, “What sword and pen have won has been destroyed from this rostrum.”...'
 
-**3 September** Indemnity Bill passed. Memoirs — he wanted to show the world as united a domestic
-front as possible. He wanted to remove not just 'internal dissensions' but also 'any appearance of
-such a thing'. If we could gain independence and security, 'we should then be able to move freely in
-our internal development and to organise our institutions in as liberal or reactionary a manner as
-should seem right and fitting.' Until security was clear, he was prepared to pay 'blackmail' to the
-opposition in order to be able to throw Prussia's full weight into the scale including 'the possibility
-of letting loose national revolutionary movements against our enemies.'
+**3 September** **Indemnity Bill passed**. Memoirs — he wanted to show the world as united a domestic front as possible. He wanted to remove not just 'internal dissensions' but also 'any appearance of such a thing'. If we could gain independence and security, 'we should then be able to move freely in our internal development and to organise our institutions in as liberal or reactionary a manner as should seem right and fitting.' Until security was clear, he was prepared to pay 'blackmail' to the opposition in order to be able to throw Prussia's full weight into the scale including 'the possibility of letting loose national revolutionary movements against our enemies.'
 
-**13 September** Malmesbury warned Derby: he had 'been for a long time anxious about the state of our
-navy which ... does not bear nearly the same relative position as regards other navies which it
-formerly did'.
+**13 September** Malmesbury warned Derby: he had 'been for a long time anxious about the state of our navy which ... does not bear nearly the same relative position as regards other navies which it formerly did'.
 
 **15 September** Benedetti back from holidays, tried to see Bismarck, told latter too ill to see him.
 
-**15 September** Stanley thought 'the final collapse' of Turkey in Crete may be near. Lyons told him (19th) this
-was wrong and the rebel cause was hopeless. On 25 September Stanley wrote to Cowley, 'I do not
-believe in the Turkish Empire: it seems to be worn out and unable to maintain itself.' Sadly Greece
-is 'bankrupt, anarchical, without an honest politician or a class which can be trusted with power. I
-see no natural heir to the sick man.'
+**15 September** Stanley thought 'the final collapse' of Turkey in Crete may be near. Lyons told him (19th) this was wrong and the rebel cause was hopeless. On 25 September Stanley wrote to Cowley, 'I do not believe in the Turkish Empire: it seems to be worn out and unable to maintain itself.' Sadly Greece is 'bankrupt, anarchical, without an honest politician or a class which can be trusted with power. I see no natural heir to the sick man.'
 
-**16 September** Derby-Disraeli: 'I am coming reluctantly to the conclusion that we shall have to deal with
-the question of Reform.' Possibly influenced by continuing level of protests and meetings from the
-pro-reform movement (Blake). Disraeli and Cranborne were not convinced. Discussions continued
-through October-December. They didn't want to say No to any reform, and therefore provoke opponents to
-unite. So they looked to delay and keep opponents divided. Discussions ran on into the new year.
+**16 September** Derby-Disraeli: 'I am coming reluctantly to the conclusion that we shall have to deal with the question of Reform.' Possibly influenced by continuing level of protests and meetings from the pro-reform movement (Blake). Disraeli and Cranborne were not convinced. Discussions continued through October-December. They didn't want to say No to any reform, and therefore provoke opponents to unite. So they looked to delay and keep opponents divided. Discussions ran on into the new year.
 
-**16 September** France issued a circular. It welcomed the destruction of the 1815 system and the breakup
-of the coalition of the northern courts. It stated: 'An irresistible power ... pushes people to unify in
-
----
-
-Large agglomerations by making the secondary states disappear.' This was a hint that France would push for border changes on the principle of nationality.
+**16 September** France issued a circular. It welcomed the destruction of the 1815 system and the breakup of the coalition of the northern courts. It stated: 'An irresistible power ... pushes people to unify in large agglomerations by making the secondary states disappear.' This was a hint that France would push for border changes on the principle of nationality.
 
 **20 September** Cowley to Stanley: Napoleon is 'a man, who thinks that no promise, however securely made, is binding under altered circumstances' so 'no precautions one can take can be of much avail'.
 
 **20 September** Wilhelm promoted Bismarck to Major General.
 
-?21 September Victory parades in Berlin. (JS & OP: 21st (photo below says 21st. EF says 20th and a note from Wilhelm suggests 20th. Maybe lasted 2 days?!) Bismarck rode with Moltke and Roon in front of Wilhelm's carriage. 22/9 The Times editorial: 'Well may the Prussian people enjoy their round and happy day. The army is part of them. It is “the Prussian nation in arms”. That nation did not go forth impelled by lust of conquest, or even by love of strife and adventure... They thought of nothing but what they owed to King and country.'
+**?21 September** Victory parades in Berlin. (JS & OP: 21st (photo below says 21st. EF says 20th and a note from Wilhelm suggests 20th. Maybe lasted 2 days?!) Bismarck rode with Moltke and Roon in front of Wilhelm's carriage. 22/9 The Times editorial: 'Well may the Prussian people enjoy their round and happy day. The army is part of them. It is “the Prussian nation in arms”. That nation did not go forth impelled by lust of conquest, or even by love of strife and adventure... They thought of nothing but what they owed to King and country.'
 
-**26 September** Keyserling-Bismarck: Gorchakov is talking very positively re our friendship and alliance. On 15/10 Gorchakov wrote to Bismarck personally, inquiring after his health and stressing 'de notre détermination d'entretenir avec la Prusse les relations les plus intimes' (our determination to maintain the most intimate relations with Prussia). Mosse: this was probably connected to a) the uncertain relations with Austria and France, and b) Gorchakov's plotting to denounce the Black Sea clauses and his
+**26 September** Keyserling-Bismarck: Gorchakov is talking very positively re our friendship and alliance. On 15/10 Gorchakov wrote to Bismarck personally, inquiring after his health and stressing 'de notre détermination d'entretenir avec la Prusse les relations les plus intimes' (our determination to maintain the most intimate relations with Prussia). Mosse: this was probably connected to a) the uncertain relations with Austria and France, and b) Gorchakov's plotting to denounce the Black Sea clauses and his view on the likely dismemberment of Turkey. He had drafted notes denouncing the clauses but although the Tsar initially approved them, in a Council with the Tsar, the ministers of war and finance, The Grand Duke et al — his plan was successfully opposed as too dangerous. The date is apparently lost but is believed to be the last week of September. Gorchakov told Oubril (November) that he would return to the issue when the Franco-Prussian war, which he expected, materialised and he did indeed use these drafts in October 1870. (Mosse p257)
 
-View on the likely dismemberment of Turkey. He had drafted notes denouncing the clauses but although the Tsar initially approved them, in a Council with the Tsar, the ministers of war and finance, The Grand Duke et al — his plan was successfully opposed as too dangerous. The date is apparently lost but is believed to be the last week of September. Gorchakov told Oubril (November) that he would return to the issue when the Franco-Prussian war, which he expected, materialised and he did indeed use these drafts in October 1870. (Mosse p257)
-
-**26 September**-1 December Bismarck retreated to the countryside to recover and think. 26/9 he went to his cousin's at Karlsburg then on 6/10 to Putbus (on the Baltic). There he wrote the 'Putbus Dictates' (30 October & 19 November) on the new constitution for the NGC.
+**26 September-1 December** **Bismarck retreated to the countryside to recover and think**. 26/9 he went to his cousin's at Karlsburg then on 6/10 to Putbus (on the Baltic). There he wrote the 'Putbus Dictates' (30 October & 19 November) on the new constitution for the NGC.
 
 The idea that he drafted the entire Constitution over a few days in December is false. He got ideas from Wagener, Max Duncker, von Savigny and others.
 
 EF: Bucher and others had prepared drafts but after Bucher described his work Bismarck hardly listened then started dictating.
 
-In the Putbus dictates he wrote, 'In form we shall have to stick more to the confederation of states [Staatenbund] while in practice giving it the character of a federal state [Bundestaat] with elastic, inconspicuous but far-reaching forms of words... The more easily we continue the previous forms, the more easily can the thing be done, whereas an attempt to have a fully formed Minerva spring forth from the head of the Presidium will run it aground in professorial disputations.' (NB: 'elastic, inconspicuous but far-reaching' — very Bismarck — as was 'professorial' as a term of abuse.) He also insisted on 'no attendance fees, no delegates, no census, unless the latter goes to the lengths described above [very severe property qualification].' He attacked attendance fees: 'Attendance fees mean paying the educated proletariat for the professional practice of demagogy.' In negotiating the details, he was flexible. He was concerned to avoid 'the grave hindrance inherent in the friction of the artificial machinery of the constitutional state' (as he put it in February 1869). See December debates.
+In the Putbus dictates he wrote, '**In form we shall have to stick more to the confederation of states [Staatenbund] while in practice giving it the character of a federal state [Bundestaat] with elastic, inconspicuous but far-reaching forms of words... The more easily we continue the previous forms, the more easily can the thing be done, whereas an attempt to have a fully formed Minerva spring forth from the head of the Presidium will run it aground in professorial disputations**.' (NB: 'elastic, inconspicuous but far-reaching' — very Bismarck — as was 'professorial' as a term of abuse.) He also insisted on 'no attendance fees, no delegates, no census, unless the latter goes to the lengths described above [very severe property qualification].' He attacked attendance fees: '**Attendance fees mean paying the educated proletariat for the professional practice of demagogy**.' In negotiating the details, he was flexible. **He was concerned to avoid 'the grave hindrance inherent in the friction of the artificial machinery of the constitutional state**' (as he put it in February 1869). See December debates.
 
-Early October (Mosse) Austria appointed a Pole to be Governor of Galicia which was seen as an insult in St Petersburg. 7/11 Revertera reported the noise about this was dying down and the time was good for a proposal re joint action in the east.
+**Early October** (Mosse) Austria appointed a Pole to be Governor of Galicia which was seen as an insult in St Petersburg. 7/11 Revertera reported the noise about this was dying down and the time was good for a proposal re joint action in the east.
 
 **6 October** Werther reported to Bismarck from Vienna that there were some signs that Austria was reorienting policy to the East: 'Has she finally understood that her future is not in Germany but in the East?'
 
@@ -6866,67 +6827,28 @@ Early October (Mosse) Austria appointed a Pole to be Governor of Galicia which w
 
 **22 October** 'The French must retain hope and especially faith in our good will without giving them definite commitments.'
 
-**23 October** Disraeli: no department should exceed the estimates of 1866-7. Stanley and Disraeli
-opposed expanding army despite the summer war.
+**23 October** Disraeli: no department should exceed the estimates of 1866-7. Stanley and Disraeli opposed expanding army despite the summer war.
 
 **27 October** Goltz told Thile that with Bismarck away he could not provide answers on Luxembourg.
 
-**30 October** Mensdorff replaced by Beust in Vienna. Beust had been foreign minister for Saxony,
-Bismarck's refusal to deal with him in negotiating peace led to his dismissal there. (See 22/8 for FJ
-motives.) In February 1867 he was also appointed Austrian minister-president and in June Imperial
-Chancellor. He was set on overturning Prussia's success. He worked to create the Dual Monarchy
-as he knew Austria had to sort out its internal chaos first. He hoped it would appeal to German
-liberals. However, the Hungarians had no interest in fighting with Prussia over Germany. Few in
-Vienna wanted another war against Prussia. Most thought instead that Vienna should try to profit
-from a war between Prussia and France. Beust hoped to embroil Prussia in an eastern war instead.
-Mosse: his appointment was unpopular in St Petersburg, Gorchakov complained to Buchanan that
-Beust would try to get an alliance with France and disturb the peace of Europe again.
+**30 October** **Mensdorff replaced by Beust in Vienna**. Beust had been foreign minister for Saxony, Bismarck's refusal to deal with him in negotiating peace led to his dismissal there. (See 22/8 for FJ motives.) In February 1867 he was also appointed Austrian minister-president and in June Imperial Chancellor. He was set on overturning Prussia's success. He worked to create the Dual Monarchy as he knew Austria had to sort out its internal chaos first. He hoped it would appeal to German liberals. However, the Hungarians had no interest in fighting with Prussia over Germany. Few in Vienna wanted another war against Prussia. Most thought instead that Vienna should try to profit from a war between Prussia and France. Beust hoped to embroil Prussia in an eastern war instead. Mosse: his appointment was unpopular in St Petersburg, Gorchakov complained to Buchanan that Beust would try to get an alliance with France and disturb the peace of Europe again.
 
-**November** Bismarck impounded all funds and properties of the Guelph dynasty. He then
-negotiated a deal with the King then living in Vienna. For the return of millions shipped to Britain
-before the war, Bismarck offered millions invested in Prussian securities (and some other
-properties/securities) to remain in Prussian control until Georg abdicated. Georg had no intention
-of abdicating but accepted the deal. The Bill went through the Landtag (with difficulty) on
-18/2/1868. That day, Georg said publicly in Vienna that he hoped God would restore his reign and
-Hanoverian independence. Bismarck took back control of all funds and declared he would use the
-income to counter Guelph subversion. This was approved by the Landtag in February 1869. This
-created 'the reptile fund' which gave Bismarck an annual income of over a million marks to spend
-as he wished with no supervision. He used it for his espionage network, to bribe journalists and
-editors, help colleagues, and bribe all sorts of characters (including bishops and cardinals to help
-end the Kulturkampf). (Pflanze 2p101) Stern: Until 1872 Keudell managed the fund from the FO and
-Bleichröder was involved. All records were destroyed in 1872 (check) and most of Bleichröder's
-involvement is lost.
+**November** **Bismarck impounded all funds and properties of the Guelph dynasty**. He then negotiated a deal with the King then living in Vienna. For the return of millions shipped to Britain before the war, Bismarck offered millions invested in Prussian securities (and some other properties/securities) to remain in Prussian control until Georg abdicated. Georg had no intention of abdicating but accepted the deal. The Bill went through the Landtag (with difficulty) on 18/2/1868. That day, Georg said publicly in Vienna that he hoped God would restore his reign and Hanoverian independence. Bismarck took back control of all funds and declared he would use the income to counter Guelph subversion. This was approved by the Landtag in February 1869. This created 'the reptile fund' which gave Bismarck an annual income of over a million marks to spend as he wished with no supervision. He used it for his espionage network, to bribe journalists and editors, help colleagues, and bribe all sorts of characters (including bishops and cardinals to help end the Kulturkampf). (Pflanze 2p101) Stern: Until 1872 Keudell managed the fund from the FO and Bleichröder was involved. All records were destroyed in 1872 (check) and most of Bleichröder's involvement is lost.
 
-**7 November** Revertera reported to Vienna that Russia feared an Austro-French rapprochement over
-Turkey.
+**7 November** Revertera reported to Vienna that Russia feared an Austro-French rapprochement over Turkey.
 
-**9 November** Cowley to Stanley: the tension between Prussia and France will probably die down because
-'either the most bloody war will be waged ... or the people will revolt against the Gov[ernment]s
-on account of such heavy taxation'. Lotus agreed about the taxation dynamic. The Palmerston
-generation was more optimistic. However in the course of 1867 this initial optimism was replaced
-by a more fatalistic attitude. (Otte)
+**9 November** Cowley to Stanley: the tension between Prussia and France will probably die down because 'either the most bloody war will be waged ... or the people will revolt against the Gov[ernment]s on account of such heavy taxation'. Lotus agreed about the taxation dynamic. The Palmerston generation was more optimistic. However in the course of 1867 this initial optimism was replaced by a more fatalistic attitude. (Otte)
 
-**15 November** (WAF) Benedetti returned to Berlin after his holiday and a trip to Paris. On 16/11 he
-spoke to Thile at the Foreign Office and was encouraged by their discussion. On 19/11 he spoke to
-Wilhelm and was discouraged. He complained to the new Austrian envoy, Karolyi's successor,
-Count Felix von Wimpffen, that Wilhelm was blinded by success, not frank in relations with others,
-he feared closer relations between Prussia and Russia, and said he wanted closer relations between
-France and Austria. Countess Marie Bismarck-Keudell (19/11): Bismarck does not intend to be
-disturbed further by Benedetti in whom he has lost confidence.
+**15 November** (WAF) Benedetti returned to Berlin after his holiday and a trip to Paris. On 16/11 he spoke to Thile at the Foreign Office and was encouraged by their discussion. On 19/11 he spoke to Wilhelm and was discouraged. He complained to the new Austrian envoy, Karolyi's successor, Count Felix von Wimpffen, that Wilhelm was blinded by success, not frank in relations with others, he feared closer relations between Prussia and Russia, and said he wanted closer relations between France and Austria. Countess Marie Bismarck-Keudell (19/11): Bismarck does not intend to be disturbed further by Benedetti in whom he has lost confidence.
 
-**27 November** Stanley to Cowley: 'France and Germany may fight out their quarrel with little harm
-to us.'
+**27 November** Stanley to Cowley: 'France and Germany may fight out their quarrel with little harm to us.'
 
-**December** Bismarck told von Wimpffen that he wanted an 'intimate understanding' with Austria, he
-regretted the failure of the Gablenz mission and that the two had not formed a common front
-against France and 'shot the deer together', and so on.
+**December** Bismarck told von Wimpffen that he wanted an 'intimate understanding' with Austria, he regretted the failure of the Gablenz mission and that the two had not formed a common front against France and 'shot the deer together', and so on.
 
-**December** Bismarck returned to Berlin and completed his draft Constitution between 1-8
-**December** (Pflanze). He presented his draft to Wilhelm et al on 9 December giving
+**December** **Bismarck returned to Berlin and completed his draft Constitution between 1-8**
+**December** (Pflanze). **He presented his draft to Wilhelm et al on 9 December giving
 everybody very little time to argue before the special conference of governments on 15
-**December**.
-
----
+December**.
 
 'Seldom in history has a constitution been so clearly the product of the thought and will of a single individual... He wished to repeat in the North German Confederation the basic power arrangement of the Prussian state and thereby perpetuate the conservative order in the larger political context created by Prussian conquest [and to] circumvent the collegial structure of the Prussian cabinet in order to build up his own authority as the chief minister... It united the forces of German nationalism and particularism, and solved the problem of uniting states of disproportionate size. Planned as the first stage toward small-German unity, its national features were intended to attract southern peoples and its federal ones to reassure their governments... The essence of the Bismarckian constitution was its perpetuation, by the use of revolutionary means, of the Prussian aristocratic-monarchical order in a century of increasingly dynamic economic and social change... Pressure would be met by counterpressure: the nation against the dynasties, the confederation against Prussia, Reichstag against Bundesrat, parliament against parliament, centralism against particularism, the centripetal against the centrifugal' (OP p342).
 
