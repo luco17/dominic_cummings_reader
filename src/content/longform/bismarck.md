@@ -6956,7 +6956,9 @@ _Das Kapital_, Karl Marx. Two further volumes 1885 and 1894.
 
 In 1867 'the mirage of a Franco-Russian arrangement in the East flickered across the diplomatic horizon' (Otte). Britain's post-Crimea containment of Russia required a strong navy and diplomatic cooperation with France. There were also fears about Balkan instability and the potential for the collapse of Ottoman rule there to give Russia chances. From the mid-1860s diplomats thought that Russia was stirring up trouble in the Balkans and elsewhere against the Ottoman Empire: Hammond referred to Gorchakov as 'most odious' and Ignatiev was seen as a menace. Crete was unstable. Everyone knew Russia was looking for a chance to ditch the Treaty of Paris framework. Lack of support for Turkey over Crete and on the Danube meant Britain lost influence with Turkey and Russia sought to capitalise. The FO assumption was that if the West could be kept quiet, then it would be much easier for Britain and France to cooperate on the East. By early 1867 there was a growing fatalism about a future war between Prussia and France. (Otte)
 
-During January Stanley had to deal with some unwelcome complications from the Crete revolt, including Austria suddenly suggesting the abrogation of the demilitarisation of the Black Sea and a conference on the Eastern Question. Stanley rejected it. End December / early January Reports in London re Bismarck's alliances with south Germany. Loftus told Stanley he believed that Bavaria and others are bound in the event of an attack by France on Prussia to put their militaries at Prussia's disposal. Lots of rumours buzzing around about the status and terms of such deals.
+During January Stanley had to deal with some unwelcome complications from the Crete revolt, including Austria suddenly suggesting the abrogation of the demilitarisation of the Black Sea and a conference on the Eastern Question. Stanley rejected it.
+
+**End December / early January** Reports in London re Bismarck's alliances with south Germany. Loftus told Stanley he believed that Bavaria and others are bound in the event of an attack by France on Prussia to put their militaries at Prussia's disposal. Lots of rumours buzzing around about the status and terms of such deals.
 
 **1 January** Beust-Metternich: The Treaty of Paris is out of date, we should propose a conference to discuss the East and the rights of Turkey's Christian subjects, we should impose a plan on the Porte, the Black Sea clauses should be lifted. This was not welcome in Paris. Moustier feared too close an understanding with Austria and Russia and Napoleon didn't want a general congress on the Eastern question — he preferred a conference in Vienna on the immediate problems of Crete and Serbia. When Gorchakov heard of the back-and-forth between Paris and Vienna later in January, he thought that Beust's suggestions about the Black Sea were inopportune, he disliked the idea of a conference which would be too slow. By the end of January it was clear Gorchakov and Beust could not agree on a plan for the East and discussions between Gorchakov-Moustier/Napoleon also seemed to flounder in February — Napoleon wanted Russian support in the west but would not be specific, and was keeping his plans on Lux/Belgium secret (Mosse p259-61).
 
@@ -6968,13 +6970,11 @@ During January Stanley had to deal with some unwelcome complications from the Cr
 
 **10 January** Stanley to Grey: 'I have no doubt that [Bismarck] ... would be glad to see Belgium sacrificed, if that act would avert the jealousy so generally felt in France ... and thus save Germany from being involved in war, which, as matters stand, seems to be a very possible event... I do not mean that it seems to be probable. I should say the chances were considerably against it. Still it is on the cards: & I do not believe that a French invasion of Belgium is'.
 
-## 11 January Benedetti-Moustier: Bismarck says Wilhelm is opposed to withdrawing the Prussian garrison and Bismarck repeats that France should organise demonstrations there. Bismarck stressed he still
+**11 January** Benedetti-Moustier: Bismarck says Wilhelm is opposed to withdrawing the Prussian garrison and Bismarck repeats that France should organise demonstrations there. Bismarck stressed he still wanted a deal, complained of illness and the king as usual. Benedetti: we can't proceed in Luxembourg unless we have a guarantee from you. Benedetti was not encouraged. But in Paris they decided to press on with an initiative in Luxembourg.
 
-Wanted a deal, complained of illness and the king as usual. Benedetti: we can't proceed in Luxembourg unless we have a guarantee from you. Benedetti was not encouraged. But in Paris they decided to press on with an initiative in Luxembourg.
+**14 January** **Bismarck wrote to Bernstorff: Belgium is of little importance to Prussia and is a pawn to be used either by offering it to Napoleon in return for further Prussian gains, or by using the threat of such a deal to win British support against France**. When asked by Stanley if Bismarck and Napoleon had done a deal on Belgium, Bernstorff said no.
 
-**14 January** Bismarck wrote to Bernstorff: Belgium is of little importance to Prussia and is a pawn to be used either by offering it to Napoleon in return for further Prussian gains, or by using the threat of such a deal to win British support against France. When asked by Stanley if Bismarck and Napoleon had done a deal on Belgium, Bernstorff said no.
-
-**15 January** In Upper House: 'A great state is not governed in accordance with party opinions; the sum total of the parties existing in the country has to be carefully weighed and out of that a line drawn that a government as such can pursue.'
+**15 January** **In Upper House: 'A great state is not governed in accordance with party opinions; the sum total of the parties existing in the country has to be carefully weighed and out of that a line drawn that a government as such can pursue.'**
 
 **17 January** Benedetti told Bismarck that France would organise some manifestations in Luxembourg, Bismarck warned they should not be of an anti-Prussian character. He said he'd asked Moltke to consider the importance of Luxembourg for Prussia's defence.
 
@@ -6984,119 +6984,67 @@ Wanted a deal, complained of illness and the king as usual. Benedetti: we can't 
 
 **31 January** (OP p383ff) Bismarck outlined his plan for a constitutional alliance to von Spitzemberg, Bavarian minister at Berlin (cf. 31/12/66). Varnbüler was favourable. Bismarck hoped to pressure Hohenlohe through him. Although Hohenlohe was personally favourable, opposition in Munich was too strong and he rejected it. In February Hohenlohe began to insist that for Berlin the key to the south lay in Vienna with regard to Bavaria's acceptance of the wider confederation and her support in the Luxembourg crisis. The fear of Prussian hegemony and a Franco-Austria alliance would be allayed by agreement between Berlin and Vienna. (Of course, this development was an example of exactly why Bismarck had made such a generous peace with Austria, to allow such possibilities to flourish. Cf. his comments to Wimpffen in December about his regrets about the failure of the Gablenz mission.)
 
-**February**-Spring The British government was consumed with debates over a new Reform Bill. Also in the first half of the year Derby had to worry about Victoria's increasing isolation, refusal to participate in events, public hostility, rumors about her relationship with John Brown etc.
+**February-Spring** The British government was consumed with debates over a new Reform Bill. Also in the first half of the year Derby had to worry about Victoria's increasing isolation, refusal to participate in events, public hostility, rumors about her relationship with John Brown etc.
 
 **2 February** After months of complaining about waste and stupidity in the Admiralty, Disraeli had concluded that only the PM, nobody else, could enforce serious change: 'The Admiralty is beyond the control of a Chancellor of the Exchequer, or any other subordinate Minister. It is the Prime Minister who alone can deal with that department ... It is useless to attempt to reason with them. The whole system of administration is palsied by their mutinous spirit.' Cf. 17/10/66. During February the government found itself moving towards a Reform Bill that session though it had been their intention to delay to 1868 (Blake). A month of chaos was resolved at Cabinet on Saturday 2 March.
 
-3-5 February A conference in Stuttgart among southern states to discuss military coordination with Prussia. They agreed to increase and reorganize their forces on the principles of the Prussian system to make possible 'the defense of the national integrity in common with the rest of Germany' though important elements (including length of service and training) were not agreed. Even in Baden there was hostility to the three year period and the cost. Elsewhere hostility was stronger. In the south the Swiss militia system was popular. Prussian practice, training, and equipment spread (all but Bavaria adopted the needle gun) but there was patchy resistance.
+**3-5 February** A conference in Stuttgart among southern states to discuss military coordination with Prussia. They agreed to increase and reorganize their forces on the principles of the Prussian system to make possible 'the defense of the national integrity in common with the rest of Germany' though important elements (including length of service and training) were not agreed. Even in Baden there was hostility to the three year period and the cost. Elsewhere hostility was stronger. In the south the Swiss militia system was popular. Prussian practice, training, and equipment spread (all but Bavaria adopted the needle gun) but there was patchy resistance.
 
 **4 February** (WAF) Benedetti complained to Thile that he had got nowhere in the last few weeks. 'Rien ne marche, we make no progress — and we have so little time — only eleven or twelve days before the opening of the legislative session... I tell you I am frightened.'
 
-## 7 February The final draft of the Constitution was agreed.
+**7 February** **The final draft of the Constitution was agreed.**
 
-# 12 February 1867
+**12 February** First elections to new Reichstag. Turnout was high. The old conservatives won 59, the Free Conservatives 39, the old liberals 27, the National Liberals 79, and the Progressives were just 19. Half the 297 deputies were noblemen. Progressives criticised the willingness to sacrifice liberty for unity and insisted on a cabinet of responsible ministers and full budget rights for the Reichstag. (EF: NLs got 80. Twesten, Forckenbeck, and Lasker joined and Bennigsen (Hanoverian) was leader.)
 
-First elections to new Reichstag. Turnout was high. The old conservatives won 59, the Free Conservatives 39, the old liberals 27, the National Liberals 79, and the Progressives were just 19. Half the 297 deputies were noblemen. Progressives criticised the willingness to sacrifice liberty for unity and insisted on a cabinet of responsible ministers and full budget rights for the Reichstag. (EF: NLs got 80. Twesten, Forckenbeck, and Lasker joined and Bennigsen (Hanoverian) was leader.)
+Free Conservatives: 2 dukes, 3 princes, 9 counts, 11 barons. Hamerow: Followers were mostly Prussian but not from the rural north-east which remained loyal to legitimist orthodoxy. Strongholds were in Silesia and Rhineland. No statistics on participation were published but estimates suggest about 64%, roughly double the rate of the Prussian election June 1866.
 
-# Free Conservatives
+**12 February** Wilhelm note to Bismarck granting him 400,000 thalers.
 
-2 dukes, 3 princes, 9 counts, 11 barons. Hamerow: Followers were mostly Prussian but not from the rural north-east which remained loyal to legitimist orthodoxy. Strongholds were in Silesia and Rhineland. No statistics on participation were published but estimates suggest about 64%, roughly double the rate of the Prussian election June 1866.
+**12 February** Bismarck told Benedetti that the military had concluded the Luxembourg fortress must remain in the Prussian defence system. He also suggested Moustier did not want a treaty anymore. Benedetti rejected this. Maybe, said Bismarck, things could improve if Wilhelm and Napoleon met at the exhibition in Paris. Benedetti was more convinced nothing would happen quickly.
 
-# 12 February
+**14 February** **Napoleon speech**. He tried to distract attention from his failure to win compensation. OP: it was boastful but 'his delivery was uncertain, his manner melancholic'.
 
-Wilhelm note to Bismarck granting him 400,000 thalers.
+**15 February** To Goltz: Every delay in dealing with French demands is good 'for we shall win time thereby for the consolidation of our relationships in northern Germany and with southern Germany.' 'We would already see the ... Triple Alliance between France, Italy and Austria ... as a danger, an even greater one, but in a closer connection between France and England, whose predominant naval power would destroy our trade in such a case and support France's land operations.' (Latter quote Mosse, p263)
 
-# 12 February
+**15 February** Bismarck approached the southern states for informal discussions about the Zollverein. Prussia favoured either a Zollparlement or southern deputies joining the Reichstag when customs and commerce were discussed. Cf. 11/3.
 
-Bismarck told Benedetti that the military had concluded the Luxembourg fortress must remain in the Prussian defence system. He also suggested Moustier did not want a treaty anymore. Benedetti rejected this. Maybe, said Bismarck, things could improve if Wilhelm and Napoleon met at the exhibition in Paris. Benedetti was more convinced nothing would happen quickly.
+**18 February** Moustier again told Benedetti to relaunch the effort on LUX.
 
-# 14 February
+**19 February** Although Bismarck was playing everyone off against each other as usual, and succeeded in bullying the states into resisting most Reichstag amendments, he also prepared for the Reichstag imposing amendments he could not tolerate. **On 19 February he invited some of the state governments to negotiate a secret treaty 'providing that in such a situation the governments would dissolve the Reichstag and decree their own version of the constitution**' (Pflanze). As the conflicts with Parliament played out over the next few months, Bismarck pushed them into signing the treaty (second week of April). _Thus he used the liberals to rally the states behind the draft that he wanted and they had not wanted while he also got them to accept some liberal amendments he did not mind_.
 
-Napoleon speech. He tried to distract attention from his failure to win compensation. OP: it was boastful but 'his delivery was uncertain, his manner melancholic'.
+In the Reichstag, he pointed out that the treaties that obligated the states to consider the constitution would expire on 18 August 1867 and the states had a right of approval of the Reichstag's work, therefore the Reichstag had to move quickly and avoid amendments unacceptable to the states. Although his backup treaty remained secret, he allowed hints to spread. He did allow some amendments (e.g to give deputies some legal protections against the government) and took a relaxed view of the Kompotenz-Kompotenz issue — whether the Reichstag and Bundesrat could extend their own competence. An amendment that other heads of administrative branches could countersign laws in addition to the Chancellor affected his own position: he informed the Reichstag that the states opposed it, and it was dropped. He accepted a secret ballot but rejected pay for deputies (he wanted only people of means as deputies, and the pressure of their own affairs would keep sessions short); the Reichstag called his bluff with a majority of 6 on this but he forced them to retract it. (He had even thought of putting the Reichstag in a provincial city to discourage journalists from political careers.)
 
-# 15 February
+**22 February** Bismarck told Benedetti that Wilhelm was willing to come to Paris for the exhibition in the summer. Cf. 22 March.
 
-To Goltz: Every delay in dealing with French demands is good 'for we shall win time thereby for the consolidation of our relationships in northern Germany and with southern Germany.' 'We would already see the ... Triple Alliance between France, Italy and Austria ... as a danger, an even greater one, but in a closer connection between France and England, whose predominant naval power would destroy our trade in such a case and support France's land operations.' (Latter quote Mosse, p263)
+**24 February** Wilhelm speech.
 
-# 15 February
+**25 February** Stanley-Loftus: There are fears in Netherlands re a Prussian attack, such an attack would 'be regarded with extreme dissatisfaction in England' and 'all moral support would be given' but 'more I could not at present promise'.
 
-Bismarck approached the southern states for informal discussions about the Zollverein. Prussia favoured either a Zollparlement or southern deputies joining the Reichstag when customs and commerce were discussed. Cf. 11/3.
+**28 February** Moustier suggested to Netherlands a defensive alliance against Prussia and the cession of Luxembourg, with the consent of the people of the duchy a precondition.
 
-# 18 February
+**March/April** Luxembourg crisis. Luxembourg had been a member of the Confederation and Zollverein. It was the property of William III, king of the Netherlands. Under a 1816 treaty, Prussia garrisoned the fortress. Bismarck used the crisis to nudge the constitution through so _the momentary crisis left a permanent mark on the Reich's institutions_. It was also another classic example of how his fluidity allowed him to play off multiple forces against each other. The clumsy moves of Paris were encouraged to further both his foreign policy goals and his domestic goals.
 
-Moustier again told Benedetti to relaunch the effort on LUX.
+**2 March** After weeks of tortuous discussions, a British Cabinet ends with Cranborne and others resigning over the Reform Bill. The government continued to push the Bill through. Cf. 13/4 and August.
 
-# 19 February
+**8 March** (WAF) Benedetti learned from Bismarck about the military alliances agreed with south Germany in 1866.
 
-Although Bismarck was playing everyone off against each other as usual, and succeeded in bullying the states into resisting most Reichstag amendments, he also prepared for the Reichstag imposing amendments he could not tolerate. On 19 February he invited some of the state governments to negotiate a secret treaty 'providing that in such a situation the governments would dissolve the Reichstag and decree their own version of the constitution' (Pflanze). As the conflicts with Parliament played out over the next few months, Bismarck pushed them into signing the treaty (second week of April). Thus he used the liberals to rally the states behind the draft that he wanted and they had not wanted while he also got them to accept some liberal amendments he did not mind.
+**9 March** Benedetti returned to Paris for 10 days as La Valette was ill.
 
-# In the Reichstag
+**11 March** **Bismarck described his Zollparlament idea to the Reichstag, hoping it would generate support for further political steps**. 'German national feeling in the south was chiefly the property of middle-class liberals who were prejudiced against the aristocratic-authoritarian regime in Berlin' (Pflanze). Only in Baden was there enthusiasm for joining Prussia. Others responded coolly. **The Zollparlement experiment would show the serious obstacles to further unification and generally things didn't proceed as well as he and others hoped 1867-70 in south Germany**. He kept lots of schemes in mind, including a 'wider confederation' in which the constitution of the NGC would extend to the south other than in military matters. This would have stopped any independent foreign policy by the southern states and stopped the reinforcement of northern liberals by southern liberals in future attempts to overthrow the iron budget. The expansion of the Zollparlament might also create such a wider confederation. As always he had a clear picture of the _priority of goals_ — maximally: the extension of the NGC to the south without war and without any important amendment, minimally: military alliances plus a Zollparlament — and was extremely flexible in how to make progress given events. (OP p382)
 
-He pointed out that the treaties that obligated the states to consider the constitution would expire on 18 August 1867 and the states had a right of approval of the Reichstag's work, therefore the Reichstag had to move quickly and avoid amendments unacceptable to the states. Although his backup treaty remained secret, he allowed hints to spread. He did allow some amendments (e.g to give deputies some legal protections against the government) and took a relaxed view of the Kompotenz-Kompotenz issue — whether the Reichstag and Bundesrat could extend their own competence. An amendment that other heads of administrative branches could countersign laws in addition to the Chancellor affected his own position: he informed the Reichstag that the states opposed it, and it was dropped. He accepted a secret ballot but rejected pay for deputies (he wanted only people of means as deputies, and the pressure of their own affairs would keep sessions short); the Reichstag called his bluff with a majority of 6 on this but he forced them to retract it. (He had even thought of putting the Reichstag in a provincial city to discourage journalists from political careers.)
+**12 March** Cowley rightly warned Stanley that he was 'almost sure that there is something in the wind' about Luxembourg.
 
-# 22 February
+**13 March** Stanley unconcerned about Luxembourg: 'Prussia will be furious. I do not see ... that England has any reason to object.'
 
-Bismarck told Benedetti that Wilhelm was willing to come to Paris for the exhibition in the summer. Cf. 22 March.
+**Mid-March** **Thiers launches attack on Napoleon's foreign policy which had abandoned the balance of power and allowed Prussia to expand. 'There is not another single mistake to commit.'**
 
-# 24 February
+**14 March** Cowley-Stanley: 'I inquired about Luxembourg with Napoleon but he clearly found the subject disagreeable'.
 
-## Wilhelm speech.
+**14 March** Note Wilhelm-Bismarck: I have been told that 'beyond a doubt' as a consequence of a discussion between you and the former Hanoverian minister 'you have challenged him' and if true 'I hereby forbid you most explicitly to take any step in the matter before you have communicated to me ... details of the whole affair.' (No trace of what this refers to in any books I've seen!)
 
-# 25 February
+**15 March** While negotiations between Gorchakov and Paris were dragging on, the former learned of the secret dealings over Luxembourg (reported by Revertera-Beust on 15/3) and this made Russia less keen on committing to helping France in the west.
 
-Stanley-Loftus: There are fears in Netherlands re a Prussian attack, such an attack would 'be regarded with extreme dissatisfaction in England' and 'all moral support would be given' but 'more I could not at present promise'.
-
-# 28 February
-
-Moustier suggested to Netherlands a defensive alliance against Prussia and the cession of Luxembourg, with the consent of the people of the duchy a precondition.
-
-# March/April
-
-Luxembourg crisis. Luxembourg had been a member of the Confederation and Zollverein. It was the property of William III, king of the Netherlands. Under a 1816 treaty, Prussia garrisoned the fortress. Bismarck used the crisis to nudge the constitution through so the momentary crisis left a permanent mark on the Reich's institutions. It was also another classic example of how his fluidity allowed him to play off multiple forces against each other. The clumsy moves of Paris were encouraged to further both his foreign policy goals and his domestic goals.
-
-# 2 March
-
-After weeks of tortuous discussions, a British Cabinet ends with Cranborne and others resigning over the Reform Bill. The government continued to push the Bill through. Cf. 13/4 and August.
-
-# 8 March (WAF)
-
-Benedetti learned from Bismarck about the military alliances agreed with south Germany in 1866.
-
-# 9 March
-
-Benedetti returned to Paris for 10 days as La Valette was ill.
-
-# 11 March
-
-Bismarck described his Zollparlament idea to the Reichstag, hoping it would generate support for further political steps. 'German national feeling in the south was chiefly the property of middle-class liberals who were prejudiced against the aristocratic-authoritarian regime in Berlin' (Pflanze). Only in Baden was there enthusiasm for joining Prussia. Others responded coolly. The Zollparlement experiment would show the serious obstacles to further unification and generally things didn't proceed as well as he and others hoped 1867-70 in south Germany. He kept lots of schemes in mind, including a 'wider confederation' in which the constitution of the NGC would extend to the south other than in military matters. This would have stopped any independent foreign policy by the southern states and stopped the reinforcement of northern liberals by southern liberals in future attempts to overthrow the iron budget. The expansion of the Zollparlament might also create such a wider confederation. As always he had a clear picture of the priority of goals — maximally: the extension of the NGC to the south without war and without any important amendment, minimally: military alliances plus a Zollparlament — and was extremely flexible in how to make progress given events. (OP p382)
-
-# 12 March
-
-Cowley rightly warned Stanley that he was 'almost sure that there is something in the wind' about Luxembourg.
-
-# 13 March
-
-Stanley unconcerned about Luxembourg: 'Prussia will be furious. I do not see ... that England has any reason to object.'
-
-# Mid-March
-
-Thiers launches attack on Napoleon's foreign policy which had abandoned the balance of power and allowed Prussia to expand. 'There is not another single mistake to commit.'
-
-# 14 March
-
-Cowley-Stanley: 'I inquired about Luxembourg with Napoleon but he clearly found the subject disagreeable'.
-
-# 14 March
-
-Note Wilhelm-Bismarck: I have been told that 'beyond a doubt' as a consequence of a discussion between you and the former Hanoverian minister 'you have challenged him' and if true 'I hereby forbid you most explicitly to take any step in the matter before you have communicated to me ... details of the whole affair.' (No trace of what this refers to in any books I've seen!)
-
-# 15 March
-
-While negotiations between Gorchakov and Paris were dragging on, the former learned of the secret dealings over Luxembourg (reported by Revertera-Beust on 15/3) and this made Russia less keen on committing to helping France in the west.
-
-# 16 March
-
-## Stanley, after being told privately by Bernstorff about the treaties with the southern states (Bismarck was tipping Britain off before publication on 19th), telegraphed Loftus that he 'was glad in the interests of European peace, to hear of the union of Germany for defensive purposes'.
+**16 March** Stanley, after being told privately by Bernstorff about the treaties with the southern states (Bismarck was tipping Britain off before publication on 19th), telegraphed Loftus that he 'was glad in the interests of European peace, to hear of the union of Germany for defensive purposes'.
 
 **16 March** After months of frustration and internal attacks, France said to William III that they must have Luxembourg and in return would give him a treaty guaranteeing the integrity of the Netherlands.
 
