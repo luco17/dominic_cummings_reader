@@ -87,6 +87,12 @@ const vidsRaw = [
     date: "June 2025",
   },
   {
+    link: "https://www.youtube.com/watch?v=w4nwUHi4Uts",
+    title: "Daily T podcast",
+    context: "Cleo Watson and Kamal",
+    date: "22 June 2025",
+  },
+  {
     link: "https://www.youtube.com/watch?v=boIi7cAPPnY",
     title:
       "Dominic Cummings on Corruption, Stagnation & How To Save Britain From Itself",
@@ -111,8 +117,12 @@ function parseDate(dateStr: string): Date {
     November: 10,
     December: 11,
   };
-  const [month, year] = dateStr.split(" ");
-  return new Date(parseInt(year), months[month]);
+  const parts = dateStr.split(" ");
+  const day = parts.length === 3 ? parseInt(parts[0]) : 1;
+  const month = parts.length === 3 ? parts[1] : parts[0];
+  const year = parts.length === 3 ? parts[2] : parts[1];
+
+  return new Date(parseInt(year), months[month], day);
 }
 
 const vids = vidsRaw.sort((a, b) => {
