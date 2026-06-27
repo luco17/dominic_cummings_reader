@@ -25,10 +25,12 @@ import domPx from "../assets/domPx2.png?url";
       src="https://plausible.io/js/script.js"></script>
   </head>
   <body>
-    <main>
+    <div class="page">
       <Nav />
-      <slot />
-    </main>
+      <main id="content">
+        <slot />
+      </main>
+    </div>
   </body>
 </html>
 
@@ -49,9 +51,10 @@ import domPx from "../assets/domPx2.png?url";
       padding: 1rem;
     }
 
-    main {
+    .page {
       display: grid;
-      grid-template: min-content 1fr min-content / 12.25rem minmax(0, 1fr);
+      grid-template-columns: 12.25rem minmax(0, 1fr);
+      align-items: start;
     }
   }
 
