@@ -1,0 +1,80 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { displayDate, series } from "../../data/series";
+
+export function getStaticPaths() {
+  return series.map((item) => ({
+    params: { slug: item.slug },
+    props: { item },
+  }));
+}
+
+const { item } = Astro.props;
+---
+
+<Layout title={`Dominic Cummings Reader ~ ${item.title}`}>
+  <div class="content">
+    <p class="back-link"><a href="/series">Series</a></p>
+    <h2>{item.title}</h2>
+    <ol>
+      {
+        item.entries.map((entry) => (
+          <li>
+            <p class="date">{displayDate(entry.date)}</p>
+            <h4>
+              <a href={entry.url}>{entry.title}</a>
+            </h4>
+            <p class="meta">
+              {entry.source}
+              {entry.audience ? (
+                <> · {entry.audience == "only_paid" ? "Paid" : "Free"}</>
+              ) : null}
+            </p>
+          </li>
+        ))
+      }
+    </ol>
+  </div>
+</Layout>
+
+<style>
+  .content {
+    overflow: hidden;
+  }
+
+  .back-link {
+    margin: 0 0 1rem 0;
+    font-size: small;
+  }
+
+  ol {
+    margin: 0;
+    padding-left: 1.5rem;
+  }
+
+  li {
+    margin-bottom: 1.25rem;
+  }
+
+  h4 {
+    margin: 2px 0 4px 0;
+  }
+
+  h4 > a {
+    text-decoration: none;
+  }
+
+  .date,
+  .meta {
+    margin: 0;
+    color: gray;
+    font-size: small;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .date,
+    .meta {
+      color: gainsboro;
+    }
+  }
+</style>
